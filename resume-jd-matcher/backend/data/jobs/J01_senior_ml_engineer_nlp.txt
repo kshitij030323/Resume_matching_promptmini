@@ -1,0 +1,32 @@
+Senior Machine Learning Engineer, NLP & LLM Applications
+Company: Veridian Labs
+Location: Bengaluru, India (Hybrid) or Remote within India / UK time zones
+Employment type: Full-time
+
+About the role
+Veridian Labs builds document intelligence software for insurance and healthcare companies. Our platform reads millions of claims, contracts and clinical notes every month, and we are now rebuilding our core features around large language models. We are looking for a Senior Machine Learning Engineer who has shipped NLP systems to production and can own LLM-powered features end to end: data, modelling, evaluation, serving and monitoring. You will join a team of six ML engineers and work closely with product, platform and our in-house clinical and legal reviewers.
+
+What you'll do
+- Design and build retrieval-augmented generation (RAG) pipelines over customer documents, including chunking, embedding, vector search and re-ranking.
+- Fine-tune and evaluate transformer models (classification, named-entity recognition, summarization) and open-weight LLMs using parameter-efficient methods such as LoRA.
+- Build offline and online evaluation harnesses for LLM outputs, including hallucination and groundedness checks, and use them to gate releases.
+- Deploy models as low-latency services and own their reliability, latency, cost and monitoring in production.
+- Partner with product managers and domain experts to turn ambiguous requirements into measurable ML problems.
+- Mentor mid-level engineers and raise the bar on code review, experiment tracking and reproducibility.
+
+Must have
+- 5+ years of professional experience in machine learning engineering, with at least 2 years focused on NLP.
+- Strong Python and deep hands-on experience with PyTorch and the Hugging Face ecosystem (Transformers, Datasets, PEFT).
+- Demonstrated experience building LLM applications: RAG, prompt engineering, fine-tuning and systematic evaluation.
+- A track record of deploying and operating ML models in production (Docker, REST or gRPC model serving, CI/CD for models).
+- Experience with MLOps tooling such as MLflow or Weights & Biases for experiment tracking and model registry.
+- Familiarity with vector databases (for example ChromaDB, Pinecone, FAISS, Qdrant or Weaviate).
+
+Nice to have
+- Serving models on Kubernetes or managed platforms such as AWS SageMaker or Google Vertex AI.
+- Inference optimization and distributed training (vLLM, DeepSpeed, quantization, ONNX).
+- Experience with sensitive data in regulated domains such as healthcare, insurance or finance.
+- Publications or open-source contributions in NLP.
+
+Education
+- Bachelor's or Master's degree in Computer Science, Statistics or a related quantitative field. A PhD in NLP is a plus but not required.

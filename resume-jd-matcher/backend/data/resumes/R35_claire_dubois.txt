@@ -1,0 +1,29 @@
+Claire Dubois
+claire.dubois@example.com | +32-555-0255 | Brussels, Belgium
+Senior Financial Analyst (FP&A)
+
+Profile
+Financial analyst with five and a half years in planning, budgeting and management reporting for consumer goods and logistics companies. I build the Excel models behind monthly reporting packs and present the story behind the numbers to the CFO and country managing directors. Fluent in French, Dutch and English.
+
+Core Competencies
+Advanced Excel (financial modelling, pivot tables, INDEX/MATCH, XLOOKUP, VBA macros), PowerPoint, SAP BW/BEx report extraction, Oracle Hyperion Planning, budgeting and forecasting, variance analysis, business partnering
+
+Professional Experience
+Senior Financial Analyst, Brabant Beverages SA
+Mar 2023 – Present
+- Own the monthly management reporting pack for the Benelux business (EUR 600M revenue), consolidating SAP exports into Excel models and presenting results to the CFO and country MDs.
+- Built a driver-based forecast model in Excel with VBA that cut the forecast cycle from ten to six working days.
+- Partner with sales directors on promotion profitability; recommended stopping two loss-making promotions, saving EUR 1.4M a year.
+- Maintain a PowerPoint KPI scorecard (gross margin, trade spend, working capital) reviewed at the monthly leadership meeting.
+
+Junior Financial Analyst, Atomium Logistics
+June 2021 to Feb 2023
+- Prepared budget versus actuals and cost-centre reports in Excel for 25 depot managers.
+- Supported month-end close and accruals with the accounting team.
+- Built a fuel-cost sensitivity model used in customer price negotiations.
+
+Education
+Master in Management, Solvay Brussels School of Economics and Management, 2021
+
+Certifications
+CFA Level II candidate (2026)

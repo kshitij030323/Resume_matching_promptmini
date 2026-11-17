@@ -1,0 +1,2206 @@
+[
+  {
+    "job_id": "J06",
+    "resume_id": "R06",
+    "candidate_name": "Sof\u00eda Hern\u00e1ndez",
+    "job_title": "Data Engineer",
+    "fit_score": 94,
+    "verdict": "strong_match",
+    "headline": "Strong match for Data Engineer: strong in Python, SQL, Apache Spark",
+    "executive_summary": "Sof\u00eda Hern\u00e1ndez (Data Engineer, 6.2 yrs in technical roles) shows clear evidence of Python, SQL, Apache Spark. No must-have skill is entirely missing. Partially covered: Communication. The high/medium-priority plan totals roughly 3 weeks of part-time effort. Experience: 6.2 years in technical roles vs 3+ required.",
+    "hiring_recommendation": "Advance to technical interviews; verify depth on the listed strengths.",
+    "experience_fit": "meets",
+    "experience_note": "6.2 years in technical roles vs 3+ required.",
+    "assessments": [
+      {
+        "skill": "Python",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Migrated 40 legacy SSIS packages to Python jobs scheduled in Airflow.",
+        "transferable_from": []
+      },
+      {
+        "skill": "SQL",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Listed in skills (not named in role bullets; backed by 6.2 yrs of technical experience)",
+        "transferable_from": []
+      },
+      {
+        "skill": "Apache Spark",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Built PySpark jobs on EMR that process 3 TB of clickstream and order events per day into Snowflake.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Apache Airflow / Dagster",
+        "importance": "required",
+        "status": "met",
+        "evidence": "[Apache Airflow] Own 70+ Airflow DAGs with SLAs, retries and Slack alerting; on-time delivery of daily tables went from 82% to 99%.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Data Warehousing / Snowflake / BigQuery / Redshift",
+        "importance": "required",
+        "status": "met",
+        "evidence": "[Data Warehousing] Designed the orders and fulfilment star schema, including an SCD Type 2 customer dimension, and the dbt models analysts query.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Streaming / Apache Kafka / Kinesis / Apache Flink",
+        "importance": "required",
+        "status": "met",
+        "evidence": "[Streaming] Built a Kafka to Spark Structured Streaming pipeline for real-time inventory, cutting stock-update latency from 15 minutes to 30 seconds.",
+        "transferable_from": []
+      },
+      {
+        "skill": "dbt",
+        "importance": "preferred",
+        "status": "met",
+        "evidence": "Designed the orders and fulfilment star schema, including an SCD Type 2 customer dimension, and the dbt models analysts query.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Data Lake",
+        "importance": "preferred",
+        "status": "missing",
+        "evidence": "No evidence",
+        "transferable_from": []
+      },
+      {
+        "skill": "AWS / GCP",
+        "importance": "preferred",
+        "status": "met",
+        "evidence": "[AWS] Built change data capture from PostgreSQL into S3 with Debezium and Kafka Connect.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Terraform",
+        "importance": "preferred",
+        "status": "met",
+        "evidence": "Listed in skills (not named in role bullets; backed by 6.2 yrs of technical experience)",
+        "transferable_from": []
+      },
+      {
+        "skill": "Observability",
+        "importance": "preferred",
+        "status": "met",
+        "evidence": "Own 70+ Airflow DAGs with SLAs, retries and Slack alerting; on-time delivery of daily tables went from 82% to 99%.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Data Visualization",
+        "importance": "preferred",
+        "status": "met",
+        "evidence": "Built SQL Server reports and Power BI dashboards for retail clients.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Communication",
+        "importance": "preferred",
+        "status": "missing",
+        "evidence": "No evidence",
+        "transferable_from": []
+      }
+    ],
+    "strengths": [
+      {
+        "skill": "Python",
+        "evidence": "Migrated 40 legacy SSIS packages to Python jobs scheduled in Airflow."
+      },
+      {
+        "skill": "SQL",
+        "evidence": "Listed in skills (not named in role bullets; backed by 6.2 yrs of technical experience)"
+      },
+      {
+        "skill": "Apache Spark",
+        "evidence": "Built PySpark jobs on EMR that process 3 TB of clickstream and order events per day into Snowflake."
+      },
+      {
+        "skill": "Apache Airflow / Dagster",
+        "evidence": "[Apache Airflow] Own 70+ Airflow DAGs with SLAs, retries and Slack alerting; on-time delivery of daily tables went from 82% to 99%."
+      },
+      {
+        "skill": "Data Warehousing / Snowflake / BigQuery / Redshift",
+        "evidence": "[Data Warehousing] Designed the orders and fulfilment star schema, including an SCD Type 2 customer dimension, and the dbt models analysts query."
+      },
+      {
+        "skill": "Streaming / Apache Kafka / Kinesis / Apache Flink",
+        "evidence": "[Streaming] Built a Kafka to Spark Structured Streaming pipeline for real-time inventory, cutting stock-update latency from 15 minutes to 30 seconds."
+      }
+    ],
+    "gaps": [
+      {
+        "skill": "Communication",
+        "importance": "preferred",
+        "severity": "moderate",
+        "reason": "Used in the role's day-to-day responsibilities.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Data Lake",
+        "importance": "preferred",
+        "severity": "minor",
+        "reason": "Nice-to-have that would speed up onboarding.",
+        "transferable_from": []
+      }
+    ],
+    "recommendations": [
+      {
+        "skill": "Communication",
+        "action": "Present an analysis to a non-technical audience and collect feedback",
+        "type": "on_the_job",
+        "resource_hint": "Internal demo days / Toastmasters",
+        "effort_weeks": 3.0,
+        "priority": "medium"
+      },
+      {
+        "skill": "Data Lake",
+        "action": "Build a small project that uses Data Lake the way a Data Engineer would",
+        "type": "course",
+        "resource_hint": "vendor fundamentals course",
+        "effort_weeks": 1.5,
+        "priority": "low"
+      }
+    ],
+    "interview_questions": [
+      "This role relies on Communication. What exposure have you had to it, and how would you ramp up in your first 60 days?",
+      "This role relies on Data Lake. What exposure have you had to it, and how would you ramp up in your first 60 days?",
+      "Walk me through the most complex thing you built with Python: design choices, trade-offs and measurable results.",
+      "Walk me through the most complex thing you built with SQL: design choices, trade-offs and measurable results.",
+      "Walk me through the most complex thing you built with Apache Spark: design choices, trade-offs and measurable results."
+    ],
+    "chain_trace": [
+      {
+        "step": 1,
+        "name": "Requirement alignment",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 234,
+        "output": {
+          "assessments": [
+            {
+              "skill": "Python",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Migrated 40 legacy SSIS packages to Python jobs scheduled in Airflow.",
+              "transferable_from": []
+            },
+            {
+              "skill": "SQL",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Listed in skills (not named in role bullets; backed by 6.2 yrs of technical experience)",
+              "transferable_from": []
+            },
+            {
+              "skill": "Apache Spark",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Built PySpark jobs on EMR that process 3 TB of clickstream and order events per day into Snowflake.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Apache Airflow / Dagster",
+              "importance": "required",
+              "status": "met",
+              "evidence": "[Apache Airflow] Own 70+ Airflow DAGs with SLAs, retries and Slack alerting; on-time delivery of daily tables went from 82% to 99%.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Data Warehousing / Snowflake / BigQuery / Redshift",
+              "importance": "required",
+              "status": "met",
+              "evidence": "[Data Warehousing] Designed the orders and fulfilment star schema, including an SCD Type 2 customer dimension, and the dbt models analysts query.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Streaming / Apache Kafka / Kinesis / Apache Flink",
+              "importance": "required",
+              "status": "met",
+              "evidence": "[Streaming] Built a Kafka to Spark Structured Streaming pipeline for real-time inventory, cutting stock-update latency from 15 minutes to 30 seconds.",
+              "transferable_from": []
+            },
+            {
+              "skill": "dbt",
+              "importance": "preferred",
+              "status": "met",
+              "evidence": "Designed the orders and fulfilment star schema, including an SCD Type 2 customer dimension, and the dbt models analysts query.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Data Lake",
+              "importance": "preferred",
+              "status": "missing",
+              "evidence": "No evidence",
+              "transferable_from": []
+            },
+            {
+              "skill": "AWS / GCP",
+              "importance": "preferred",
+              "status": "met",
+              "evidence": "[AWS] Built change data capture from PostgreSQL into S3 with Debezium and Kafka Connect.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Terraform",
+              "importance": "preferred",
+              "status": "met",
+              "evidence": "Listed in skills (not named in role bullets; backed by 6.2 yrs of technical experience)",
+              "transferable_from": []
+            },
+            {
+              "skill": "Observability",
+              "importance": "preferred",
+              "status": "met",
+              "evidence": "Own 70+ Airflow DAGs with SLAs, retries and Slack alerting; on-time delivery of daily tables went from 82% to 99%.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Data Visualization",
+              "importance": "preferred",
+              "status": "met",
+              "evidence": "Built SQL Server reports and Power BI dashboards for retail clients.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Communication",
+              "importance": "preferred",
+              "status": "missing",
+              "evidence": "No evidence",
+              "transferable_from": []
+            }
+          ],
+          "experience_fit": "meets",
+          "experience_note": "6.2 years in technical roles vs 3+ required."
+        }
+      },
+      {
+        "step": 2,
+        "name": "Gap prioritisation",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 6,
+        "output": {
+          "strengths": [
+            {
+              "skill": "Python",
+              "evidence": "Migrated 40 legacy SSIS packages to Python jobs scheduled in Airflow."
+            },
+            {
+              "skill": "SQL",
+              "evidence": "Listed in skills (not named in role bullets; backed by 6.2 yrs of technical experience)"
+            },
+            {
+              "skill": "Apache Spark",
+              "evidence": "Built PySpark jobs on EMR that process 3 TB of clickstream and order events per day into Snowflake."
+            },
+            {
+              "skill": "Apache Airflow / Dagster",
+              "evidence": "[Apache Airflow] Own 70+ Airflow DAGs with SLAs, retries and Slack alerting; on-time delivery of daily tables went from 82% to 99%."
+            },
+            {
+              "skill": "Data Warehousing / Snowflake / BigQuery / Redshift",
+              "evidence": "[Data Warehousing] Designed the orders and fulfilment star schema, including an SCD Type 2 customer dimension, and the dbt models analysts query."
+            },
+            {
+              "skill": "Streaming / Apache Kafka / Kinesis / Apache Flink",
+              "evidence": "[Streaming] Built a Kafka to Spark Structured Streaming pipeline for real-time inventory, cutting stock-update latency from 15 minutes to 30 seconds."
+            }
+          ],
+          "gaps": [
+            {
+              "skill": "Communication",
+              "importance": "preferred",
+              "severity": "moderate",
+              "reason": "Used in the role's day-to-day responsibilities.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Data Lake",
+              "importance": "preferred",
+              "severity": "minor",
+              "reason": "Nice-to-have that would speed up onboarding.",
+              "transferable_from": []
+            }
+          ],
+          "fit_score": 94,
+          "fit_rationale": "Covers 100% of required and 71% of preferred skills (partial/undemonstrated at half credit); 100% of must-haves are demonstrated in technical roles; experience meets the bar."
+        }
+      },
+      {
+        "step": 3,
+        "name": "Recommendations",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 0,
+        "output": {
+          "recommendations": [
+            {
+              "skill": "Communication",
+              "action": "Present an analysis to a non-technical audience and collect feedback",
+              "type": "on_the_job",
+              "resource_hint": "Internal demo days / Toastmasters",
+              "effort_weeks": 3.0,
+              "priority": "medium"
+            },
+            {
+              "skill": "Data Lake",
+              "action": "Build a small project that uses Data Lake the way a Data Engineer would",
+              "type": "course",
+              "resource_hint": "vendor fundamentals course",
+              "effort_weeks": 1.5,
+              "priority": "low"
+            }
+          ],
+          "interview_questions": [
+            "This role relies on Communication. What exposure have you had to it, and how would you ramp up in your first 60 days?",
+            "This role relies on Data Lake. What exposure have you had to it, and how would you ramp up in your first 60 days?",
+            "Walk me through the most complex thing you built with Python: design choices, trade-offs and measurable results.",
+            "Walk me through the most complex thing you built with SQL: design choices, trade-offs and measurable results.",
+            "Walk me through the most complex thing you built with Apache Spark: design choices, trade-offs and measurable results."
+          ]
+        }
+      },
+      {
+        "step": 4,
+        "name": "Report synthesis",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 0,
+        "output": {
+          "verdict": "strong_match",
+          "headline": "Strong match for Data Engineer: strong in Python, SQL, Apache Spark",
+          "executive_summary": "Sof\u00eda Hern\u00e1ndez (Data Engineer, 6.2 yrs in technical roles) shows clear evidence of Python, SQL, Apache Spark. No must-have skill is entirely missing. Partially covered: Communication. The high/medium-priority plan totals roughly 3 weeks of part-time effort. Experience: 6.2 years in technical roles vs 3+ required.",
+          "hiring_recommendation": "Advance to technical interviews; verify depth on the listed strengths."
+        }
+      }
+    ],
+    "generated_at": "2026-11-15T17:58:57+00:00"
+  },
+  {
+    "job_id": "J06",
+    "resume_id": "R14",
+    "candidate_name": "Arjun Raghavan",
+    "job_title": "Data Engineer",
+    "fit_score": 93,
+    "verdict": "strong_match",
+    "headline": "Strong match for Data Engineer: strong in Python, SQL, Apache Spark",
+    "executive_summary": "Arjun Raghavan (Senior Data Engineer \u2013 Streaming & Lakehouse, 10.4 yrs in technical roles) shows clear evidence of Python, SQL, Apache Spark. No must-have skill is entirely missing. Partially covered: Data Visualization. The high/medium-priority plan totals roughly 3 weeks of part-time effort. Experience: 10.4 years in technical roles vs 3+ required.",
+    "hiring_recommendation": "Advance to technical interviews; verify depth on the listed strengths.",
+    "experience_fit": "exceeds",
+    "experience_note": "10.4 years in technical roles vs 3+ required.",
+    "assessments": [
+      {
+        "skill": "Python",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Listed in skills (not named in role bullets; backed by 10.4 yrs of technical experience)",
+        "transferable_from": []
+      },
+      {
+        "skill": "SQL",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Listed in skills (not named in role bullets; backed by 10.4 yrs of technical experience)",
+        "transferable_from": []
+      },
+      {
+        "skill": "Apache Spark",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Built Spark ETL on EMR feeding Redshift star schemas for claims and policy reporting.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Apache Airflow / Dagster",
+        "importance": "required",
+        "status": "met",
+        "evidence": "[Apache Airflow] Migrated 150 cron-driven jobs to Airflow with SLAs, lineage and on-call runbooks.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Data Warehousing / Snowflake / BigQuery / Redshift",
+        "importance": "required",
+        "status": "met",
+        "evidence": "[Snowflake] Listed in skills (not named in role bullets; backed by 10.4 yrs of technical experience)",
+        "transferable_from": []
+      },
+      {
+        "skill": "Streaming / Apache Kafka / Kinesis / Apache Flink",
+        "importance": "required",
+        "status": "met",
+        "evidence": "[Streaming] Listed in skills (not named in role bullets; backed by 10.4 yrs of technical experience)",
+        "transferable_from": []
+      },
+      {
+        "skill": "dbt",
+        "importance": "preferred",
+        "status": "partial",
+        "evidence": "Transferable experience with ETL, Apache Airflow",
+        "transferable_from": [
+          "ETL",
+          "Apache Airflow"
+        ]
+      },
+      {
+        "skill": "Data Lake",
+        "importance": "preferred",
+        "status": "met",
+        "evidence": "Built a Delta Lake lakehouse on Databricks that replaced three separate data marts and cut storage costs by 35%.",
+        "transferable_from": []
+      },
+      {
+        "skill": "AWS / GCP",
+        "importance": "preferred",
+        "status": "met",
+        "evidence": "[AWS] Listed in skills (not named in role bullets; backed by 10.4 yrs of technical experience)",
+        "transferable_from": []
+      },
+      {
+        "skill": "Terraform",
+        "importance": "preferred",
+        "status": "met",
+        "evidence": "Listed in skills (not named in role bullets; backed by 10.4 yrs of technical experience)",
+        "transferable_from": []
+      },
+      {
+        "skill": "Observability",
+        "importance": "preferred",
+        "status": "partial",
+        "evidence": "Transferable experience with SRE",
+        "transferable_from": [
+          "SRE"
+        ]
+      },
+      {
+        "skill": "Data Visualization",
+        "importance": "preferred",
+        "status": "missing",
+        "evidence": "No evidence",
+        "transferable_from": []
+      },
+      {
+        "skill": "Communication",
+        "importance": "preferred",
+        "status": "met",
+        "evidence": "Migrated 150 cron-driven jobs to Airflow with SLAs, lineage and on-call runbooks.",
+        "transferable_from": []
+      }
+    ],
+    "strengths": [
+      {
+        "skill": "Python",
+        "evidence": "Listed in skills (not named in role bullets; backed by 10.4 yrs of technical experience)"
+      },
+      {
+        "skill": "SQL",
+        "evidence": "Listed in skills (not named in role bullets; backed by 10.4 yrs of technical experience)"
+      },
+      {
+        "skill": "Apache Spark",
+        "evidence": "Built Spark ETL on EMR feeding Redshift star schemas for claims and policy reporting."
+      },
+      {
+        "skill": "Apache Airflow / Dagster",
+        "evidence": "[Apache Airflow] Migrated 150 cron-driven jobs to Airflow with SLAs, lineage and on-call runbooks."
+      },
+      {
+        "skill": "Data Warehousing / Snowflake / BigQuery / Redshift",
+        "evidence": "[Snowflake] Listed in skills (not named in role bullets; backed by 10.4 yrs of technical experience)"
+      },
+      {
+        "skill": "Streaming / Apache Kafka / Kinesis / Apache Flink",
+        "evidence": "[Streaming] Listed in skills (not named in role bullets; backed by 10.4 yrs of technical experience)"
+      }
+    ],
+    "gaps": [
+      {
+        "skill": "Data Visualization",
+        "importance": "preferred",
+        "severity": "moderate",
+        "reason": "Used in the role's day-to-day responsibilities.",
+        "transferable_from": []
+      },
+      {
+        "skill": "dbt",
+        "importance": "preferred",
+        "severity": "minor",
+        "reason": "Used in the role's day-to-day responsibilities. Partly offset by ETL, Apache Airflow.",
+        "transferable_from": [
+          "ETL",
+          "Apache Airflow"
+        ]
+      },
+      {
+        "skill": "Observability",
+        "importance": "preferred",
+        "severity": "minor",
+        "reason": "Used in the role's day-to-day responsibilities. Partly offset by SRE.",
+        "transferable_from": [
+          "SRE"
+        ]
+      }
+    ],
+    "recommendations": [
+      {
+        "skill": "Data Visualization",
+        "action": "Build a small project that uses Data Visualization the way a Data Engineer would",
+        "type": "course",
+        "resource_hint": "vendor fundamentals course",
+        "effort_weeks": 3.0,
+        "priority": "medium"
+      },
+      {
+        "skill": "dbt",
+        "action": "Model a small warehouse with dbt: staging, marts, tests and docs - leverage existing ETL, Apache Airflow experience",
+        "type": "course",
+        "resource_hint": "dbt Fundamentals (dbt Labs)",
+        "effort_weeks": 1.0,
+        "priority": "low"
+      },
+      {
+        "skill": "Observability",
+        "action": "Define SLIs/SLOs for a service and add metrics, logs, traces and alerting - leverage existing SRE experience",
+        "type": "reading",
+        "resource_hint": "Google SRE Workbook (SLO chapters)",
+        "effort_weeks": 1.0,
+        "priority": "low"
+      }
+    ],
+    "interview_questions": [
+      "This role relies on Data Visualization. What exposure have you had to it, and how would you ramp up in your first 60 days?",
+      "You haven't used dbt directly - how would your ETL experience carry over, and what would you need to learn first?",
+      "You haven't used Observability directly - how would your SRE experience carry over, and what would you need to learn first?",
+      "Walk me through the most complex thing you built with Python: design choices, trade-offs and measurable results.",
+      "Walk me through the most complex thing you built with SQL: design choices, trade-offs and measurable results.",
+      "Walk me through the most complex thing you built with Apache Spark: design choices, trade-offs and measurable results."
+    ],
+    "chain_trace": [
+      {
+        "step": 1,
+        "name": "Requirement alignment",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 166,
+        "output": {
+          "assessments": [
+            {
+              "skill": "Python",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Listed in skills (not named in role bullets; backed by 10.4 yrs of technical experience)",
+              "transferable_from": []
+            },
+            {
+              "skill": "SQL",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Listed in skills (not named in role bullets; backed by 10.4 yrs of technical experience)",
+              "transferable_from": []
+            },
+            {
+              "skill": "Apache Spark",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Built Spark ETL on EMR feeding Redshift star schemas for claims and policy reporting.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Apache Airflow / Dagster",
+              "importance": "required",
+              "status": "met",
+              "evidence": "[Apache Airflow] Migrated 150 cron-driven jobs to Airflow with SLAs, lineage and on-call runbooks.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Data Warehousing / Snowflake / BigQuery / Redshift",
+              "importance": "required",
+              "status": "met",
+              "evidence": "[Snowflake] Listed in skills (not named in role bullets; backed by 10.4 yrs of technical experience)",
+              "transferable_from": []
+            },
+            {
+              "skill": "Streaming / Apache Kafka / Kinesis / Apache Flink",
+              "importance": "required",
+              "status": "met",
+              "evidence": "[Streaming] Listed in skills (not named in role bullets; backed by 10.4 yrs of technical experience)",
+              "transferable_from": []
+            },
+            {
+              "skill": "dbt",
+              "importance": "preferred",
+              "status": "partial",
+              "evidence": "Transferable experience with ETL, Apache Airflow",
+              "transferable_from": [
+                "ETL",
+                "Apache Airflow"
+              ]
+            },
+            {
+              "skill": "Data Lake",
+              "importance": "preferred",
+              "status": "met",
+              "evidence": "Built a Delta Lake lakehouse on Databricks that replaced three separate data marts and cut storage costs by 35%.",
+              "transferable_from": []
+            },
+            {
+              "skill": "AWS / GCP",
+              "importance": "preferred",
+              "status": "met",
+              "evidence": "[AWS] Listed in skills (not named in role bullets; backed by 10.4 yrs of technical experience)",
+              "transferable_from": []
+            },
+            {
+              "skill": "Terraform",
+              "importance": "preferred",
+              "status": "met",
+              "evidence": "Listed in skills (not named in role bullets; backed by 10.4 yrs of technical experience)",
+              "transferable_from": []
+            },
+            {
+              "skill": "Observability",
+              "importance": "preferred",
+              "status": "partial",
+              "evidence": "Transferable experience with SRE",
+              "transferable_from": [
+                "SRE"
+              ]
+            },
+            {
+              "skill": "Data Visualization",
+              "importance": "preferred",
+              "status": "missing",
+              "evidence": "No evidence",
+              "transferable_from": []
+            },
+            {
+              "skill": "Communication",
+              "importance": "preferred",
+              "status": "met",
+              "evidence": "Migrated 150 cron-driven jobs to Airflow with SLAs, lineage and on-call runbooks.",
+              "transferable_from": []
+            }
+          ],
+          "experience_fit": "exceeds",
+          "experience_note": "10.4 years in technical roles vs 3+ required."
+        }
+      },
+      {
+        "step": 2,
+        "name": "Gap prioritisation",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 6,
+        "output": {
+          "strengths": [
+            {
+              "skill": "Python",
+              "evidence": "Listed in skills (not named in role bullets; backed by 10.4 yrs of technical experience)"
+            },
+            {
+              "skill": "SQL",
+              "evidence": "Listed in skills (not named in role bullets; backed by 10.4 yrs of technical experience)"
+            },
+            {
+              "skill": "Apache Spark",
+              "evidence": "Built Spark ETL on EMR feeding Redshift star schemas for claims and policy reporting."
+            },
+            {
+              "skill": "Apache Airflow / Dagster",
+              "evidence": "[Apache Airflow] Migrated 150 cron-driven jobs to Airflow with SLAs, lineage and on-call runbooks."
+            },
+            {
+              "skill": "Data Warehousing / Snowflake / BigQuery / Redshift",
+              "evidence": "[Snowflake] Listed in skills (not named in role bullets; backed by 10.4 yrs of technical experience)"
+            },
+            {
+              "skill": "Streaming / Apache Kafka / Kinesis / Apache Flink",
+              "evidence": "[Streaming] Listed in skills (not named in role bullets; backed by 10.4 yrs of technical experience)"
+            }
+          ],
+          "gaps": [
+            {
+              "skill": "Data Visualization",
+              "importance": "preferred",
+              "severity": "moderate",
+              "reason": "Used in the role's day-to-day responsibilities.",
+              "transferable_from": []
+            },
+            {
+              "skill": "dbt",
+              "importance": "preferred",
+              "severity": "minor",
+              "reason": "Used in the role's day-to-day responsibilities. Partly offset by ETL, Apache Airflow.",
+              "transferable_from": [
+                "ETL",
+                "Apache Airflow"
+              ]
+            },
+            {
+              "skill": "Observability",
+              "importance": "preferred",
+              "severity": "minor",
+              "reason": "Used in the role's day-to-day responsibilities. Partly offset by SRE.",
+              "transferable_from": [
+                "SRE"
+              ]
+            }
+          ],
+          "fit_score": 93,
+          "fit_rationale": "Covers 100% of required and 71% of preferred skills (partial/undemonstrated at half credit); 100% of must-haves are demonstrated in technical roles; experience exceeds the bar."
+        }
+      },
+      {
+        "step": 3,
+        "name": "Recommendations",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 0,
+        "output": {
+          "recommendations": [
+            {
+              "skill": "Data Visualization",
+              "action": "Build a small project that uses Data Visualization the way a Data Engineer would",
+              "type": "course",
+              "resource_hint": "vendor fundamentals course",
+              "effort_weeks": 3.0,
+              "priority": "medium"
+            },
+            {
+              "skill": "dbt",
+              "action": "Model a small warehouse with dbt: staging, marts, tests and docs - leverage existing ETL, Apache Airflow experience",
+              "type": "course",
+              "resource_hint": "dbt Fundamentals (dbt Labs)",
+              "effort_weeks": 1.0,
+              "priority": "low"
+            },
+            {
+              "skill": "Observability",
+              "action": "Define SLIs/SLOs for a service and add metrics, logs, traces and alerting - leverage existing SRE experience",
+              "type": "reading",
+              "resource_hint": "Google SRE Workbook (SLO chapters)",
+              "effort_weeks": 1.0,
+              "priority": "low"
+            }
+          ],
+          "interview_questions": [
+            "This role relies on Data Visualization. What exposure have you had to it, and how would you ramp up in your first 60 days?",
+            "You haven't used dbt directly - how would your ETL experience carry over, and what would you need to learn first?",
+            "You haven't used Observability directly - how would your SRE experience carry over, and what would you need to learn first?",
+            "Walk me through the most complex thing you built with Python: design choices, trade-offs and measurable results.",
+            "Walk me through the most complex thing you built with SQL: design choices, trade-offs and measurable results.",
+            "Walk me through the most complex thing you built with Apache Spark: design choices, trade-offs and measurable results."
+          ]
+        }
+      },
+      {
+        "step": 4,
+        "name": "Report synthesis",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 0,
+        "output": {
+          "verdict": "strong_match",
+          "headline": "Strong match for Data Engineer: strong in Python, SQL, Apache Spark",
+          "executive_summary": "Arjun Raghavan (Senior Data Engineer \u2013 Streaming & Lakehouse, 10.4 yrs in technical roles) shows clear evidence of Python, SQL, Apache Spark. No must-have skill is entirely missing. Partially covered: Data Visualization. The high/medium-priority plan totals roughly 3 weeks of part-time effort. Experience: 10.4 years in technical roles vs 3+ required.",
+          "hiring_recommendation": "Advance to technical interviews; verify depth on the listed strengths."
+        }
+      }
+    ],
+    "generated_at": "2026-11-15T17:58:57+00:00"
+  },
+  {
+    "job_id": "J06",
+    "resume_id": "R21",
+    "candidate_name": "Lan Nguyen",
+    "job_title": "Data Engineer",
+    "fit_score": 94,
+    "verdict": "strong_match",
+    "headline": "Strong match for Data Engineer: strong in Python, SQL, Apache Spark",
+    "executive_summary": "Lan Nguyen (Data Engineer (GCP), 4.3 yrs in technical roles) shows clear evidence of Python, SQL, Apache Spark. No must-have skill is entirely missing. Partially covered: Communication. The high/medium-priority plan totals roughly 3 weeks of part-time effort. Experience: 4.3 years in technical roles vs 3+ required.",
+    "hiring_recommendation": "Advance to technical interviews; verify depth on the listed strengths.",
+    "experience_fit": "meets",
+    "experience_note": "4.3 years in technical roles vs 3+ required.",
+    "assessments": [
+      {
+        "skill": "Python",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Migrated a MySQL reporting database to BigQuery with Python ETL scripts.",
+        "transferable_from": []
+      },
+      {
+        "skill": "SQL",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Listed in skills (not named in role bullets; backed by 4.3 yrs of technical experience)",
+        "transferable_from": []
+      },
+      {
+        "skill": "Apache Spark",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Wrote PySpark jobs on Dataproc for the daily reconciliation of 40 million transactions against bank settlement files.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Apache Airflow / Dagster",
+        "importance": "required",
+        "status": "met",
+        "evidence": "[Apache Airflow] Listed in skills (not named in role bullets; backed by 4.3 yrs of technical experience)",
+        "transferable_from": []
+      },
+      {
+        "skill": "Data Warehousing / Snowflake / BigQuery / Redshift",
+        "importance": "required",
+        "status": "met",
+        "evidence": "[BigQuery] Built a streaming pipeline from Pub/Sub through Dataflow into BigQuery for transaction events (8,000 events per second), giving the fraud team sub-minute visibility.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Streaming / Apache Kafka / Kinesis / Apache Flink",
+        "importance": "required",
+        "status": "met",
+        "evidence": "[Streaming] Built a streaming pipeline from Pub/Sub through Dataflow into BigQuery for transaction events (8,000 events per second), giving the fraud team sub-minute visibility.",
+        "transferable_from": []
+      },
+      {
+        "skill": "dbt",
+        "importance": "preferred",
+        "status": "met",
+        "evidence": "Listed in skills (not named in role bullets; backed by 4.3 yrs of technical experience)",
+        "transferable_from": []
+      },
+      {
+        "skill": "Data Lake",
+        "importance": "preferred",
+        "status": "missing",
+        "evidence": "No evidence",
+        "transferable_from": []
+      },
+      {
+        "skill": "AWS / GCP",
+        "importance": "preferred",
+        "status": "met",
+        "evidence": "[GCP] Listed in skills (not named in role bullets; backed by 4.3 yrs of technical experience)",
+        "transferable_from": []
+      },
+      {
+        "skill": "Terraform",
+        "importance": "preferred",
+        "status": "met",
+        "evidence": "Provision data infrastructure with Terraform and review changes through pull requests.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Observability",
+        "importance": "preferred",
+        "status": "met",
+        "evidence": "Maintain 60 DAGs in Cloud Composer with retries, SLAs and alerting to the owning team.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Data Visualization",
+        "importance": "preferred",
+        "status": "met",
+        "evidence": "Built Looker Studio dashboards for retail clients.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Communication",
+        "importance": "preferred",
+        "status": "missing",
+        "evidence": "No evidence",
+        "transferable_from": []
+      }
+    ],
+    "strengths": [
+      {
+        "skill": "Python",
+        "evidence": "Migrated a MySQL reporting database to BigQuery with Python ETL scripts."
+      },
+      {
+        "skill": "SQL",
+        "evidence": "Listed in skills (not named in role bullets; backed by 4.3 yrs of technical experience)"
+      },
+      {
+        "skill": "Apache Spark",
+        "evidence": "Wrote PySpark jobs on Dataproc for the daily reconciliation of 40 million transactions against bank settlement files."
+      },
+      {
+        "skill": "Apache Airflow / Dagster",
+        "evidence": "[Apache Airflow] Listed in skills (not named in role bullets; backed by 4.3 yrs of technical experience)"
+      },
+      {
+        "skill": "Data Warehousing / Snowflake / BigQuery / Redshift",
+        "evidence": "[BigQuery] Built a streaming pipeline from Pub/Sub through Dataflow into BigQuery for transaction events (8,000 events per second), giving the fraud team sub-minute visibility."
+      },
+      {
+        "skill": "Streaming / Apache Kafka / Kinesis / Apache Flink",
+        "evidence": "[Streaming] Built a streaming pipeline from Pub/Sub through Dataflow into BigQuery for transaction events (8,000 events per second), giving the fraud team sub-minute visibility."
+      }
+    ],
+    "gaps": [
+      {
+        "skill": "Communication",
+        "importance": "preferred",
+        "severity": "moderate",
+        "reason": "Used in the role's day-to-day responsibilities.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Data Lake",
+        "importance": "preferred",
+        "severity": "minor",
+        "reason": "Nice-to-have that would speed up onboarding.",
+        "transferable_from": []
+      }
+    ],
+    "recommendations": [
+      {
+        "skill": "Communication",
+        "action": "Present an analysis to a non-technical audience and collect feedback",
+        "type": "on_the_job",
+        "resource_hint": "Internal demo days / Toastmasters",
+        "effort_weeks": 3.0,
+        "priority": "medium"
+      },
+      {
+        "skill": "Data Lake",
+        "action": "Build a small project that uses Data Lake the way a Data Engineer would",
+        "type": "course",
+        "resource_hint": "vendor fundamentals course",
+        "effort_weeks": 1.5,
+        "priority": "low"
+      }
+    ],
+    "interview_questions": [
+      "This role relies on Communication. What exposure have you had to it, and how would you ramp up in your first 60 days?",
+      "This role relies on Data Lake. What exposure have you had to it, and how would you ramp up in your first 60 days?",
+      "Walk me through the most complex thing you built with Python: design choices, trade-offs and measurable results.",
+      "Walk me through the most complex thing you built with SQL: design choices, trade-offs and measurable results.",
+      "Walk me through the most complex thing you built with Apache Spark: design choices, trade-offs and measurable results."
+    ],
+    "chain_trace": [
+      {
+        "step": 1,
+        "name": "Requirement alignment",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 106,
+        "output": {
+          "assessments": [
+            {
+              "skill": "Python",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Migrated a MySQL reporting database to BigQuery with Python ETL scripts.",
+              "transferable_from": []
+            },
+            {
+              "skill": "SQL",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Listed in skills (not named in role bullets; backed by 4.3 yrs of technical experience)",
+              "transferable_from": []
+            },
+            {
+              "skill": "Apache Spark",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Wrote PySpark jobs on Dataproc for the daily reconciliation of 40 million transactions against bank settlement files.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Apache Airflow / Dagster",
+              "importance": "required",
+              "status": "met",
+              "evidence": "[Apache Airflow] Listed in skills (not named in role bullets; backed by 4.3 yrs of technical experience)",
+              "transferable_from": []
+            },
+            {
+              "skill": "Data Warehousing / Snowflake / BigQuery / Redshift",
+              "importance": "required",
+              "status": "met",
+              "evidence": "[BigQuery] Built a streaming pipeline from Pub/Sub through Dataflow into BigQuery for transaction events (8,000 events per second), giving the fraud team sub-minute visibility.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Streaming / Apache Kafka / Kinesis / Apache Flink",
+              "importance": "required",
+              "status": "met",
+              "evidence": "[Streaming] Built a streaming pipeline from Pub/Sub through Dataflow into BigQuery for transaction events (8,000 events per second), giving the fraud team sub-minute visibility.",
+              "transferable_from": []
+            },
+            {
+              "skill": "dbt",
+              "importance": "preferred",
+              "status": "met",
+              "evidence": "Listed in skills (not named in role bullets; backed by 4.3 yrs of technical experience)",
+              "transferable_from": []
+            },
+            {
+              "skill": "Data Lake",
+              "importance": "preferred",
+              "status": "missing",
+              "evidence": "No evidence",
+              "transferable_from": []
+            },
+            {
+              "skill": "AWS / GCP",
+              "importance": "preferred",
+              "status": "met",
+              "evidence": "[GCP] Listed in skills (not named in role bullets; backed by 4.3 yrs of technical experience)",
+              "transferable_from": []
+            },
+            {
+              "skill": "Terraform",
+              "importance": "preferred",
+              "status": "met",
+              "evidence": "Provision data infrastructure with Terraform and review changes through pull requests.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Observability",
+              "importance": "preferred",
+              "status": "met",
+              "evidence": "Maintain 60 DAGs in Cloud Composer with retries, SLAs and alerting to the owning team.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Data Visualization",
+              "importance": "preferred",
+              "status": "met",
+              "evidence": "Built Looker Studio dashboards for retail clients.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Communication",
+              "importance": "preferred",
+              "status": "missing",
+              "evidence": "No evidence",
+              "transferable_from": []
+            }
+          ],
+          "experience_fit": "meets",
+          "experience_note": "4.3 years in technical roles vs 3+ required."
+        }
+      },
+      {
+        "step": 2,
+        "name": "Gap prioritisation",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 6,
+        "output": {
+          "strengths": [
+            {
+              "skill": "Python",
+              "evidence": "Migrated a MySQL reporting database to BigQuery with Python ETL scripts."
+            },
+            {
+              "skill": "SQL",
+              "evidence": "Listed in skills (not named in role bullets; backed by 4.3 yrs of technical experience)"
+            },
+            {
+              "skill": "Apache Spark",
+              "evidence": "Wrote PySpark jobs on Dataproc for the daily reconciliation of 40 million transactions against bank settlement files."
+            },
+            {
+              "skill": "Apache Airflow / Dagster",
+              "evidence": "[Apache Airflow] Listed in skills (not named in role bullets; backed by 4.3 yrs of technical experience)"
+            },
+            {
+              "skill": "Data Warehousing / Snowflake / BigQuery / Redshift",
+              "evidence": "[BigQuery] Built a streaming pipeline from Pub/Sub through Dataflow into BigQuery for transaction events (8,000 events per second), giving the fraud team sub-minute visibility."
+            },
+            {
+              "skill": "Streaming / Apache Kafka / Kinesis / Apache Flink",
+              "evidence": "[Streaming] Built a streaming pipeline from Pub/Sub through Dataflow into BigQuery for transaction events (8,000 events per second), giving the fraud team sub-minute visibility."
+            }
+          ],
+          "gaps": [
+            {
+              "skill": "Communication",
+              "importance": "preferred",
+              "severity": "moderate",
+              "reason": "Used in the role's day-to-day responsibilities.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Data Lake",
+              "importance": "preferred",
+              "severity": "minor",
+              "reason": "Nice-to-have that would speed up onboarding.",
+              "transferable_from": []
+            }
+          ],
+          "fit_score": 94,
+          "fit_rationale": "Covers 100% of required and 71% of preferred skills (partial/undemonstrated at half credit); 100% of must-haves are demonstrated in technical roles; experience meets the bar."
+        }
+      },
+      {
+        "step": 3,
+        "name": "Recommendations",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 0,
+        "output": {
+          "recommendations": [
+            {
+              "skill": "Communication",
+              "action": "Present an analysis to a non-technical audience and collect feedback",
+              "type": "on_the_job",
+              "resource_hint": "Internal demo days / Toastmasters",
+              "effort_weeks": 3.0,
+              "priority": "medium"
+            },
+            {
+              "skill": "Data Lake",
+              "action": "Build a small project that uses Data Lake the way a Data Engineer would",
+              "type": "course",
+              "resource_hint": "vendor fundamentals course",
+              "effort_weeks": 1.5,
+              "priority": "low"
+            }
+          ],
+          "interview_questions": [
+            "This role relies on Communication. What exposure have you had to it, and how would you ramp up in your first 60 days?",
+            "This role relies on Data Lake. What exposure have you had to it, and how would you ramp up in your first 60 days?",
+            "Walk me through the most complex thing you built with Python: design choices, trade-offs and measurable results.",
+            "Walk me through the most complex thing you built with SQL: design choices, trade-offs and measurable results.",
+            "Walk me through the most complex thing you built with Apache Spark: design choices, trade-offs and measurable results."
+          ]
+        }
+      },
+      {
+        "step": 4,
+        "name": "Report synthesis",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 0,
+        "output": {
+          "verdict": "strong_match",
+          "headline": "Strong match for Data Engineer: strong in Python, SQL, Apache Spark",
+          "executive_summary": "Lan Nguyen (Data Engineer (GCP), 4.3 yrs in technical roles) shows clear evidence of Python, SQL, Apache Spark. No must-have skill is entirely missing. Partially covered: Communication. The high/medium-priority plan totals roughly 3 weeks of part-time effort. Experience: 4.3 years in technical roles vs 3+ required.",
+          "hiring_recommendation": "Advance to technical interviews; verify depth on the listed strengths."
+        }
+      }
+    ],
+    "generated_at": "2026-11-15T17:58:57+00:00"
+  },
+  {
+    "job_id": "J06",
+    "resume_id": "R50",
+    "candidate_name": "Aroha Ngata",
+    "job_title": "Data Engineer",
+    "fit_score": 67,
+    "verdict": "good_match",
+    "headline": "Good match for Data Engineer: strong in Apache Spark, Apache Airflow / Dagster, Data Warehousing / Snowflake / BigQuery ",
+    "executive_summary": "Aroha Ngata (Junior Data Engineer, 1.7 yrs in technical roles) shows clear evidence of Apache Spark, Apache Airflow / Dagster, Data Warehousing / Snowflake / BigQuery / Redshift. No must-have skill is entirely missing. Partially covered: Python, SQL, Observability, Data Visualization and more. The high/medium-priority plan totals roughly 14.5 weeks of part-time effort. Experience: 1.7 years in technical roles vs 3+ required.",
+    "hiring_recommendation": "Advance with focus areas: probe Python, SQL in interview.",
+    "experience_fit": "below",
+    "experience_note": "1.7 years in technical roles vs 3+ required.",
+    "assessments": [
+      {
+        "skill": "Python",
+        "importance": "required",
+        "status": "partial",
+        "evidence": "Only in a short or non-technical role (Data Engineering Intern): Wrote Python ETL scripts scheduled in Airflow to load smart-meter files into Postgres.",
+        "transferable_from": []
+      },
+      {
+        "skill": "SQL",
+        "importance": "required",
+        "status": "partial",
+        "evidence": "Claimed in skills list without supporting experience",
+        "transferable_from": [
+          "PostgreSQL"
+        ]
+      },
+      {
+        "skill": "Apache Spark",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Wrote PySpark jobs on AWS Glue processing about 300 GB of play events a day.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Apache Airflow / Dagster",
+        "importance": "required",
+        "status": "met",
+        "evidence": "[Apache Airflow] Built 15 Airflow DAGs that load play events and royalty statements into Snowflake, with SLA alerts to the team channel.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Data Warehousing / Snowflake / BigQuery / Redshift",
+        "importance": "required",
+        "status": "met",
+        "evidence": "[Data Warehousing] Wrote dbt models for the royalties fact table and contributed to the star schema design reviewed by the lead.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Streaming / Apache Kafka / Kinesis / Apache Flink",
+        "importance": "required",
+        "status": "met",
+        "evidence": "[Streaming] Built my first streaming job, Kafka into Spark Structured Streaming into Snowflake, to power a real-time top-charts page, under the guidance of our lead engineer.",
+        "transferable_from": []
+      },
+      {
+        "skill": "dbt",
+        "importance": "preferred",
+        "status": "met",
+        "evidence": "Wrote dbt models for the royalties fact table and contributed to the star schema design reviewed by the lead.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Data Lake",
+        "importance": "preferred",
+        "status": "missing",
+        "evidence": "No evidence",
+        "transferable_from": []
+      },
+      {
+        "skill": "AWS / GCP",
+        "importance": "preferred",
+        "status": "met",
+        "evidence": "[AWS] Wrote PySpark jobs on AWS Glue processing about 300 GB of play events a day.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Terraform",
+        "importance": "preferred",
+        "status": "missing",
+        "evidence": "No evidence",
+        "transferable_from": []
+      },
+      {
+        "skill": "Observability",
+        "importance": "preferred",
+        "status": "missing",
+        "evidence": "No evidence",
+        "transferable_from": []
+      },
+      {
+        "skill": "Data Visualization",
+        "importance": "preferred",
+        "status": "missing",
+        "evidence": "No evidence",
+        "transferable_from": []
+      },
+      {
+        "skill": "Communication",
+        "importance": "preferred",
+        "status": "missing",
+        "evidence": "No evidence",
+        "transferable_from": []
+      }
+    ],
+    "strengths": [
+      {
+        "skill": "Apache Spark",
+        "evidence": "Wrote PySpark jobs on AWS Glue processing about 300 GB of play events a day."
+      },
+      {
+        "skill": "Apache Airflow / Dagster",
+        "evidence": "[Apache Airflow] Built 15 Airflow DAGs that load play events and royalty statements into Snowflake, with SLA alerts to the team channel."
+      },
+      {
+        "skill": "Data Warehousing / Snowflake / BigQuery / Redshift",
+        "evidence": "[Data Warehousing] Wrote dbt models for the royalties fact table and contributed to the star schema design reviewed by the lead."
+      },
+      {
+        "skill": "Streaming / Apache Kafka / Kinesis / Apache Flink",
+        "evidence": "[Streaming] Built my first streaming job, Kafka into Spark Structured Streaming into Snowflake, to power a real-time top-charts page, under the guidance of our lead engineer."
+      },
+      {
+        "skill": "dbt",
+        "evidence": "Wrote dbt models for the royalties fact table and contributed to the star schema design reviewed by the lead."
+      },
+      {
+        "skill": "AWS / GCP",
+        "evidence": "[AWS] Wrote PySpark jobs on AWS Glue processing about 300 GB of play events a day."
+      }
+    ],
+    "gaps": [
+      {
+        "skill": "Python",
+        "importance": "required",
+        "severity": "moderate",
+        "reason": "Listed as a must-have for this role.",
+        "transferable_from": []
+      },
+      {
+        "skill": "SQL",
+        "importance": "required",
+        "severity": "moderate",
+        "reason": "Listed as a must-have for this role. Partly offset by PostgreSQL.",
+        "transferable_from": [
+          "PostgreSQL"
+        ]
+      },
+      {
+        "skill": "Observability",
+        "importance": "preferred",
+        "severity": "moderate",
+        "reason": "Used in the role's day-to-day responsibilities.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Data Visualization",
+        "importance": "preferred",
+        "severity": "moderate",
+        "reason": "Used in the role's day-to-day responsibilities.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Communication",
+        "importance": "preferred",
+        "severity": "moderate",
+        "reason": "Used in the role's day-to-day responsibilities.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Data Lake",
+        "importance": "preferred",
+        "severity": "minor",
+        "reason": "Nice-to-have that would speed up onboarding.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Terraform",
+        "importance": "preferred",
+        "severity": "minor",
+        "reason": "Nice-to-have that would speed up onboarding.",
+        "transferable_from": []
+      }
+    ],
+    "recommendations": [
+      {
+        "skill": "Python",
+        "action": "Build and test a small CLI/data tool in idiomatic, typed Python",
+        "type": "course",
+        "resource_hint": "Official Python tutorial + pytest docs",
+        "effort_weeks": 4.0,
+        "priority": "medium"
+      },
+      {
+        "skill": "SQL",
+        "action": "Solve 40+ analytical SQL problems with window functions and CTEs - leverage existing PostgreSQL experience",
+        "type": "course",
+        "resource_hint": "Mode SQL tutorial / LeetCode SQL 50",
+        "effort_weeks": 1.5,
+        "priority": "medium"
+      },
+      {
+        "skill": "Observability",
+        "action": "Define SLIs/SLOs for a service and add metrics, logs, traces and alerting",
+        "type": "reading",
+        "resource_hint": "Google SRE Workbook (SLO chapters)",
+        "effort_weeks": 3.0,
+        "priority": "medium"
+      },
+      {
+        "skill": "Data Visualization",
+        "action": "Build a small project that uses Data Visualization the way a Data Engineer would",
+        "type": "course",
+        "resource_hint": "vendor fundamentals course",
+        "effort_weeks": 3.0,
+        "priority": "medium"
+      },
+      {
+        "skill": "Communication",
+        "action": "Present an analysis to a non-technical audience and collect feedback",
+        "type": "on_the_job",
+        "resource_hint": "Internal demo days / Toastmasters",
+        "effort_weeks": 3.0,
+        "priority": "medium"
+      },
+      {
+        "skill": "Data Lake",
+        "action": "Build a small project that uses Data Lake the way a Data Engineer would",
+        "type": "course",
+        "resource_hint": "vendor fundamentals course",
+        "effort_weeks": 1.5,
+        "priority": "low"
+      },
+      {
+        "skill": "Terraform",
+        "action": "Codify a VPC + compute + database stack in Terraform with remote state and modules",
+        "type": "certification",
+        "resource_hint": "HashiCorp Terraform Associate",
+        "effort_weeks": 2.0,
+        "priority": "low"
+      }
+    ],
+    "interview_questions": [
+      "This role relies on Python. What exposure have you had to it, and how would you ramp up in your first 60 days?",
+      "You haven't used SQL directly - how would your PostgreSQL experience carry over, and what would you need to learn first?",
+      "This role relies on Observability. What exposure have you had to it, and how would you ramp up in your first 60 days?",
+      "Walk me through the most complex thing you built with Apache Spark: design choices, trade-offs and measurable results.",
+      "Walk me through the most complex thing you built with Apache Airflow / Dagster: design choices, trade-offs and measurable results.",
+      "Walk me through the most complex thing you built with Data Warehousing / Snowflake / BigQuery / Redshift: design choices, trade-offs and measurable results."
+    ],
+    "chain_trace": [
+      {
+        "step": 1,
+        "name": "Requirement alignment",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 76,
+        "output": {
+          "assessments": [
+            {
+              "skill": "Python",
+              "importance": "required",
+              "status": "partial",
+              "evidence": "Only in a short or non-technical role (Data Engineering Intern): Wrote Python ETL scripts scheduled in Airflow to load smart-meter files into Postgres.",
+              "transferable_from": []
+            },
+            {
+              "skill": "SQL",
+              "importance": "required",
+              "status": "partial",
+              "evidence": "Claimed in skills list without supporting experience",
+              "transferable_from": [
+                "PostgreSQL"
+              ]
+            },
+            {
+              "skill": "Apache Spark",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Wrote PySpark jobs on AWS Glue processing about 300 GB of play events a day.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Apache Airflow / Dagster",
+              "importance": "required",
+              "status": "met",
+              "evidence": "[Apache Airflow] Built 15 Airflow DAGs that load play events and royalty statements into Snowflake, with SLA alerts to the team channel.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Data Warehousing / Snowflake / BigQuery / Redshift",
+              "importance": "required",
+              "status": "met",
+              "evidence": "[Data Warehousing] Wrote dbt models for the royalties fact table and contributed to the star schema design reviewed by the lead.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Streaming / Apache Kafka / Kinesis / Apache Flink",
+              "importance": "required",
+              "status": "met",
+              "evidence": "[Streaming] Built my first streaming job, Kafka into Spark Structured Streaming into Snowflake, to power a real-time top-charts page, under the guidance of our lead engineer.",
+              "transferable_from": []
+            },
+            {
+              "skill": "dbt",
+              "importance": "preferred",
+              "status": "met",
+              "evidence": "Wrote dbt models for the royalties fact table and contributed to the star schema design reviewed by the lead.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Data Lake",
+              "importance": "preferred",
+              "status": "missing",
+              "evidence": "No evidence",
+              "transferable_from": []
+            },
+            {
+              "skill": "AWS / GCP",
+              "importance": "preferred",
+              "status": "met",
+              "evidence": "[AWS] Wrote PySpark jobs on AWS Glue processing about 300 GB of play events a day.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Terraform",
+              "importance": "preferred",
+              "status": "missing",
+              "evidence": "No evidence",
+              "transferable_from": []
+            },
+            {
+              "skill": "Observability",
+              "importance": "preferred",
+              "status": "missing",
+              "evidence": "No evidence",
+              "transferable_from": []
+            },
+            {
+              "skill": "Data Visualization",
+              "importance": "preferred",
+              "status": "missing",
+              "evidence": "No evidence",
+              "transferable_from": []
+            },
+            {
+              "skill": "Communication",
+              "importance": "preferred",
+              "status": "missing",
+              "evidence": "No evidence",
+              "transferable_from": []
+            }
+          ],
+          "experience_fit": "below",
+          "experience_note": "1.7 years in technical roles vs 3+ required."
+        }
+      },
+      {
+        "step": 2,
+        "name": "Gap prioritisation",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 6,
+        "output": {
+          "strengths": [
+            {
+              "skill": "Apache Spark",
+              "evidence": "Wrote PySpark jobs on AWS Glue processing about 300 GB of play events a day."
+            },
+            {
+              "skill": "Apache Airflow / Dagster",
+              "evidence": "[Apache Airflow] Built 15 Airflow DAGs that load play events and royalty statements into Snowflake, with SLA alerts to the team channel."
+            },
+            {
+              "skill": "Data Warehousing / Snowflake / BigQuery / Redshift",
+              "evidence": "[Data Warehousing] Wrote dbt models for the royalties fact table and contributed to the star schema design reviewed by the lead."
+            },
+            {
+              "skill": "Streaming / Apache Kafka / Kinesis / Apache Flink",
+              "evidence": "[Streaming] Built my first streaming job, Kafka into Spark Structured Streaming into Snowflake, to power a real-time top-charts page, under the guidance of our lead engineer."
+            },
+            {
+              "skill": "dbt",
+              "evidence": "Wrote dbt models for the royalties fact table and contributed to the star schema design reviewed by the lead."
+            },
+            {
+              "skill": "AWS / GCP",
+              "evidence": "[AWS] Wrote PySpark jobs on AWS Glue processing about 300 GB of play events a day."
+            }
+          ],
+          "gaps": [
+            {
+              "skill": "Python",
+              "importance": "required",
+              "severity": "moderate",
+              "reason": "Listed as a must-have for this role.",
+              "transferable_from": []
+            },
+            {
+              "skill": "SQL",
+              "importance": "required",
+              "severity": "moderate",
+              "reason": "Listed as a must-have for this role. Partly offset by PostgreSQL.",
+              "transferable_from": [
+                "PostgreSQL"
+              ]
+            },
+            {
+              "skill": "Observability",
+              "importance": "preferred",
+              "severity": "moderate",
+              "reason": "Used in the role's day-to-day responsibilities.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Data Visualization",
+              "importance": "preferred",
+              "severity": "moderate",
+              "reason": "Used in the role's day-to-day responsibilities.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Communication",
+              "importance": "preferred",
+              "severity": "moderate",
+              "reason": "Used in the role's day-to-day responsibilities.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Data Lake",
+              "importance": "preferred",
+              "severity": "minor",
+              "reason": "Nice-to-have that would speed up onboarding.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Terraform",
+              "importance": "preferred",
+              "severity": "minor",
+              "reason": "Nice-to-have that would speed up onboarding.",
+              "transferable_from": []
+            }
+          ],
+          "fit_score": 67,
+          "fit_rationale": "Covers 83% of required and 29% of preferred skills (partial/undemonstrated at half credit); 67% of must-haves are demonstrated in technical roles; experience below the bar."
+        }
+      },
+      {
+        "step": 3,
+        "name": "Recommendations",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 0,
+        "output": {
+          "recommendations": [
+            {
+              "skill": "Python",
+              "action": "Build and test a small CLI/data tool in idiomatic, typed Python",
+              "type": "course",
+              "resource_hint": "Official Python tutorial + pytest docs",
+              "effort_weeks": 4.0,
+              "priority": "medium"
+            },
+            {
+              "skill": "SQL",
+              "action": "Solve 40+ analytical SQL problems with window functions and CTEs - leverage existing PostgreSQL experience",
+              "type": "course",
+              "resource_hint": "Mode SQL tutorial / LeetCode SQL 50",
+              "effort_weeks": 1.5,
+              "priority": "medium"
+            },
+            {
+              "skill": "Observability",
+              "action": "Define SLIs/SLOs for a service and add metrics, logs, traces and alerting",
+              "type": "reading",
+              "resource_hint": "Google SRE Workbook (SLO chapters)",
+              "effort_weeks": 3.0,
+              "priority": "medium"
+            },
+            {
+              "skill": "Data Visualization",
+              "action": "Build a small project that uses Data Visualization the way a Data Engineer would",
+              "type": "course",
+              "resource_hint": "vendor fundamentals course",
+              "effort_weeks": 3.0,
+              "priority": "medium"
+            },
+            {
+              "skill": "Communication",
+              "action": "Present an analysis to a non-technical audience and collect feedback",
+              "type": "on_the_job",
+              "resource_hint": "Internal demo days / Toastmasters",
+              "effort_weeks": 3.0,
+              "priority": "medium"
+            },
+            {
+              "skill": "Data Lake",
+              "action": "Build a small project that uses Data Lake the way a Data Engineer would",
+              "type": "course",
+              "resource_hint": "vendor fundamentals course",
+              "effort_weeks": 1.5,
+              "priority": "low"
+            },
+            {
+              "skill": "Terraform",
+              "action": "Codify a VPC + compute + database stack in Terraform with remote state and modules",
+              "type": "certification",
+              "resource_hint": "HashiCorp Terraform Associate",
+              "effort_weeks": 2.0,
+              "priority": "low"
+            }
+          ],
+          "interview_questions": [
+            "This role relies on Python. What exposure have you had to it, and how would you ramp up in your first 60 days?",
+            "You haven't used SQL directly - how would your PostgreSQL experience carry over, and what would you need to learn first?",
+            "This role relies on Observability. What exposure have you had to it, and how would you ramp up in your first 60 days?",
+            "Walk me through the most complex thing you built with Apache Spark: design choices, trade-offs and measurable results.",
+            "Walk me through the most complex thing you built with Apache Airflow / Dagster: design choices, trade-offs and measurable results.",
+            "Walk me through the most complex thing you built with Data Warehousing / Snowflake / BigQuery / Redshift: design choices, trade-offs and measurable results."
+          ]
+        }
+      },
+      {
+        "step": 4,
+        "name": "Report synthesis",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 0,
+        "output": {
+          "verdict": "good_match",
+          "headline": "Good match for Data Engineer: strong in Apache Spark, Apache Airflow / Dagster, Data Warehousing / Snowflake / BigQuery ",
+          "executive_summary": "Aroha Ngata (Junior Data Engineer, 1.7 yrs in technical roles) shows clear evidence of Apache Spark, Apache Airflow / Dagster, Data Warehousing / Snowflake / BigQuery / Redshift. No must-have skill is entirely missing. Partially covered: Python, SQL, Observability, Data Visualization and more. The high/medium-priority plan totals roughly 14.5 weeks of part-time effort. Experience: 1.7 years in technical roles vs 3+ required.",
+          "hiring_recommendation": "Advance with focus areas: probe Python, SQL in interview."
+        }
+      }
+    ],
+    "generated_at": "2026-11-15T17:58:57+00:00"
+  },
+  {
+    "job_id": "J06",
+    "resume_id": "R49",
+    "candidate_name": "Benjamin Lee",
+    "job_title": "Data Engineer",
+    "fit_score": 77,
+    "verdict": "good_match",
+    "headline": "Good match for Data Engineer: strong in Python, Apache Spark, Apache Airflow / Dagster",
+    "executive_summary": "Benjamin Lee (Software Engineer, Data Infrastructure, 6.2 yrs in technical roles) shows clear evidence of Python, Apache Spark, Apache Airflow / Dagster. Critical gaps: SQL. Partially covered: Observability, Data Visualization, Communication. The high/medium-priority plan totals roughly 12 weeks of part-time effort. Experience: 6.2 years in technical roles vs 3+ required.",
+    "hiring_recommendation": "Advance with focus areas: probe SQL, Observability in interview.",
+    "experience_fit": "meets",
+    "experience_note": "6.2 years in technical roles vs 3+ required.",
+    "assessments": [
+      {
+        "skill": "Python",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Built Python backend services for the box-office and refunds systems.",
+        "transferable_from": []
+      },
+      {
+        "skill": "SQL",
+        "importance": "required",
+        "status": "missing",
+        "evidence": "No evidence",
+        "transferable_from": []
+      },
+      {
+        "skill": "Apache Spark",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Nightly and hourly Spark jobs (Scala and PySpark on EMR) compact 6 TB a day of raw events into Iceberg tables on S3.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Apache Airflow / Dagster",
+        "importance": "required",
+        "status": "met",
+        "evidence": "[Dagster] Moved 120 cron scripts into Dagster software-defined assets with freshness policies, retries and alerts routed to the owning teams.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Data Warehousing / Snowflake / BigQuery / Redshift",
+        "importance": "required",
+        "status": "met",
+        "evidence": "[Redshift] Modelled the Redshift layer as facts and dimensions, keeping subscription history as a type-2 dimension; transformations live in dbt and Soda checks block bad loads.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Streaming / Apache Kafka / Kinesis / Apache Flink",
+        "importance": "required",
+        "status": "met",
+        "evidence": "[Kinesis] Device telemetry: Kinesis into Flink jobs computing live workout and heart-rate aggregates at about 250,000 events per second, feeding in-app leaderboards within five seconds.",
+        "transferable_from": []
+      },
+      {
+        "skill": "dbt",
+        "importance": "preferred",
+        "status": "met",
+        "evidence": "Modelled the Redshift layer as facts and dimensions, keeping subscription history as a type-2 dimension; transformations live in dbt and Soda checks block bad loads.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Data Lake",
+        "importance": "preferred",
+        "status": "met",
+        "evidence": "Nightly and hourly Spark jobs (Scala and PySpark on EMR) compact 6 TB a day of raw events into Iceberg tables on S3.",
+        "transferable_from": []
+      },
+      {
+        "skill": "AWS / GCP",
+        "importance": "preferred",
+        "status": "missing",
+        "evidence": "No evidence",
+        "transferable_from": []
+      },
+      {
+        "skill": "Terraform",
+        "importance": "preferred",
+        "status": "met",
+        "evidence": "Listed in skills (not named in role bullets; backed by 6.2 yrs of technical experience)",
+        "transferable_from": []
+      },
+      {
+        "skill": "Observability",
+        "importance": "preferred",
+        "status": "missing",
+        "evidence": "No evidence",
+        "transferable_from": []
+      },
+      {
+        "skill": "Data Visualization",
+        "importance": "preferred",
+        "status": "missing",
+        "evidence": "No evidence",
+        "transferable_from": []
+      },
+      {
+        "skill": "Communication",
+        "importance": "preferred",
+        "status": "missing",
+        "evidence": "No evidence",
+        "transferable_from": []
+      }
+    ],
+    "strengths": [
+      {
+        "skill": "Python",
+        "evidence": "Built Python backend services for the box-office and refunds systems."
+      },
+      {
+        "skill": "Apache Spark",
+        "evidence": "Nightly and hourly Spark jobs (Scala and PySpark on EMR) compact 6 TB a day of raw events into Iceberg tables on S3."
+      },
+      {
+        "skill": "Apache Airflow / Dagster",
+        "evidence": "[Dagster] Moved 120 cron scripts into Dagster software-defined assets with freshness policies, retries and alerts routed to the owning teams."
+      },
+      {
+        "skill": "Data Warehousing / Snowflake / BigQuery / Redshift",
+        "evidence": "[Redshift] Modelled the Redshift layer as facts and dimensions, keeping subscription history as a type-2 dimension; transformations live in dbt and Soda checks block bad loads."
+      },
+      {
+        "skill": "Streaming / Apache Kafka / Kinesis / Apache Flink",
+        "evidence": "[Kinesis] Device telemetry: Kinesis into Flink jobs computing live workout and heart-rate aggregates at about 250,000 events per second, feeding in-app leaderboards within five seconds."
+      },
+      {
+        "skill": "dbt",
+        "evidence": "Modelled the Redshift layer as facts and dimensions, keeping subscription history as a type-2 dimension; transformations live in dbt and Soda checks block bad loads."
+      }
+    ],
+    "gaps": [
+      {
+        "skill": "SQL",
+        "importance": "required",
+        "severity": "critical",
+        "reason": "Listed as a must-have for this role.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Observability",
+        "importance": "preferred",
+        "severity": "moderate",
+        "reason": "Used in the role's day-to-day responsibilities.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Data Visualization",
+        "importance": "preferred",
+        "severity": "moderate",
+        "reason": "Used in the role's day-to-day responsibilities.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Communication",
+        "importance": "preferred",
+        "severity": "moderate",
+        "reason": "Used in the role's day-to-day responsibilities.",
+        "transferable_from": []
+      },
+      {
+        "skill": "AWS / GCP",
+        "importance": "preferred",
+        "severity": "minor",
+        "reason": "Nice-to-have that would speed up onboarding.",
+        "transferable_from": []
+      }
+    ],
+    "recommendations": [
+      {
+        "skill": "SQL",
+        "action": "Solve 40+ analytical SQL problems with window functions and CTEs",
+        "type": "course",
+        "resource_hint": "Mode SQL tutorial / LeetCode SQL 50",
+        "effort_weeks": 3.0,
+        "priority": "high"
+      },
+      {
+        "skill": "Observability",
+        "action": "Define SLIs/SLOs for a service and add metrics, logs, traces and alerting",
+        "type": "reading",
+        "resource_hint": "Google SRE Workbook (SLO chapters)",
+        "effort_weeks": 3.0,
+        "priority": "medium"
+      },
+      {
+        "skill": "Data Visualization",
+        "action": "Build a small project that uses Data Visualization the way a Data Engineer would",
+        "type": "course",
+        "resource_hint": "vendor fundamentals course",
+        "effort_weeks": 3.0,
+        "priority": "medium"
+      },
+      {
+        "skill": "Communication",
+        "action": "Present an analysis to a non-technical audience and collect feedback",
+        "type": "on_the_job",
+        "resource_hint": "Internal demo days / Toastmasters",
+        "effort_weeks": 3.0,
+        "priority": "medium"
+      },
+      {
+        "skill": "AWS / GCP",
+        "action": "(any one of AWS, GCP) Build and deploy a service using EC2/ECS, S3, IAM and CloudWatch",
+        "type": "certification",
+        "resource_hint": "AWS Solutions Architect - Associate",
+        "effort_weeks": 3.0,
+        "priority": "low"
+      }
+    ],
+    "interview_questions": [
+      "This role relies on SQL. What exposure have you had to it, and how would you ramp up in your first 60 days?",
+      "This role relies on Observability. What exposure have you had to it, and how would you ramp up in your first 60 days?",
+      "This role relies on Data Visualization. What exposure have you had to it, and how would you ramp up in your first 60 days?",
+      "Walk me through the most complex thing you built with Python: design choices, trade-offs and measurable results.",
+      "Walk me through the most complex thing you built with Apache Spark: design choices, trade-offs and measurable results.",
+      "Walk me through the most complex thing you built with Apache Airflow / Dagster: design choices, trade-offs and measurable results."
+    ],
+    "chain_trace": [
+      {
+        "step": 1,
+        "name": "Requirement alignment",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 71,
+        "output": {
+          "assessments": [
+            {
+              "skill": "Python",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Built Python backend services for the box-office and refunds systems.",
+              "transferable_from": []
+            },
+            {
+              "skill": "SQL",
+              "importance": "required",
+              "status": "missing",
+              "evidence": "No evidence",
+              "transferable_from": []
+            },
+            {
+              "skill": "Apache Spark",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Nightly and hourly Spark jobs (Scala and PySpark on EMR) compact 6 TB a day of raw events into Iceberg tables on S3.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Apache Airflow / Dagster",
+              "importance": "required",
+              "status": "met",
+              "evidence": "[Dagster] Moved 120 cron scripts into Dagster software-defined assets with freshness policies, retries and alerts routed to the owning teams.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Data Warehousing / Snowflake / BigQuery / Redshift",
+              "importance": "required",
+              "status": "met",
+              "evidence": "[Redshift] Modelled the Redshift layer as facts and dimensions, keeping subscription history as a type-2 dimension; transformations live in dbt and Soda checks block bad loads.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Streaming / Apache Kafka / Kinesis / Apache Flink",
+              "importance": "required",
+              "status": "met",
+              "evidence": "[Kinesis] Device telemetry: Kinesis into Flink jobs computing live workout and heart-rate aggregates at about 250,000 events per second, feeding in-app leaderboards within five seconds.",
+              "transferable_from": []
+            },
+            {
+              "skill": "dbt",
+              "importance": "preferred",
+              "status": "met",
+              "evidence": "Modelled the Redshift layer as facts and dimensions, keeping subscription history as a type-2 dimension; transformations live in dbt and Soda checks block bad loads.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Data Lake",
+              "importance": "preferred",
+              "status": "met",
+              "evidence": "Nightly and hourly Spark jobs (Scala and PySpark on EMR) compact 6 TB a day of raw events into Iceberg tables on S3.",
+              "transferable_from": []
+            },
+            {
+              "skill": "AWS / GCP",
+              "importance": "preferred",
+              "status": "missing",
+              "evidence": "No evidence",
+              "transferable_from": []
+            },
+            {
+              "skill": "Terraform",
+              "importance": "preferred",
+              "status": "met",
+              "evidence": "Listed in skills (not named in role bullets; backed by 6.2 yrs of technical experience)",
+              "transferable_from": []
+            },
+            {
+              "skill": "Observability",
+              "importance": "preferred",
+              "status": "missing",
+              "evidence": "No evidence",
+              "transferable_from": []
+            },
+            {
+              "skill": "Data Visualization",
+              "importance": "preferred",
+              "status": "missing",
+              "evidence": "No evidence",
+              "transferable_from": []
+            },
+            {
+              "skill": "Communication",
+              "importance": "preferred",
+              "status": "missing",
+              "evidence": "No evidence",
+              "transferable_from": []
+            }
+          ],
+          "experience_fit": "meets",
+          "experience_note": "6.2 years in technical roles vs 3+ required."
+        }
+      },
+      {
+        "step": 2,
+        "name": "Gap prioritisation",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 6,
+        "output": {
+          "strengths": [
+            {
+              "skill": "Python",
+              "evidence": "Built Python backend services for the box-office and refunds systems."
+            },
+            {
+              "skill": "Apache Spark",
+              "evidence": "Nightly and hourly Spark jobs (Scala and PySpark on EMR) compact 6 TB a day of raw events into Iceberg tables on S3."
+            },
+            {
+              "skill": "Apache Airflow / Dagster",
+              "evidence": "[Dagster] Moved 120 cron scripts into Dagster software-defined assets with freshness policies, retries and alerts routed to the owning teams."
+            },
+            {
+              "skill": "Data Warehousing / Snowflake / BigQuery / Redshift",
+              "evidence": "[Redshift] Modelled the Redshift layer as facts and dimensions, keeping subscription history as a type-2 dimension; transformations live in dbt and Soda checks block bad loads."
+            },
+            {
+              "skill": "Streaming / Apache Kafka / Kinesis / Apache Flink",
+              "evidence": "[Kinesis] Device telemetry: Kinesis into Flink jobs computing live workout and heart-rate aggregates at about 250,000 events per second, feeding in-app leaderboards within five seconds."
+            },
+            {
+              "skill": "dbt",
+              "evidence": "Modelled the Redshift layer as facts and dimensions, keeping subscription history as a type-2 dimension; transformations live in dbt and Soda checks block bad loads."
+            }
+          ],
+          "gaps": [
+            {
+              "skill": "SQL",
+              "importance": "required",
+              "severity": "critical",
+              "reason": "Listed as a must-have for this role.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Observability",
+              "importance": "preferred",
+              "severity": "moderate",
+              "reason": "Used in the role's day-to-day responsibilities.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Data Visualization",
+              "importance": "preferred",
+              "severity": "moderate",
+              "reason": "Used in the role's day-to-day responsibilities.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Communication",
+              "importance": "preferred",
+              "severity": "moderate",
+              "reason": "Used in the role's day-to-day responsibilities.",
+              "transferable_from": []
+            },
+            {
+              "skill": "AWS / GCP",
+              "importance": "preferred",
+              "severity": "minor",
+              "reason": "Nice-to-have that would speed up onboarding.",
+              "transferable_from": []
+            }
+          ],
+          "fit_score": 77,
+          "fit_rationale": "Covers 83% of required and 43% of preferred skills (partial/undemonstrated at half credit); 83% of must-haves are demonstrated in technical roles; experience meets the bar."
+        }
+      },
+      {
+        "step": 3,
+        "name": "Recommendations",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 0,
+        "output": {
+          "recommendations": [
+            {
+              "skill": "SQL",
+              "action": "Solve 40+ analytical SQL problems with window functions and CTEs",
+              "type": "course",
+              "resource_hint": "Mode SQL tutorial / LeetCode SQL 50",
+              "effort_weeks": 3.0,
+              "priority": "high"
+            },
+            {
+              "skill": "Observability",
+              "action": "Define SLIs/SLOs for a service and add metrics, logs, traces and alerting",
+              "type": "reading",
+              "resource_hint": "Google SRE Workbook (SLO chapters)",
+              "effort_weeks": 3.0,
+              "priority": "medium"
+            },
+            {
+              "skill": "Data Visualization",
+              "action": "Build a small project that uses Data Visualization the way a Data Engineer would",
+              "type": "course",
+              "resource_hint": "vendor fundamentals course",
+              "effort_weeks": 3.0,
+              "priority": "medium"
+            },
+            {
+              "skill": "Communication",
+              "action": "Present an analysis to a non-technical audience and collect feedback",
+              "type": "on_the_job",
+              "resource_hint": "Internal demo days / Toastmasters",
+              "effort_weeks": 3.0,
+              "priority": "medium"
+            },
+            {
+              "skill": "AWS / GCP",
+              "action": "(any one of AWS, GCP) Build and deploy a service using EC2/ECS, S3, IAM and CloudWatch",
+              "type": "certification",
+              "resource_hint": "AWS Solutions Architect - Associate",
+              "effort_weeks": 3.0,
+              "priority": "low"
+            }
+          ],
+          "interview_questions": [
+            "This role relies on SQL. What exposure have you had to it, and how would you ramp up in your first 60 days?",
+            "This role relies on Observability. What exposure have you had to it, and how would you ramp up in your first 60 days?",
+            "This role relies on Data Visualization. What exposure have you had to it, and how would you ramp up in your first 60 days?",
+            "Walk me through the most complex thing you built with Python: design choices, trade-offs and measurable results.",
+            "Walk me through the most complex thing you built with Apache Spark: design choices, trade-offs and measurable results.",
+            "Walk me through the most complex thing you built with Apache Airflow / Dagster: design choices, trade-offs and measurable results."
+          ]
+        }
+      },
+      {
+        "step": 4,
+        "name": "Report synthesis",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 0,
+        "output": {
+          "verdict": "good_match",
+          "headline": "Good match for Data Engineer: strong in Python, Apache Spark, Apache Airflow / Dagster",
+          "executive_summary": "Benjamin Lee (Software Engineer, Data Infrastructure, 6.2 yrs in technical roles) shows clear evidence of Python, Apache Spark, Apache Airflow / Dagster. Critical gaps: SQL. Partially covered: Observability, Data Visualization, Communication. The high/medium-priority plan totals roughly 12 weeks of part-time effort. Experience: 6.2 years in technical roles vs 3+ required.",
+          "hiring_recommendation": "Advance with focus areas: probe SQL, Observability in interview."
+        }
+      }
+    ],
+    "generated_at": "2026-11-15T17:58:57+00:00"
+  }
+]

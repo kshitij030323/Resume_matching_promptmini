@@ -1,0 +1,33 @@
+Mateo García
+mateo.garcia@example.com | +54-555-0125 | Buenos Aires, Argentina
+Lead Mobile Engineer — React Native, iOS & Android
+
+Summary
+Mobile engineer with nearly ten years of experience, eight of them building React Native apps in fintech and delivery and the last five leading the team. Equally comfortable in TypeScript, Swift and Kotlin, and responsible for releases that reach millions of users every week.
+
+Skills
+Mobile: React Native (New Architecture, Turbo Modules), TypeScript, Swift, Kotlin, Expo / EAS, CodePush
+State and data: Redux Toolkit, Zustand, React Query, GraphQL, REST, WatermelonDB
+Quality and release: Detox, Maestro, Jest, fastlane, App Store Connect, Google Play Console, Sentry
+Practices: mobile accessibility, performance profiling (Hermes profiler, Flipper), CI/CD with Bitrise and GitHub Actions
+
+Experience
+Lead Mobile Engineer, Tango Finanzas (digital bank)
+Sep 2021 – Present
+- Lead eight mobile engineers on the React Native banking app (3.4 million users on iOS and Android).
+- Migrated the app to the New Architecture and Hermes, reducing startup time by 45%.
+- Wrote Turbo Modules in Swift and Kotlin for card tokenisation and device binding.
+- Introduced Maestro end-to-end tests and EAS Build; moved from monthly to weekly releases with staged rollouts on both stores.
+- Led an accessibility programme that brought VoiceOver and TalkBack support to every core flow.
+
+Senior Mobile Developer, Rioplatense Delivery
+2018 - 2021
+- Rebuilt separate native iOS and Android apps as one React Native app and shipped it to both stores in seven months.
+- Set up CodePush for hotfixes, cutting time-to-fix for critical bugs from days to hours.
+
+iOS Developer, Patagonia Apps
+Jan 2017 – Jun 2018
+- Built Objective-C and Swift apps for agency clients.
+
+Education
+Ingeniería en Informática, Universidad de Buenos Aires, 2016

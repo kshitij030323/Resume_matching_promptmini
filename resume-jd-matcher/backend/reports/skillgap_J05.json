@@ -1,0 +1,1410 @@
+[
+  {
+    "job_id": "J05",
+    "resume_id": "R05",
+    "candidate_name": "Daniel Brennan",
+    "job_title": "Site Reliability Engineer (DevOps)",
+    "fit_score": 99,
+    "verdict": "strong_match",
+    "headline": "Strong match for Site Reliability Engineer (DevOps): strong in SRE, Kubernetes, AWS",
+    "executive_summary": "Daniel Brennan (Senior Site Reliability Engineer, 10.2 yrs in technical roles) shows clear evidence of SRE, Kubernetes, AWS. No must-have skill is entirely missing. Experience: 10.2 years in technical roles vs 4+ required.",
+    "hiring_recommendation": "Advance to technical interviews; verify depth on the listed strengths.",
+    "experience_fit": "exceeds",
+    "experience_note": "10.2 years in technical roles vs 4+ required.",
+    "assessments": [
+      {
+        "skill": "SRE",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Defined SLOs for 40 services and moved alerting to burn-rate alerts, cutting pages by 60%.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Kubernetes",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Wrote a Go Kubernetes operator that automates certificate rotation.",
+        "transferable_from": []
+      },
+      {
+        "skill": "AWS",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Run 14 production EKS clusters across three regions in a PCI-DSS environment; led zero-downtime upgrades from 1.24 to 1.30.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Helm",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Listed in skills (not named in role bullets; backed by 10.2 yrs of technical experience)",
+        "transferable_from": []
+      },
+      {
+        "skill": "Terraform",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Rebuilt the AWS estate as reusable Terraform modules with OPA policy checks in CI; no more console changes in production.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Networking",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Listed in skills (not named in role bullets; backed by 10.2 yrs of technical experience)",
+        "transferable_from": []
+      },
+      {
+        "skill": "Observability / Prometheus / Grafana / Elasticsearch",
+        "importance": "required",
+        "status": "met",
+        "evidence": "[Observability] Defined SLOs for 40 services and moved alerting to burn-rate alerts, cutting pages by 60%.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Python / Go / Bash",
+        "importance": "required",
+        "status": "met",
+        "evidence": "[Python] Listed in skills (not named in role bullets; backed by 10.2 yrs of technical experience)",
+        "transferable_from": []
+      },
+      {
+        "skill": "CI/CD",
+        "importance": "preferred",
+        "status": "met",
+        "evidence": "Replaced Jenkins with GitHub Actions pipelines; deploy time dropped from 40 to 8 minutes.",
+        "transferable_from": []
+      }
+    ],
+    "strengths": [
+      {
+        "skill": "SRE",
+        "evidence": "Defined SLOs for 40 services and moved alerting to burn-rate alerts, cutting pages by 60%."
+      },
+      {
+        "skill": "Kubernetes",
+        "evidence": "Wrote a Go Kubernetes operator that automates certificate rotation."
+      },
+      {
+        "skill": "AWS",
+        "evidence": "Run 14 production EKS clusters across three regions in a PCI-DSS environment; led zero-downtime upgrades from 1.24 to 1.30."
+      },
+      {
+        "skill": "Helm",
+        "evidence": "Listed in skills (not named in role bullets; backed by 10.2 yrs of technical experience)"
+      },
+      {
+        "skill": "Terraform",
+        "evidence": "Rebuilt the AWS estate as reusable Terraform modules with OPA policy checks in CI; no more console changes in production."
+      },
+      {
+        "skill": "Networking",
+        "evidence": "Listed in skills (not named in role bullets; backed by 10.2 yrs of technical experience)"
+      }
+    ],
+    "gaps": [],
+    "recommendations": [],
+    "interview_questions": [
+      "Walk me through the most complex thing you built with SRE: design choices, trade-offs and measurable results.",
+      "Walk me through the most complex thing you built with Kubernetes: design choices, trade-offs and measurable results.",
+      "Walk me through the most complex thing you built with AWS: design choices, trade-offs and measurable results."
+    ],
+    "chain_trace": [
+      {
+        "step": 1,
+        "name": "Requirement alignment",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 212,
+        "output": {
+          "assessments": [
+            {
+              "skill": "SRE",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Defined SLOs for 40 services and moved alerting to burn-rate alerts, cutting pages by 60%.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Kubernetes",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Wrote a Go Kubernetes operator that automates certificate rotation.",
+              "transferable_from": []
+            },
+            {
+              "skill": "AWS",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Run 14 production EKS clusters across three regions in a PCI-DSS environment; led zero-downtime upgrades from 1.24 to 1.30.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Helm",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Listed in skills (not named in role bullets; backed by 10.2 yrs of technical experience)",
+              "transferable_from": []
+            },
+            {
+              "skill": "Terraform",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Rebuilt the AWS estate as reusable Terraform modules with OPA policy checks in CI; no more console changes in production.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Networking",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Listed in skills (not named in role bullets; backed by 10.2 yrs of technical experience)",
+              "transferable_from": []
+            },
+            {
+              "skill": "Observability / Prometheus / Grafana / Elasticsearch",
+              "importance": "required",
+              "status": "met",
+              "evidence": "[Observability] Defined SLOs for 40 services and moved alerting to burn-rate alerts, cutting pages by 60%.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Python / Go / Bash",
+              "importance": "required",
+              "status": "met",
+              "evidence": "[Python] Listed in skills (not named in role bullets; backed by 10.2 yrs of technical experience)",
+              "transferable_from": []
+            },
+            {
+              "skill": "CI/CD",
+              "importance": "preferred",
+              "status": "met",
+              "evidence": "Replaced Jenkins with GitHub Actions pipelines; deploy time dropped from 40 to 8 minutes.",
+              "transferable_from": []
+            }
+          ],
+          "experience_fit": "exceeds",
+          "experience_note": "10.2 years in technical roles vs 4+ required."
+        }
+      },
+      {
+        "step": 2,
+        "name": "Gap prioritisation",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 6,
+        "output": {
+          "strengths": [
+            {
+              "skill": "SRE",
+              "evidence": "Defined SLOs for 40 services and moved alerting to burn-rate alerts, cutting pages by 60%."
+            },
+            {
+              "skill": "Kubernetes",
+              "evidence": "Wrote a Go Kubernetes operator that automates certificate rotation."
+            },
+            {
+              "skill": "AWS",
+              "evidence": "Run 14 production EKS clusters across three regions in a PCI-DSS environment; led zero-downtime upgrades from 1.24 to 1.30."
+            },
+            {
+              "skill": "Helm",
+              "evidence": "Listed in skills (not named in role bullets; backed by 10.2 yrs of technical experience)"
+            },
+            {
+              "skill": "Terraform",
+              "evidence": "Rebuilt the AWS estate as reusable Terraform modules with OPA policy checks in CI; no more console changes in production."
+            },
+            {
+              "skill": "Networking",
+              "evidence": "Listed in skills (not named in role bullets; backed by 10.2 yrs of technical experience)"
+            }
+          ],
+          "gaps": [],
+          "fit_score": 99,
+          "fit_rationale": "Covers 100% of required and 100% of preferred skills (partial/undemonstrated at half credit); 100% of must-haves are demonstrated in technical roles; experience exceeds the bar."
+        }
+      },
+      {
+        "step": 3,
+        "name": "Recommendations",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 0,
+        "output": {
+          "recommendations": [],
+          "interview_questions": [
+            "Walk me through the most complex thing you built with SRE: design choices, trade-offs and measurable results.",
+            "Walk me through the most complex thing you built with Kubernetes: design choices, trade-offs and measurable results.",
+            "Walk me through the most complex thing you built with AWS: design choices, trade-offs and measurable results."
+          ]
+        }
+      },
+      {
+        "step": 4,
+        "name": "Report synthesis",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 0,
+        "output": {
+          "verdict": "strong_match",
+          "headline": "Strong match for Site Reliability Engineer (DevOps): strong in SRE, Kubernetes, AWS",
+          "executive_summary": "Daniel Brennan (Senior Site Reliability Engineer, 10.2 yrs in technical roles) shows clear evidence of SRE, Kubernetes, AWS. No must-have skill is entirely missing. Experience: 10.2 years in technical roles vs 4+ required.",
+          "hiring_recommendation": "Advance to technical interviews; verify depth on the listed strengths."
+        }
+      }
+    ],
+    "generated_at": "2026-11-15T17:58:39+00:00"
+  },
+  {
+    "job_id": "J05",
+    "resume_id": "R29",
+    "candidate_name": "In\u00e8s Moreau",
+    "job_title": "Site Reliability Engineer (DevOps)",
+    "fit_score": 100,
+    "verdict": "strong_match",
+    "headline": "Strong match for Site Reliability Engineer (DevOps): strong in SRE, Kubernetes, AWS",
+    "executive_summary": "In\u00e8s Moreau (DevOps Engineer, 5.8 yrs in technical roles) shows clear evidence of SRE, Kubernetes, AWS. No must-have skill is entirely missing. Experience: 5.8 years in technical roles vs 4+ required.",
+    "hiring_recommendation": "Advance to technical interviews; verify depth on the listed strengths.",
+    "experience_fit": "meets",
+    "experience_note": "5.8 years in technical roles vs 4+ required.",
+    "assessments": [
+      {
+        "skill": "SRE",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Rebuilt Datadog monitors and SLO dashboards, cutting non-actionable alerts by 50%.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Kubernetes",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Listed in skills (not named in role bullets; backed by 5.8 yrs of technical experience)",
+        "transferable_from": []
+      },
+      {
+        "skill": "AWS",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Migrated 45 services from ECS to EKS with Helm and Argo CD with no customer-facing downtime.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Helm",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Migrated 45 services from ECS to EKS with Helm and Argo CD with no customer-facing downtime.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Terraform",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Maintain a Terraform and Terragrunt mono-repo covering three AWS accounts, with drift detection in CI.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Networking",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Listed in skills (not named in role bullets; backed by 5.8 yrs of technical experience)",
+        "transferable_from": []
+      },
+      {
+        "skill": "Observability / Prometheus / Grafana / Elasticsearch",
+        "importance": "required",
+        "status": "met",
+        "evidence": "[Observability] Rebuilt Datadog monitors and SLO dashboards, cutting non-actionable alerts by 50%.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Python / Go / Bash",
+        "importance": "required",
+        "status": "met",
+        "evidence": "[Python] Wrote Python Lambda functions for automated cost reports; rightsizing and Savings Plans saved $14k a month.",
+        "transferable_from": []
+      },
+      {
+        "skill": "CI/CD",
+        "importance": "preferred",
+        "status": "met",
+        "evidence": "Migrated 45 services from ECS to EKS with Helm and Argo CD with no customer-facing downtime.",
+        "transferable_from": []
+      }
+    ],
+    "strengths": [
+      {
+        "skill": "SRE",
+        "evidence": "Rebuilt Datadog monitors and SLO dashboards, cutting non-actionable alerts by 50%."
+      },
+      {
+        "skill": "Kubernetes",
+        "evidence": "Listed in skills (not named in role bullets; backed by 5.8 yrs of technical experience)"
+      },
+      {
+        "skill": "AWS",
+        "evidence": "Migrated 45 services from ECS to EKS with Helm and Argo CD with no customer-facing downtime."
+      },
+      {
+        "skill": "Helm",
+        "evidence": "Migrated 45 services from ECS to EKS with Helm and Argo CD with no customer-facing downtime."
+      },
+      {
+        "skill": "Terraform",
+        "evidence": "Maintain a Terraform and Terragrunt mono-repo covering three AWS accounts, with drift detection in CI."
+      },
+      {
+        "skill": "Networking",
+        "evidence": "Listed in skills (not named in role bullets; backed by 5.8 yrs of technical experience)"
+      }
+    ],
+    "gaps": [],
+    "recommendations": [],
+    "interview_questions": [
+      "Walk me through the most complex thing you built with SRE: design choices, trade-offs and measurable results.",
+      "Walk me through the most complex thing you built with Kubernetes: design choices, trade-offs and measurable results.",
+      "Walk me through the most complex thing you built with AWS: design choices, trade-offs and measurable results."
+    ],
+    "chain_trace": [
+      {
+        "step": 1,
+        "name": "Requirement alignment",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 83,
+        "output": {
+          "assessments": [
+            {
+              "skill": "SRE",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Rebuilt Datadog monitors and SLO dashboards, cutting non-actionable alerts by 50%.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Kubernetes",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Listed in skills (not named in role bullets; backed by 5.8 yrs of technical experience)",
+              "transferable_from": []
+            },
+            {
+              "skill": "AWS",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Migrated 45 services from ECS to EKS with Helm and Argo CD with no customer-facing downtime.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Helm",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Migrated 45 services from ECS to EKS with Helm and Argo CD with no customer-facing downtime.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Terraform",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Maintain a Terraform and Terragrunt mono-repo covering three AWS accounts, with drift detection in CI.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Networking",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Listed in skills (not named in role bullets; backed by 5.8 yrs of technical experience)",
+              "transferable_from": []
+            },
+            {
+              "skill": "Observability / Prometheus / Grafana / Elasticsearch",
+              "importance": "required",
+              "status": "met",
+              "evidence": "[Observability] Rebuilt Datadog monitors and SLO dashboards, cutting non-actionable alerts by 50%.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Python / Go / Bash",
+              "importance": "required",
+              "status": "met",
+              "evidence": "[Python] Wrote Python Lambda functions for automated cost reports; rightsizing and Savings Plans saved $14k a month.",
+              "transferable_from": []
+            },
+            {
+              "skill": "CI/CD",
+              "importance": "preferred",
+              "status": "met",
+              "evidence": "Migrated 45 services from ECS to EKS with Helm and Argo CD with no customer-facing downtime.",
+              "transferable_from": []
+            }
+          ],
+          "experience_fit": "meets",
+          "experience_note": "5.8 years in technical roles vs 4+ required."
+        }
+      },
+      {
+        "step": 2,
+        "name": "Gap prioritisation",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 6,
+        "output": {
+          "strengths": [
+            {
+              "skill": "SRE",
+              "evidence": "Rebuilt Datadog monitors and SLO dashboards, cutting non-actionable alerts by 50%."
+            },
+            {
+              "skill": "Kubernetes",
+              "evidence": "Listed in skills (not named in role bullets; backed by 5.8 yrs of technical experience)"
+            },
+            {
+              "skill": "AWS",
+              "evidence": "Migrated 45 services from ECS to EKS with Helm and Argo CD with no customer-facing downtime."
+            },
+            {
+              "skill": "Helm",
+              "evidence": "Migrated 45 services from ECS to EKS with Helm and Argo CD with no customer-facing downtime."
+            },
+            {
+              "skill": "Terraform",
+              "evidence": "Maintain a Terraform and Terragrunt mono-repo covering three AWS accounts, with drift detection in CI."
+            },
+            {
+              "skill": "Networking",
+              "evidence": "Listed in skills (not named in role bullets; backed by 5.8 yrs of technical experience)"
+            }
+          ],
+          "gaps": [],
+          "fit_score": 100,
+          "fit_rationale": "Covers 100% of required and 100% of preferred skills (partial/undemonstrated at half credit); 100% of must-haves are demonstrated in technical roles; experience meets the bar."
+        }
+      },
+      {
+        "step": 3,
+        "name": "Recommendations",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 0,
+        "output": {
+          "recommendations": [],
+          "interview_questions": [
+            "Walk me through the most complex thing you built with SRE: design choices, trade-offs and measurable results.",
+            "Walk me through the most complex thing you built with Kubernetes: design choices, trade-offs and measurable results.",
+            "Walk me through the most complex thing you built with AWS: design choices, trade-offs and measurable results."
+          ]
+        }
+      },
+      {
+        "step": 4,
+        "name": "Report synthesis",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 0,
+        "output": {
+          "verdict": "strong_match",
+          "headline": "Strong match for Site Reliability Engineer (DevOps): strong in SRE, Kubernetes, AWS",
+          "executive_summary": "In\u00e8s Moreau (DevOps Engineer, 5.8 yrs in technical roles) shows clear evidence of SRE, Kubernetes, AWS. No must-have skill is entirely missing. Experience: 5.8 years in technical roles vs 4+ required.",
+          "hiring_recommendation": "Advance to technical interviews; verify depth on the listed strengths."
+        }
+      }
+    ],
+    "generated_at": "2026-11-15T17:58:39+00:00"
+  },
+  {
+    "job_id": "J05",
+    "resume_id": "R46",
+    "candidate_name": "Maya Cohen",
+    "job_title": "Site Reliability Engineer (DevOps)",
+    "fit_score": 96,
+    "verdict": "strong_match",
+    "headline": "Strong match for Site Reliability Engineer (DevOps): strong in SRE, Kubernetes, AWS",
+    "executive_summary": "Maya Cohen (Cloud Infrastructure Engineer (AWS), 6.6 yrs in technical roles) shows clear evidence of SRE, Kubernetes, AWS. No must-have skill is entirely missing. Partially covered: Helm. The high/medium-priority plan totals roughly 2 weeks of part-time effort. Experience: 6.6 years in technical roles vs 4+ required.",
+    "hiring_recommendation": "Advance to technical interviews; verify depth on the listed strengths.",
+    "experience_fit": "meets",
+    "experience_note": "6.6 years in technical roles vs 4+ required.",
+    "assessments": [
+      {
+        "skill": "SRE",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Built Datadog monitors and SLO dashboards; weekly on-call rotation; led the postmortems for two regional outages and tracked every action item to closure.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Kubernetes",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Listed in skills (not named in role bullets; backed by 6.6 yrs of technical experience)",
+        "transferable_from": []
+      },
+      {
+        "skill": "AWS",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Own the Terraform for 14 AWS accounts (landing zone, Transit Gateway networking, IAM Identity Center) with an Atlantis pull-request workflow and Checkov policy checks.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Helm",
+        "importance": "required",
+        "status": "partial",
+        "evidence": "Transferable experience with Kubernetes, Docker",
+        "transferable_from": [
+          "Kubernetes",
+          "Docker"
+        ]
+      },
+      {
+        "skill": "Terraform",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Own the Terraform for 14 AWS accounts (landing zone, Transit Gateway networking, IAM Identity Center) with an Atlantis pull-request workflow and Checkov policy checks.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Networking",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Own the Terraform for 14 AWS accounts (landing zone, Transit Gateway networking, IAM Identity Center) with an Atlantis pull-request workflow and Checkov policy checks.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Observability / Prometheus / Grafana / Elasticsearch",
+        "importance": "required",
+        "status": "met",
+        "evidence": "[Observability] Built Datadog monitors and SLO dashboards; weekly on-call rotation; led the postmortems for two regional outages and tracked every action item to closure.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Python / Go / Bash",
+        "importance": "required",
+        "status": "met",
+        "evidence": "[Python] Listed in skills (not named in role bullets; backed by 6.6 yrs of technical experience)",
+        "transferable_from": []
+      },
+      {
+        "skill": "CI/CD",
+        "importance": "preferred",
+        "status": "met",
+        "evidence": "Run 60 services on ECS Fargate and 200 Lambda functions with blue/green deployments from GitHub Actions.",
+        "transferable_from": []
+      }
+    ],
+    "strengths": [
+      {
+        "skill": "SRE",
+        "evidence": "Built Datadog monitors and SLO dashboards; weekly on-call rotation; led the postmortems for two regional outages and tracked every action item to closure."
+      },
+      {
+        "skill": "Kubernetes",
+        "evidence": "Listed in skills (not named in role bullets; backed by 6.6 yrs of technical experience)"
+      },
+      {
+        "skill": "AWS",
+        "evidence": "Own the Terraform for 14 AWS accounts (landing zone, Transit Gateway networking, IAM Identity Center) with an Atlantis pull-request workflow and Checkov policy checks."
+      },
+      {
+        "skill": "Terraform",
+        "evidence": "Own the Terraform for 14 AWS accounts (landing zone, Transit Gateway networking, IAM Identity Center) with an Atlantis pull-request workflow and Checkov policy checks."
+      },
+      {
+        "skill": "Networking",
+        "evidence": "Own the Terraform for 14 AWS accounts (landing zone, Transit Gateway networking, IAM Identity Center) with an Atlantis pull-request workflow and Checkov policy checks."
+      },
+      {
+        "skill": "Observability / Prometheus / Grafana / Elasticsearch",
+        "evidence": "[Observability] Built Datadog monitors and SLO dashboards; weekly on-call rotation; led the postmortems for two regional outages and tracked every action item to closure."
+      }
+    ],
+    "gaps": [
+      {
+        "skill": "Helm",
+        "importance": "required",
+        "severity": "moderate",
+        "reason": "Listed as a must-have for this role. Partly offset by Kubernetes, Docker.",
+        "transferable_from": [
+          "Kubernetes",
+          "Docker"
+        ]
+      }
+    ],
+    "recommendations": [
+      {
+        "skill": "Helm",
+        "action": "Build a small project that uses Helm the way a Site Reliability Engineer (DevOps) would - leverage existing Kubernetes, Docker experience",
+        "type": "certification",
+        "resource_hint": "the vendor's associate-level certification",
+        "effort_weeks": 2.0,
+        "priority": "medium"
+      }
+    ],
+    "interview_questions": [
+      "You haven't used Helm directly - how would your Kubernetes experience carry over, and what would you need to learn first?",
+      "Walk me through the most complex thing you built with SRE: design choices, trade-offs and measurable results.",
+      "Walk me through the most complex thing you built with Kubernetes: design choices, trade-offs and measurable results.",
+      "Walk me through the most complex thing you built with AWS: design choices, trade-offs and measurable results."
+    ],
+    "chain_trace": [
+      {
+        "step": 1,
+        "name": "Requirement alignment",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 93,
+        "output": {
+          "assessments": [
+            {
+              "skill": "SRE",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Built Datadog monitors and SLO dashboards; weekly on-call rotation; led the postmortems for two regional outages and tracked every action item to closure.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Kubernetes",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Listed in skills (not named in role bullets; backed by 6.6 yrs of technical experience)",
+              "transferable_from": []
+            },
+            {
+              "skill": "AWS",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Own the Terraform for 14 AWS accounts (landing zone, Transit Gateway networking, IAM Identity Center) with an Atlantis pull-request workflow and Checkov policy checks.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Helm",
+              "importance": "required",
+              "status": "partial",
+              "evidence": "Transferable experience with Kubernetes, Docker",
+              "transferable_from": [
+                "Kubernetes",
+                "Docker"
+              ]
+            },
+            {
+              "skill": "Terraform",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Own the Terraform for 14 AWS accounts (landing zone, Transit Gateway networking, IAM Identity Center) with an Atlantis pull-request workflow and Checkov policy checks.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Networking",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Own the Terraform for 14 AWS accounts (landing zone, Transit Gateway networking, IAM Identity Center) with an Atlantis pull-request workflow and Checkov policy checks.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Observability / Prometheus / Grafana / Elasticsearch",
+              "importance": "required",
+              "status": "met",
+              "evidence": "[Observability] Built Datadog monitors and SLO dashboards; weekly on-call rotation; led the postmortems for two regional outages and tracked every action item to closure.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Python / Go / Bash",
+              "importance": "required",
+              "status": "met",
+              "evidence": "[Python] Listed in skills (not named in role bullets; backed by 6.6 yrs of technical experience)",
+              "transferable_from": []
+            },
+            {
+              "skill": "CI/CD",
+              "importance": "preferred",
+              "status": "met",
+              "evidence": "Run 60 services on ECS Fargate and 200 Lambda functions with blue/green deployments from GitHub Actions.",
+              "transferable_from": []
+            }
+          ],
+          "experience_fit": "meets",
+          "experience_note": "6.6 years in technical roles vs 4+ required."
+        }
+      },
+      {
+        "step": 2,
+        "name": "Gap prioritisation",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 7,
+        "output": {
+          "strengths": [
+            {
+              "skill": "SRE",
+              "evidence": "Built Datadog monitors and SLO dashboards; weekly on-call rotation; led the postmortems for two regional outages and tracked every action item to closure."
+            },
+            {
+              "skill": "Kubernetes",
+              "evidence": "Listed in skills (not named in role bullets; backed by 6.6 yrs of technical experience)"
+            },
+            {
+              "skill": "AWS",
+              "evidence": "Own the Terraform for 14 AWS accounts (landing zone, Transit Gateway networking, IAM Identity Center) with an Atlantis pull-request workflow and Checkov policy checks."
+            },
+            {
+              "skill": "Terraform",
+              "evidence": "Own the Terraform for 14 AWS accounts (landing zone, Transit Gateway networking, IAM Identity Center) with an Atlantis pull-request workflow and Checkov policy checks."
+            },
+            {
+              "skill": "Networking",
+              "evidence": "Own the Terraform for 14 AWS accounts (landing zone, Transit Gateway networking, IAM Identity Center) with an Atlantis pull-request workflow and Checkov policy checks."
+            },
+            {
+              "skill": "Observability / Prometheus / Grafana / Elasticsearch",
+              "evidence": "[Observability] Built Datadog monitors and SLO dashboards; weekly on-call rotation; led the postmortems for two regional outages and tracked every action item to closure."
+            }
+          ],
+          "gaps": [
+            {
+              "skill": "Helm",
+              "importance": "required",
+              "severity": "moderate",
+              "reason": "Listed as a must-have for this role. Partly offset by Kubernetes, Docker.",
+              "transferable_from": [
+                "Kubernetes",
+                "Docker"
+              ]
+            }
+          ],
+          "fit_score": 96,
+          "fit_rationale": "Covers 94% of required and 100% of preferred skills (partial/undemonstrated at half credit); 88% of must-haves are demonstrated in technical roles; experience meets the bar."
+        }
+      },
+      {
+        "step": 3,
+        "name": "Recommendations",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 0,
+        "output": {
+          "recommendations": [
+            {
+              "skill": "Helm",
+              "action": "Build a small project that uses Helm the way a Site Reliability Engineer (DevOps) would - leverage existing Kubernetes, Docker experience",
+              "type": "certification",
+              "resource_hint": "the vendor's associate-level certification",
+              "effort_weeks": 2.0,
+              "priority": "medium"
+            }
+          ],
+          "interview_questions": [
+            "You haven't used Helm directly - how would your Kubernetes experience carry over, and what would you need to learn first?",
+            "Walk me through the most complex thing you built with SRE: design choices, trade-offs and measurable results.",
+            "Walk me through the most complex thing you built with Kubernetes: design choices, trade-offs and measurable results.",
+            "Walk me through the most complex thing you built with AWS: design choices, trade-offs and measurable results."
+          ]
+        }
+      },
+      {
+        "step": 4,
+        "name": "Report synthesis",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 0,
+        "output": {
+          "verdict": "strong_match",
+          "headline": "Strong match for Site Reliability Engineer (DevOps): strong in SRE, Kubernetes, AWS",
+          "executive_summary": "Maya Cohen (Cloud Infrastructure Engineer (AWS), 6.6 yrs in technical roles) shows clear evidence of SRE, Kubernetes, AWS. No must-have skill is entirely missing. Partially covered: Helm. The high/medium-priority plan totals roughly 2 weeks of part-time effort. Experience: 6.6 years in technical roles vs 4+ required.",
+          "hiring_recommendation": "Advance to technical interviews; verify depth on the listed strengths."
+        }
+      }
+    ],
+    "generated_at": "2026-11-15T17:58:39+00:00"
+  },
+  {
+    "job_id": "J05",
+    "resume_id": "R30",
+    "candidate_name": "Omar Haddad",
+    "job_title": "Site Reliability Engineer (DevOps)",
+    "fit_score": 95,
+    "verdict": "strong_match",
+    "headline": "Strong match for Site Reliability Engineer (DevOps): strong in SRE, Kubernetes, Helm",
+    "executive_summary": "Omar Haddad (Senior DevOps Engineer (Microsoft Azure), 9.7 yrs in technical roles) shows clear evidence of SRE, Kubernetes, Helm. No must-have skill is entirely missing. Partially covered: AWS. The high/medium-priority plan totals roughly 3 weeks of part-time effort. Experience: 9.7 years in technical roles vs 4+ required.",
+    "hiring_recommendation": "Advance to technical interviews; verify depth on the listed strengths.",
+    "experience_fit": "exceeds",
+    "experience_note": "9.7 years in technical roles vs 4+ required.",
+    "assessments": [
+      {
+        "skill": "SRE",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Set up Prometheus, Grafana and Application Insights dashboards and defined alerting for 60 services; on-call lead for the platform team.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Kubernetes",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Listed in skills (not named in role bullets; backed by 9.7 yrs of technical experience)",
+        "transferable_from": []
+      },
+      {
+        "skill": "AWS",
+        "importance": "required",
+        "status": "partial",
+        "evidence": "Transferable experience with Azure",
+        "transferable_from": [
+          "Azure"
+        ]
+      },
+      {
+        "skill": "Helm",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Listed in skills (not named in role bullets; backed by 9.7 yrs of technical experience)",
+        "transferable_from": []
+      },
+      {
+        "skill": "Terraform",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Built Terraform modules for Azure landing zones (hub-and-spoke networking, private endpoints, policy assignments).",
+        "transferable_from": []
+      },
+      {
+        "skill": "Networking",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Built Terraform modules for Azure landing zones (hub-and-spoke networking, private endpoints, policy assignments).",
+        "transferable_from": []
+      },
+      {
+        "skill": "Observability / Prometheus / Grafana / Elasticsearch",
+        "importance": "required",
+        "status": "met",
+        "evidence": "[Observability] Set up Prometheus, Grafana and Application Insights dashboards and defined alerting for 60 services; on-call lead for the platform team.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Python / Go / Bash",
+        "importance": "required",
+        "status": "met",
+        "evidence": "[Python] Listed in skills (not named in role bullets; backed by 9.7 yrs of technical experience)",
+        "transferable_from": []
+      },
+      {
+        "skill": "CI/CD",
+        "importance": "preferred",
+        "status": "met",
+        "evidence": "Listed in skills (not named in role bullets; backed by 9.7 yrs of technical experience)",
+        "transferable_from": []
+      }
+    ],
+    "strengths": [
+      {
+        "skill": "SRE",
+        "evidence": "Set up Prometheus, Grafana and Application Insights dashboards and defined alerting for 60 services; on-call lead for the platform team."
+      },
+      {
+        "skill": "Kubernetes",
+        "evidence": "Listed in skills (not named in role bullets; backed by 9.7 yrs of technical experience)"
+      },
+      {
+        "skill": "Helm",
+        "evidence": "Listed in skills (not named in role bullets; backed by 9.7 yrs of technical experience)"
+      },
+      {
+        "skill": "Terraform",
+        "evidence": "Built Terraform modules for Azure landing zones (hub-and-spoke networking, private endpoints, policy assignments)."
+      },
+      {
+        "skill": "Networking",
+        "evidence": "Built Terraform modules for Azure landing zones (hub-and-spoke networking, private endpoints, policy assignments)."
+      },
+      {
+        "skill": "Observability / Prometheus / Grafana / Elasticsearch",
+        "evidence": "[Observability] Set up Prometheus, Grafana and Application Insights dashboards and defined alerting for 60 services; on-call lead for the platform team."
+      }
+    ],
+    "gaps": [
+      {
+        "skill": "AWS",
+        "importance": "required",
+        "severity": "moderate",
+        "reason": "Listed as a must-have for this role. Partly offset by Azure.",
+        "transferable_from": [
+          "Azure"
+        ]
+      }
+    ],
+    "recommendations": [
+      {
+        "skill": "AWS",
+        "action": "Build and deploy a service using EC2/ECS, S3, IAM and CloudWatch - leverage existing Azure experience",
+        "type": "certification",
+        "resource_hint": "AWS Solutions Architect - Associate",
+        "effort_weeks": 3.0,
+        "priority": "medium"
+      }
+    ],
+    "interview_questions": [
+      "You haven't used AWS directly - how would your Azure experience carry over, and what would you need to learn first?",
+      "Walk me through the most complex thing you built with SRE: design choices, trade-offs and measurable results.",
+      "Walk me through the most complex thing you built with Kubernetes: design choices, trade-offs and measurable results.",
+      "Walk me through the most complex thing you built with Helm: design choices, trade-offs and measurable results."
+    ],
+    "chain_trace": [
+      {
+        "step": 1,
+        "name": "Requirement alignment",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 128,
+        "output": {
+          "assessments": [
+            {
+              "skill": "SRE",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Set up Prometheus, Grafana and Application Insights dashboards and defined alerting for 60 services; on-call lead for the platform team.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Kubernetes",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Listed in skills (not named in role bullets; backed by 9.7 yrs of technical experience)",
+              "transferable_from": []
+            },
+            {
+              "skill": "AWS",
+              "importance": "required",
+              "status": "partial",
+              "evidence": "Transferable experience with Azure",
+              "transferable_from": [
+                "Azure"
+              ]
+            },
+            {
+              "skill": "Helm",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Listed in skills (not named in role bullets; backed by 9.7 yrs of technical experience)",
+              "transferable_from": []
+            },
+            {
+              "skill": "Terraform",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Built Terraform modules for Azure landing zones (hub-and-spoke networking, private endpoints, policy assignments).",
+              "transferable_from": []
+            },
+            {
+              "skill": "Networking",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Built Terraform modules for Azure landing zones (hub-and-spoke networking, private endpoints, policy assignments).",
+              "transferable_from": []
+            },
+            {
+              "skill": "Observability / Prometheus / Grafana / Elasticsearch",
+              "importance": "required",
+              "status": "met",
+              "evidence": "[Observability] Set up Prometheus, Grafana and Application Insights dashboards and defined alerting for 60 services; on-call lead for the platform team.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Python / Go / Bash",
+              "importance": "required",
+              "status": "met",
+              "evidence": "[Python] Listed in skills (not named in role bullets; backed by 9.7 yrs of technical experience)",
+              "transferable_from": []
+            },
+            {
+              "skill": "CI/CD",
+              "importance": "preferred",
+              "status": "met",
+              "evidence": "Listed in skills (not named in role bullets; backed by 9.7 yrs of technical experience)",
+              "transferable_from": []
+            }
+          ],
+          "experience_fit": "exceeds",
+          "experience_note": "9.7 years in technical roles vs 4+ required."
+        }
+      },
+      {
+        "step": 2,
+        "name": "Gap prioritisation",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 6,
+        "output": {
+          "strengths": [
+            {
+              "skill": "SRE",
+              "evidence": "Set up Prometheus, Grafana and Application Insights dashboards and defined alerting for 60 services; on-call lead for the platform team."
+            },
+            {
+              "skill": "Kubernetes",
+              "evidence": "Listed in skills (not named in role bullets; backed by 9.7 yrs of technical experience)"
+            },
+            {
+              "skill": "Helm",
+              "evidence": "Listed in skills (not named in role bullets; backed by 9.7 yrs of technical experience)"
+            },
+            {
+              "skill": "Terraform",
+              "evidence": "Built Terraform modules for Azure landing zones (hub-and-spoke networking, private endpoints, policy assignments)."
+            },
+            {
+              "skill": "Networking",
+              "evidence": "Built Terraform modules for Azure landing zones (hub-and-spoke networking, private endpoints, policy assignments)."
+            },
+            {
+              "skill": "Observability / Prometheus / Grafana / Elasticsearch",
+              "evidence": "[Observability] Set up Prometheus, Grafana and Application Insights dashboards and defined alerting for 60 services; on-call lead for the platform team."
+            }
+          ],
+          "gaps": [
+            {
+              "skill": "AWS",
+              "importance": "required",
+              "severity": "moderate",
+              "reason": "Listed as a must-have for this role. Partly offset by Azure.",
+              "transferable_from": [
+                "Azure"
+              ]
+            }
+          ],
+          "fit_score": 95,
+          "fit_rationale": "Covers 94% of required and 100% of preferred skills (partial/undemonstrated at half credit); 88% of must-haves are demonstrated in technical roles; experience exceeds the bar."
+        }
+      },
+      {
+        "step": 3,
+        "name": "Recommendations",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 0,
+        "output": {
+          "recommendations": [
+            {
+              "skill": "AWS",
+              "action": "Build and deploy a service using EC2/ECS, S3, IAM and CloudWatch - leverage existing Azure experience",
+              "type": "certification",
+              "resource_hint": "AWS Solutions Architect - Associate",
+              "effort_weeks": 3.0,
+              "priority": "medium"
+            }
+          ],
+          "interview_questions": [
+            "You haven't used AWS directly - how would your Azure experience carry over, and what would you need to learn first?",
+            "Walk me through the most complex thing you built with SRE: design choices, trade-offs and measurable results.",
+            "Walk me through the most complex thing you built with Kubernetes: design choices, trade-offs and measurable results.",
+            "Walk me through the most complex thing you built with Helm: design choices, trade-offs and measurable results."
+          ]
+        }
+      },
+      {
+        "step": 4,
+        "name": "Report synthesis",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 0,
+        "output": {
+          "verdict": "strong_match",
+          "headline": "Strong match for Site Reliability Engineer (DevOps): strong in SRE, Kubernetes, Helm",
+          "executive_summary": "Omar Haddad (Senior DevOps Engineer (Microsoft Azure), 9.7 yrs in technical roles) shows clear evidence of SRE, Kubernetes, Helm. No must-have skill is entirely missing. Partially covered: AWS. The high/medium-priority plan totals roughly 3 weeks of part-time effort. Experience: 9.7 years in technical roles vs 4+ required.",
+          "hiring_recommendation": "Advance to technical interviews; verify depth on the listed strengths."
+        }
+      }
+    ],
+    "generated_at": "2026-11-15T17:58:39+00:00"
+  },
+  {
+    "job_id": "J05",
+    "resume_id": "R18",
+    "candidate_name": "Kwame Mensah",
+    "job_title": "Site Reliability Engineer (DevOps)",
+    "fit_score": 90,
+    "verdict": "strong_match",
+    "headline": "Strong match for Site Reliability Engineer (DevOps): strong in SRE, Kubernetes, AWS",
+    "executive_summary": "Kwame Mensah (Platform Engineer, 9.7 yrs in technical roles) shows clear evidence of SRE, Kubernetes, AWS. Critical gaps: Networking. The high/medium-priority plan totals roughly 4 weeks of part-time effort. Experience: 9.7 years in technical roles vs 4+ required.",
+    "hiring_recommendation": "Advance to technical interviews; verify depth on the listed strengths.",
+    "experience_fit": "exceeds",
+    "experience_note": "9.7 years in technical roles vs 4+ required.",
+    "assessments": [
+      {
+        "skill": "SRE",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Rolled out OTel tracing and Prometheus-based alerting; wrote the SLO playbook and act as incident commander in the on-call rotation.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Kubernetes",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Run the company's k8s platform on AWS (6 EKS clusters, about 400 workloads); moved node provisioning to Karpenter and cut compute spend by 31%.",
+        "transferable_from": []
+      },
+      {
+        "skill": "AWS",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Run the company's k8s platform on AWS (6 EKS clusters, about 400 workloads); moved node provisioning to Karpenter and cut compute spend by 31%.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Helm",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Built the GitOps flow with Argo CD and Helm that took deploys from twice a week to 40 a day.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Terraform",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Wrote and own the infra-as-code module library in HCL (VPC, IAM, RDS, MSK) used by nine product teams, with plan checks and policy tests on every pull request.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Networking",
+        "importance": "required",
+        "status": "missing",
+        "evidence": "No evidence",
+        "transferable_from": []
+      },
+      {
+        "skill": "Observability / Prometheus / Grafana / Elasticsearch",
+        "importance": "required",
+        "status": "met",
+        "evidence": "[Observability] Rolled out OTel tracing and Prometheus-based alerting; wrote the SLO playbook and act as incident commander in the on-call rotation.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Python / Go / Bash",
+        "importance": "required",
+        "status": "met",
+        "evidence": "[Python] Wrote Python and Bash tooling to automate certificate renewals and user access reviews.",
+        "transferable_from": []
+      },
+      {
+        "skill": "CI/CD",
+        "importance": "preferred",
+        "status": "met",
+        "evidence": "Built the GitOps flow with Argo CD and Helm that took deploys from twice a week to 40 a day.",
+        "transferable_from": []
+      }
+    ],
+    "strengths": [
+      {
+        "skill": "SRE",
+        "evidence": "Rolled out OTel tracing and Prometheus-based alerting; wrote the SLO playbook and act as incident commander in the on-call rotation."
+      },
+      {
+        "skill": "Kubernetes",
+        "evidence": "Run the company's k8s platform on AWS (6 EKS clusters, about 400 workloads); moved node provisioning to Karpenter and cut compute spend by 31%."
+      },
+      {
+        "skill": "AWS",
+        "evidence": "Run the company's k8s platform on AWS (6 EKS clusters, about 400 workloads); moved node provisioning to Karpenter and cut compute spend by 31%."
+      },
+      {
+        "skill": "Helm",
+        "evidence": "Built the GitOps flow with Argo CD and Helm that took deploys from twice a week to 40 a day."
+      },
+      {
+        "skill": "Terraform",
+        "evidence": "Wrote and own the infra-as-code module library in HCL (VPC, IAM, RDS, MSK) used by nine product teams, with plan checks and policy tests on every pull request."
+      },
+      {
+        "skill": "Observability / Prometheus / Grafana / Elasticsearch",
+        "evidence": "[Observability] Rolled out OTel tracing and Prometheus-based alerting; wrote the SLO playbook and act as incident commander in the on-call rotation."
+      }
+    ],
+    "gaps": [
+      {
+        "skill": "Networking",
+        "importance": "required",
+        "severity": "critical",
+        "reason": "Listed as a must-have for this role.",
+        "transferable_from": []
+      }
+    ],
+    "recommendations": [
+      {
+        "skill": "Networking",
+        "action": "Build a small project that uses Networking the way a Site Reliability Engineer (DevOps) would",
+        "type": "certification",
+        "resource_hint": "the vendor's associate-level certification",
+        "effort_weeks": 4.0,
+        "priority": "high"
+      }
+    ],
+    "interview_questions": [
+      "This role relies on Networking. What exposure have you had to it, and how would you ramp up in your first 60 days?",
+      "Walk me through the most complex thing you built with SRE: design choices, trade-offs and measurable results.",
+      "Walk me through the most complex thing you built with Kubernetes: design choices, trade-offs and measurable results.",
+      "Walk me through the most complex thing you built with AWS: design choices, trade-offs and measurable results."
+    ],
+    "chain_trace": [
+      {
+        "step": 1,
+        "name": "Requirement alignment",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 94,
+        "output": {
+          "assessments": [
+            {
+              "skill": "SRE",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Rolled out OTel tracing and Prometheus-based alerting; wrote the SLO playbook and act as incident commander in the on-call rotation.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Kubernetes",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Run the company's k8s platform on AWS (6 EKS clusters, about 400 workloads); moved node provisioning to Karpenter and cut compute spend by 31%.",
+              "transferable_from": []
+            },
+            {
+              "skill": "AWS",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Run the company's k8s platform on AWS (6 EKS clusters, about 400 workloads); moved node provisioning to Karpenter and cut compute spend by 31%.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Helm",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Built the GitOps flow with Argo CD and Helm that took deploys from twice a week to 40 a day.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Terraform",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Wrote and own the infra-as-code module library in HCL (VPC, IAM, RDS, MSK) used by nine product teams, with plan checks and policy tests on every pull request.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Networking",
+              "importance": "required",
+              "status": "missing",
+              "evidence": "No evidence",
+              "transferable_from": []
+            },
+            {
+              "skill": "Observability / Prometheus / Grafana / Elasticsearch",
+              "importance": "required",
+              "status": "met",
+              "evidence": "[Observability] Rolled out OTel tracing and Prometheus-based alerting; wrote the SLO playbook and act as incident commander in the on-call rotation.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Python / Go / Bash",
+              "importance": "required",
+              "status": "met",
+              "evidence": "[Python] Wrote Python and Bash tooling to automate certificate renewals and user access reviews.",
+              "transferable_from": []
+            },
+            {
+              "skill": "CI/CD",
+              "importance": "preferred",
+              "status": "met",
+              "evidence": "Built the GitOps flow with Argo CD and Helm that took deploys from twice a week to 40 a day.",
+              "transferable_from": []
+            }
+          ],
+          "experience_fit": "exceeds",
+          "experience_note": "9.7 years in technical roles vs 4+ required."
+        }
+      },
+      {
+        "step": 2,
+        "name": "Gap prioritisation",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 6,
+        "output": {
+          "strengths": [
+            {
+              "skill": "SRE",
+              "evidence": "Rolled out OTel tracing and Prometheus-based alerting; wrote the SLO playbook and act as incident commander in the on-call rotation."
+            },
+            {
+              "skill": "Kubernetes",
+              "evidence": "Run the company's k8s platform on AWS (6 EKS clusters, about 400 workloads); moved node provisioning to Karpenter and cut compute spend by 31%."
+            },
+            {
+              "skill": "AWS",
+              "evidence": "Run the company's k8s platform on AWS (6 EKS clusters, about 400 workloads); moved node provisioning to Karpenter and cut compute spend by 31%."
+            },
+            {
+              "skill": "Helm",
+              "evidence": "Built the GitOps flow with Argo CD and Helm that took deploys from twice a week to 40 a day."
+            },
+            {
+              "skill": "Terraform",
+              "evidence": "Wrote and own the infra-as-code module library in HCL (VPC, IAM, RDS, MSK) used by nine product teams, with plan checks and policy tests on every pull request."
+            },
+            {
+              "skill": "Observability / Prometheus / Grafana / Elasticsearch",
+              "evidence": "[Observability] Rolled out OTel tracing and Prometheus-based alerting; wrote the SLO playbook and act as incident commander in the on-call rotation."
+            }
+          ],
+          "gaps": [
+            {
+              "skill": "Networking",
+              "importance": "required",
+              "severity": "critical",
+              "reason": "Listed as a must-have for this role.",
+              "transferable_from": []
+            }
+          ],
+          "fit_score": 90,
+          "fit_rationale": "Covers 88% of required and 100% of preferred skills (partial/undemonstrated at half credit); 88% of must-haves are demonstrated in technical roles; experience exceeds the bar."
+        }
+      },
+      {
+        "step": 3,
+        "name": "Recommendations",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 0,
+        "output": {
+          "recommendations": [
+            {
+              "skill": "Networking",
+              "action": "Build a small project that uses Networking the way a Site Reliability Engineer (DevOps) would",
+              "type": "certification",
+              "resource_hint": "the vendor's associate-level certification",
+              "effort_weeks": 4.0,
+              "priority": "high"
+            }
+          ],
+          "interview_questions": [
+            "This role relies on Networking. What exposure have you had to it, and how would you ramp up in your first 60 days?",
+            "Walk me through the most complex thing you built with SRE: design choices, trade-offs and measurable results.",
+            "Walk me through the most complex thing you built with Kubernetes: design choices, trade-offs and measurable results.",
+            "Walk me through the most complex thing you built with AWS: design choices, trade-offs and measurable results."
+          ]
+        }
+      },
+      {
+        "step": 4,
+        "name": "Report synthesis",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 0,
+        "output": {
+          "verdict": "strong_match",
+          "headline": "Strong match for Site Reliability Engineer (DevOps): strong in SRE, Kubernetes, AWS",
+          "executive_summary": "Kwame Mensah (Platform Engineer, 9.7 yrs in technical roles) shows clear evidence of SRE, Kubernetes, AWS. Critical gaps: Networking. The high/medium-priority plan totals roughly 4 weeks of part-time effort. Experience: 9.7 years in technical roles vs 4+ required.",
+          "hiring_recommendation": "Advance to technical interviews; verify depth on the listed strengths."
+        }
+      }
+    ],
+    "generated_at": "2026-11-15T17:58:39+00:00"
+  }
+]

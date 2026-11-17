@@ -1,0 +1,32 @@
+Yusuf Demir
+yusuf.demir@example.com | +31-555-0147 | Amsterdam, Netherlands
+Senior Backend Engineer (Python / Go)
+
+Summary
+Backend engineer with ten years of experience, mostly in small startup teams where engineers own their services end to end, including the k8s cluster they run on. Strongest in API design, Postgres data modelling and keeping services cheap and reliable.
+
+Technical Skills
+Backend: Python (FastAPI, Django), Go, gRPC, REST, Celery
+Data: PostgreSQL, Redis, RabbitMQ, Kafka
+Infrastructure: Kubernetes (EKS), Helm, Terraform, AWS, Docker, GitHub Actions, Prometheus, Grafana
+
+Work Experience
+Senior Backend Engineer, Grachten Mobility (ride-sharing startup, 40 engineers)
+May 2021 – Present
+- Built and own the trips and pricing services (Go, gRPC) serving 3,000 requests per second at peak.
+- Designed the PostgreSQL schema and monthly partitioning for trip history (1.4 billion rows) with zero-downtime migrations.
+- The company has no dedicated ops team, so I set up and still maintain our EKS cluster with Terraform and Helm, plus the Prometheus and Grafana dashboards; I am on call one week in four.
+- Cut the AWS bill by 28% by rightsizing nodes and moving batch jobs to spot instances.
+
+Backend Developer, Bosphorus Commerce
+2018 - 2021
+- Built Python/Django REST APIs for a marketplace with 500,000 users.
+- Split the monolith into six services communicating through RabbitMQ, with idempotent consumers and retry queues.
+- Raised integration test coverage from 30% to 80% using pytest and Testcontainers.
+
+Junior Software Developer, Anatolia Systems
+2016 - 2018
+- Wrote PHP and Python internal tools for an insurance broker.
+
+Education
+BSc Computer Engineering, Middle East Technical University, 2016

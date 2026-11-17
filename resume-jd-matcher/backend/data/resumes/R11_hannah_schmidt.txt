@@ -1,0 +1,34 @@
+Hannah Schmidt
+hannah.schmidt@example.com | +49-555-0193 | Munich, Germany
+Data Engineer – Analytics Platform
+
+Profile
+Five years in analytics. I started as a data analyst building dashboards and presenting trading results to leadership, and now work as a data engineer on the analytics platform team, doing analytics engineering: I own the dbt and Airflow layer on Snowflake. I sit between the data platform and the business and translate in both directions.
+
+Skills
+SQL (advanced), dbt, Snowflake, Airflow, Python, Looker (LookML), Tableau, dimensional modelling (Kimball), Git, data testing, Excel, stakeholder management
+
+Professional Experience
+Data Engineer (Analytics Engineering), Isar Commerce GmbH (online fashion retailer)
+Jan 2024 – Present
+- Rebuilt the reporting layer as 180 dbt models (staging, intermediate, marts) with star schemas for orders, returns and marketing spend.
+- Orchestrate dbt runs and ingestion jobs in Airflow, with freshness checks and alerts to the owning team.
+- Own the Looker semantic layer; a single definition of net revenue ended a two-year argument between Finance and Marketing.
+- Run the monthly metrics council with Finance, Marketing and Logistics leads.
+
+Data Analyst, Isar Commerce GmbH
+June 2022 to Dec 2023
+- Built 20+ Tableau dashboards on sales, returns and customer retention for country managers.
+- Presented the weekly trading report to the leadership team and ran deep dives on return-rate drivers.
+- Analysed A/B tests on checkout and free-returns messaging with the product team.
+
+Working Student, Business Intelligence, Bavaria Versicherung AG
+2021 - 2022
+- Maintained Excel and SQL reports for the claims department.
+
+Education
+M.Sc. Data Science, Ludwig Maximilian University of Munich, 2022
+B.Sc. Economics, University of Mannheim, 2019
+
+Certifications
+dbt Analytics Engineering Certification (2024)

@@ -1,0 +1,2158 @@
+[
+  {
+    "job_id": "J02",
+    "resume_id": "R02",
+    "candidate_name": "Marcus Johnson",
+    "job_title": "Data Analyst",
+    "fit_score": 96,
+    "verdict": "strong_match",
+    "headline": "Strong match for Data Analyst: strong in Data Analysis, SQL, Data Visualization / Tableau / Power BI / Looker",
+    "executive_summary": "Marcus Johnson (Data Analyst, 6.3 yrs in technical roles) shows clear evidence of Data Analysis, SQL, Data Visualization / Tableau / Power BI / Looker. No must-have skill is entirely missing. Experience: 6.3 years in technical roles vs 2+ required.",
+    "hiring_recommendation": "Advance to technical interviews; verify depth on the listed strengths.",
+    "experience_fit": "exceeds",
+    "experience_note": "6.3 years in technical roles vs 2+ required.",
+    "assessments": [
+      {
+        "skill": "Data Analysis",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Automated data pulls from Google Analytics and ad platforms with SQL and Python, saving about 10 hours a week.",
+        "transferable_from": []
+      },
+      {
+        "skill": "SQL",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Wrote SQL with CTEs and window functions on Snowflake to build a customer cohort model that identified free-shipping thresholds as a major churn driver; the resulting policy change lifted repeat purchase rate by 6%.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Data Visualization / Tableau / Power BI / Looker",
+        "importance": "required",
+        "status": "met",
+        "evidence": "[Data Visualization] Built and maintain 14 Tableau dashboards (conversion funnel, retention cohorts, promotion ROI) used by 120 employees; retired 9 duplicate reports.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Excel",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Produced monthly campaign performance reports in Excel and Google Data Studio for 12 retail clients.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Communication",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Listed in skills (not named in role bullets; backed by 6.3 yrs of technical experience)",
+        "transferable_from": []
+      },
+      {
+        "skill": "Stakeholder Management",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Partner with the experimentation team on 30+ A/B test readouts, including sample-size planning and significance testing.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Statistics",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Partner with the experimentation team on 30+ A/B test readouts, including sample-size planning and significance testing.",
+        "transferable_from": []
+      },
+      {
+        "skill": "A/B Testing",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Partner with the experimentation team on 30+ A/B test readouts, including sample-size planning and significance testing.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Python / R / Pandas",
+        "importance": "preferred",
+        "status": "met",
+        "evidence": "[Python] Automated data pulls from Google Analytics and ad platforms with SQL and Python, saving about 10 hours a week.",
+        "transferable_from": []
+      },
+      {
+        "skill": "dbt / Data Warehousing",
+        "importance": "preferred",
+        "status": "partial",
+        "evidence": "Transferable experience with BigQuery, Snowflake",
+        "transferable_from": [
+          "BigQuery",
+          "Snowflake"
+        ]
+      },
+      {
+        "skill": "Snowflake",
+        "importance": "preferred",
+        "status": "met",
+        "evidence": "Wrote SQL with CTEs and window functions on Snowflake to build a customer cohort model that identified free-shipping thresholds as a major churn driver; the resulting policy change lifted repeat purchase rate by 6%.",
+        "transferable_from": []
+      }
+    ],
+    "strengths": [
+      {
+        "skill": "Data Analysis",
+        "evidence": "Automated data pulls from Google Analytics and ad platforms with SQL and Python, saving about 10 hours a week."
+      },
+      {
+        "skill": "SQL",
+        "evidence": "Wrote SQL with CTEs and window functions on Snowflake to build a customer cohort model that identified free-shipping thresholds as a major churn driver; the resulting policy change lifted repeat purchase rate by 6%."
+      },
+      {
+        "skill": "Data Visualization / Tableau / Power BI / Looker",
+        "evidence": "[Data Visualization] Built and maintain 14 Tableau dashboards (conversion funnel, retention cohorts, promotion ROI) used by 120 employees; retired 9 duplicate reports."
+      },
+      {
+        "skill": "Excel",
+        "evidence": "Produced monthly campaign performance reports in Excel and Google Data Studio for 12 retail clients."
+      },
+      {
+        "skill": "Communication",
+        "evidence": "Listed in skills (not named in role bullets; backed by 6.3 yrs of technical experience)"
+      },
+      {
+        "skill": "Stakeholder Management",
+        "evidence": "Partner with the experimentation team on 30+ A/B test readouts, including sample-size planning and significance testing."
+      }
+    ],
+    "gaps": [
+      {
+        "skill": "dbt / Data Warehousing",
+        "importance": "preferred",
+        "severity": "minor",
+        "reason": "Nice-to-have that would speed up onboarding. Partly offset by BigQuery, Snowflake.",
+        "transferable_from": [
+          "BigQuery",
+          "Snowflake"
+        ]
+      }
+    ],
+    "recommendations": [
+      {
+        "skill": "dbt / Data Warehousing",
+        "action": "(any one of dbt, Data Warehousing) Design a star schema for a business process and load it - leverage existing BigQuery, Snowflake experience",
+        "type": "reading",
+        "resource_hint": "'The Data Warehouse Toolkit' (Kimball)",
+        "effort_weeks": 1.0,
+        "priority": "low"
+      }
+    ],
+    "interview_questions": [
+      "You haven't used dbt / Data Warehousing directly - how would your BigQuery experience carry over, and what would you need to learn first?",
+      "Walk me through the most complex thing you built with Data Analysis: design choices, trade-offs and measurable results.",
+      "Walk me through the most complex thing you built with SQL: design choices, trade-offs and measurable results.",
+      "Walk me through the most complex thing you built with Data Visualization / Tableau / Power BI / Looker: design choices, trade-offs and measurable results."
+    ],
+    "chain_trace": [
+      {
+        "step": 1,
+        "name": "Requirement alignment",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 242,
+        "output": {
+          "assessments": [
+            {
+              "skill": "Data Analysis",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Automated data pulls from Google Analytics and ad platforms with SQL and Python, saving about 10 hours a week.",
+              "transferable_from": []
+            },
+            {
+              "skill": "SQL",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Wrote SQL with CTEs and window functions on Snowflake to build a customer cohort model that identified free-shipping thresholds as a major churn driver; the resulting policy change lifted repeat purchase rate by 6%.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Data Visualization / Tableau / Power BI / Looker",
+              "importance": "required",
+              "status": "met",
+              "evidence": "[Data Visualization] Built and maintain 14 Tableau dashboards (conversion funnel, retention cohorts, promotion ROI) used by 120 employees; retired 9 duplicate reports.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Excel",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Produced monthly campaign performance reports in Excel and Google Data Studio for 12 retail clients.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Communication",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Listed in skills (not named in role bullets; backed by 6.3 yrs of technical experience)",
+              "transferable_from": []
+            },
+            {
+              "skill": "Stakeholder Management",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Partner with the experimentation team on 30+ A/B test readouts, including sample-size planning and significance testing.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Statistics",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Partner with the experimentation team on 30+ A/B test readouts, including sample-size planning and significance testing.",
+              "transferable_from": []
+            },
+            {
+              "skill": "A/B Testing",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Partner with the experimentation team on 30+ A/B test readouts, including sample-size planning and significance testing.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Python / R / Pandas",
+              "importance": "preferred",
+              "status": "met",
+              "evidence": "[Python] Automated data pulls from Google Analytics and ad platforms with SQL and Python, saving about 10 hours a week.",
+              "transferable_from": []
+            },
+            {
+              "skill": "dbt / Data Warehousing",
+              "importance": "preferred",
+              "status": "partial",
+              "evidence": "Transferable experience with BigQuery, Snowflake",
+              "transferable_from": [
+                "BigQuery",
+                "Snowflake"
+              ]
+            },
+            {
+              "skill": "Snowflake",
+              "importance": "preferred",
+              "status": "met",
+              "evidence": "Wrote SQL with CTEs and window functions on Snowflake to build a customer cohort model that identified free-shipping thresholds as a major churn driver; the resulting policy change lifted repeat purchase rate by 6%.",
+              "transferable_from": []
+            }
+          ],
+          "experience_fit": "exceeds",
+          "experience_note": "6.3 years in technical roles vs 2+ required."
+        }
+      },
+      {
+        "step": 2,
+        "name": "Gap prioritisation",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 7,
+        "output": {
+          "strengths": [
+            {
+              "skill": "Data Analysis",
+              "evidence": "Automated data pulls from Google Analytics and ad platforms with SQL and Python, saving about 10 hours a week."
+            },
+            {
+              "skill": "SQL",
+              "evidence": "Wrote SQL with CTEs and window functions on Snowflake to build a customer cohort model that identified free-shipping thresholds as a major churn driver; the resulting policy change lifted repeat purchase rate by 6%."
+            },
+            {
+              "skill": "Data Visualization / Tableau / Power BI / Looker",
+              "evidence": "[Data Visualization] Built and maintain 14 Tableau dashboards (conversion funnel, retention cohorts, promotion ROI) used by 120 employees; retired 9 duplicate reports."
+            },
+            {
+              "skill": "Excel",
+              "evidence": "Produced monthly campaign performance reports in Excel and Google Data Studio for 12 retail clients."
+            },
+            {
+              "skill": "Communication",
+              "evidence": "Listed in skills (not named in role bullets; backed by 6.3 yrs of technical experience)"
+            },
+            {
+              "skill": "Stakeholder Management",
+              "evidence": "Partner with the experimentation team on 30+ A/B test readouts, including sample-size planning and significance testing."
+            }
+          ],
+          "gaps": [
+            {
+              "skill": "dbt / Data Warehousing",
+              "importance": "preferred",
+              "severity": "minor",
+              "reason": "Nice-to-have that would speed up onboarding. Partly offset by BigQuery, Snowflake.",
+              "transferable_from": [
+                "BigQuery",
+                "Snowflake"
+              ]
+            }
+          ],
+          "fit_score": 96,
+          "fit_rationale": "Covers 100% of required and 83% of preferred skills (partial/undemonstrated at half credit); 100% of must-haves are demonstrated in technical roles; experience exceeds the bar."
+        }
+      },
+      {
+        "step": 3,
+        "name": "Recommendations",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 0,
+        "output": {
+          "recommendations": [
+            {
+              "skill": "dbt / Data Warehousing",
+              "action": "(any one of dbt, Data Warehousing) Design a star schema for a business process and load it - leverage existing BigQuery, Snowflake experience",
+              "type": "reading",
+              "resource_hint": "'The Data Warehouse Toolkit' (Kimball)",
+              "effort_weeks": 1.0,
+              "priority": "low"
+            }
+          ],
+          "interview_questions": [
+            "You haven't used dbt / Data Warehousing directly - how would your BigQuery experience carry over, and what would you need to learn first?",
+            "Walk me through the most complex thing you built with Data Analysis: design choices, trade-offs and measurable results.",
+            "Walk me through the most complex thing you built with SQL: design choices, trade-offs and measurable results.",
+            "Walk me through the most complex thing you built with Data Visualization / Tableau / Power BI / Looker: design choices, trade-offs and measurable results."
+          ]
+        }
+      },
+      {
+        "step": 4,
+        "name": "Report synthesis",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 0,
+        "output": {
+          "verdict": "strong_match",
+          "headline": "Strong match for Data Analyst: strong in Data Analysis, SQL, Data Visualization / Tableau / Power BI / Looker",
+          "executive_summary": "Marcus Johnson (Data Analyst, 6.3 yrs in technical roles) shows clear evidence of Data Analysis, SQL, Data Visualization / Tableau / Power BI / Looker. No must-have skill is entirely missing. Experience: 6.3 years in technical roles vs 2+ required.",
+          "hiring_recommendation": "Advance to technical interviews; verify depth on the listed strengths."
+        }
+      }
+    ],
+    "generated_at": "2026-11-15T17:57:46+00:00"
+  },
+  {
+    "job_id": "J02",
+    "resume_id": "R11",
+    "candidate_name": "Hannah Schmidt",
+    "job_title": "Data Analyst",
+    "fit_score": 82,
+    "verdict": "strong_match",
+    "headline": "Strong match for Data Analyst: strong in Data Visualization / Tableau / Power BI / Looker, Communication, Stakeholder Ma",
+    "executive_summary": "Hannah Schmidt (Data Engineer \u2013 Analytics Platform, 4.3 yrs in technical roles) shows clear evidence of Data Visualization / Tableau / Power BI / Looker, Communication, Stakeholder Management. No must-have skill is entirely missing. Partially covered: Data Analysis, SQL, Excel, Statistics. The high/medium-priority plan totals roughly 6 weeks of part-time effort. Experience: 4.3 years in technical roles vs 2+ required (5.3 yrs total incl. non-technical roles).",
+    "hiring_recommendation": "Advance to technical interviews; verify depth on the listed strengths.",
+    "experience_fit": "meets",
+    "experience_note": "4.3 years in technical roles vs 2+ required (5.3 yrs total incl. non-technical roles).",
+    "assessments": [
+      {
+        "skill": "Data Analysis",
+        "importance": "required",
+        "status": "partial",
+        "evidence": "Transferable experience with SQL, Excel, A/B Testing",
+        "transferable_from": [
+          "SQL",
+          "Excel",
+          "A/B Testing"
+        ]
+      },
+      {
+        "skill": "SQL",
+        "importance": "required",
+        "status": "partial",
+        "evidence": "Only in a short or non-technical role (Working Student, Business Intelligence): Maintained Excel and SQL reports for the claims department.",
+        "transferable_from": [
+          "Excel"
+        ]
+      },
+      {
+        "skill": "Data Visualization / Tableau / Power BI / Looker",
+        "importance": "required",
+        "status": "met",
+        "evidence": "[Data Visualization] Built 20+ Tableau dashboards on sales, returns and customer retention for country managers.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Excel",
+        "importance": "required",
+        "status": "partial",
+        "evidence": "Only in a short or non-technical role (Working Student, Business Intelligence): Maintained Excel and SQL reports for the claims department.",
+        "transferable_from": [
+          "SQL"
+        ]
+      },
+      {
+        "skill": "Communication",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Presented the weekly trading report to the leadership team and ran deep dives on return-rate drivers.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Stakeholder Management",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Listed in skills (not named in role bullets; backed by 4.3 yrs of technical experience)",
+        "transferable_from": []
+      },
+      {
+        "skill": "Statistics",
+        "importance": "required",
+        "status": "partial",
+        "evidence": "Transferable experience with A/B Testing",
+        "transferable_from": [
+          "A/B Testing"
+        ]
+      },
+      {
+        "skill": "A/B Testing",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Analysed A/B tests on checkout and free-returns messaging with the product team.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Python / R / Pandas",
+        "importance": "preferred",
+        "status": "met",
+        "evidence": "[Python] Listed in skills (not named in role bullets; backed by 4.3 yrs of technical experience)",
+        "transferable_from": []
+      },
+      {
+        "skill": "dbt / Data Warehousing",
+        "importance": "preferred",
+        "status": "met",
+        "evidence": "[dbt] Rebuilt the reporting layer as 180 dbt models (staging, intermediate, marts) with star schemas for orders, returns and marketing spend.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Snowflake",
+        "importance": "preferred",
+        "status": "met",
+        "evidence": "Listed in skills (not named in role bullets; backed by 4.3 yrs of technical experience)",
+        "transferable_from": []
+      }
+    ],
+    "strengths": [
+      {
+        "skill": "Data Visualization / Tableau / Power BI / Looker",
+        "evidence": "[Data Visualization] Built 20+ Tableau dashboards on sales, returns and customer retention for country managers."
+      },
+      {
+        "skill": "Communication",
+        "evidence": "Presented the weekly trading report to the leadership team and ran deep dives on return-rate drivers."
+      },
+      {
+        "skill": "Stakeholder Management",
+        "evidence": "Listed in skills (not named in role bullets; backed by 4.3 yrs of technical experience)"
+      },
+      {
+        "skill": "A/B Testing",
+        "evidence": "Analysed A/B tests on checkout and free-returns messaging with the product team."
+      },
+      {
+        "skill": "Python / R / Pandas",
+        "evidence": "[Python] Listed in skills (not named in role bullets; backed by 4.3 yrs of technical experience)"
+      },
+      {
+        "skill": "dbt / Data Warehousing",
+        "evidence": "[dbt] Rebuilt the reporting layer as 180 dbt models (staging, intermediate, marts) with star schemas for orders, returns and marketing spend."
+      }
+    ],
+    "gaps": [
+      {
+        "skill": "Data Analysis",
+        "importance": "required",
+        "severity": "moderate",
+        "reason": "Listed as a must-have for this role. Partly offset by SQL, Excel, A/B Testing.",
+        "transferable_from": [
+          "SQL",
+          "Excel",
+          "A/B Testing"
+        ]
+      },
+      {
+        "skill": "SQL",
+        "importance": "required",
+        "severity": "moderate",
+        "reason": "Listed as a must-have for this role. Partly offset by Excel.",
+        "transferable_from": [
+          "Excel"
+        ]
+      },
+      {
+        "skill": "Excel",
+        "importance": "required",
+        "severity": "moderate",
+        "reason": "Listed as a must-have for this role. Partly offset by SQL.",
+        "transferable_from": [
+          "SQL"
+        ]
+      },
+      {
+        "skill": "Statistics",
+        "importance": "required",
+        "severity": "moderate",
+        "reason": "Listed as a must-have for this role. Partly offset by A/B Testing.",
+        "transferable_from": [
+          "A/B Testing"
+        ]
+      }
+    ],
+    "recommendations": [
+      {
+        "skill": "Data Analysis",
+        "action": "Build a small project that uses Data Analysis the way a Data Analyst would - leverage existing SQL, Excel experience",
+        "type": "course",
+        "resource_hint": "vendor fundamentals course",
+        "effort_weeks": 1.5,
+        "priority": "medium"
+      },
+      {
+        "skill": "SQL",
+        "action": "Solve 40+ analytical SQL problems with window functions and CTEs - leverage existing Excel experience",
+        "type": "course",
+        "resource_hint": "Mode SQL tutorial / LeetCode SQL 50",
+        "effort_weeks": 1.5,
+        "priority": "medium"
+      },
+      {
+        "skill": "Excel",
+        "action": "Build a small project that uses Excel the way a Data Analyst would - leverage existing SQL experience",
+        "type": "course",
+        "resource_hint": "official documentation",
+        "effort_weeks": 1.0,
+        "priority": "medium"
+      },
+      {
+        "skill": "Statistics",
+        "action": "Analyse an A/B test end to end: power, significance, confidence intervals - leverage existing A/B Testing experience",
+        "type": "course",
+        "resource_hint": "Khan Academy statistics / 'Trustworthy Online Controlled Experiments'",
+        "effort_weeks": 2.0,
+        "priority": "medium"
+      }
+    ],
+    "interview_questions": [
+      "You haven't used Data Analysis directly - how would your SQL experience carry over, and what would you need to learn first?",
+      "You haven't used SQL directly - how would your Excel experience carry over, and what would you need to learn first?",
+      "You haven't used Excel directly - how would your SQL experience carry over, and what would you need to learn first?",
+      "Walk me through the most complex thing you built with Data Visualization / Tableau / Power BI / Looker: design choices, trade-offs and measurable results.",
+      "Walk me through the most complex thing you built with Communication: design choices, trade-offs and measurable results.",
+      "Walk me through the most complex thing you built with Stakeholder Management: design choices, trade-offs and measurable results."
+    ],
+    "chain_trace": [
+      {
+        "step": 1,
+        "name": "Requirement alignment",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 167,
+        "output": {
+          "assessments": [
+            {
+              "skill": "Data Analysis",
+              "importance": "required",
+              "status": "partial",
+              "evidence": "Transferable experience with SQL, Excel, A/B Testing",
+              "transferable_from": [
+                "SQL",
+                "Excel",
+                "A/B Testing"
+              ]
+            },
+            {
+              "skill": "SQL",
+              "importance": "required",
+              "status": "partial",
+              "evidence": "Only in a short or non-technical role (Working Student, Business Intelligence): Maintained Excel and SQL reports for the claims department.",
+              "transferable_from": [
+                "Excel"
+              ]
+            },
+            {
+              "skill": "Data Visualization / Tableau / Power BI / Looker",
+              "importance": "required",
+              "status": "met",
+              "evidence": "[Data Visualization] Built 20+ Tableau dashboards on sales, returns and customer retention for country managers.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Excel",
+              "importance": "required",
+              "status": "partial",
+              "evidence": "Only in a short or non-technical role (Working Student, Business Intelligence): Maintained Excel and SQL reports for the claims department.",
+              "transferable_from": [
+                "SQL"
+              ]
+            },
+            {
+              "skill": "Communication",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Presented the weekly trading report to the leadership team and ran deep dives on return-rate drivers.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Stakeholder Management",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Listed in skills (not named in role bullets; backed by 4.3 yrs of technical experience)",
+              "transferable_from": []
+            },
+            {
+              "skill": "Statistics",
+              "importance": "required",
+              "status": "partial",
+              "evidence": "Transferable experience with A/B Testing",
+              "transferable_from": [
+                "A/B Testing"
+              ]
+            },
+            {
+              "skill": "A/B Testing",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Analysed A/B tests on checkout and free-returns messaging with the product team.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Python / R / Pandas",
+              "importance": "preferred",
+              "status": "met",
+              "evidence": "[Python] Listed in skills (not named in role bullets; backed by 4.3 yrs of technical experience)",
+              "transferable_from": []
+            },
+            {
+              "skill": "dbt / Data Warehousing",
+              "importance": "preferred",
+              "status": "met",
+              "evidence": "[dbt] Rebuilt the reporting layer as 180 dbt models (staging, intermediate, marts) with star schemas for orders, returns and marketing spend.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Snowflake",
+              "importance": "preferred",
+              "status": "met",
+              "evidence": "Listed in skills (not named in role bullets; backed by 4.3 yrs of technical experience)",
+              "transferable_from": []
+            }
+          ],
+          "experience_fit": "meets",
+          "experience_note": "4.3 years in technical roles vs 2+ required (5.3 yrs total incl. non-technical roles)."
+        }
+      },
+      {
+        "step": 2,
+        "name": "Gap prioritisation",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 7,
+        "output": {
+          "strengths": [
+            {
+              "skill": "Data Visualization / Tableau / Power BI / Looker",
+              "evidence": "[Data Visualization] Built 20+ Tableau dashboards on sales, returns and customer retention for country managers."
+            },
+            {
+              "skill": "Communication",
+              "evidence": "Presented the weekly trading report to the leadership team and ran deep dives on return-rate drivers."
+            },
+            {
+              "skill": "Stakeholder Management",
+              "evidence": "Listed in skills (not named in role bullets; backed by 4.3 yrs of technical experience)"
+            },
+            {
+              "skill": "A/B Testing",
+              "evidence": "Analysed A/B tests on checkout and free-returns messaging with the product team."
+            },
+            {
+              "skill": "Python / R / Pandas",
+              "evidence": "[Python] Listed in skills (not named in role bullets; backed by 4.3 yrs of technical experience)"
+            },
+            {
+              "skill": "dbt / Data Warehousing",
+              "evidence": "[dbt] Rebuilt the reporting layer as 180 dbt models (staging, intermediate, marts) with star schemas for orders, returns and marketing spend."
+            }
+          ],
+          "gaps": [
+            {
+              "skill": "Data Analysis",
+              "importance": "required",
+              "severity": "moderate",
+              "reason": "Listed as a must-have for this role. Partly offset by SQL, Excel, A/B Testing.",
+              "transferable_from": [
+                "SQL",
+                "Excel",
+                "A/B Testing"
+              ]
+            },
+            {
+              "skill": "SQL",
+              "importance": "required",
+              "severity": "moderate",
+              "reason": "Listed as a must-have for this role. Partly offset by Excel.",
+              "transferable_from": [
+                "Excel"
+              ]
+            },
+            {
+              "skill": "Excel",
+              "importance": "required",
+              "severity": "moderate",
+              "reason": "Listed as a must-have for this role. Partly offset by SQL.",
+              "transferable_from": [
+                "SQL"
+              ]
+            },
+            {
+              "skill": "Statistics",
+              "importance": "required",
+              "severity": "moderate",
+              "reason": "Listed as a must-have for this role. Partly offset by A/B Testing.",
+              "transferable_from": [
+                "A/B Testing"
+              ]
+            }
+          ],
+          "fit_score": 82,
+          "fit_rationale": "Covers 75% of required and 100% of preferred skills (partial/undemonstrated at half credit); 50% of must-haves are demonstrated in technical roles; experience meets the bar."
+        }
+      },
+      {
+        "step": 3,
+        "name": "Recommendations",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 0,
+        "output": {
+          "recommendations": [
+            {
+              "skill": "Data Analysis",
+              "action": "Build a small project that uses Data Analysis the way a Data Analyst would - leverage existing SQL, Excel experience",
+              "type": "course",
+              "resource_hint": "vendor fundamentals course",
+              "effort_weeks": 1.5,
+              "priority": "medium"
+            },
+            {
+              "skill": "SQL",
+              "action": "Solve 40+ analytical SQL problems with window functions and CTEs - leverage existing Excel experience",
+              "type": "course",
+              "resource_hint": "Mode SQL tutorial / LeetCode SQL 50",
+              "effort_weeks": 1.5,
+              "priority": "medium"
+            },
+            {
+              "skill": "Excel",
+              "action": "Build a small project that uses Excel the way a Data Analyst would - leverage existing SQL experience",
+              "type": "course",
+              "resource_hint": "official documentation",
+              "effort_weeks": 1.0,
+              "priority": "medium"
+            },
+            {
+              "skill": "Statistics",
+              "action": "Analyse an A/B test end to end: power, significance, confidence intervals - leverage existing A/B Testing experience",
+              "type": "course",
+              "resource_hint": "Khan Academy statistics / 'Trustworthy Online Controlled Experiments'",
+              "effort_weeks": 2.0,
+              "priority": "medium"
+            }
+          ],
+          "interview_questions": [
+            "You haven't used Data Analysis directly - how would your SQL experience carry over, and what would you need to learn first?",
+            "You haven't used SQL directly - how would your Excel experience carry over, and what would you need to learn first?",
+            "You haven't used Excel directly - how would your SQL experience carry over, and what would you need to learn first?",
+            "Walk me through the most complex thing you built with Data Visualization / Tableau / Power BI / Looker: design choices, trade-offs and measurable results.",
+            "Walk me through the most complex thing you built with Communication: design choices, trade-offs and measurable results.",
+            "Walk me through the most complex thing you built with Stakeholder Management: design choices, trade-offs and measurable results."
+          ]
+        }
+      },
+      {
+        "step": 4,
+        "name": "Report synthesis",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 0,
+        "output": {
+          "verdict": "strong_match",
+          "headline": "Strong match for Data Analyst: strong in Data Visualization / Tableau / Power BI / Looker, Communication, Stakeholder Ma",
+          "executive_summary": "Hannah Schmidt (Data Engineer \u2013 Analytics Platform, 4.3 yrs in technical roles) shows clear evidence of Data Visualization / Tableau / Power BI / Looker, Communication, Stakeholder Management. No must-have skill is entirely missing. Partially covered: Data Analysis, SQL, Excel, Statistics. The high/medium-priority plan totals roughly 6 weeks of part-time effort. Experience: 4.3 years in technical roles vs 2+ required (5.3 yrs total incl. non-technical roles).",
+          "hiring_recommendation": "Advance to technical interviews; verify depth on the listed strengths."
+        }
+      }
+    ],
+    "generated_at": "2026-11-15T17:57:46+00:00"
+  },
+  {
+    "job_id": "J02",
+    "resume_id": "R20",
+    "candidate_name": "Wei Chen",
+    "job_title": "Data Analyst",
+    "fit_score": 87,
+    "verdict": "strong_match",
+    "headline": "Strong match for Data Analyst: strong in SQL, Data Visualization / Tableau / Power BI / Looker, Excel",
+    "executive_summary": "Wei Chen (Senior Data Scientist, Product Analytics, 6 yrs in technical roles) shows clear evidence of SQL, Data Visualization / Tableau / Power BI / Looker, Excel. No must-have skill is entirely missing. Partially covered: Data Analysis, Statistics. The high/medium-priority plan totals roughly 3.5 weeks of part-time effort. Experience: 6 years in technical roles vs 2+ required.",
+    "hiring_recommendation": "Advance to technical interviews; verify depth on the listed strengths.",
+    "experience_fit": "exceeds",
+    "experience_note": "6 years in technical roles vs 2+ required.",
+    "assessments": [
+      {
+        "skill": "Data Analysis",
+        "importance": "required",
+        "status": "partial",
+        "evidence": "Transferable experience with SQL, Excel, A/B Testing",
+        "transferable_from": [
+          "SQL",
+          "Excel",
+          "A/B Testing"
+        ]
+      },
+      {
+        "skill": "SQL",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Wrote BigQuery SQL and built Tableau dashboards for marketing and operations teams.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Data Visualization / Tableau / Power BI / Looker",
+        "importance": "required",
+        "status": "met",
+        "evidence": "[Data Visualization] Built the Looker dashboards for conversion, payment success and refund rates used daily by 60 product managers.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Excel",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Weekly delivery performance reports in Excel and SQL for regional managers.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Communication",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Listed in skills (not named in role bullets; backed by 6 yrs of technical experience)",
+        "transferable_from": []
+      },
+      {
+        "skill": "Stakeholder Management",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Built the Looker dashboards for conversion, payment success and refund rates used daily by 60 product managers.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Statistics",
+        "importance": "required",
+        "status": "partial",
+        "evidence": "Transferable experience with scikit-learn, XGBoost, A/B Testing",
+        "transferable_from": [
+          "scikit-learn",
+          "XGBoost",
+          "A/B Testing"
+        ]
+      },
+      {
+        "skill": "A/B Testing",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Embedded with the checkout and payments product teams; define north-star metrics and design or analyse 40+ A/B tests a year.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Python / R / Pandas",
+        "importance": "preferred",
+        "status": "met",
+        "evidence": "[Python] Listed in skills (not named in role bullets; backed by 6 yrs of technical experience)",
+        "transferable_from": []
+      },
+      {
+        "skill": "dbt / Data Warehousing",
+        "importance": "preferred",
+        "status": "met",
+        "evidence": "[dbt] Listed in skills (not named in role bullets; backed by 6 yrs of technical experience)",
+        "transferable_from": []
+      },
+      {
+        "skill": "Snowflake",
+        "importance": "preferred",
+        "status": "partial",
+        "evidence": "Transferable experience with BigQuery",
+        "transferable_from": [
+          "BigQuery"
+        ]
+      }
+    ],
+    "strengths": [
+      {
+        "skill": "SQL",
+        "evidence": "Wrote BigQuery SQL and built Tableau dashboards for marketing and operations teams."
+      },
+      {
+        "skill": "Data Visualization / Tableau / Power BI / Looker",
+        "evidence": "[Data Visualization] Built the Looker dashboards for conversion, payment success and refund rates used daily by 60 product managers."
+      },
+      {
+        "skill": "Excel",
+        "evidence": "Weekly delivery performance reports in Excel and SQL for regional managers."
+      },
+      {
+        "skill": "Communication",
+        "evidence": "Listed in skills (not named in role bullets; backed by 6 yrs of technical experience)"
+      },
+      {
+        "skill": "Stakeholder Management",
+        "evidence": "Built the Looker dashboards for conversion, payment success and refund rates used daily by 60 product managers."
+      },
+      {
+        "skill": "A/B Testing",
+        "evidence": "Embedded with the checkout and payments product teams; define north-star metrics and design or analyse 40+ A/B tests a year."
+      }
+    ],
+    "gaps": [
+      {
+        "skill": "Data Analysis",
+        "importance": "required",
+        "severity": "moderate",
+        "reason": "Listed as a must-have for this role. Partly offset by SQL, Excel, A/B Testing.",
+        "transferable_from": [
+          "SQL",
+          "Excel",
+          "A/B Testing"
+        ]
+      },
+      {
+        "skill": "Statistics",
+        "importance": "required",
+        "severity": "moderate",
+        "reason": "Listed as a must-have for this role. Partly offset by scikit-learn, XGBoost, A/B Testing.",
+        "transferable_from": [
+          "scikit-learn",
+          "XGBoost",
+          "A/B Testing"
+        ]
+      },
+      {
+        "skill": "Snowflake",
+        "importance": "preferred",
+        "severity": "minor",
+        "reason": "Used in the role's day-to-day responsibilities. Partly offset by BigQuery.",
+        "transferable_from": [
+          "BigQuery"
+        ]
+      }
+    ],
+    "recommendations": [
+      {
+        "skill": "Data Analysis",
+        "action": "Build a small project that uses Data Analysis the way a Data Analyst would - leverage existing SQL, Excel experience",
+        "type": "course",
+        "resource_hint": "vendor fundamentals course",
+        "effort_weeks": 1.5,
+        "priority": "medium"
+      },
+      {
+        "skill": "Statistics",
+        "action": "Analyse an A/B test end to end: power, significance, confidence intervals - leverage existing scikit-learn, XGBoost experience",
+        "type": "course",
+        "resource_hint": "Khan Academy statistics / 'Trustworthy Online Controlled Experiments'",
+        "effort_weeks": 2.0,
+        "priority": "medium"
+      },
+      {
+        "skill": "Snowflake",
+        "action": "Build a small project that uses Snowflake the way a Data Analyst would - leverage existing BigQuery experience",
+        "type": "course",
+        "resource_hint": "vendor fundamentals course",
+        "effort_weeks": 1.0,
+        "priority": "low"
+      }
+    ],
+    "interview_questions": [
+      "You haven't used Data Analysis directly - how would your SQL experience carry over, and what would you need to learn first?",
+      "You haven't used Statistics directly - how would your scikit-learn experience carry over, and what would you need to learn first?",
+      "You haven't used Snowflake directly - how would your BigQuery experience carry over, and what would you need to learn first?",
+      "Walk me through the most complex thing you built with SQL: design choices, trade-offs and measurable results.",
+      "Walk me through the most complex thing you built with Data Visualization / Tableau / Power BI / Looker: design choices, trade-offs and measurable results.",
+      "Walk me through the most complex thing you built with Excel: design choices, trade-offs and measurable results."
+    ],
+    "chain_trace": [
+      {
+        "step": 1,
+        "name": "Requirement alignment",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 121,
+        "output": {
+          "assessments": [
+            {
+              "skill": "Data Analysis",
+              "importance": "required",
+              "status": "partial",
+              "evidence": "Transferable experience with SQL, Excel, A/B Testing",
+              "transferable_from": [
+                "SQL",
+                "Excel",
+                "A/B Testing"
+              ]
+            },
+            {
+              "skill": "SQL",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Wrote BigQuery SQL and built Tableau dashboards for marketing and operations teams.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Data Visualization / Tableau / Power BI / Looker",
+              "importance": "required",
+              "status": "met",
+              "evidence": "[Data Visualization] Built the Looker dashboards for conversion, payment success and refund rates used daily by 60 product managers.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Excel",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Weekly delivery performance reports in Excel and SQL for regional managers.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Communication",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Listed in skills (not named in role bullets; backed by 6 yrs of technical experience)",
+              "transferable_from": []
+            },
+            {
+              "skill": "Stakeholder Management",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Built the Looker dashboards for conversion, payment success and refund rates used daily by 60 product managers.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Statistics",
+              "importance": "required",
+              "status": "partial",
+              "evidence": "Transferable experience with scikit-learn, XGBoost, A/B Testing",
+              "transferable_from": [
+                "scikit-learn",
+                "XGBoost",
+                "A/B Testing"
+              ]
+            },
+            {
+              "skill": "A/B Testing",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Embedded with the checkout and payments product teams; define north-star metrics and design or analyse 40+ A/B tests a year.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Python / R / Pandas",
+              "importance": "preferred",
+              "status": "met",
+              "evidence": "[Python] Listed in skills (not named in role bullets; backed by 6 yrs of technical experience)",
+              "transferable_from": []
+            },
+            {
+              "skill": "dbt / Data Warehousing",
+              "importance": "preferred",
+              "status": "met",
+              "evidence": "[dbt] Listed in skills (not named in role bullets; backed by 6 yrs of technical experience)",
+              "transferable_from": []
+            },
+            {
+              "skill": "Snowflake",
+              "importance": "preferred",
+              "status": "partial",
+              "evidence": "Transferable experience with BigQuery",
+              "transferable_from": [
+                "BigQuery"
+              ]
+            }
+          ],
+          "experience_fit": "exceeds",
+          "experience_note": "6 years in technical roles vs 2+ required."
+        }
+      },
+      {
+        "step": 2,
+        "name": "Gap prioritisation",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 7,
+        "output": {
+          "strengths": [
+            {
+              "skill": "SQL",
+              "evidence": "Wrote BigQuery SQL and built Tableau dashboards for marketing and operations teams."
+            },
+            {
+              "skill": "Data Visualization / Tableau / Power BI / Looker",
+              "evidence": "[Data Visualization] Built the Looker dashboards for conversion, payment success and refund rates used daily by 60 product managers."
+            },
+            {
+              "skill": "Excel",
+              "evidence": "Weekly delivery performance reports in Excel and SQL for regional managers."
+            },
+            {
+              "skill": "Communication",
+              "evidence": "Listed in skills (not named in role bullets; backed by 6 yrs of technical experience)"
+            },
+            {
+              "skill": "Stakeholder Management",
+              "evidence": "Built the Looker dashboards for conversion, payment success and refund rates used daily by 60 product managers."
+            },
+            {
+              "skill": "A/B Testing",
+              "evidence": "Embedded with the checkout and payments product teams; define north-star metrics and design or analyse 40+ A/B tests a year."
+            }
+          ],
+          "gaps": [
+            {
+              "skill": "Data Analysis",
+              "importance": "required",
+              "severity": "moderate",
+              "reason": "Listed as a must-have for this role. Partly offset by SQL, Excel, A/B Testing.",
+              "transferable_from": [
+                "SQL",
+                "Excel",
+                "A/B Testing"
+              ]
+            },
+            {
+              "skill": "Statistics",
+              "importance": "required",
+              "severity": "moderate",
+              "reason": "Listed as a must-have for this role. Partly offset by scikit-learn, XGBoost, A/B Testing.",
+              "transferable_from": [
+                "scikit-learn",
+                "XGBoost",
+                "A/B Testing"
+              ]
+            },
+            {
+              "skill": "Snowflake",
+              "importance": "preferred",
+              "severity": "minor",
+              "reason": "Used in the role's day-to-day responsibilities. Partly offset by BigQuery.",
+              "transferable_from": [
+                "BigQuery"
+              ]
+            }
+          ],
+          "fit_score": 87,
+          "fit_rationale": "Covers 88% of required and 83% of preferred skills (partial/undemonstrated at half credit); 75% of must-haves are demonstrated in technical roles; experience exceeds the bar."
+        }
+      },
+      {
+        "step": 3,
+        "name": "Recommendations",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 0,
+        "output": {
+          "recommendations": [
+            {
+              "skill": "Data Analysis",
+              "action": "Build a small project that uses Data Analysis the way a Data Analyst would - leverage existing SQL, Excel experience",
+              "type": "course",
+              "resource_hint": "vendor fundamentals course",
+              "effort_weeks": 1.5,
+              "priority": "medium"
+            },
+            {
+              "skill": "Statistics",
+              "action": "Analyse an A/B test end to end: power, significance, confidence intervals - leverage existing scikit-learn, XGBoost experience",
+              "type": "course",
+              "resource_hint": "Khan Academy statistics / 'Trustworthy Online Controlled Experiments'",
+              "effort_weeks": 2.0,
+              "priority": "medium"
+            },
+            {
+              "skill": "Snowflake",
+              "action": "Build a small project that uses Snowflake the way a Data Analyst would - leverage existing BigQuery experience",
+              "type": "course",
+              "resource_hint": "vendor fundamentals course",
+              "effort_weeks": 1.0,
+              "priority": "low"
+            }
+          ],
+          "interview_questions": [
+            "You haven't used Data Analysis directly - how would your SQL experience carry over, and what would you need to learn first?",
+            "You haven't used Statistics directly - how would your scikit-learn experience carry over, and what would you need to learn first?",
+            "You haven't used Snowflake directly - how would your BigQuery experience carry over, and what would you need to learn first?",
+            "Walk me through the most complex thing you built with SQL: design choices, trade-offs and measurable results.",
+            "Walk me through the most complex thing you built with Data Visualization / Tableau / Power BI / Looker: design choices, trade-offs and measurable results.",
+            "Walk me through the most complex thing you built with Excel: design choices, trade-offs and measurable results."
+          ]
+        }
+      },
+      {
+        "step": 4,
+        "name": "Report synthesis",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 0,
+        "output": {
+          "verdict": "strong_match",
+          "headline": "Strong match for Data Analyst: strong in SQL, Data Visualization / Tableau / Power BI / Looker, Excel",
+          "executive_summary": "Wei Chen (Senior Data Scientist, Product Analytics, 6 yrs in technical roles) shows clear evidence of SQL, Data Visualization / Tableau / Power BI / Looker, Excel. No must-have skill is entirely missing. Partially covered: Data Analysis, Statistics. The high/medium-priority plan totals roughly 3.5 weeks of part-time effort. Experience: 6 years in technical roles vs 2+ required.",
+          "hiring_recommendation": "Advance to technical interviews; verify depth on the listed strengths."
+        }
+      }
+    ],
+    "generated_at": "2026-11-15T17:57:46+00:00"
+  },
+  {
+    "job_id": "J02",
+    "resume_id": "R36",
+    "candidate_name": "Diego Morales",
+    "job_title": "Data Analyst",
+    "fit_score": 55,
+    "verdict": "partial_match",
+    "headline": "Partial match for Data Analyst: strong in Data Visualization / Tableau / Power BI / Looker, Excel, Communication",
+    "executive_summary": "Diego Morales (Commercial Insights Analyst, 4.6 yrs in technical roles) shows clear evidence of Data Visualization / Tableau / Power BI / Looker, Excel, Communication. Critical gaps: Stakeholder Management, Statistics, A/B Testing. Partially covered: Data Analysis, SQL. The high/medium-priority plan totals roughly 14 weeks of part-time effort. Experience: 4.6 years in technical roles vs 2+ required.",
+    "hiring_recommendation": "Hold or consider for a more junior/adjacent role unless Stakeholder Management, Statistics can be closed quickly.",
+    "experience_fit": "meets",
+    "experience_note": "4.6 years in technical roles vs 2+ required.",
+    "assessments": [
+      {
+        "skill": "Data Analysis",
+        "importance": "required",
+        "status": "partial",
+        "evidence": "Transferable experience with Excel",
+        "transferable_from": [
+          "Excel"
+        ]
+      },
+      {
+        "skill": "SQL",
+        "importance": "required",
+        "status": "partial",
+        "evidence": "Transferable experience with Excel",
+        "transferable_from": [
+          "Excel"
+        ]
+      },
+      {
+        "skill": "Data Visualization / Tableau / Power BI / Looker",
+        "importance": "required",
+        "status": "met",
+        "evidence": "[Tableau] Created the self-serve Tableau workbooks that category managers, delivery operations and finance check every morning (basket size, substitutions, late deliveries by zone); they replaced 30 emailed spreadsheets.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Excel",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Produced weekly store sales reports in Excel and Power BI for 60 store managers.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Communication",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Listed in skills (not named in role bullets; backed by 4.6 yrs of technical experience)",
+        "transferable_from": []
+      },
+      {
+        "skill": "Stakeholder Management",
+        "importance": "required",
+        "status": "missing",
+        "evidence": "No evidence",
+        "transferable_from": []
+      },
+      {
+        "skill": "Statistics",
+        "importance": "required",
+        "status": "missing",
+        "evidence": "No evidence",
+        "transferable_from": []
+      },
+      {
+        "skill": "A/B Testing",
+        "importance": "required",
+        "status": "missing",
+        "evidence": "No evidence",
+        "transferable_from": []
+      },
+      {
+        "skill": "Python / R / Pandas",
+        "importance": "preferred",
+        "status": "met",
+        "evidence": "[Python] Listed in skills (not named in role bullets; backed by 4.6 yrs of technical experience)",
+        "transferable_from": []
+      },
+      {
+        "skill": "dbt / Data Warehousing",
+        "importance": "preferred",
+        "status": "partial",
+        "evidence": "Transferable experience with Snowflake",
+        "transferable_from": [
+          "Snowflake"
+        ]
+      },
+      {
+        "skill": "Snowflake",
+        "importance": "preferred",
+        "status": "met",
+        "evidence": "Listed in skills (not named in role bullets; backed by 4.6 yrs of technical experience)",
+        "transferable_from": []
+      }
+    ],
+    "strengths": [
+      {
+        "skill": "Data Visualization / Tableau / Power BI / Looker",
+        "evidence": "[Tableau] Created the self-serve Tableau workbooks that category managers, delivery operations and finance check every morning (basket size, substitutions, late deliveries by zone); they replaced 30 emailed spreadsheets."
+      },
+      {
+        "skill": "Excel",
+        "evidence": "Produced weekly store sales reports in Excel and Power BI for 60 store managers."
+      },
+      {
+        "skill": "Communication",
+        "evidence": "Listed in skills (not named in role bullets; backed by 4.6 yrs of technical experience)"
+      },
+      {
+        "skill": "Python / R / Pandas",
+        "evidence": "[Python] Listed in skills (not named in role bullets; backed by 4.6 yrs of technical experience)"
+      },
+      {
+        "skill": "Snowflake",
+        "evidence": "Listed in skills (not named in role bullets; backed by 4.6 yrs of technical experience)"
+      }
+    ],
+    "gaps": [
+      {
+        "skill": "Stakeholder Management",
+        "importance": "required",
+        "severity": "critical",
+        "reason": "Listed as a must-have for this role.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Statistics",
+        "importance": "required",
+        "severity": "critical",
+        "reason": "Listed as a must-have for this role.",
+        "transferable_from": []
+      },
+      {
+        "skill": "A/B Testing",
+        "importance": "required",
+        "severity": "critical",
+        "reason": "Listed as a must-have for this role.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Data Analysis",
+        "importance": "required",
+        "severity": "moderate",
+        "reason": "Listed as a must-have for this role. Partly offset by Excel.",
+        "transferable_from": [
+          "Excel"
+        ]
+      },
+      {
+        "skill": "SQL",
+        "importance": "required",
+        "severity": "moderate",
+        "reason": "Listed as a must-have for this role. Partly offset by Excel.",
+        "transferable_from": [
+          "Excel"
+        ]
+      },
+      {
+        "skill": "dbt / Data Warehousing",
+        "importance": "preferred",
+        "severity": "minor",
+        "reason": "Nice-to-have that would speed up onboarding. Partly offset by Snowflake.",
+        "transferable_from": [
+          "Snowflake"
+        ]
+      }
+    ],
+    "recommendations": [
+      {
+        "skill": "Stakeholder Management",
+        "action": "Own a reporting request end to end with a business stakeholder",
+        "type": "on_the_job",
+        "resource_hint": "Shadow a senior analyst / PM",
+        "effort_weeks": 4.0,
+        "priority": "high"
+      },
+      {
+        "skill": "Statistics",
+        "action": "Analyse an A/B test end to end: power, significance, confidence intervals",
+        "type": "course",
+        "resource_hint": "Khan Academy statistics / 'Trustworthy Online Controlled Experiments'",
+        "effort_weeks": 4.0,
+        "priority": "high"
+      },
+      {
+        "skill": "A/B Testing",
+        "action": "Design and analyse an experiment including power analysis and guardrails",
+        "type": "reading",
+        "resource_hint": "'Trustworthy Online Controlled Experiments' (Kohavi et al.)",
+        "effort_weeks": 3.0,
+        "priority": "high"
+      },
+      {
+        "skill": "Data Analysis",
+        "action": "Build a small project that uses Data Analysis the way a Data Analyst would - leverage existing Excel experience",
+        "type": "course",
+        "resource_hint": "vendor fundamentals course",
+        "effort_weeks": 1.5,
+        "priority": "medium"
+      },
+      {
+        "skill": "SQL",
+        "action": "Solve 40+ analytical SQL problems with window functions and CTEs - leverage existing Excel experience",
+        "type": "course",
+        "resource_hint": "Mode SQL tutorial / LeetCode SQL 50",
+        "effort_weeks": 1.5,
+        "priority": "medium"
+      },
+      {
+        "skill": "dbt / Data Warehousing",
+        "action": "(any one of dbt, Data Warehousing) Design a star schema for a business process and load it - leverage existing Snowflake experience",
+        "type": "reading",
+        "resource_hint": "'The Data Warehouse Toolkit' (Kimball)",
+        "effort_weeks": 1.0,
+        "priority": "low"
+      }
+    ],
+    "interview_questions": [
+      "This role relies on Stakeholder Management. What exposure have you had to it, and how would you ramp up in your first 60 days?",
+      "This role relies on Statistics. What exposure have you had to it, and how would you ramp up in your first 60 days?",
+      "This role relies on A/B Testing. What exposure have you had to it, and how would you ramp up in your first 60 days?",
+      "Walk me through the most complex thing you built with Data Visualization / Tableau / Power BI / Looker: design choices, trade-offs and measurable results.",
+      "Walk me through the most complex thing you built with Excel: design choices, trade-offs and measurable results.",
+      "Walk me through the most complex thing you built with Communication: design choices, trade-offs and measurable results."
+    ],
+    "chain_trace": [
+      {
+        "step": 1,
+        "name": "Requirement alignment",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 123,
+        "output": {
+          "assessments": [
+            {
+              "skill": "Data Analysis",
+              "importance": "required",
+              "status": "partial",
+              "evidence": "Transferable experience with Excel",
+              "transferable_from": [
+                "Excel"
+              ]
+            },
+            {
+              "skill": "SQL",
+              "importance": "required",
+              "status": "partial",
+              "evidence": "Transferable experience with Excel",
+              "transferable_from": [
+                "Excel"
+              ]
+            },
+            {
+              "skill": "Data Visualization / Tableau / Power BI / Looker",
+              "importance": "required",
+              "status": "met",
+              "evidence": "[Tableau] Created the self-serve Tableau workbooks that category managers, delivery operations and finance check every morning (basket size, substitutions, late deliveries by zone); they replaced 30 emailed spreadsheets.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Excel",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Produced weekly store sales reports in Excel and Power BI for 60 store managers.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Communication",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Listed in skills (not named in role bullets; backed by 4.6 yrs of technical experience)",
+              "transferable_from": []
+            },
+            {
+              "skill": "Stakeholder Management",
+              "importance": "required",
+              "status": "missing",
+              "evidence": "No evidence",
+              "transferable_from": []
+            },
+            {
+              "skill": "Statistics",
+              "importance": "required",
+              "status": "missing",
+              "evidence": "No evidence",
+              "transferable_from": []
+            },
+            {
+              "skill": "A/B Testing",
+              "importance": "required",
+              "status": "missing",
+              "evidence": "No evidence",
+              "transferable_from": []
+            },
+            {
+              "skill": "Python / R / Pandas",
+              "importance": "preferred",
+              "status": "met",
+              "evidence": "[Python] Listed in skills (not named in role bullets; backed by 4.6 yrs of technical experience)",
+              "transferable_from": []
+            },
+            {
+              "skill": "dbt / Data Warehousing",
+              "importance": "preferred",
+              "status": "partial",
+              "evidence": "Transferable experience with Snowflake",
+              "transferable_from": [
+                "Snowflake"
+              ]
+            },
+            {
+              "skill": "Snowflake",
+              "importance": "preferred",
+              "status": "met",
+              "evidence": "Listed in skills (not named in role bullets; backed by 4.6 yrs of technical experience)",
+              "transferable_from": []
+            }
+          ],
+          "experience_fit": "meets",
+          "experience_note": "4.6 years in technical roles vs 2+ required."
+        }
+      },
+      {
+        "step": 2,
+        "name": "Gap prioritisation",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 7,
+        "output": {
+          "strengths": [
+            {
+              "skill": "Data Visualization / Tableau / Power BI / Looker",
+              "evidence": "[Tableau] Created the self-serve Tableau workbooks that category managers, delivery operations and finance check every morning (basket size, substitutions, late deliveries by zone); they replaced 30 emailed spreadsheets."
+            },
+            {
+              "skill": "Excel",
+              "evidence": "Produced weekly store sales reports in Excel and Power BI for 60 store managers."
+            },
+            {
+              "skill": "Communication",
+              "evidence": "Listed in skills (not named in role bullets; backed by 4.6 yrs of technical experience)"
+            },
+            {
+              "skill": "Python / R / Pandas",
+              "evidence": "[Python] Listed in skills (not named in role bullets; backed by 4.6 yrs of technical experience)"
+            },
+            {
+              "skill": "Snowflake",
+              "evidence": "Listed in skills (not named in role bullets; backed by 4.6 yrs of technical experience)"
+            }
+          ],
+          "gaps": [
+            {
+              "skill": "Stakeholder Management",
+              "importance": "required",
+              "severity": "critical",
+              "reason": "Listed as a must-have for this role.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Statistics",
+              "importance": "required",
+              "severity": "critical",
+              "reason": "Listed as a must-have for this role.",
+              "transferable_from": []
+            },
+            {
+              "skill": "A/B Testing",
+              "importance": "required",
+              "severity": "critical",
+              "reason": "Listed as a must-have for this role.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Data Analysis",
+              "importance": "required",
+              "severity": "moderate",
+              "reason": "Listed as a must-have for this role. Partly offset by Excel.",
+              "transferable_from": [
+                "Excel"
+              ]
+            },
+            {
+              "skill": "SQL",
+              "importance": "required",
+              "severity": "moderate",
+              "reason": "Listed as a must-have for this role. Partly offset by Excel.",
+              "transferable_from": [
+                "Excel"
+              ]
+            },
+            {
+              "skill": "dbt / Data Warehousing",
+              "importance": "preferred",
+              "severity": "minor",
+              "reason": "Nice-to-have that would speed up onboarding. Partly offset by Snowflake.",
+              "transferable_from": [
+                "Snowflake"
+              ]
+            }
+          ],
+          "fit_score": 55,
+          "fit_rationale": "Covers 50% of required and 83% of preferred skills (partial/undemonstrated at half credit); 38% of must-haves are demonstrated in technical roles; experience meets the bar."
+        }
+      },
+      {
+        "step": 3,
+        "name": "Recommendations",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 0,
+        "output": {
+          "recommendations": [
+            {
+              "skill": "Stakeholder Management",
+              "action": "Own a reporting request end to end with a business stakeholder",
+              "type": "on_the_job",
+              "resource_hint": "Shadow a senior analyst / PM",
+              "effort_weeks": 4.0,
+              "priority": "high"
+            },
+            {
+              "skill": "Statistics",
+              "action": "Analyse an A/B test end to end: power, significance, confidence intervals",
+              "type": "course",
+              "resource_hint": "Khan Academy statistics / 'Trustworthy Online Controlled Experiments'",
+              "effort_weeks": 4.0,
+              "priority": "high"
+            },
+            {
+              "skill": "A/B Testing",
+              "action": "Design and analyse an experiment including power analysis and guardrails",
+              "type": "reading",
+              "resource_hint": "'Trustworthy Online Controlled Experiments' (Kohavi et al.)",
+              "effort_weeks": 3.0,
+              "priority": "high"
+            },
+            {
+              "skill": "Data Analysis",
+              "action": "Build a small project that uses Data Analysis the way a Data Analyst would - leverage existing Excel experience",
+              "type": "course",
+              "resource_hint": "vendor fundamentals course",
+              "effort_weeks": 1.5,
+              "priority": "medium"
+            },
+            {
+              "skill": "SQL",
+              "action": "Solve 40+ analytical SQL problems with window functions and CTEs - leverage existing Excel experience",
+              "type": "course",
+              "resource_hint": "Mode SQL tutorial / LeetCode SQL 50",
+              "effort_weeks": 1.5,
+              "priority": "medium"
+            },
+            {
+              "skill": "dbt / Data Warehousing",
+              "action": "(any one of dbt, Data Warehousing) Design a star schema for a business process and load it - leverage existing Snowflake experience",
+              "type": "reading",
+              "resource_hint": "'The Data Warehouse Toolkit' (Kimball)",
+              "effort_weeks": 1.0,
+              "priority": "low"
+            }
+          ],
+          "interview_questions": [
+            "This role relies on Stakeholder Management. What exposure have you had to it, and how would you ramp up in your first 60 days?",
+            "This role relies on Statistics. What exposure have you had to it, and how would you ramp up in your first 60 days?",
+            "This role relies on A/B Testing. What exposure have you had to it, and how would you ramp up in your first 60 days?",
+            "Walk me through the most complex thing you built with Data Visualization / Tableau / Power BI / Looker: design choices, trade-offs and measurable results.",
+            "Walk me through the most complex thing you built with Excel: design choices, trade-offs and measurable results.",
+            "Walk me through the most complex thing you built with Communication: design choices, trade-offs and measurable results."
+          ]
+        }
+      },
+      {
+        "step": 4,
+        "name": "Report synthesis",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 0,
+        "output": {
+          "verdict": "partial_match",
+          "headline": "Partial match for Data Analyst: strong in Data Visualization / Tableau / Power BI / Looker, Excel, Communication",
+          "executive_summary": "Diego Morales (Commercial Insights Analyst, 4.6 yrs in technical roles) shows clear evidence of Data Visualization / Tableau / Power BI / Looker, Excel, Communication. Critical gaps: Stakeholder Management, Statistics, A/B Testing. Partially covered: Data Analysis, SQL. The high/medium-priority plan totals roughly 14 weeks of part-time effort. Experience: 4.6 years in technical roles vs 2+ required.",
+          "hiring_recommendation": "Hold or consider for a more junior/adjacent role unless Stakeholder Management, Statistics can be closed quickly."
+        }
+      }
+    ],
+    "generated_at": "2026-11-15T17:57:46+00:00"
+  },
+  {
+    "job_id": "J02",
+    "resume_id": "R26",
+    "candidate_name": "Rajesh Kumar",
+    "job_title": "Data Analyst",
+    "fit_score": 55,
+    "verdict": "partial_match",
+    "headline": "Partial match for Data Analyst: strong in SQL, Data Visualization / Tableau / Power BI / Looker, Excel",
+    "executive_summary": "Rajesh Kumar (Senior Business Intelligence Analyst, 7.2 yrs in technical roles) shows clear evidence of SQL, Data Visualization / Tableau / Power BI / Looker, Excel. Critical gaps: Communication, Stakeholder Management, Statistics, A/B Testing. Partially covered: Data Analysis. The high/medium-priority plan totals roughly 15.5 weeks of part-time effort. Experience: 7.2 years in technical roles vs 2+ required.",
+    "hiring_recommendation": "Hold or consider for a more junior/adjacent role unless Communication, Stakeholder Management can be closed quickly.",
+    "experience_fit": "exceeds",
+    "experience_note": "7.2 years in technical roles vs 2+ required.",
+    "assessments": [
+      {
+        "skill": "Data Analysis",
+        "importance": "required",
+        "status": "partial",
+        "evidence": "Transferable experience with SQL, Excel",
+        "transferable_from": [
+          "SQL",
+          "Excel"
+        ]
+      },
+      {
+        "skill": "SQL",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Mentor three junior analysts and review their SQL.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Data Visualization / Tableau / Power BI / Looker",
+        "importance": "required",
+        "status": "met",
+        "evidence": "[Data Visualization] Lead BI for supply chain and e-commerce: 35 Power BI dashboards used by 800 people, from store managers to the CEO.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Excel",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Listed in skills (not named in role bullets; backed by 7.2 yrs of technical experience)",
+        "transferable_from": []
+      },
+      {
+        "skill": "Communication",
+        "importance": "required",
+        "status": "missing",
+        "evidence": "No evidence",
+        "transferable_from": []
+      },
+      {
+        "skill": "Stakeholder Management",
+        "importance": "required",
+        "status": "missing",
+        "evidence": "No evidence",
+        "transferable_from": []
+      },
+      {
+        "skill": "Statistics",
+        "importance": "required",
+        "status": "missing",
+        "evidence": "No evidence",
+        "transferable_from": []
+      },
+      {
+        "skill": "A/B Testing",
+        "importance": "required",
+        "status": "missing",
+        "evidence": "No evidence",
+        "transferable_from": []
+      },
+      {
+        "skill": "Python / R / Pandas",
+        "importance": "preferred",
+        "status": "met",
+        "evidence": "[Python] Listed in skills (not named in role bullets; backed by 7.2 yrs of technical experience)",
+        "transferable_from": []
+      },
+      {
+        "skill": "dbt / Data Warehousing",
+        "importance": "preferred",
+        "status": "met",
+        "evidence": "[Data Warehousing] Built SSIS packages and a SQL Server star-schema warehouse for loan and collections reporting.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Snowflake",
+        "importance": "preferred",
+        "status": "met",
+        "evidence": "Built Snowflake data models and a KPI dictionary of 60 metrics, ending conflicting numbers between finance and merchandising.",
+        "transferable_from": []
+      }
+    ],
+    "strengths": [
+      {
+        "skill": "SQL",
+        "evidence": "Mentor three junior analysts and review their SQL."
+      },
+      {
+        "skill": "Data Visualization / Tableau / Power BI / Looker",
+        "evidence": "[Data Visualization] Lead BI for supply chain and e-commerce: 35 Power BI dashboards used by 800 people, from store managers to the CEO."
+      },
+      {
+        "skill": "Excel",
+        "evidence": "Listed in skills (not named in role bullets; backed by 7.2 yrs of technical experience)"
+      },
+      {
+        "skill": "Python / R / Pandas",
+        "evidence": "[Python] Listed in skills (not named in role bullets; backed by 7.2 yrs of technical experience)"
+      },
+      {
+        "skill": "dbt / Data Warehousing",
+        "evidence": "[Data Warehousing] Built SSIS packages and a SQL Server star-schema warehouse for loan and collections reporting."
+      },
+      {
+        "skill": "Snowflake",
+        "evidence": "Built Snowflake data models and a KPI dictionary of 60 metrics, ending conflicting numbers between finance and merchandising."
+      }
+    ],
+    "gaps": [
+      {
+        "skill": "Communication",
+        "importance": "required",
+        "severity": "critical",
+        "reason": "Listed as a must-have for this role.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Stakeholder Management",
+        "importance": "required",
+        "severity": "critical",
+        "reason": "Listed as a must-have for this role.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Statistics",
+        "importance": "required",
+        "severity": "critical",
+        "reason": "Listed as a must-have for this role.",
+        "transferable_from": []
+      },
+      {
+        "skill": "A/B Testing",
+        "importance": "required",
+        "severity": "critical",
+        "reason": "Listed as a must-have for this role.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Data Analysis",
+        "importance": "required",
+        "severity": "moderate",
+        "reason": "Listed as a must-have for this role. Partly offset by SQL, Excel.",
+        "transferable_from": [
+          "SQL",
+          "Excel"
+        ]
+      }
+    ],
+    "recommendations": [
+      {
+        "skill": "Communication",
+        "action": "Present an analysis to a non-technical audience and collect feedback",
+        "type": "on_the_job",
+        "resource_hint": "Internal demo days / Toastmasters",
+        "effort_weeks": 3.0,
+        "priority": "high"
+      },
+      {
+        "skill": "Stakeholder Management",
+        "action": "Own a reporting request end to end with a business stakeholder",
+        "type": "on_the_job",
+        "resource_hint": "Shadow a senior analyst / PM",
+        "effort_weeks": 4.0,
+        "priority": "high"
+      },
+      {
+        "skill": "Statistics",
+        "action": "Analyse an A/B test end to end: power, significance, confidence intervals",
+        "type": "course",
+        "resource_hint": "Khan Academy statistics / 'Trustworthy Online Controlled Experiments'",
+        "effort_weeks": 4.0,
+        "priority": "high"
+      },
+      {
+        "skill": "A/B Testing",
+        "action": "Design and analyse an experiment including power analysis and guardrails",
+        "type": "reading",
+        "resource_hint": "'Trustworthy Online Controlled Experiments' (Kohavi et al.)",
+        "effort_weeks": 3.0,
+        "priority": "high"
+      },
+      {
+        "skill": "Data Analysis",
+        "action": "Build a small project that uses Data Analysis the way a Data Analyst would - leverage existing SQL, Excel experience",
+        "type": "course",
+        "resource_hint": "vendor fundamentals course",
+        "effort_weeks": 1.5,
+        "priority": "medium"
+      }
+    ],
+    "interview_questions": [
+      "This role relies on Communication. What exposure have you had to it, and how would you ramp up in your first 60 days?",
+      "This role relies on Stakeholder Management. What exposure have you had to it, and how would you ramp up in your first 60 days?",
+      "This role relies on Statistics. What exposure have you had to it, and how would you ramp up in your first 60 days?",
+      "Walk me through the most complex thing you built with SQL: design choices, trade-offs and measurable results.",
+      "Walk me through the most complex thing you built with Data Visualization / Tableau / Power BI / Looker: design choices, trade-offs and measurable results.",
+      "Walk me through the most complex thing you built with Excel: design choices, trade-offs and measurable results."
+    ],
+    "chain_trace": [
+      {
+        "step": 1,
+        "name": "Requirement alignment",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 74,
+        "output": {
+          "assessments": [
+            {
+              "skill": "Data Analysis",
+              "importance": "required",
+              "status": "partial",
+              "evidence": "Transferable experience with SQL, Excel",
+              "transferable_from": [
+                "SQL",
+                "Excel"
+              ]
+            },
+            {
+              "skill": "SQL",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Mentor three junior analysts and review their SQL.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Data Visualization / Tableau / Power BI / Looker",
+              "importance": "required",
+              "status": "met",
+              "evidence": "[Data Visualization] Lead BI for supply chain and e-commerce: 35 Power BI dashboards used by 800 people, from store managers to the CEO.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Excel",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Listed in skills (not named in role bullets; backed by 7.2 yrs of technical experience)",
+              "transferable_from": []
+            },
+            {
+              "skill": "Communication",
+              "importance": "required",
+              "status": "missing",
+              "evidence": "No evidence",
+              "transferable_from": []
+            },
+            {
+              "skill": "Stakeholder Management",
+              "importance": "required",
+              "status": "missing",
+              "evidence": "No evidence",
+              "transferable_from": []
+            },
+            {
+              "skill": "Statistics",
+              "importance": "required",
+              "status": "missing",
+              "evidence": "No evidence",
+              "transferable_from": []
+            },
+            {
+              "skill": "A/B Testing",
+              "importance": "required",
+              "status": "missing",
+              "evidence": "No evidence",
+              "transferable_from": []
+            },
+            {
+              "skill": "Python / R / Pandas",
+              "importance": "preferred",
+              "status": "met",
+              "evidence": "[Python] Listed in skills (not named in role bullets; backed by 7.2 yrs of technical experience)",
+              "transferable_from": []
+            },
+            {
+              "skill": "dbt / Data Warehousing",
+              "importance": "preferred",
+              "status": "met",
+              "evidence": "[Data Warehousing] Built SSIS packages and a SQL Server star-schema warehouse for loan and collections reporting.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Snowflake",
+              "importance": "preferred",
+              "status": "met",
+              "evidence": "Built Snowflake data models and a KPI dictionary of 60 metrics, ending conflicting numbers between finance and merchandising.",
+              "transferable_from": []
+            }
+          ],
+          "experience_fit": "exceeds",
+          "experience_note": "7.2 years in technical roles vs 2+ required."
+        }
+      },
+      {
+        "step": 2,
+        "name": "Gap prioritisation",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 7,
+        "output": {
+          "strengths": [
+            {
+              "skill": "SQL",
+              "evidence": "Mentor three junior analysts and review their SQL."
+            },
+            {
+              "skill": "Data Visualization / Tableau / Power BI / Looker",
+              "evidence": "[Data Visualization] Lead BI for supply chain and e-commerce: 35 Power BI dashboards used by 800 people, from store managers to the CEO."
+            },
+            {
+              "skill": "Excel",
+              "evidence": "Listed in skills (not named in role bullets; backed by 7.2 yrs of technical experience)"
+            },
+            {
+              "skill": "Python / R / Pandas",
+              "evidence": "[Python] Listed in skills (not named in role bullets; backed by 7.2 yrs of technical experience)"
+            },
+            {
+              "skill": "dbt / Data Warehousing",
+              "evidence": "[Data Warehousing] Built SSIS packages and a SQL Server star-schema warehouse for loan and collections reporting."
+            },
+            {
+              "skill": "Snowflake",
+              "evidence": "Built Snowflake data models and a KPI dictionary of 60 metrics, ending conflicting numbers between finance and merchandising."
+            }
+          ],
+          "gaps": [
+            {
+              "skill": "Communication",
+              "importance": "required",
+              "severity": "critical",
+              "reason": "Listed as a must-have for this role.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Stakeholder Management",
+              "importance": "required",
+              "severity": "critical",
+              "reason": "Listed as a must-have for this role.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Statistics",
+              "importance": "required",
+              "severity": "critical",
+              "reason": "Listed as a must-have for this role.",
+              "transferable_from": []
+            },
+            {
+              "skill": "A/B Testing",
+              "importance": "required",
+              "severity": "critical",
+              "reason": "Listed as a must-have for this role.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Data Analysis",
+              "importance": "required",
+              "severity": "moderate",
+              "reason": "Listed as a must-have for this role. Partly offset by SQL, Excel.",
+              "transferable_from": [
+                "SQL",
+                "Excel"
+              ]
+            }
+          ],
+          "fit_score": 55,
+          "fit_rationale": "Covers 44% of required and 100% of preferred skills (partial/undemonstrated at half credit); 38% of must-haves are demonstrated in technical roles; experience exceeds the bar."
+        }
+      },
+      {
+        "step": 3,
+        "name": "Recommendations",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 0,
+        "output": {
+          "recommendations": [
+            {
+              "skill": "Communication",
+              "action": "Present an analysis to a non-technical audience and collect feedback",
+              "type": "on_the_job",
+              "resource_hint": "Internal demo days / Toastmasters",
+              "effort_weeks": 3.0,
+              "priority": "high"
+            },
+            {
+              "skill": "Stakeholder Management",
+              "action": "Own a reporting request end to end with a business stakeholder",
+              "type": "on_the_job",
+              "resource_hint": "Shadow a senior analyst / PM",
+              "effort_weeks": 4.0,
+              "priority": "high"
+            },
+            {
+              "skill": "Statistics",
+              "action": "Analyse an A/B test end to end: power, significance, confidence intervals",
+              "type": "course",
+              "resource_hint": "Khan Academy statistics / 'Trustworthy Online Controlled Experiments'",
+              "effort_weeks": 4.0,
+              "priority": "high"
+            },
+            {
+              "skill": "A/B Testing",
+              "action": "Design and analyse an experiment including power analysis and guardrails",
+              "type": "reading",
+              "resource_hint": "'Trustworthy Online Controlled Experiments' (Kohavi et al.)",
+              "effort_weeks": 3.0,
+              "priority": "high"
+            },
+            {
+              "skill": "Data Analysis",
+              "action": "Build a small project that uses Data Analysis the way a Data Analyst would - leverage existing SQL, Excel experience",
+              "type": "course",
+              "resource_hint": "vendor fundamentals course",
+              "effort_weeks": 1.5,
+              "priority": "medium"
+            }
+          ],
+          "interview_questions": [
+            "This role relies on Communication. What exposure have you had to it, and how would you ramp up in your first 60 days?",
+            "This role relies on Stakeholder Management. What exposure have you had to it, and how would you ramp up in your first 60 days?",
+            "This role relies on Statistics. What exposure have you had to it, and how would you ramp up in your first 60 days?",
+            "Walk me through the most complex thing you built with SQL: design choices, trade-offs and measurable results.",
+            "Walk me through the most complex thing you built with Data Visualization / Tableau / Power BI / Looker: design choices, trade-offs and measurable results.",
+            "Walk me through the most complex thing you built with Excel: design choices, trade-offs and measurable results."
+          ]
+        }
+      },
+      {
+        "step": 4,
+        "name": "Report synthesis",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 0,
+        "output": {
+          "verdict": "partial_match",
+          "headline": "Partial match for Data Analyst: strong in SQL, Data Visualization / Tableau / Power BI / Looker, Excel",
+          "executive_summary": "Rajesh Kumar (Senior Business Intelligence Analyst, 7.2 yrs in technical roles) shows clear evidence of SQL, Data Visualization / Tableau / Power BI / Looker, Excel. Critical gaps: Communication, Stakeholder Management, Statistics, A/B Testing. Partially covered: Data Analysis. The high/medium-priority plan totals roughly 15.5 weeks of part-time effort. Experience: 7.2 years in technical roles vs 2+ required.",
+          "hiring_recommendation": "Hold or consider for a more junior/adjacent role unless Communication, Stakeholder Management can be closed quickly."
+        }
+      }
+    ],
+    "generated_at": "2026-11-15T17:57:46+00:00"
+  }
+]

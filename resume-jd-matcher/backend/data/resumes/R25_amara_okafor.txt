@@ -1,0 +1,33 @@
+Amara Okafor
+amara.okafor@example.com | +44-555-0172 | London, UK
+Machine Learning Engineer — NLP
+
+Summary
+Machine learning engineer with seven years of experience, five of them building and running transformer models in production for healthcare and retail search. I work across the whole lifecycle on GCP, from data pipelines and training to serving, monitoring and cost control.
+
+Technical Skills
+Python, PyTorch, transformer models (BERT, T5, Llama-family), sentence-transformers, retrieval-augmented generation, Vertex AI, GKE, Docker, Kubeflow Pipelines, Weights & Biases, Pinecone, ONNX Runtime, BigQuery, Apache Beam, FastAPI
+
+Experience
+Machine Learning Engineer, Canary Health Data
+June 2022 to Present
+- Built a clinical-note de-identification and coding pipeline with fine-tuned transformer models (NER F1 0.93) that processes 4 million notes a month on Vertex AI endpoints.
+- Designed and shipped a RAG-based clinical guideline search tool: Pinecone vector index, cross-encoder re-ranking and an LLM answer layer with citation checks; adopted by 1,100 clinicians.
+- Own the Kubeflow training pipelines and the Weights & Biases model registry; retraining is triggered automatically by drift monitors.
+- Reduced inference cost by 40% through ONNX export and dynamic batching on GKE.
+
+Machine Learning Engineer, Albion Retail Analytics
+2020 - 2022
+- Built product search ranking with sentence embeddings for a grocery retailer, lifting search conversion by 9%.
+- Wrote Apache Beam pipelines on Dataflow to generate training features from BigQuery.
+
+Graduate Data Scientist, Ledger & Lane Insurance
+09/2019 – 08/2020
+- Built claims fraud models in scikit-learn and presented results to the underwriting team.
+
+Education
+MSc Machine Learning, University College London, 2019
+BSc Mathematics, University of Lagos, 2017
+
+Certifications
+Google Cloud Professional Machine Learning Engineer (2023)

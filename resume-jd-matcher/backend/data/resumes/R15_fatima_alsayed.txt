@@ -1,0 +1,29 @@
+Fatima Al-Sayed
+fatima.alsayed@example.com | +971-555-0136 | Dubai, UAE
+Data Scientist – NLP & Customer Analytics
+
+Summary
+Data scientist with almost five years at a telecom operator, specialising in Arabic and English customer-feedback NLP. I fine-tune transformer models, build dashboards for customer-experience leaders, and have started moving my models from scheduled notebooks into real-time services. Looking to grow into a machine learning engineering role.
+
+Skills
+Python, SQL, pandas, scikit-learn, PyTorch, Hugging Face Transformers (AraBERT, multilingual BERT), BERTopic, spaCy, Azure ML, Docker (basic), Power BI, Jupyter, Git, statistics, A/B testing
+
+Experience
+Data Scientist, Falcon Telecom
+Mar 2022 – Present
+- Fine-tuned AraBERT and multilingual BERT for sentiment and complaint-reason classification on 2 million survey responses and call transcripts (macro-F1 0.84).
+- Deployed the complaint classifier as a real-time Azure ML endpoint used by the IVR routing team (Docker, 120 ms p95); other models still run as weekly batch scoring jobs.
+- Topic modelling with BERTopic surfaced a billing-page issue whose redesign cut billing calls by 12%.
+- Piloted an LLM-based call summariser with retrieval over knowledge-base articles for 50 agents during a three-month trial; not yet in general production.
+- Built Power BI dashboards of customer sentiment and present findings monthly to the Chief Customer Officer.
+
+Data Analyst, Falcon Telecom
+2021 - 2022
+- Produced churn and complaint reports in SQL and Excel for the retention team.
+
+Education
+M.Sc. Data Science, Heriot-Watt University Dubai, 2021
+B.Sc. Computer Science, American University of Sharjah, 2019
+
+Certifications
+Microsoft Certified: Azure Data Scientist Associate (2023)

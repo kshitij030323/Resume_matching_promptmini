@@ -1,0 +1,33 @@
+Backend Software Engineer
+Company: Northwind Logistics Cloud
+Location: Remote (Europe, UTC-1 to UTC+3)
+Employment type: Full-time
+
+About the role
+Northwind Logistics Cloud provides shipment tracking and route optimization APIs to freight carriers across Europe. Our platform is made of roughly forty microservices written in Python and Go that talk to each other over gRPC and expose public REST APIs to customers. We are looking for a Backend Software Engineer to join the Shipments team and help us scale from 20 million to 100 million tracking events per day without waking anyone up at night.
+
+What you'll do
+- Design, build and own backend services in Python (FastAPI) and Go that power our shipment and carrier APIs.
+- Define clean REST and gRPC contracts (OpenAPI, Protocol Buffers) and keep them backward compatible.
+- Model data in PostgreSQL: schema design, indexing, migrations and query tuning for high-write tables.
+- Write meaningful unit and integration tests and keep our CI/CD pipelines green.
+- Take part in design reviews and a light, fair on-call rotation for the services your team owns.
+- Improve the performance, reliability and observability of existing services.
+
+Requirements
+- 3+ years of professional backend development experience.
+- Production experience with Python and/or Go. We will consider strong engineers from other backend languages who are keen to switch, but Python or Go is strongly preferred.
+- Experience designing and operating microservices with REST and/or gRPC APIs.
+- Solid PostgreSQL skills, including schema design and query optimization.
+- Comfortable with Docker, Git-based workflows and CI/CD.
+- A good understanding of distributed systems fundamentals: idempotency, retries, caching and eventual consistency.
+
+Bonus points
+- Message brokers such as Kafka or RabbitMQ.
+- Redis and caching strategies.
+- Kubernetes and Helm for deploying your own services.
+- Observability with Prometheus, Grafana or OpenTelemetry.
+- AWS experience (RDS, SQS, S3).
+
+Education
+- A degree in Computer Science or a related field is welcome but not required; we care more about what you have built and operated.

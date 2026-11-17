@@ -1,0 +1,32 @@
+Data Analyst
+Company: Brightcart Commerce
+Location: Austin, TX (Hybrid, 3 days in office)
+Employment type: Full-time
+
+Role overview
+Brightcart is an online grocery and household-goods marketplace serving two million customers across the southern United States. Our analytics team turns order, marketing and supply-chain data into decisions. We are hiring a Data Analyst to own reporting for the Growth and Operations teams: you will write the SQL, build the dashboards, and walk leaders through what the numbers mean and what to do next. This is a mid-level individual contributor role reporting to the Head of Analytics.
+
+Responsibilities
+- Write and maintain complex SQL queries against our Snowflake warehouse to answer questions about customers, orders and fulfilment.
+- Build and maintain self-service dashboards in Tableau (we are piloting Power BI for finance) and retire the ones nobody uses.
+- Define and document KPIs such as conversion rate, retention, basket size and on-time delivery, and make sure every team calculates them the same way.
+- Produce weekly and monthly business reviews for directors and present findings to non-technical stakeholders.
+- Support A/B test readouts with the experimentation team, including sample sizing and significance checks.
+- Run ad hoc deep dives (churn drivers, promotion performance, regional delivery delays) and turn them into clear recommendations.
+
+What we're looking for
+- 2+ years of experience in a data analyst, BI analyst or similar analytics role.
+- Advanced SQL: joins, CTEs, window functions and query performance basics.
+- Hands-on experience building dashboards in Tableau, Power BI or Looker.
+- Strong Excel or Google Sheets skills (pivot tables, lookups).
+- Excellent communication skills and experience presenting to business stakeholders.
+- A solid grasp of descriptive statistics and basic experimentation concepts.
+
+Preferred qualifications
+- Python or R for analysis (pandas, Jupyter).
+- Experience with dbt or another data modeling layer.
+- E-commerce, retail or marketplace domain experience.
+- Familiarity with Google Analytics or product analytics tools such as Amplitude or Mixpanel.
+
+Education
+- Bachelor's degree in Statistics, Economics, Mathematics, Business Analytics or a related field, or equivalent practical experience.

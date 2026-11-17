@@ -1,0 +1,33 @@
+Thandiwe Mokoena
+thandiwe.mokoena@example.com | +27-555-0122 | Johannesburg, South Africa
+Junior Data Analyst (former Mathematics Teacher)
+
+About
+Former high-school mathematics teacher who moved into analytics in 2025 after six years in the classroom. I write SQL, build Power BI dashboards and, above all, explain numbers clearly to people who do not live in spreadsheets.
+
+Education
+B.Ed. (Mathematics), University of the Witwatersrand, 2018
+
+Certifications
+Google Data Analytics Professional Certificate (2024)
+Microsoft Certified: Power BI Data Analyst Associate, PL-300 (2025)
+
+Skills
+SQL (SQL Server, PostgreSQL), Power BI (DAX basics), Excel (pivot tables, XLOOKUP), Python (pandas, beginner), descriptive statistics, data storytelling, presenting to non-technical audiences
+
+Experience
+Junior Data Analyst, Highveld Health Cover
+Sep 2025 – Present
+- Build and maintain six Power BI dashboards on claims turnaround time and call-centre performance for operations managers.
+- Write SQL (joins, CTEs, some window functions) against SQL Server to answer ad hoc questions from the claims team.
+- Present the monthly operations review to the Head of Operations; my analysis of claim rework led to a new checklist that cut resubmissions by 9%.
+
+Data Analyst Intern, Siyakhula Learning Trust (NGO)
+Feb 2025 – Aug 2025
+- Cleaned five years of donor records in Excel and built the organisation's first donor-retention dashboard.
+
+Mathematics Teacher (Grades 10–12), Riverlea High School
+Jan 2019 – Dec 2024
+- Taught algebra and statistics to about 180 learners per year; the matric maths pass rate rose from 71% to 88%.
+- Built an Excel gradebook and progress tracker adopted by the whole mathematics department.
+- Led termly data reviews with the department to target extra lessons where learners were falling behind.

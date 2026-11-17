@@ -1,0 +1,32 @@
+React Native Mobile Developer
+Company: Pocketfin
+Location: London, UK (Hybrid) or Remote within UK/EU
+Employment type: Full-time
+
+Role overview
+Pocketfin is a personal finance app with 1.5 million users in the UK and Europe, offering budgeting, savings pots and card controls. Our iOS and Android apps share a single React Native and TypeScript codebase, and we release every two weeks. We are looking for a React Native Mobile Developer who has taken apps through the full release cycle on both stores and cares about how an app feels on a five-year-old Android phone as much as on the newest iPhone.
+
+What you'll do
+- Build and ship new features in our React Native (TypeScript) app across iOS and Android.
+- Own parts of the release process: builds, code signing, TestFlight and Play Console tracks, staged rollouts and store review.
+- Profile and fix performance issues such as startup time, list rendering, memory use and JS thread jank.
+- Integrate with our REST and GraphQL APIs and manage app state with Redux Toolkit and React Query.
+- Write and maintain native modules in Swift or Kotlin when a feature needs platform APIs (biometrics, secure storage, push notifications).
+- Maintain unit and end-to-end tests and a healthy mobile CI pipeline.
+
+Must have
+- 3+ years of mobile development experience, including at least 2 years building production apps with React Native.
+- Strong TypeScript and modern React (hooks, context, functional components).
+- Shipped and maintained at least one app on both the Apple App Store and Google Play.
+- Experience with state management (Redux, Zustand, MobX or React Query) and API integration (REST, GraphQL).
+- Understanding of mobile performance, offline behaviour and platform UX conventions on iOS and Android.
+
+Nice to have
+- Native iOS (Swift) or Android (Kotlin) experience, especially writing React Native bridge modules or Turbo Modules.
+- Expo and EAS Build, CodePush or other over-the-air update tooling.
+- Detox, Maestro or Appium end-to-end testing; fastlane.
+- Fintech, payments or other security-sensitive app experience.
+- Accessibility best practices (VoiceOver, TalkBack).
+
+Education
+- Degree in Computer Science or equivalent experience. Bootcamp graduates with substantial shipped mobile work are welcome to apply.

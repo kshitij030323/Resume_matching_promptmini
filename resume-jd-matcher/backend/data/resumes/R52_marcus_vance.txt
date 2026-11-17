@@ -1,0 +1,85 @@
+Marcus Vance
+Principal Backend Systems Engineer & Distributed Systems Architect (20+ Years
+Experience)
+San Francisco, CA • marcus.vance.arch@example.com • (415) 890-4312 • github.com/mvance-systems •
+linkedin.com/in/marcus-vance-backend
+SUMMARY
+Principal Backend Engineer with 20 years of hands-on experience architecting, scaling, and operating
+fault-tolerant, high-throughput distributed systems, cloud-native microservices, and low-latency data
+pipelines. Proven track record leading backend infrastructure transformations handling 2.5M+ requests
+per second at 99.999% availability across fintech, cloud storage, and enterprise SaaS platforms. Deep
+expertise in Python, Go, Java, Rust, PostgreSQL, Apache Kafka, Kubernetes, and AWS.
+TECHNICAL SKILLS
+Domain Technologies & Core Competencies
+Languages Python (FastAPI, Django, asyncio), Go (Golang),
+Java (Spring Boot), Rust, C++, SQL, TypeScript,
+Bash
+Databases & Storage PostgreSQL (sharding, partitioning, query tuning),
+MySQL, Redis, MongoDB, Cassandra, DynamoDB,
+Elasticsearch, ClickHouse
+Distributed & Messaging Apache Kafka, RabbitMQ, gRPC, GraphQL, REST
+APIs, Celery, Apache Flink, Apache Spark, Event
+Sourcing, CQRS
+Cloud & Orchestration AWS (EC2, EKS, RDS, S3, Lambda, IAM, SQS,
+SNS), Google Cloud Platform (GCP), Docker,
+Kubernetes (K8s), Terraform, Helm
+Observability & CI/CD Prometheus, Grafana, OpenTelemetry, Jaeger,
+Datadog, ELK Stack, GitHub Actions, Jenkins,
+ArgoCD, Linux Internals
+EXPERIENCE
+Principal Backend Engineer — NexusScale Cloud Systems2019 – 2026 (7 Years) • San Francisco, CA
+Architected a multi-region, event-driven financial ledger and API gateway in Go and Python (FastAPI),
+sustaining 1.8M requests/sec with p99 latency under 14ms and 99.999% uptime.
+Led the migration from a monolithic PostgreSQL cluster to horizontally sharded Citus/PostgreSQL and
+Apache Kafka event streams, cutting database CPU utilization by 62% and saving $1.4M annually in AWS
+RDS costs.
+Designed zero-downtime deployment pipelines and automated canary rollbacks on AWS EKS
+(Kubernetes) using Terraform, Helm, and ArgoCD across 140+ production microservices.
+Established distributed tracing and observability standards with OpenTelemetry, Prometheus, and
+Grafana, reducing mean time to resolution (MTTR) for severity-1 incidents by 74%.
+Marcus Vance — Principal Backend Systems Engineer Page 1 of 2
+Staff Backend & Distributed Systems Engineer — Vanguard
+DataGrid
+2014 – 2019 (5 Years) • Seattle,
+WA
+Engineered a high-throughput real-time telemetry ingestion pipeline using Apache Kafka, Rust, and
+ClickHouse capable of processing 450GB/hour of streaming log events.
+Built distributed caching and rate-limiting layers backed by Redis Cluster and Lua scripting, absorbing 10x
+traffic spikes during global product launches without downstream degradation.
+Replaced legacy SOAP endpoints with high-performance gRPC and REST microservices in Java (Spring
+Boot) and Python, improving inter-service serialization throughput by 4.2x.
+Mentored 18 senior and mid-level backend engineers on concurrency patterns, database indexing, lock
+contention mitigation, and defensive API design.
+Senior Backend Software Engineer — ClearStream Financial
+Tech
+2010 – 2014 (4 Years) • New York,
+NY
+Developed core payment clearing, idempotency enforcement, and double-entry reconciliation services in
+Java and Python backed by MySQL and RabbitMQ.
+Implemented cryptographic audit logging, OAuth2/JWT authentication services, and PCI-DSS compliant
+data tokenization pipelines processing $18B in annual transaction volume.
+Optimized slow analytical and transactional SQL queries through composite indexing and read-replica
+routing, reducing batch settlement runtimes from 3.5 hours to 18 minutes.
+Backend & Systems Software Engineer — OmniCore Enterprise
+Software
+2006 – 2010 (4 Years) • Austin,
+TX
+Built multi-tenant backend RESTful web services, background job schedulers, and automated ETL
+pipelines in Python (Django), C++, and Linux shell scripting.
+Designed normalized relational schemas in PostgreSQL and Oracle DB, developing automated backup,
+failover, and disaster recovery verification suites.
+KEY ARCHITECTURE PROJECTS & OPEN SOURCE
+ChronoKV — Distributed Raft Key-Value Store (Go / gRPC):
+Authored an open-source strongly consistent distributed key-value storage engine implementing Raft
+consensus, write-ahead logging (WAL), and snapshot compaction for educational and microservice state
+coordination.
+PulseGate — Adaptive Token-Bucket Rate Limiter (Rust / Redis):
+Created a low-overhead distributed rate-limiting middleware supporting sliding-window counters and
+circuit breaking across multi-node Kubernetes clusters.
+EDUCATION & CERTIFICATIONS
+Master of Science (M.S.) in Computer Science (Distributed Systems) — University of Texas at Austin
+(2006)
+Bachelor of Science (B.S.) in Computer Engineering — University of Illinois Urbana-Champaign (2004)
+Certifications: AWS Certified Solutions Architect – Professional • Certified Kubernetes Administrator
+(CKA)
+Marcus Vance — Principal Backend Systems Engineer Page 2 of 2

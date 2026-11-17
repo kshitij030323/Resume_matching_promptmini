@@ -1,0 +1,33 @@
+Sofía Hernández
+sofia.hernandez@example.com | +52-555-0108 | Mexico City, Mexico
+Data Engineer
+
+Summary
+Data engineer with six years of experience building batch and streaming pipelines for e-commerce and banking. Strong in PySpark, SQL and ETL orchestration with Apache Airflow, with a habit of adding data quality checks before anyone asks.
+
+Skills
+Python, SQL, PySpark, Spark Structured Streaming, Kafka, ETL orchestration with Apache Airflow, Snowflake, dbt, AWS (S3, EMR, Glue, Kinesis), Debezium, Great Expectations, Docker, Terraform (basic)
+
+Experience
+Data Engineer — Mercado Azul (online marketplace)
+Jan 2023 – Present
+- Built PySpark jobs on EMR that process 3 TB of clickstream and order events per day into Snowflake.
+- Own 70+ Airflow DAGs with SLAs, retries and Slack alerting; on-time delivery of daily tables went from 82% to 99%.
+- Built a Kafka to Spark Structured Streaming pipeline for real-time inventory, cutting stock-update latency from 15 minutes to 30 seconds.
+- Designed the orders and fulfilment star schema, including an SCD Type 2 customer dimension, and the dbt models analysts query.
+- Added Great Expectations checks to critical tables; data incidents reported by analysts fell by 45%.
+
+Junior Data Engineer — Banco Horizonte
+08/2021 – 12/2022
+- Migrated 40 legacy SSIS packages to Python jobs scheduled in Airflow.
+- Built change data capture from PostgreSQL into S3 with Debezium and Kafka Connect.
+
+BI Developer — Consultoría Datum
+2020 - 2021
+- Built SQL Server reports and Power BI dashboards for retail clients.
+
+Education
+B.Sc. Computer Engineering, Universidad Nacional Autónoma de México (UNAM), 2020
+
+Certifications
+SnowPro Core Certification (2023)

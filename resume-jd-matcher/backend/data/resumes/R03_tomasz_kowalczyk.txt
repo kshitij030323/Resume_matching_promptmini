@@ -1,0 +1,30 @@
+Tomasz Kowalczyk
+tomasz.kowalczyk@example.com | +48-555-0119 | Kraków, Poland
+Senior Backend Engineer – Go, gRPC, Postgres
+
+About
+Backend engineer with over seven years of experience building high-throughput microservices, mostly in Go with some Python. I like explicit API contracts, boring database migrations and dashboards that tell you what broke before customers do.
+
+Skills
+Go, Python, gRPC, Protocol Buffers, REST, Postgres, Redis, Kafka, Docker, Helm, GitLab CI, Prometheus, OpenTelemetry, Linux
+
+Experience
+Senior Backend Engineer, Vistula Freight Systems
+Feb 2022 – Present
+- Own the carrier-integration platform: nine Go microservices communicating over gRPC and handling 35 million tracking events per day.
+- Redesigned the partitioned Postgres tables behind tracking history; p99 query latency dropped from 1.2 s to 80 ms.
+- Introduced a transactional outbox with Kafka, removing duplicate status notifications that had caused weekly support escalations.
+- Wrote Helm charts and GitLab CI pipelines to deploy our services to the company Kubernetes cluster (the cluster itself is run by the platform team).
+- Interview backend candidates and mentor two mid-level engineers.
+
+Backend Developer, Krakowski Software House
+2019 - 2022
+- Built REST APIs in Python (Django REST Framework) and later Go for e-commerce and fintech clients.
+- Extracted the payment module of a client's monolith into three services with idempotent retry handling.
+- Added Redis caching to a product catalogue API, cutting median response time by 60%.
+
+Education
+MSc Computer Science, AGH University of Science and Technology, 2019
+
+Projects
+- pgpartman-go: small open-source Go library for managing time-based Postgres partitions.

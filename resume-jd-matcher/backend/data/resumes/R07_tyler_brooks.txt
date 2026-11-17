@@ -1,0 +1,30 @@
+Tyler Brooks
+tyler.brooks@example.com | +1-555-0176 | Columbus, OH
+Technical Support Specialist | Aspiring Cloud, DevOps & AI Engineer
+
+Summary
+Customer-focused technical support professional passionate about AI, cloud, DevOps, data and mobile. Fast learner and team player looking for my first engineering role where I can apply my knowledge of modern cloud-native and machine learning technologies.
+
+Skills
+Kubernetes, Docker, Terraform, AWS, GCP, Azure, PyTorch, TensorFlow, LLMs, LangChain, Machine Learning, Deep Learning, NLP, Spark, Hadoop, Airflow, Kafka, Snowflake, React, React Native, TypeScript, Go, Python, Java, SQL, Tableau, Power BI, Jenkins, Prometheus, Grafana, Microservices, REST APIs, CI/CD, Agile, Scrum, Jira, Zendesk, Salesforce, Excel
+
+Experience
+Technical Support Specialist (Tier 1), Buckeye Payroll Software
+Aug 2021 – Present
+- Resolve 45–60 customer tickets per day by chat, email and phone for a payroll SaaS product.
+- Reset passwords and troubleshoot login, browser-cache and two-factor issues; escalate bugs to engineering with clear reproduction steps.
+- Maintain a 94% CSAT score; wrote 30 help-center macros adopted by the whole support team.
+- Built a Zendesk Explore dashboard of ticket volume and CSAT by product area, reviewed weekly with the support manager.
+
+Customer Service Representative, Midwest Mobile
+2018 - 2021
+- Helped walk-in customers activate phones, transfer data and choose service plans.
+- Top accessories sales associate in the district, Q3 2020.
+
+Education
+Associate of Applied Science, Business Management, Columbus State Community College, 2018
+
+Certifications
+AWS Certified Cloud Practitioner (2024)
+Introduction to Kubernetes – online course certificate of completion (2024)
+AI For Everyone – online course certificate (2023)

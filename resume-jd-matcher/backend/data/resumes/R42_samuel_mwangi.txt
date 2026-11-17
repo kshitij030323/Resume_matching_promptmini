@@ -1,0 +1,32 @@
+Samuel Mwangi
+samuel.mwangi@example.com | +254-555-0332 | Nairobi, Kenya
+Senior Mobile Developer (Flutter)
+
+Profile
+Seven years in software: nearly six building cross-platform mobile apps with Flutter for fintech and agritech, and before that Angular and TypeScript web dashboards. My apps run on millions of low-end Android phones, so performance and offline behaviour are never an afterthought.
+
+Technical Skills
+Flutter, Dart, Bloc, Riverpod, Provider, Kotlin and Swift (platform channels), Firebase, REST, GraphQL, Codemagic, fastlane, App Store Connect, Google Play Console, Sentry, TypeScript, Angular, JavaScript
+
+Professional Experience
+Senior Mobile Developer, Savanna Pay
+March 2022 – Present
+- Lead developer on the Flutter wallet app (iOS and Android, 2.5 million users); fortnightly releases through Codemagic and fastlane with staged rollouts on both stores.
+- Optimised for low-end Android: app size from 52 MB to 29 MB, startup time down 35%, and an offline-first transaction queue with background sync.
+- Wrote Kotlin and Swift platform channels for biometrics and secure storage; the app passed an external PCI penetration test.
+- Migrated state management from Provider to Bloc and introduced golden tests for key screens.
+
+Mobile Developer, Shamba Connect (agritech)
+January 2021 – February 2022
+- Built a Flutter app that lets 80,000 farmers record harvests offline and sync when they reach coverage.
+- Published to Google Play and the App Store and handled store reviews and release notes.
+
+Frontend Developer, Nairobi Web Works
+2019 - 2020
+- Built Angular and TypeScript dashboards for NGOs and microfinance clients.
+
+Education
+BSc Computer Science, University of Nairobi, 2019
+
+Certifications
+Google Associate Android Developer (2021)

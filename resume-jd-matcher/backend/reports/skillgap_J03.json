@@ -1,0 +1,2794 @@
+[
+  {
+    "job_id": "J03",
+    "resume_id": "R03",
+    "candidate_name": "Tomasz Kowalczyk",
+    "job_title": "Backend Software Engineer",
+    "fit_score": 88,
+    "verdict": "strong_match",
+    "headline": "Strong match for Backend Software Engineer: strong in Python / Go, REST APIs / gRPC, PostgreSQL",
+    "executive_summary": "Tomasz Kowalczyk (Senior Backend Engineer \u2013 Go, gRPC, Postgres, 7.8 yrs in technical roles) shows clear evidence of Python / Go, REST APIs / gRPC, PostgreSQL. No must-have skill is entirely missing. Partially covered: Git. The high/medium-priority plan totals roughly 1 weeks of part-time effort. Experience: 7.8 years in technical roles vs 3+ required.",
+    "hiring_recommendation": "Advance to technical interviews; verify depth on the listed strengths.",
+    "experience_fit": "exceeds",
+    "experience_note": "7.8 years in technical roles vs 3+ required.",
+    "assessments": [
+      {
+        "skill": "Python / Go",
+        "importance": "required",
+        "status": "met",
+        "evidence": "[Python] Built REST APIs in Python (Django REST Framework) and later Go for e-commerce and fintech clients.",
+        "transferable_from": []
+      },
+      {
+        "skill": "REST APIs / gRPC",
+        "importance": "required",
+        "status": "met",
+        "evidence": "[REST APIs] Built REST APIs in Python (Django REST Framework) and later Go for e-commerce and fintech clients.",
+        "transferable_from": []
+      },
+      {
+        "skill": "PostgreSQL",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Redesigned the partitioned Postgres tables behind tracking history; p99 query latency dropped from 1.2 s to 80 ms.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Docker",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Listed in skills (not named in role bullets; backed by 7.8 yrs of technical experience)",
+        "transferable_from": []
+      },
+      {
+        "skill": "Git",
+        "importance": "required",
+        "status": "partial",
+        "evidence": "Transferable experience with CI/CD",
+        "transferable_from": [
+          "CI/CD"
+        ]
+      },
+      {
+        "skill": "CI/CD",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Wrote Helm charts and GitLab CI pipelines to deploy our services to the company Kubernetes cluster (the cluster itself is run by the platform team).",
+        "transferable_from": []
+      },
+      {
+        "skill": "Microservices",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Own the carrier-integration platform: nine Go microservices communicating over gRPC and handling 35 million tracking events per day.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Apache Kafka",
+        "importance": "preferred",
+        "status": "met",
+        "evidence": "Introduced a transactional outbox with Kafka, removing duplicate status notifications that had caused weekly support escalations.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Redis",
+        "importance": "preferred",
+        "status": "met",
+        "evidence": "Added Redis caching to a product catalogue API, cutting median response time by 60%.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Kubernetes",
+        "importance": "preferred",
+        "status": "met",
+        "evidence": "Wrote Helm charts and GitLab CI pipelines to deploy our services to the company Kubernetes cluster (the cluster itself is run by the platform team).",
+        "transferable_from": []
+      },
+      {
+        "skill": "Helm",
+        "importance": "preferred",
+        "status": "met",
+        "evidence": "Wrote Helm charts and GitLab CI pipelines to deploy our services to the company Kubernetes cluster (the cluster itself is run by the platform team).",
+        "transferable_from": []
+      },
+      {
+        "skill": "Observability / Prometheus / Grafana",
+        "importance": "preferred",
+        "status": "met",
+        "evidence": "[Observability] Listed in skills (not named in role bullets; backed by 7.8 yrs of technical experience)",
+        "transferable_from": []
+      },
+      {
+        "skill": "AWS",
+        "importance": "preferred",
+        "status": "missing",
+        "evidence": "No evidence",
+        "transferable_from": []
+      },
+      {
+        "skill": "Celery",
+        "importance": "preferred",
+        "status": "partial",
+        "evidence": "Transferable experience with Apache Kafka",
+        "transferable_from": [
+          "Apache Kafka"
+        ]
+      },
+      {
+        "skill": "FastAPI",
+        "importance": "preferred",
+        "status": "partial",
+        "evidence": "Transferable experience with Django",
+        "transferable_from": [
+          "Django"
+        ]
+      },
+      {
+        "skill": "SRE",
+        "importance": "preferred",
+        "status": "partial",
+        "evidence": "Transferable experience with Prometheus, Observability",
+        "transferable_from": [
+          "Prometheus",
+          "Observability"
+        ]
+      }
+    ],
+    "strengths": [
+      {
+        "skill": "Python / Go",
+        "evidence": "[Python] Built REST APIs in Python (Django REST Framework) and later Go for e-commerce and fintech clients."
+      },
+      {
+        "skill": "REST APIs / gRPC",
+        "evidence": "[REST APIs] Built REST APIs in Python (Django REST Framework) and later Go for e-commerce and fintech clients."
+      },
+      {
+        "skill": "PostgreSQL",
+        "evidence": "Redesigned the partitioned Postgres tables behind tracking history; p99 query latency dropped from 1.2 s to 80 ms."
+      },
+      {
+        "skill": "Docker",
+        "evidence": "Listed in skills (not named in role bullets; backed by 7.8 yrs of technical experience)"
+      },
+      {
+        "skill": "CI/CD",
+        "evidence": "Wrote Helm charts and GitLab CI pipelines to deploy our services to the company Kubernetes cluster (the cluster itself is run by the platform team)."
+      },
+      {
+        "skill": "Microservices",
+        "evidence": "Own the carrier-integration platform: nine Go microservices communicating over gRPC and handling 35 million tracking events per day."
+      }
+    ],
+    "gaps": [
+      {
+        "skill": "Git",
+        "importance": "required",
+        "severity": "moderate",
+        "reason": "Listed as a must-have for this role. Partly offset by CI/CD.",
+        "transferable_from": [
+          "CI/CD"
+        ]
+      },
+      {
+        "skill": "AWS",
+        "importance": "preferred",
+        "severity": "minor",
+        "reason": "Nice-to-have that would speed up onboarding.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Celery",
+        "importance": "preferred",
+        "severity": "minor",
+        "reason": "Nice-to-have that would speed up onboarding. Partly offset by Apache Kafka.",
+        "transferable_from": [
+          "Apache Kafka"
+        ]
+      },
+      {
+        "skill": "FastAPI",
+        "importance": "preferred",
+        "severity": "minor",
+        "reason": "Used in the role's day-to-day responsibilities. Partly offset by Django.",
+        "transferable_from": [
+          "Django"
+        ]
+      },
+      {
+        "skill": "SRE",
+        "importance": "preferred",
+        "severity": "minor",
+        "reason": "Used in the role's day-to-day responsibilities. Partly offset by Prometheus, Observability.",
+        "transferable_from": [
+          "Prometheus",
+          "Observability"
+        ]
+      }
+    ],
+    "recommendations": [
+      {
+        "skill": "Git",
+        "action": "Build a small project that uses Git the way a Backend Software Engineer would - leverage existing CI/CD experience",
+        "type": "course",
+        "resource_hint": "official documentation",
+        "effort_weeks": 1.0,
+        "priority": "medium"
+      },
+      {
+        "skill": "AWS",
+        "action": "Build and deploy a service using EC2/ECS, S3, IAM and CloudWatch",
+        "type": "certification",
+        "resource_hint": "AWS Solutions Architect - Associate",
+        "effort_weeks": 3.0,
+        "priority": "low"
+      },
+      {
+        "skill": "Celery",
+        "action": "Build a small project that uses Celery the way a Backend Software Engineer would - leverage existing Apache Kafka experience",
+        "type": "project",
+        "resource_hint": "official framework documentation",
+        "effort_weeks": 1.0,
+        "priority": "low"
+      },
+      {
+        "skill": "FastAPI",
+        "action": "Build a small project that uses FastAPI the way a Backend Software Engineer would - leverage existing Django experience",
+        "type": "project",
+        "resource_hint": "official framework documentation",
+        "effort_weeks": 1.0,
+        "priority": "low"
+      },
+      {
+        "skill": "SRE",
+        "action": "Run an incident-response game day and write a blameless postmortem - leverage existing Prometheus, Observability experience",
+        "type": "reading",
+        "resource_hint": "Google 'Site Reliability Engineering' book",
+        "effort_weeks": 1.0,
+        "priority": "low"
+      }
+    ],
+    "interview_questions": [
+      "You haven't used Git directly - how would your CI/CD experience carry over, and what would you need to learn first?",
+      "This role relies on AWS. What exposure have you had to it, and how would you ramp up in your first 60 days?",
+      "You haven't used Celery directly - how would your Apache Kafka experience carry over, and what would you need to learn first?",
+      "Walk me through the most complex thing you built with Python / Go: design choices, trade-offs and measurable results.",
+      "Walk me through the most complex thing you built with REST APIs / gRPC: design choices, trade-offs and measurable results.",
+      "Walk me through the most complex thing you built with PostgreSQL: design choices, trade-offs and measurable results."
+    ],
+    "chain_trace": [
+      {
+        "step": 1,
+        "name": "Requirement alignment",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 281,
+        "output": {
+          "assessments": [
+            {
+              "skill": "Python / Go",
+              "importance": "required",
+              "status": "met",
+              "evidence": "[Python] Built REST APIs in Python (Django REST Framework) and later Go for e-commerce and fintech clients.",
+              "transferable_from": []
+            },
+            {
+              "skill": "REST APIs / gRPC",
+              "importance": "required",
+              "status": "met",
+              "evidence": "[REST APIs] Built REST APIs in Python (Django REST Framework) and later Go for e-commerce and fintech clients.",
+              "transferable_from": []
+            },
+            {
+              "skill": "PostgreSQL",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Redesigned the partitioned Postgres tables behind tracking history; p99 query latency dropped from 1.2 s to 80 ms.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Docker",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Listed in skills (not named in role bullets; backed by 7.8 yrs of technical experience)",
+              "transferable_from": []
+            },
+            {
+              "skill": "Git",
+              "importance": "required",
+              "status": "partial",
+              "evidence": "Transferable experience with CI/CD",
+              "transferable_from": [
+                "CI/CD"
+              ]
+            },
+            {
+              "skill": "CI/CD",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Wrote Helm charts and GitLab CI pipelines to deploy our services to the company Kubernetes cluster (the cluster itself is run by the platform team).",
+              "transferable_from": []
+            },
+            {
+              "skill": "Microservices",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Own the carrier-integration platform: nine Go microservices communicating over gRPC and handling 35 million tracking events per day.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Apache Kafka",
+              "importance": "preferred",
+              "status": "met",
+              "evidence": "Introduced a transactional outbox with Kafka, removing duplicate status notifications that had caused weekly support escalations.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Redis",
+              "importance": "preferred",
+              "status": "met",
+              "evidence": "Added Redis caching to a product catalogue API, cutting median response time by 60%.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Kubernetes",
+              "importance": "preferred",
+              "status": "met",
+              "evidence": "Wrote Helm charts and GitLab CI pipelines to deploy our services to the company Kubernetes cluster (the cluster itself is run by the platform team).",
+              "transferable_from": []
+            },
+            {
+              "skill": "Helm",
+              "importance": "preferred",
+              "status": "met",
+              "evidence": "Wrote Helm charts and GitLab CI pipelines to deploy our services to the company Kubernetes cluster (the cluster itself is run by the platform team).",
+              "transferable_from": []
+            },
+            {
+              "skill": "Observability / Prometheus / Grafana",
+              "importance": "preferred",
+              "status": "met",
+              "evidence": "[Observability] Listed in skills (not named in role bullets; backed by 7.8 yrs of technical experience)",
+              "transferable_from": []
+            },
+            {
+              "skill": "AWS",
+              "importance": "preferred",
+              "status": "missing",
+              "evidence": "No evidence",
+              "transferable_from": []
+            },
+            {
+              "skill": "Celery",
+              "importance": "preferred",
+              "status": "partial",
+              "evidence": "Transferable experience with Apache Kafka",
+              "transferable_from": [
+                "Apache Kafka"
+              ]
+            },
+            {
+              "skill": "FastAPI",
+              "importance": "preferred",
+              "status": "partial",
+              "evidence": "Transferable experience with Django",
+              "transferable_from": [
+                "Django"
+              ]
+            },
+            {
+              "skill": "SRE",
+              "importance": "preferred",
+              "status": "partial",
+              "evidence": "Transferable experience with Prometheus, Observability",
+              "transferable_from": [
+                "Prometheus",
+                "Observability"
+              ]
+            }
+          ],
+          "experience_fit": "exceeds",
+          "experience_note": "7.8 years in technical roles vs 3+ required."
+        }
+      },
+      {
+        "step": 2,
+        "name": "Gap prioritisation",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 5,
+        "output": {
+          "strengths": [
+            {
+              "skill": "Python / Go",
+              "evidence": "[Python] Built REST APIs in Python (Django REST Framework) and later Go for e-commerce and fintech clients."
+            },
+            {
+              "skill": "REST APIs / gRPC",
+              "evidence": "[REST APIs] Built REST APIs in Python (Django REST Framework) and later Go for e-commerce and fintech clients."
+            },
+            {
+              "skill": "PostgreSQL",
+              "evidence": "Redesigned the partitioned Postgres tables behind tracking history; p99 query latency dropped from 1.2 s to 80 ms."
+            },
+            {
+              "skill": "Docker",
+              "evidence": "Listed in skills (not named in role bullets; backed by 7.8 yrs of technical experience)"
+            },
+            {
+              "skill": "CI/CD",
+              "evidence": "Wrote Helm charts and GitLab CI pipelines to deploy our services to the company Kubernetes cluster (the cluster itself is run by the platform team)."
+            },
+            {
+              "skill": "Microservices",
+              "evidence": "Own the carrier-integration platform: nine Go microservices communicating over gRPC and handling 35 million tracking events per day."
+            }
+          ],
+          "gaps": [
+            {
+              "skill": "Git",
+              "importance": "required",
+              "severity": "moderate",
+              "reason": "Listed as a must-have for this role. Partly offset by CI/CD.",
+              "transferable_from": [
+                "CI/CD"
+              ]
+            },
+            {
+              "skill": "AWS",
+              "importance": "preferred",
+              "severity": "minor",
+              "reason": "Nice-to-have that would speed up onboarding.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Celery",
+              "importance": "preferred",
+              "severity": "minor",
+              "reason": "Nice-to-have that would speed up onboarding. Partly offset by Apache Kafka.",
+              "transferable_from": [
+                "Apache Kafka"
+              ]
+            },
+            {
+              "skill": "FastAPI",
+              "importance": "preferred",
+              "severity": "minor",
+              "reason": "Used in the role's day-to-day responsibilities. Partly offset by Django.",
+              "transferable_from": [
+                "Django"
+              ]
+            },
+            {
+              "skill": "SRE",
+              "importance": "preferred",
+              "severity": "minor",
+              "reason": "Used in the role's day-to-day responsibilities. Partly offset by Prometheus, Observability.",
+              "transferable_from": [
+                "Prometheus",
+                "Observability"
+              ]
+            }
+          ],
+          "fit_score": 88,
+          "fit_rationale": "Covers 93% of required and 72% of preferred skills (partial/undemonstrated at half credit); 86% of must-haves are demonstrated in technical roles; experience exceeds the bar."
+        }
+      },
+      {
+        "step": 3,
+        "name": "Recommendations",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 0,
+        "output": {
+          "recommendations": [
+            {
+              "skill": "Git",
+              "action": "Build a small project that uses Git the way a Backend Software Engineer would - leverage existing CI/CD experience",
+              "type": "course",
+              "resource_hint": "official documentation",
+              "effort_weeks": 1.0,
+              "priority": "medium"
+            },
+            {
+              "skill": "AWS",
+              "action": "Build and deploy a service using EC2/ECS, S3, IAM and CloudWatch",
+              "type": "certification",
+              "resource_hint": "AWS Solutions Architect - Associate",
+              "effort_weeks": 3.0,
+              "priority": "low"
+            },
+            {
+              "skill": "Celery",
+              "action": "Build a small project that uses Celery the way a Backend Software Engineer would - leverage existing Apache Kafka experience",
+              "type": "project",
+              "resource_hint": "official framework documentation",
+              "effort_weeks": 1.0,
+              "priority": "low"
+            },
+            {
+              "skill": "FastAPI",
+              "action": "Build a small project that uses FastAPI the way a Backend Software Engineer would - leverage existing Django experience",
+              "type": "project",
+              "resource_hint": "official framework documentation",
+              "effort_weeks": 1.0,
+              "priority": "low"
+            },
+            {
+              "skill": "SRE",
+              "action": "Run an incident-response game day and write a blameless postmortem - leverage existing Prometheus, Observability experience",
+              "type": "reading",
+              "resource_hint": "Google 'Site Reliability Engineering' book",
+              "effort_weeks": 1.0,
+              "priority": "low"
+            }
+          ],
+          "interview_questions": [
+            "You haven't used Git directly - how would your CI/CD experience carry over, and what would you need to learn first?",
+            "This role relies on AWS. What exposure have you had to it, and how would you ramp up in your first 60 days?",
+            "You haven't used Celery directly - how would your Apache Kafka experience carry over, and what would you need to learn first?",
+            "Walk me through the most complex thing you built with Python / Go: design choices, trade-offs and measurable results.",
+            "Walk me through the most complex thing you built with REST APIs / gRPC: design choices, trade-offs and measurable results.",
+            "Walk me through the most complex thing you built with PostgreSQL: design choices, trade-offs and measurable results."
+          ]
+        }
+      },
+      {
+        "step": 4,
+        "name": "Report synthesis",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 0,
+        "output": {
+          "verdict": "strong_match",
+          "headline": "Strong match for Backend Software Engineer: strong in Python / Go, REST APIs / gRPC, PostgreSQL",
+          "executive_summary": "Tomasz Kowalczyk (Senior Backend Engineer \u2013 Go, gRPC, Postgres, 7.8 yrs in technical roles) shows clear evidence of Python / Go, REST APIs / gRPC, PostgreSQL. No must-have skill is entirely missing. Partially covered: Git. The high/medium-priority plan totals roughly 1 weeks of part-time effort. Experience: 7.8 years in technical roles vs 3+ required.",
+          "hiring_recommendation": "Advance to technical interviews; verify depth on the listed strengths."
+        }
+      }
+    ],
+    "generated_at": "2026-11-15T17:58:03+00:00"
+  },
+  {
+    "job_id": "J03",
+    "resume_id": "R10",
+    "candidate_name": "Yusuf Demir",
+    "job_title": "Backend Software Engineer",
+    "fit_score": 88,
+    "verdict": "strong_match",
+    "headline": "Strong match for Backend Software Engineer: strong in Python / Go, REST APIs / gRPC, PostgreSQL",
+    "executive_summary": "Yusuf Demir (Senior Backend Engineer (Python / Go), 10.5 yrs in technical roles) shows clear evidence of Python / Go, REST APIs / gRPC, PostgreSQL. No must-have skill is entirely missing. Partially covered: Git, Microservices. The high/medium-priority plan totals roughly 3.5 weeks of part-time effort. Experience: 10.5 years in technical roles vs 3+ required.",
+    "hiring_recommendation": "Advance to technical interviews; verify depth on the listed strengths.",
+    "experience_fit": "exceeds",
+    "experience_note": "10.5 years in technical roles vs 3+ required.",
+    "assessments": [
+      {
+        "skill": "Python / Go",
+        "importance": "required",
+        "status": "met",
+        "evidence": "[Python] Built Python/Django REST APIs for a marketplace with 500,000 users.",
+        "transferable_from": []
+      },
+      {
+        "skill": "REST APIs / gRPC",
+        "importance": "required",
+        "status": "met",
+        "evidence": "[REST APIs] Built Python/Django REST APIs for a marketplace with 500,000 users.",
+        "transferable_from": []
+      },
+      {
+        "skill": "PostgreSQL",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Designed the PostgreSQL schema and monthly partitioning for trip history (1.4 billion rows) with zero-downtime migrations.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Docker",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Listed in skills (not named in role bullets; backed by 10.5 yrs of technical experience)",
+        "transferable_from": []
+      },
+      {
+        "skill": "Git",
+        "importance": "required",
+        "status": "partial",
+        "evidence": "Transferable experience with Testing, CI/CD",
+        "transferable_from": [
+          "Testing",
+          "CI/CD"
+        ]
+      },
+      {
+        "skill": "CI/CD",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Listed in skills (not named in role bullets; backed by 10.5 yrs of technical experience)",
+        "transferable_from": []
+      },
+      {
+        "skill": "Microservices",
+        "importance": "required",
+        "status": "partial",
+        "evidence": "Transferable experience with gRPC, REST APIs",
+        "transferable_from": [
+          "gRPC",
+          "REST APIs"
+        ]
+      },
+      {
+        "skill": "Apache Kafka",
+        "importance": "preferred",
+        "status": "met",
+        "evidence": "Listed in skills (not named in role bullets; backed by 10.5 yrs of technical experience)",
+        "transferable_from": []
+      },
+      {
+        "skill": "Redis",
+        "importance": "preferred",
+        "status": "met",
+        "evidence": "Listed in skills (not named in role bullets; backed by 10.5 yrs of technical experience)",
+        "transferable_from": []
+      },
+      {
+        "skill": "Kubernetes",
+        "importance": "preferred",
+        "status": "met",
+        "evidence": "Listed in skills (not named in role bullets; backed by 10.5 yrs of technical experience)",
+        "transferable_from": []
+      },
+      {
+        "skill": "Helm",
+        "importance": "preferred",
+        "status": "met",
+        "evidence": "The company has no dedicated ops team, so I set up and still maintain our EKS cluster with Terraform and Helm, plus the Prometheus and Grafana dashboards; I am on call one week in four.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Observability / Prometheus / Grafana",
+        "importance": "preferred",
+        "status": "met",
+        "evidence": "[Prometheus] The company has no dedicated ops team, so I set up and still maintain our EKS cluster with Terraform and Helm, plus the Prometheus and Grafana dashboards; I am on call one week in four.",
+        "transferable_from": []
+      },
+      {
+        "skill": "AWS",
+        "importance": "preferred",
+        "status": "met",
+        "evidence": "The company has no dedicated ops team, so I set up and still maintain our EKS cluster with Terraform and Helm, plus the Prometheus and Grafana dashboards; I am on call one week in four.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Celery",
+        "importance": "preferred",
+        "status": "met",
+        "evidence": "Split the monolith into six services communicating through RabbitMQ, with idempotent consumers and retry queues.",
+        "transferable_from": []
+      },
+      {
+        "skill": "FastAPI",
+        "importance": "preferred",
+        "status": "met",
+        "evidence": "Listed in skills (not named in role bullets; backed by 10.5 yrs of technical experience)",
+        "transferable_from": []
+      },
+      {
+        "skill": "SRE",
+        "importance": "preferred",
+        "status": "partial",
+        "evidence": "Transferable experience with Prometheus, Grafana",
+        "transferable_from": [
+          "Prometheus",
+          "Grafana"
+        ]
+      }
+    ],
+    "strengths": [
+      {
+        "skill": "Python / Go",
+        "evidence": "[Python] Built Python/Django REST APIs for a marketplace with 500,000 users."
+      },
+      {
+        "skill": "REST APIs / gRPC",
+        "evidence": "[REST APIs] Built Python/Django REST APIs for a marketplace with 500,000 users."
+      },
+      {
+        "skill": "PostgreSQL",
+        "evidence": "Designed the PostgreSQL schema and monthly partitioning for trip history (1.4 billion rows) with zero-downtime migrations."
+      },
+      {
+        "skill": "Docker",
+        "evidence": "Listed in skills (not named in role bullets; backed by 10.5 yrs of technical experience)"
+      },
+      {
+        "skill": "CI/CD",
+        "evidence": "Listed in skills (not named in role bullets; backed by 10.5 yrs of technical experience)"
+      },
+      {
+        "skill": "Apache Kafka",
+        "evidence": "Listed in skills (not named in role bullets; backed by 10.5 yrs of technical experience)"
+      }
+    ],
+    "gaps": [
+      {
+        "skill": "Git",
+        "importance": "required",
+        "severity": "moderate",
+        "reason": "Listed as a must-have for this role. Partly offset by Testing, CI/CD.",
+        "transferable_from": [
+          "Testing",
+          "CI/CD"
+        ]
+      },
+      {
+        "skill": "Microservices",
+        "importance": "required",
+        "severity": "moderate",
+        "reason": "Listed as a must-have for this role. Partly offset by gRPC, REST APIs.",
+        "transferable_from": [
+          "gRPC",
+          "REST APIs"
+        ]
+      },
+      {
+        "skill": "SRE",
+        "importance": "preferred",
+        "severity": "minor",
+        "reason": "Used in the role's day-to-day responsibilities. Partly offset by Prometheus, Grafana.",
+        "transferable_from": [
+          "Prometheus",
+          "Grafana"
+        ]
+      }
+    ],
+    "recommendations": [
+      {
+        "skill": "Git",
+        "action": "Build a small project that uses Git the way a Backend Software Engineer would - leverage existing Testing, CI/CD experience",
+        "type": "course",
+        "resource_hint": "official documentation",
+        "effort_weeks": 1.0,
+        "priority": "medium"
+      },
+      {
+        "skill": "Microservices",
+        "action": "Split a monolith feature into a service with its own API, data and contracts - leverage existing gRPC, REST APIs experience",
+        "type": "project",
+        "resource_hint": "'Building Microservices' (Newman)",
+        "effort_weeks": 2.5,
+        "priority": "medium"
+      },
+      {
+        "skill": "SRE",
+        "action": "Run an incident-response game day and write a blameless postmortem - leverage existing Prometheus, Grafana experience",
+        "type": "reading",
+        "resource_hint": "Google 'Site Reliability Engineering' book",
+        "effort_weeks": 1.0,
+        "priority": "low"
+      }
+    ],
+    "interview_questions": [
+      "You haven't used Git directly - how would your Testing experience carry over, and what would you need to learn first?",
+      "You haven't used Microservices directly - how would your gRPC experience carry over, and what would you need to learn first?",
+      "You haven't used SRE directly - how would your Prometheus experience carry over, and what would you need to learn first?",
+      "Walk me through the most complex thing you built with Python / Go: design choices, trade-offs and measurable results.",
+      "Walk me through the most complex thing you built with REST APIs / gRPC: design choices, trade-offs and measurable results.",
+      "Walk me through the most complex thing you built with PostgreSQL: design choices, trade-offs and measurable results."
+    ],
+    "chain_trace": [
+      {
+        "step": 1,
+        "name": "Requirement alignment",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 218,
+        "output": {
+          "assessments": [
+            {
+              "skill": "Python / Go",
+              "importance": "required",
+              "status": "met",
+              "evidence": "[Python] Built Python/Django REST APIs for a marketplace with 500,000 users.",
+              "transferable_from": []
+            },
+            {
+              "skill": "REST APIs / gRPC",
+              "importance": "required",
+              "status": "met",
+              "evidence": "[REST APIs] Built Python/Django REST APIs for a marketplace with 500,000 users.",
+              "transferable_from": []
+            },
+            {
+              "skill": "PostgreSQL",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Designed the PostgreSQL schema and monthly partitioning for trip history (1.4 billion rows) with zero-downtime migrations.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Docker",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Listed in skills (not named in role bullets; backed by 10.5 yrs of technical experience)",
+              "transferable_from": []
+            },
+            {
+              "skill": "Git",
+              "importance": "required",
+              "status": "partial",
+              "evidence": "Transferable experience with Testing, CI/CD",
+              "transferable_from": [
+                "Testing",
+                "CI/CD"
+              ]
+            },
+            {
+              "skill": "CI/CD",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Listed in skills (not named in role bullets; backed by 10.5 yrs of technical experience)",
+              "transferable_from": []
+            },
+            {
+              "skill": "Microservices",
+              "importance": "required",
+              "status": "partial",
+              "evidence": "Transferable experience with gRPC, REST APIs",
+              "transferable_from": [
+                "gRPC",
+                "REST APIs"
+              ]
+            },
+            {
+              "skill": "Apache Kafka",
+              "importance": "preferred",
+              "status": "met",
+              "evidence": "Listed in skills (not named in role bullets; backed by 10.5 yrs of technical experience)",
+              "transferable_from": []
+            },
+            {
+              "skill": "Redis",
+              "importance": "preferred",
+              "status": "met",
+              "evidence": "Listed in skills (not named in role bullets; backed by 10.5 yrs of technical experience)",
+              "transferable_from": []
+            },
+            {
+              "skill": "Kubernetes",
+              "importance": "preferred",
+              "status": "met",
+              "evidence": "Listed in skills (not named in role bullets; backed by 10.5 yrs of technical experience)",
+              "transferable_from": []
+            },
+            {
+              "skill": "Helm",
+              "importance": "preferred",
+              "status": "met",
+              "evidence": "The company has no dedicated ops team, so I set up and still maintain our EKS cluster with Terraform and Helm, plus the Prometheus and Grafana dashboards; I am on call one week in four.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Observability / Prometheus / Grafana",
+              "importance": "preferred",
+              "status": "met",
+              "evidence": "[Prometheus] The company has no dedicated ops team, so I set up and still maintain our EKS cluster with Terraform and Helm, plus the Prometheus and Grafana dashboards; I am on call one week in four.",
+              "transferable_from": []
+            },
+            {
+              "skill": "AWS",
+              "importance": "preferred",
+              "status": "met",
+              "evidence": "The company has no dedicated ops team, so I set up and still maintain our EKS cluster with Terraform and Helm, plus the Prometheus and Grafana dashboards; I am on call one week in four.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Celery",
+              "importance": "preferred",
+              "status": "met",
+              "evidence": "Split the monolith into six services communicating through RabbitMQ, with idempotent consumers and retry queues.",
+              "transferable_from": []
+            },
+            {
+              "skill": "FastAPI",
+              "importance": "preferred",
+              "status": "met",
+              "evidence": "Listed in skills (not named in role bullets; backed by 10.5 yrs of technical experience)",
+              "transferable_from": []
+            },
+            {
+              "skill": "SRE",
+              "importance": "preferred",
+              "status": "partial",
+              "evidence": "Transferable experience with Prometheus, Grafana",
+              "transferable_from": [
+                "Prometheus",
+                "Grafana"
+              ]
+            }
+          ],
+          "experience_fit": "exceeds",
+          "experience_note": "10.5 years in technical roles vs 3+ required."
+        }
+      },
+      {
+        "step": 2,
+        "name": "Gap prioritisation",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 5,
+        "output": {
+          "strengths": [
+            {
+              "skill": "Python / Go",
+              "evidence": "[Python] Built Python/Django REST APIs for a marketplace with 500,000 users."
+            },
+            {
+              "skill": "REST APIs / gRPC",
+              "evidence": "[REST APIs] Built Python/Django REST APIs for a marketplace with 500,000 users."
+            },
+            {
+              "skill": "PostgreSQL",
+              "evidence": "Designed the PostgreSQL schema and monthly partitioning for trip history (1.4 billion rows) with zero-downtime migrations."
+            },
+            {
+              "skill": "Docker",
+              "evidence": "Listed in skills (not named in role bullets; backed by 10.5 yrs of technical experience)"
+            },
+            {
+              "skill": "CI/CD",
+              "evidence": "Listed in skills (not named in role bullets; backed by 10.5 yrs of technical experience)"
+            },
+            {
+              "skill": "Apache Kafka",
+              "evidence": "Listed in skills (not named in role bullets; backed by 10.5 yrs of technical experience)"
+            }
+          ],
+          "gaps": [
+            {
+              "skill": "Git",
+              "importance": "required",
+              "severity": "moderate",
+              "reason": "Listed as a must-have for this role. Partly offset by Testing, CI/CD.",
+              "transferable_from": [
+                "Testing",
+                "CI/CD"
+              ]
+            },
+            {
+              "skill": "Microservices",
+              "importance": "required",
+              "severity": "moderate",
+              "reason": "Listed as a must-have for this role. Partly offset by gRPC, REST APIs.",
+              "transferable_from": [
+                "gRPC",
+                "REST APIs"
+              ]
+            },
+            {
+              "skill": "SRE",
+              "importance": "preferred",
+              "severity": "minor",
+              "reason": "Used in the role's day-to-day responsibilities. Partly offset by Prometheus, Grafana.",
+              "transferable_from": [
+                "Prometheus",
+                "Grafana"
+              ]
+            }
+          ],
+          "fit_score": 88,
+          "fit_rationale": "Covers 86% of required and 94% of preferred skills (partial/undemonstrated at half credit); 71% of must-haves are demonstrated in technical roles; experience exceeds the bar."
+        }
+      },
+      {
+        "step": 3,
+        "name": "Recommendations",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 0,
+        "output": {
+          "recommendations": [
+            {
+              "skill": "Git",
+              "action": "Build a small project that uses Git the way a Backend Software Engineer would - leverage existing Testing, CI/CD experience",
+              "type": "course",
+              "resource_hint": "official documentation",
+              "effort_weeks": 1.0,
+              "priority": "medium"
+            },
+            {
+              "skill": "Microservices",
+              "action": "Split a monolith feature into a service with its own API, data and contracts - leverage existing gRPC, REST APIs experience",
+              "type": "project",
+              "resource_hint": "'Building Microservices' (Newman)",
+              "effort_weeks": 2.5,
+              "priority": "medium"
+            },
+            {
+              "skill": "SRE",
+              "action": "Run an incident-response game day and write a blameless postmortem - leverage existing Prometheus, Grafana experience",
+              "type": "reading",
+              "resource_hint": "Google 'Site Reliability Engineering' book",
+              "effort_weeks": 1.0,
+              "priority": "low"
+            }
+          ],
+          "interview_questions": [
+            "You haven't used Git directly - how would your Testing experience carry over, and what would you need to learn first?",
+            "You haven't used Microservices directly - how would your gRPC experience carry over, and what would you need to learn first?",
+            "You haven't used SRE directly - how would your Prometheus experience carry over, and what would you need to learn first?",
+            "Walk me through the most complex thing you built with Python / Go: design choices, trade-offs and measurable results.",
+            "Walk me through the most complex thing you built with REST APIs / gRPC: design choices, trade-offs and measurable results.",
+            "Walk me through the most complex thing you built with PostgreSQL: design choices, trade-offs and measurable results."
+          ]
+        }
+      },
+      {
+        "step": 4,
+        "name": "Report synthesis",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 0,
+        "output": {
+          "verdict": "strong_match",
+          "headline": "Strong match for Backend Software Engineer: strong in Python / Go, REST APIs / gRPC, PostgreSQL",
+          "executive_summary": "Yusuf Demir (Senior Backend Engineer (Python / Go), 10.5 yrs in technical roles) shows clear evidence of Python / Go, REST APIs / gRPC, PostgreSQL. No must-have skill is entirely missing. Partially covered: Git, Microservices. The high/medium-priority plan totals roughly 3.5 weeks of part-time effort. Experience: 10.5 years in technical roles vs 3+ required.",
+          "hiring_recommendation": "Advance to technical interviews; verify depth on the listed strengths."
+        }
+      }
+    ],
+    "generated_at": "2026-11-15T17:58:04+00:00"
+  },
+  {
+    "job_id": "J03",
+    "resume_id": "R41",
+    "candidate_name": "Ivana Horvat",
+    "job_title": "Backend Software Engineer",
+    "fit_score": 92,
+    "verdict": "strong_match",
+    "headline": "Strong match for Backend Software Engineer: strong in Python / Go, REST APIs / gRPC, PostgreSQL",
+    "executive_summary": "Ivana Horvat (Senior Backend Engineer \u2013 Node.js / TypeScript, 7.6 yrs in technical roles) shows clear evidence of Python / Go, REST APIs / gRPC, PostgreSQL. No must-have skill is entirely missing. Partially covered: Git. The high/medium-priority plan totals roughly 1 weeks of part-time effort. Experience: 7.6 years in technical roles vs 3+ required.",
+    "hiring_recommendation": "Advance to technical interviews; verify depth on the listed strengths.",
+    "experience_fit": "exceeds",
+    "experience_note": "7.6 years in technical roles vs 3+ required.",
+    "assessments": [
+      {
+        "skill": "Python / Go",
+        "importance": "required",
+        "status": "met",
+        "evidence": "[Python] Wrote Python scripts for one-off data migrations and backfills.",
+        "transferable_from": []
+      },
+      {
+        "skill": "REST APIs / gRPC",
+        "importance": "required",
+        "status": "met",
+        "evidence": "[REST APIs] Built Express REST APIs on PostgreSQL for e-commerce clients, including inventory sync with three ERP systems.",
+        "transferable_from": []
+      },
+      {
+        "skill": "PostgreSQL",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Designed the PostgreSQL schema and partitioning for bookings and replaced a polling job runner with a SKIP LOCKED queue, ending lock contention during flash sales.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Docker",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Listed in skills (not named in role bullets; backed by 7.6 yrs of technical experience)",
+        "transferable_from": []
+      },
+      {
+        "skill": "Git",
+        "importance": "required",
+        "status": "partial",
+        "evidence": "Transferable experience with CI/CD",
+        "transferable_from": [
+          "CI/CD"
+        ]
+      },
+      {
+        "skill": "CI/CD",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Listed in skills (not named in role bullets; backed by 7.6 yrs of technical experience)",
+        "transferable_from": []
+      },
+      {
+        "skill": "Microservices",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Own six NestJS microservices for booking and payments, using gRPC internally and REST for partners; 1,500 requests per second at summer peak.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Apache Kafka",
+        "importance": "preferred",
+        "status": "met",
+        "evidence": "Built a Kafka-based saga for multi-step bookings with compensating actions and idempotency keys; double charges dropped to zero.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Redis",
+        "importance": "preferred",
+        "status": "met",
+        "evidence": "Listed in skills (not named in role bullets; backed by 7.6 yrs of technical experience)",
+        "transferable_from": []
+      },
+      {
+        "skill": "Kubernetes",
+        "importance": "preferred",
+        "status": "met",
+        "evidence": "Added OpenTelemetry tracing across services and deploy our services to the company Kubernetes cluster with Helm; on call one week in five.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Helm",
+        "importance": "preferred",
+        "status": "met",
+        "evidence": "Added OpenTelemetry tracing across services and deploy our services to the company Kubernetes cluster with Helm; on call one week in five.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Observability / Prometheus / Grafana",
+        "importance": "preferred",
+        "status": "met",
+        "evidence": "[Observability] Added OpenTelemetry tracing across services and deploy our services to the company Kubernetes cluster with Helm; on call one week in five.",
+        "transferable_from": []
+      },
+      {
+        "skill": "AWS",
+        "importance": "preferred",
+        "status": "met",
+        "evidence": "Listed in skills (not named in role bullets; backed by 7.6 yrs of technical experience)",
+        "transferable_from": []
+      },
+      {
+        "skill": "Celery",
+        "importance": "preferred",
+        "status": "met",
+        "evidence": "Listed in skills (not named in role bullets; backed by 7.6 yrs of technical experience)",
+        "transferable_from": []
+      },
+      {
+        "skill": "FastAPI",
+        "importance": "preferred",
+        "status": "partial",
+        "evidence": "Transferable experience with Node.js",
+        "transferable_from": [
+          "Node.js"
+        ]
+      },
+      {
+        "skill": "SRE",
+        "importance": "preferred",
+        "status": "partial",
+        "evidence": "Transferable experience with Observability",
+        "transferable_from": [
+          "Observability"
+        ]
+      }
+    ],
+    "strengths": [
+      {
+        "skill": "Python / Go",
+        "evidence": "[Python] Wrote Python scripts for one-off data migrations and backfills."
+      },
+      {
+        "skill": "REST APIs / gRPC",
+        "evidence": "[REST APIs] Built Express REST APIs on PostgreSQL for e-commerce clients, including inventory sync with three ERP systems."
+      },
+      {
+        "skill": "PostgreSQL",
+        "evidence": "Designed the PostgreSQL schema and partitioning for bookings and replaced a polling job runner with a SKIP LOCKED queue, ending lock contention during flash sales."
+      },
+      {
+        "skill": "Docker",
+        "evidence": "Listed in skills (not named in role bullets; backed by 7.6 yrs of technical experience)"
+      },
+      {
+        "skill": "CI/CD",
+        "evidence": "Listed in skills (not named in role bullets; backed by 7.6 yrs of technical experience)"
+      },
+      {
+        "skill": "Microservices",
+        "evidence": "Own six NestJS microservices for booking and payments, using gRPC internally and REST for partners; 1,500 requests per second at summer peak."
+      }
+    ],
+    "gaps": [
+      {
+        "skill": "Git",
+        "importance": "required",
+        "severity": "moderate",
+        "reason": "Listed as a must-have for this role. Partly offset by CI/CD.",
+        "transferable_from": [
+          "CI/CD"
+        ]
+      },
+      {
+        "skill": "FastAPI",
+        "importance": "preferred",
+        "severity": "minor",
+        "reason": "Used in the role's day-to-day responsibilities. Partly offset by Node.js.",
+        "transferable_from": [
+          "Node.js"
+        ]
+      },
+      {
+        "skill": "SRE",
+        "importance": "preferred",
+        "severity": "minor",
+        "reason": "Used in the role's day-to-day responsibilities. Partly offset by Observability.",
+        "transferable_from": [
+          "Observability"
+        ]
+      }
+    ],
+    "recommendations": [
+      {
+        "skill": "Git",
+        "action": "Build a small project that uses Git the way a Backend Software Engineer would - leverage existing CI/CD experience",
+        "type": "course",
+        "resource_hint": "official documentation",
+        "effort_weeks": 1.0,
+        "priority": "medium"
+      },
+      {
+        "skill": "FastAPI",
+        "action": "Build a small project that uses FastAPI the way a Backend Software Engineer would - leverage existing Node.js experience",
+        "type": "project",
+        "resource_hint": "official framework documentation",
+        "effort_weeks": 1.0,
+        "priority": "low"
+      },
+      {
+        "skill": "SRE",
+        "action": "Run an incident-response game day and write a blameless postmortem - leverage existing Observability experience",
+        "type": "reading",
+        "resource_hint": "Google 'Site Reliability Engineering' book",
+        "effort_weeks": 1.0,
+        "priority": "low"
+      }
+    ],
+    "interview_questions": [
+      "You haven't used Git directly - how would your CI/CD experience carry over, and what would you need to learn first?",
+      "You haven't used FastAPI directly - how would your Node.js experience carry over, and what would you need to learn first?",
+      "You haven't used SRE directly - how would your Observability experience carry over, and what would you need to learn first?",
+      "Walk me through the most complex thing you built with Python / Go: design choices, trade-offs and measurable results.",
+      "Walk me through the most complex thing you built with REST APIs / gRPC: design choices, trade-offs and measurable results.",
+      "Walk me through the most complex thing you built with PostgreSQL: design choices, trade-offs and measurable results."
+    ],
+    "chain_trace": [
+      {
+        "step": 1,
+        "name": "Requirement alignment",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 185,
+        "output": {
+          "assessments": [
+            {
+              "skill": "Python / Go",
+              "importance": "required",
+              "status": "met",
+              "evidence": "[Python] Wrote Python scripts for one-off data migrations and backfills.",
+              "transferable_from": []
+            },
+            {
+              "skill": "REST APIs / gRPC",
+              "importance": "required",
+              "status": "met",
+              "evidence": "[REST APIs] Built Express REST APIs on PostgreSQL for e-commerce clients, including inventory sync with three ERP systems.",
+              "transferable_from": []
+            },
+            {
+              "skill": "PostgreSQL",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Designed the PostgreSQL schema and partitioning for bookings and replaced a polling job runner with a SKIP LOCKED queue, ending lock contention during flash sales.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Docker",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Listed in skills (not named in role bullets; backed by 7.6 yrs of technical experience)",
+              "transferable_from": []
+            },
+            {
+              "skill": "Git",
+              "importance": "required",
+              "status": "partial",
+              "evidence": "Transferable experience with CI/CD",
+              "transferable_from": [
+                "CI/CD"
+              ]
+            },
+            {
+              "skill": "CI/CD",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Listed in skills (not named in role bullets; backed by 7.6 yrs of technical experience)",
+              "transferable_from": []
+            },
+            {
+              "skill": "Microservices",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Own six NestJS microservices for booking and payments, using gRPC internally and REST for partners; 1,500 requests per second at summer peak.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Apache Kafka",
+              "importance": "preferred",
+              "status": "met",
+              "evidence": "Built a Kafka-based saga for multi-step bookings with compensating actions and idempotency keys; double charges dropped to zero.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Redis",
+              "importance": "preferred",
+              "status": "met",
+              "evidence": "Listed in skills (not named in role bullets; backed by 7.6 yrs of technical experience)",
+              "transferable_from": []
+            },
+            {
+              "skill": "Kubernetes",
+              "importance": "preferred",
+              "status": "met",
+              "evidence": "Added OpenTelemetry tracing across services and deploy our services to the company Kubernetes cluster with Helm; on call one week in five.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Helm",
+              "importance": "preferred",
+              "status": "met",
+              "evidence": "Added OpenTelemetry tracing across services and deploy our services to the company Kubernetes cluster with Helm; on call one week in five.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Observability / Prometheus / Grafana",
+              "importance": "preferred",
+              "status": "met",
+              "evidence": "[Observability] Added OpenTelemetry tracing across services and deploy our services to the company Kubernetes cluster with Helm; on call one week in five.",
+              "transferable_from": []
+            },
+            {
+              "skill": "AWS",
+              "importance": "preferred",
+              "status": "met",
+              "evidence": "Listed in skills (not named in role bullets; backed by 7.6 yrs of technical experience)",
+              "transferable_from": []
+            },
+            {
+              "skill": "Celery",
+              "importance": "preferred",
+              "status": "met",
+              "evidence": "Listed in skills (not named in role bullets; backed by 7.6 yrs of technical experience)",
+              "transferable_from": []
+            },
+            {
+              "skill": "FastAPI",
+              "importance": "preferred",
+              "status": "partial",
+              "evidence": "Transferable experience with Node.js",
+              "transferable_from": [
+                "Node.js"
+              ]
+            },
+            {
+              "skill": "SRE",
+              "importance": "preferred",
+              "status": "partial",
+              "evidence": "Transferable experience with Observability",
+              "transferable_from": [
+                "Observability"
+              ]
+            }
+          ],
+          "experience_fit": "exceeds",
+          "experience_note": "7.6 years in technical roles vs 3+ required."
+        }
+      },
+      {
+        "step": 2,
+        "name": "Gap prioritisation",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 6,
+        "output": {
+          "strengths": [
+            {
+              "skill": "Python / Go",
+              "evidence": "[Python] Wrote Python scripts for one-off data migrations and backfills."
+            },
+            {
+              "skill": "REST APIs / gRPC",
+              "evidence": "[REST APIs] Built Express REST APIs on PostgreSQL for e-commerce clients, including inventory sync with three ERP systems."
+            },
+            {
+              "skill": "PostgreSQL",
+              "evidence": "Designed the PostgreSQL schema and partitioning for bookings and replaced a polling job runner with a SKIP LOCKED queue, ending lock contention during flash sales."
+            },
+            {
+              "skill": "Docker",
+              "evidence": "Listed in skills (not named in role bullets; backed by 7.6 yrs of technical experience)"
+            },
+            {
+              "skill": "CI/CD",
+              "evidence": "Listed in skills (not named in role bullets; backed by 7.6 yrs of technical experience)"
+            },
+            {
+              "skill": "Microservices",
+              "evidence": "Own six NestJS microservices for booking and payments, using gRPC internally and REST for partners; 1,500 requests per second at summer peak."
+            }
+          ],
+          "gaps": [
+            {
+              "skill": "Git",
+              "importance": "required",
+              "severity": "moderate",
+              "reason": "Listed as a must-have for this role. Partly offset by CI/CD.",
+              "transferable_from": [
+                "CI/CD"
+              ]
+            },
+            {
+              "skill": "FastAPI",
+              "importance": "preferred",
+              "severity": "minor",
+              "reason": "Used in the role's day-to-day responsibilities. Partly offset by Node.js.",
+              "transferable_from": [
+                "Node.js"
+              ]
+            },
+            {
+              "skill": "SRE",
+              "importance": "preferred",
+              "severity": "minor",
+              "reason": "Used in the role's day-to-day responsibilities. Partly offset by Observability.",
+              "transferable_from": [
+                "Observability"
+              ]
+            }
+          ],
+          "fit_score": 92,
+          "fit_rationale": "Covers 93% of required and 89% of preferred skills (partial/undemonstrated at half credit); 86% of must-haves are demonstrated in technical roles; experience exceeds the bar."
+        }
+      },
+      {
+        "step": 3,
+        "name": "Recommendations",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 0,
+        "output": {
+          "recommendations": [
+            {
+              "skill": "Git",
+              "action": "Build a small project that uses Git the way a Backend Software Engineer would - leverage existing CI/CD experience",
+              "type": "course",
+              "resource_hint": "official documentation",
+              "effort_weeks": 1.0,
+              "priority": "medium"
+            },
+            {
+              "skill": "FastAPI",
+              "action": "Build a small project that uses FastAPI the way a Backend Software Engineer would - leverage existing Node.js experience",
+              "type": "project",
+              "resource_hint": "official framework documentation",
+              "effort_weeks": 1.0,
+              "priority": "low"
+            },
+            {
+              "skill": "SRE",
+              "action": "Run an incident-response game day and write a blameless postmortem - leverage existing Observability experience",
+              "type": "reading",
+              "resource_hint": "Google 'Site Reliability Engineering' book",
+              "effort_weeks": 1.0,
+              "priority": "low"
+            }
+          ],
+          "interview_questions": [
+            "You haven't used Git directly - how would your CI/CD experience carry over, and what would you need to learn first?",
+            "You haven't used FastAPI directly - how would your Node.js experience carry over, and what would you need to learn first?",
+            "You haven't used SRE directly - how would your Observability experience carry over, and what would you need to learn first?",
+            "Walk me through the most complex thing you built with Python / Go: design choices, trade-offs and measurable results.",
+            "Walk me through the most complex thing you built with REST APIs / gRPC: design choices, trade-offs and measurable results.",
+            "Walk me through the most complex thing you built with PostgreSQL: design choices, trade-offs and measurable results."
+          ]
+        }
+      },
+      {
+        "step": 4,
+        "name": "Report synthesis",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 0,
+        "output": {
+          "verdict": "strong_match",
+          "headline": "Strong match for Backend Software Engineer: strong in Python / Go, REST APIs / gRPC, PostgreSQL",
+          "executive_summary": "Ivana Horvat (Senior Backend Engineer \u2013 Node.js / TypeScript, 7.6 yrs in technical roles) shows clear evidence of Python / Go, REST APIs / gRPC, PostgreSQL. No must-have skill is entirely missing. Partially covered: Git. The high/medium-priority plan totals roughly 1 weeks of part-time effort. Experience: 7.6 years in technical roles vs 3+ required.",
+          "hiring_recommendation": "Advance to technical interviews; verify depth on the listed strengths."
+        }
+      }
+    ],
+    "generated_at": "2026-11-15T17:58:04+00:00"
+  },
+  {
+    "job_id": "J03",
+    "resume_id": "R16",
+    "candidate_name": "Olivia Bennett",
+    "job_title": "Backend Software Engineer",
+    "fit_score": 83,
+    "verdict": "strong_match",
+    "headline": "Strong match for Backend Software Engineer: strong in Python / Go, REST APIs / gRPC, PostgreSQL",
+    "executive_summary": "Olivia Bennett (Backend Engineer, 5.8 yrs in technical roles) shows clear evidence of Python / Go, REST APIs / gRPC, PostgreSQL. No must-have skill is entirely missing. Partially covered: Git, Microservices. The high/medium-priority plan totals roughly 3.5 weeks of part-time effort. Experience: 5.8 years in technical roles vs 3+ required.",
+    "hiring_recommendation": "Advance to technical interviews; verify depth on the listed strengths.",
+    "experience_fit": "meets",
+    "experience_note": "5.8 years in technical roles vs 3+ required.",
+    "assessments": [
+      {
+        "skill": "Python / Go",
+        "importance": "required",
+        "status": "met",
+        "evidence": "[Python] Listed in skills (not named in role bullets; backed by 5.8 yrs of technical experience)",
+        "transferable_from": []
+      },
+      {
+        "skill": "REST APIs / gRPC",
+        "importance": "required",
+        "status": "met",
+        "evidence": "[REST APIs] Everything runs in Docker; GitHub Actions pipelines run unit tests, contract tests against our OpenAPI specs and database migration checks.",
+        "transferable_from": []
+      },
+      {
+        "skill": "PostgreSQL",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Designed the Postgres schema for multi-clinic scheduling, including row-level security and partial indexes; slot-search p95 dropped from 900 ms to 120 ms.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Docker",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Everything runs in Docker; GitHub Actions pipelines run unit tests, contract tests against our OpenAPI specs and database migration checks.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Git",
+        "importance": "required",
+        "status": "partial",
+        "evidence": "Transferable experience with Testing, CI/CD",
+        "transferable_from": [
+          "Testing",
+          "CI/CD"
+        ]
+      },
+      {
+        "skill": "CI/CD",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Everything runs in Docker; GitHub Actions pipelines run unit tests, contract tests against our OpenAPI specs and database migration checks.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Microservices",
+        "importance": "required",
+        "status": "partial",
+        "evidence": "Transferable experience with gRPC, REST APIs",
+        "transferable_from": [
+          "gRPC",
+          "REST APIs"
+        ]
+      },
+      {
+        "skill": "Apache Kafka",
+        "importance": "preferred",
+        "status": "partial",
+        "evidence": "Transferable experience with Celery",
+        "transferable_from": [
+          "Celery"
+        ]
+      },
+      {
+        "skill": "Redis",
+        "importance": "preferred",
+        "status": "met",
+        "evidence": "Migrated reporting queries from MySQL to Postgres and added Redis caching for rate lookups.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Kubernetes",
+        "importance": "preferred",
+        "status": "partial",
+        "evidence": "Transferable experience with Docker",
+        "transferable_from": [
+          "Docker"
+        ]
+      },
+      {
+        "skill": "Helm",
+        "importance": "preferred",
+        "status": "partial",
+        "evidence": "Transferable experience with Docker",
+        "transferable_from": [
+          "Docker"
+        ]
+      },
+      {
+        "skill": "Observability / Prometheus / Grafana",
+        "importance": "preferred",
+        "status": "partial",
+        "evidence": "Transferable experience with SRE",
+        "transferable_from": [
+          "SRE"
+        ]
+      },
+      {
+        "skill": "AWS",
+        "importance": "preferred",
+        "status": "missing",
+        "evidence": "No evidence",
+        "transferable_from": []
+      },
+      {
+        "skill": "Celery",
+        "importance": "preferred",
+        "status": "met",
+        "evidence": "Own the appointments and notifications services (FastAPI, Celery) in a platform of about 25 independently deployed services; they talk to each other over gRPC and expose REST endpoints to clinic partners.",
+        "transferable_from": []
+      },
+      {
+        "skill": "FastAPI",
+        "importance": "preferred",
+        "status": "met",
+        "evidence": "Own the appointments and notifications services (FastAPI, Celery) in a platform of about 25 independently deployed services; they talk to each other over gRPC and expose REST endpoints to clinic partners.",
+        "transferable_from": []
+      },
+      {
+        "skill": "SRE",
+        "importance": "preferred",
+        "status": "met",
+        "evidence": "Take part in the team's on-call rotation and wrote half of our runbooks.",
+        "transferable_from": []
+      }
+    ],
+    "strengths": [
+      {
+        "skill": "Python / Go",
+        "evidence": "[Python] Listed in skills (not named in role bullets; backed by 5.8 yrs of technical experience)"
+      },
+      {
+        "skill": "REST APIs / gRPC",
+        "evidence": "[REST APIs] Everything runs in Docker; GitHub Actions pipelines run unit tests, contract tests against our OpenAPI specs and database migration checks."
+      },
+      {
+        "skill": "PostgreSQL",
+        "evidence": "Designed the Postgres schema for multi-clinic scheduling, including row-level security and partial indexes; slot-search p95 dropped from 900 ms to 120 ms."
+      },
+      {
+        "skill": "Docker",
+        "evidence": "Everything runs in Docker; GitHub Actions pipelines run unit tests, contract tests against our OpenAPI specs and database migration checks."
+      },
+      {
+        "skill": "CI/CD",
+        "evidence": "Everything runs in Docker; GitHub Actions pipelines run unit tests, contract tests against our OpenAPI specs and database migration checks."
+      },
+      {
+        "skill": "Redis",
+        "evidence": "Migrated reporting queries from MySQL to Postgres and added Redis caching for rate lookups."
+      }
+    ],
+    "gaps": [
+      {
+        "skill": "Git",
+        "importance": "required",
+        "severity": "moderate",
+        "reason": "Listed as a must-have for this role. Partly offset by Testing, CI/CD.",
+        "transferable_from": [
+          "Testing",
+          "CI/CD"
+        ]
+      },
+      {
+        "skill": "Microservices",
+        "importance": "required",
+        "severity": "moderate",
+        "reason": "Listed as a must-have for this role. Partly offset by gRPC, REST APIs.",
+        "transferable_from": [
+          "gRPC",
+          "REST APIs"
+        ]
+      },
+      {
+        "skill": "Apache Kafka",
+        "importance": "preferred",
+        "severity": "minor",
+        "reason": "Nice-to-have that would speed up onboarding. Partly offset by Celery.",
+        "transferable_from": [
+          "Celery"
+        ]
+      },
+      {
+        "skill": "Kubernetes",
+        "importance": "preferred",
+        "severity": "minor",
+        "reason": "Nice-to-have that would speed up onboarding. Partly offset by Docker.",
+        "transferable_from": [
+          "Docker"
+        ]
+      },
+      {
+        "skill": "Helm",
+        "importance": "preferred",
+        "severity": "minor",
+        "reason": "Nice-to-have that would speed up onboarding. Partly offset by Docker.",
+        "transferable_from": [
+          "Docker"
+        ]
+      },
+      {
+        "skill": "Observability / Prometheus / Grafana",
+        "importance": "preferred",
+        "severity": "minor",
+        "reason": "Used in the role's day-to-day responsibilities. Partly offset by SRE.",
+        "transferable_from": [
+          "SRE"
+        ]
+      },
+      {
+        "skill": "AWS",
+        "importance": "preferred",
+        "severity": "minor",
+        "reason": "Nice-to-have that would speed up onboarding.",
+        "transferable_from": []
+      }
+    ],
+    "recommendations": [
+      {
+        "skill": "Git",
+        "action": "Build a small project that uses Git the way a Backend Software Engineer would - leverage existing Testing, CI/CD experience",
+        "type": "course",
+        "resource_hint": "official documentation",
+        "effort_weeks": 1.0,
+        "priority": "medium"
+      },
+      {
+        "skill": "Microservices",
+        "action": "Split a monolith feature into a service with its own API, data and contracts - leverage existing gRPC, REST APIs experience",
+        "type": "project",
+        "resource_hint": "'Building Microservices' (Newman)",
+        "effort_weeks": 2.5,
+        "priority": "medium"
+      },
+      {
+        "skill": "Apache Kafka",
+        "action": "Build a producer/consumer pipeline with schema registry and consumer groups - leverage existing Celery experience",
+        "type": "course",
+        "resource_hint": "Confluent Kafka fundamentals",
+        "effort_weeks": 1.0,
+        "priority": "low"
+      },
+      {
+        "skill": "Kubernetes",
+        "action": "Deploy a small multi-service app to a local kind/minikube cluster with Helm, probes and autoscaling - leverage existing Docker experience",
+        "type": "certification",
+        "resource_hint": "CKAD (Certified Kubernetes Application Developer)",
+        "effort_weeks": 1.5,
+        "priority": "low"
+      },
+      {
+        "skill": "Helm",
+        "action": "Build a small project that uses Helm the way a Backend Software Engineer would - leverage existing Docker experience",
+        "type": "certification",
+        "resource_hint": "the vendor's associate-level certification",
+        "effort_weeks": 1.0,
+        "priority": "low"
+      },
+      {
+        "skill": "Observability / Prometheus / Grafana",
+        "action": "(any one of Observability, Prometheus, Grafana) Define SLIs/SLOs for a service and add metrics, logs, traces and alerting - leverage existing SRE experience",
+        "type": "reading",
+        "resource_hint": "Google SRE Workbook (SLO chapters)",
+        "effort_weeks": 1.0,
+        "priority": "low"
+      },
+      {
+        "skill": "AWS",
+        "action": "Build and deploy a service using EC2/ECS, S3, IAM and CloudWatch",
+        "type": "certification",
+        "resource_hint": "AWS Solutions Architect - Associate",
+        "effort_weeks": 3.0,
+        "priority": "low"
+      }
+    ],
+    "interview_questions": [
+      "You haven't used Git directly - how would your Testing experience carry over, and what would you need to learn first?",
+      "You haven't used Microservices directly - how would your gRPC experience carry over, and what would you need to learn first?",
+      "You haven't used Apache Kafka directly - how would your Celery experience carry over, and what would you need to learn first?",
+      "Walk me through the most complex thing you built with Python / Go: design choices, trade-offs and measurable results.",
+      "Walk me through the most complex thing you built with REST APIs / gRPC: design choices, trade-offs and measurable results.",
+      "Walk me through the most complex thing you built with PostgreSQL: design choices, trade-offs and measurable results."
+    ],
+    "chain_trace": [
+      {
+        "step": 1,
+        "name": "Requirement alignment",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 116,
+        "output": {
+          "assessments": [
+            {
+              "skill": "Python / Go",
+              "importance": "required",
+              "status": "met",
+              "evidence": "[Python] Listed in skills (not named in role bullets; backed by 5.8 yrs of technical experience)",
+              "transferable_from": []
+            },
+            {
+              "skill": "REST APIs / gRPC",
+              "importance": "required",
+              "status": "met",
+              "evidence": "[REST APIs] Everything runs in Docker; GitHub Actions pipelines run unit tests, contract tests against our OpenAPI specs and database migration checks.",
+              "transferable_from": []
+            },
+            {
+              "skill": "PostgreSQL",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Designed the Postgres schema for multi-clinic scheduling, including row-level security and partial indexes; slot-search p95 dropped from 900 ms to 120 ms.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Docker",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Everything runs in Docker; GitHub Actions pipelines run unit tests, contract tests against our OpenAPI specs and database migration checks.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Git",
+              "importance": "required",
+              "status": "partial",
+              "evidence": "Transferable experience with Testing, CI/CD",
+              "transferable_from": [
+                "Testing",
+                "CI/CD"
+              ]
+            },
+            {
+              "skill": "CI/CD",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Everything runs in Docker; GitHub Actions pipelines run unit tests, contract tests against our OpenAPI specs and database migration checks.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Microservices",
+              "importance": "required",
+              "status": "partial",
+              "evidence": "Transferable experience with gRPC, REST APIs",
+              "transferable_from": [
+                "gRPC",
+                "REST APIs"
+              ]
+            },
+            {
+              "skill": "Apache Kafka",
+              "importance": "preferred",
+              "status": "partial",
+              "evidence": "Transferable experience with Celery",
+              "transferable_from": [
+                "Celery"
+              ]
+            },
+            {
+              "skill": "Redis",
+              "importance": "preferred",
+              "status": "met",
+              "evidence": "Migrated reporting queries from MySQL to Postgres and added Redis caching for rate lookups.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Kubernetes",
+              "importance": "preferred",
+              "status": "partial",
+              "evidence": "Transferable experience with Docker",
+              "transferable_from": [
+                "Docker"
+              ]
+            },
+            {
+              "skill": "Helm",
+              "importance": "preferred",
+              "status": "partial",
+              "evidence": "Transferable experience with Docker",
+              "transferable_from": [
+                "Docker"
+              ]
+            },
+            {
+              "skill": "Observability / Prometheus / Grafana",
+              "importance": "preferred",
+              "status": "partial",
+              "evidence": "Transferable experience with SRE",
+              "transferable_from": [
+                "SRE"
+              ]
+            },
+            {
+              "skill": "AWS",
+              "importance": "preferred",
+              "status": "missing",
+              "evidence": "No evidence",
+              "transferable_from": []
+            },
+            {
+              "skill": "Celery",
+              "importance": "preferred",
+              "status": "met",
+              "evidence": "Own the appointments and notifications services (FastAPI, Celery) in a platform of about 25 independently deployed services; they talk to each other over gRPC and expose REST endpoints to clinic partners.",
+              "transferable_from": []
+            },
+            {
+              "skill": "FastAPI",
+              "importance": "preferred",
+              "status": "met",
+              "evidence": "Own the appointments and notifications services (FastAPI, Celery) in a platform of about 25 independently deployed services; they talk to each other over gRPC and expose REST endpoints to clinic partners.",
+              "transferable_from": []
+            },
+            {
+              "skill": "SRE",
+              "importance": "preferred",
+              "status": "met",
+              "evidence": "Take part in the team's on-call rotation and wrote half of our runbooks.",
+              "transferable_from": []
+            }
+          ],
+          "experience_fit": "meets",
+          "experience_note": "5.8 years in technical roles vs 3+ required."
+        }
+      },
+      {
+        "step": 2,
+        "name": "Gap prioritisation",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 5,
+        "output": {
+          "strengths": [
+            {
+              "skill": "Python / Go",
+              "evidence": "[Python] Listed in skills (not named in role bullets; backed by 5.8 yrs of technical experience)"
+            },
+            {
+              "skill": "REST APIs / gRPC",
+              "evidence": "[REST APIs] Everything runs in Docker; GitHub Actions pipelines run unit tests, contract tests against our OpenAPI specs and database migration checks."
+            },
+            {
+              "skill": "PostgreSQL",
+              "evidence": "Designed the Postgres schema for multi-clinic scheduling, including row-level security and partial indexes; slot-search p95 dropped from 900 ms to 120 ms."
+            },
+            {
+              "skill": "Docker",
+              "evidence": "Everything runs in Docker; GitHub Actions pipelines run unit tests, contract tests against our OpenAPI specs and database migration checks."
+            },
+            {
+              "skill": "CI/CD",
+              "evidence": "Everything runs in Docker; GitHub Actions pipelines run unit tests, contract tests against our OpenAPI specs and database migration checks."
+            },
+            {
+              "skill": "Redis",
+              "evidence": "Migrated reporting queries from MySQL to Postgres and added Redis caching for rate lookups."
+            }
+          ],
+          "gaps": [
+            {
+              "skill": "Git",
+              "importance": "required",
+              "severity": "moderate",
+              "reason": "Listed as a must-have for this role. Partly offset by Testing, CI/CD.",
+              "transferable_from": [
+                "Testing",
+                "CI/CD"
+              ]
+            },
+            {
+              "skill": "Microservices",
+              "importance": "required",
+              "severity": "moderate",
+              "reason": "Listed as a must-have for this role. Partly offset by gRPC, REST APIs.",
+              "transferable_from": [
+                "gRPC",
+                "REST APIs"
+              ]
+            },
+            {
+              "skill": "Apache Kafka",
+              "importance": "preferred",
+              "severity": "minor",
+              "reason": "Nice-to-have that would speed up onboarding. Partly offset by Celery.",
+              "transferable_from": [
+                "Celery"
+              ]
+            },
+            {
+              "skill": "Kubernetes",
+              "importance": "preferred",
+              "severity": "minor",
+              "reason": "Nice-to-have that would speed up onboarding. Partly offset by Docker.",
+              "transferable_from": [
+                "Docker"
+              ]
+            },
+            {
+              "skill": "Helm",
+              "importance": "preferred",
+              "severity": "minor",
+              "reason": "Nice-to-have that would speed up onboarding. Partly offset by Docker.",
+              "transferable_from": [
+                "Docker"
+              ]
+            },
+            {
+              "skill": "Observability / Prometheus / Grafana",
+              "importance": "preferred",
+              "severity": "minor",
+              "reason": "Used in the role's day-to-day responsibilities. Partly offset by SRE.",
+              "transferable_from": [
+                "SRE"
+              ]
+            },
+            {
+              "skill": "AWS",
+              "importance": "preferred",
+              "severity": "minor",
+              "reason": "Nice-to-have that would speed up onboarding.",
+              "transferable_from": []
+            }
+          ],
+          "fit_score": 83,
+          "fit_rationale": "Covers 86% of required and 67% of preferred skills (partial/undemonstrated at half credit); 71% of must-haves are demonstrated in technical roles; experience meets the bar."
+        }
+      },
+      {
+        "step": 3,
+        "name": "Recommendations",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 0,
+        "output": {
+          "recommendations": [
+            {
+              "skill": "Git",
+              "action": "Build a small project that uses Git the way a Backend Software Engineer would - leverage existing Testing, CI/CD experience",
+              "type": "course",
+              "resource_hint": "official documentation",
+              "effort_weeks": 1.0,
+              "priority": "medium"
+            },
+            {
+              "skill": "Microservices",
+              "action": "Split a monolith feature into a service with its own API, data and contracts - leverage existing gRPC, REST APIs experience",
+              "type": "project",
+              "resource_hint": "'Building Microservices' (Newman)",
+              "effort_weeks": 2.5,
+              "priority": "medium"
+            },
+            {
+              "skill": "Apache Kafka",
+              "action": "Build a producer/consumer pipeline with schema registry and consumer groups - leverage existing Celery experience",
+              "type": "course",
+              "resource_hint": "Confluent Kafka fundamentals",
+              "effort_weeks": 1.0,
+              "priority": "low"
+            },
+            {
+              "skill": "Kubernetes",
+              "action": "Deploy a small multi-service app to a local kind/minikube cluster with Helm, probes and autoscaling - leverage existing Docker experience",
+              "type": "certification",
+              "resource_hint": "CKAD (Certified Kubernetes Application Developer)",
+              "effort_weeks": 1.5,
+              "priority": "low"
+            },
+            {
+              "skill": "Helm",
+              "action": "Build a small project that uses Helm the way a Backend Software Engineer would - leverage existing Docker experience",
+              "type": "certification",
+              "resource_hint": "the vendor's associate-level certification",
+              "effort_weeks": 1.0,
+              "priority": "low"
+            },
+            {
+              "skill": "Observability / Prometheus / Grafana",
+              "action": "(any one of Observability, Prometheus, Grafana) Define SLIs/SLOs for a service and add metrics, logs, traces and alerting - leverage existing SRE experience",
+              "type": "reading",
+              "resource_hint": "Google SRE Workbook (SLO chapters)",
+              "effort_weeks": 1.0,
+              "priority": "low"
+            },
+            {
+              "skill": "AWS",
+              "action": "Build and deploy a service using EC2/ECS, S3, IAM and CloudWatch",
+              "type": "certification",
+              "resource_hint": "AWS Solutions Architect - Associate",
+              "effort_weeks": 3.0,
+              "priority": "low"
+            }
+          ],
+          "interview_questions": [
+            "You haven't used Git directly - how would your Testing experience carry over, and what would you need to learn first?",
+            "You haven't used Microservices directly - how would your gRPC experience carry over, and what would you need to learn first?",
+            "You haven't used Apache Kafka directly - how would your Celery experience carry over, and what would you need to learn first?",
+            "Walk me through the most complex thing you built with Python / Go: design choices, trade-offs and measurable results.",
+            "Walk me through the most complex thing you built with REST APIs / gRPC: design choices, trade-offs and measurable results.",
+            "Walk me through the most complex thing you built with PostgreSQL: design choices, trade-offs and measurable results."
+          ]
+        }
+      },
+      {
+        "step": 4,
+        "name": "Report synthesis",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 0,
+        "output": {
+          "verdict": "strong_match",
+          "headline": "Strong match for Backend Software Engineer: strong in Python / Go, REST APIs / gRPC, PostgreSQL",
+          "executive_summary": "Olivia Bennett (Backend Engineer, 5.8 yrs in technical roles) shows clear evidence of Python / Go, REST APIs / gRPC, PostgreSQL. No must-have skill is entirely missing. Partially covered: Git, Microservices. The high/medium-priority plan totals roughly 3.5 weeks of part-time effort. Experience: 5.8 years in technical roles vs 3+ required.",
+          "hiring_recommendation": "Advance to technical interviews; verify depth on the listed strengths."
+        }
+      }
+    ],
+    "generated_at": "2026-11-15T17:58:04+00:00"
+  },
+  {
+    "job_id": "J03",
+    "resume_id": "R39",
+    "candidate_name": "Leila Farahani",
+    "job_title": "Backend Software Engineer",
+    "fit_score": 80,
+    "verdict": "strong_match",
+    "headline": "Strong match for Backend Software Engineer: strong in Python / Go, REST APIs / gRPC, PostgreSQL",
+    "executive_summary": "Leila Farahani (Software Engineer, Parcel Platform, 5.4 yrs in technical roles) shows clear evidence of Python / Go, REST APIs / gRPC, PostgreSQL. No must-have skill is entirely missing. Partially covered: Git, Microservices. The high/medium-priority plan totals roughly 3.5 weeks of part-time effort. Experience: 5.4 years in technical roles vs 3+ required.",
+    "hiring_recommendation": "Advance to technical interviews; verify depth on the listed strengths.",
+    "experience_fit": "meets",
+    "experience_note": "5.4 years in technical roles vs 3+ required.",
+    "assessments": [
+      {
+        "skill": "Python / Go",
+        "importance": "required",
+        "status": "met",
+        "evidence": "[Python] Built Python (Flask) and Go services for event ticketing.",
+        "transferable_from": []
+      },
+      {
+        "skill": "REST APIs / gRPC",
+        "importance": "required",
+        "status": "met",
+        "evidence": "[gRPC] Designed the protobuf contracts between services and the public HTTP/JSON endpoints that partners integrate with; added versioning rules so that no partner integration has broken in two years.",
+        "transferable_from": []
+      },
+      {
+        "skill": "PostgreSQL",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Modelled scan history in Postgres with time-based partitions and covering indexes; p95 for tracking lookups fell from 2 s to 150 ms.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Docker",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Write table-driven tests and run integration tests against throwaway Postgres containers in CI; part of the team's on-call rota.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Git",
+        "importance": "required",
+        "status": "partial",
+        "evidence": "Transferable experience with CI/CD",
+        "transferable_from": [
+          "CI/CD"
+        ]
+      },
+      {
+        "skill": "CI/CD",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Listed in skills (not named in role bullets; backed by 5.4 yrs of technical experience)",
+        "transferable_from": []
+      },
+      {
+        "skill": "Microservices",
+        "importance": "required",
+        "status": "partial",
+        "evidence": "Transferable experience with gRPC",
+        "transferable_from": [
+          "gRPC"
+        ]
+      },
+      {
+        "skill": "Apache Kafka",
+        "importance": "preferred",
+        "status": "missing",
+        "evidence": "No evidence",
+        "transferable_from": []
+      },
+      {
+        "skill": "Redis",
+        "importance": "preferred",
+        "status": "met",
+        "evidence": "Listed in skills (not named in role bullets; backed by 5.4 yrs of technical experience)",
+        "transferable_from": []
+      },
+      {
+        "skill": "Kubernetes",
+        "importance": "preferred",
+        "status": "partial",
+        "evidence": "Transferable experience with Docker",
+        "transferable_from": [
+          "Docker"
+        ]
+      },
+      {
+        "skill": "Helm",
+        "importance": "preferred",
+        "status": "partial",
+        "evidence": "Transferable experience with Docker",
+        "transferable_from": [
+          "Docker"
+        ]
+      },
+      {
+        "skill": "Observability / Prometheus / Grafana",
+        "importance": "preferred",
+        "status": "met",
+        "evidence": "[Grafana] Listed in skills (not named in role bullets; backed by 5.4 yrs of technical experience)",
+        "transferable_from": []
+      },
+      {
+        "skill": "AWS",
+        "importance": "preferred",
+        "status": "missing",
+        "evidence": "No evidence",
+        "transferable_from": []
+      },
+      {
+        "skill": "Celery",
+        "importance": "preferred",
+        "status": "missing",
+        "evidence": "No evidence",
+        "transferable_from": []
+      },
+      {
+        "skill": "FastAPI",
+        "importance": "preferred",
+        "status": "partial",
+        "evidence": "Transferable experience with Flask",
+        "transferable_from": [
+          "Flask"
+        ]
+      },
+      {
+        "skill": "SRE",
+        "importance": "preferred",
+        "status": "met",
+        "evidence": "Write table-driven tests and run integration tests against throwaway Postgres containers in CI; part of the team's on-call rota.",
+        "transferable_from": []
+      }
+    ],
+    "strengths": [
+      {
+        "skill": "Python / Go",
+        "evidence": "[Python] Built Python (Flask) and Go services for event ticketing."
+      },
+      {
+        "skill": "REST APIs / gRPC",
+        "evidence": "[gRPC] Designed the protobuf contracts between services and the public HTTP/JSON endpoints that partners integrate with; added versioning rules so that no partner integration has broken in two years."
+      },
+      {
+        "skill": "PostgreSQL",
+        "evidence": "Modelled scan history in Postgres with time-based partitions and covering indexes; p95 for tracking lookups fell from 2 s to 150 ms."
+      },
+      {
+        "skill": "Docker",
+        "evidence": "Write table-driven tests and run integration tests against throwaway Postgres containers in CI; part of the team's on-call rota."
+      },
+      {
+        "skill": "CI/CD",
+        "evidence": "Listed in skills (not named in role bullets; backed by 5.4 yrs of technical experience)"
+      },
+      {
+        "skill": "Redis",
+        "evidence": "Listed in skills (not named in role bullets; backed by 5.4 yrs of technical experience)"
+      }
+    ],
+    "gaps": [
+      {
+        "skill": "Git",
+        "importance": "required",
+        "severity": "moderate",
+        "reason": "Listed as a must-have for this role. Partly offset by CI/CD.",
+        "transferable_from": [
+          "CI/CD"
+        ]
+      },
+      {
+        "skill": "Microservices",
+        "importance": "required",
+        "severity": "moderate",
+        "reason": "Listed as a must-have for this role. Partly offset by gRPC.",
+        "transferable_from": [
+          "gRPC"
+        ]
+      },
+      {
+        "skill": "Apache Kafka",
+        "importance": "preferred",
+        "severity": "minor",
+        "reason": "Nice-to-have that would speed up onboarding.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Kubernetes",
+        "importance": "preferred",
+        "severity": "minor",
+        "reason": "Nice-to-have that would speed up onboarding. Partly offset by Docker.",
+        "transferable_from": [
+          "Docker"
+        ]
+      },
+      {
+        "skill": "Helm",
+        "importance": "preferred",
+        "severity": "minor",
+        "reason": "Nice-to-have that would speed up onboarding. Partly offset by Docker.",
+        "transferable_from": [
+          "Docker"
+        ]
+      },
+      {
+        "skill": "AWS",
+        "importance": "preferred",
+        "severity": "minor",
+        "reason": "Nice-to-have that would speed up onboarding.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Celery",
+        "importance": "preferred",
+        "severity": "minor",
+        "reason": "Nice-to-have that would speed up onboarding.",
+        "transferable_from": []
+      },
+      {
+        "skill": "FastAPI",
+        "importance": "preferred",
+        "severity": "minor",
+        "reason": "Used in the role's day-to-day responsibilities. Partly offset by Flask.",
+        "transferable_from": [
+          "Flask"
+        ]
+      }
+    ],
+    "recommendations": [
+      {
+        "skill": "Git",
+        "action": "Build a small project that uses Git the way a Backend Software Engineer would - leverage existing CI/CD experience",
+        "type": "course",
+        "resource_hint": "official documentation",
+        "effort_weeks": 1.0,
+        "priority": "medium"
+      },
+      {
+        "skill": "Microservices",
+        "action": "Split a monolith feature into a service with its own API, data and contracts - leverage existing gRPC experience",
+        "type": "project",
+        "resource_hint": "'Building Microservices' (Newman)",
+        "effort_weeks": 2.5,
+        "priority": "medium"
+      },
+      {
+        "skill": "Apache Kafka",
+        "action": "Build a producer/consumer pipeline with schema registry and consumer groups",
+        "type": "course",
+        "resource_hint": "Confluent Kafka fundamentals",
+        "effort_weeks": 1.5,
+        "priority": "low"
+      },
+      {
+        "skill": "Kubernetes",
+        "action": "Deploy a small multi-service app to a local kind/minikube cluster with Helm, probes and autoscaling - leverage existing Docker experience",
+        "type": "certification",
+        "resource_hint": "CKAD (Certified Kubernetes Application Developer)",
+        "effort_weeks": 1.5,
+        "priority": "low"
+      },
+      {
+        "skill": "Helm",
+        "action": "Build a small project that uses Helm the way a Backend Software Engineer would - leverage existing Docker experience",
+        "type": "certification",
+        "resource_hint": "the vendor's associate-level certification",
+        "effort_weeks": 1.0,
+        "priority": "low"
+      },
+      {
+        "skill": "AWS",
+        "action": "Build and deploy a service using EC2/ECS, S3, IAM and CloudWatch",
+        "type": "certification",
+        "resource_hint": "AWS Solutions Architect - Associate",
+        "effort_weeks": 3.0,
+        "priority": "low"
+      },
+      {
+        "skill": "Celery",
+        "action": "Build a small project that uses Celery the way a Backend Software Engineer would",
+        "type": "project",
+        "resource_hint": "official framework documentation",
+        "effort_weeks": 1.5,
+        "priority": "low"
+      },
+      {
+        "skill": "FastAPI",
+        "action": "Build a small project that uses FastAPI the way a Backend Software Engineer would - leverage existing Flask experience",
+        "type": "project",
+        "resource_hint": "official framework documentation",
+        "effort_weeks": 1.0,
+        "priority": "low"
+      }
+    ],
+    "interview_questions": [
+      "You haven't used Git directly - how would your CI/CD experience carry over, and what would you need to learn first?",
+      "You haven't used Microservices directly - how would your gRPC experience carry over, and what would you need to learn first?",
+      "This role relies on Apache Kafka. What exposure have you had to it, and how would you ramp up in your first 60 days?",
+      "Walk me through the most complex thing you built with Python / Go: design choices, trade-offs and measurable results.",
+      "Walk me through the most complex thing you built with REST APIs / gRPC: design choices, trade-offs and measurable results.",
+      "Walk me through the most complex thing you built with PostgreSQL: design choices, trade-offs and measurable results."
+    ],
+    "chain_trace": [
+      {
+        "step": 1,
+        "name": "Requirement alignment",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 149,
+        "output": {
+          "assessments": [
+            {
+              "skill": "Python / Go",
+              "importance": "required",
+              "status": "met",
+              "evidence": "[Python] Built Python (Flask) and Go services for event ticketing.",
+              "transferable_from": []
+            },
+            {
+              "skill": "REST APIs / gRPC",
+              "importance": "required",
+              "status": "met",
+              "evidence": "[gRPC] Designed the protobuf contracts between services and the public HTTP/JSON endpoints that partners integrate with; added versioning rules so that no partner integration has broken in two years.",
+              "transferable_from": []
+            },
+            {
+              "skill": "PostgreSQL",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Modelled scan history in Postgres with time-based partitions and covering indexes; p95 for tracking lookups fell from 2 s to 150 ms.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Docker",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Write table-driven tests and run integration tests against throwaway Postgres containers in CI; part of the team's on-call rota.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Git",
+              "importance": "required",
+              "status": "partial",
+              "evidence": "Transferable experience with CI/CD",
+              "transferable_from": [
+                "CI/CD"
+              ]
+            },
+            {
+              "skill": "CI/CD",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Listed in skills (not named in role bullets; backed by 5.4 yrs of technical experience)",
+              "transferable_from": []
+            },
+            {
+              "skill": "Microservices",
+              "importance": "required",
+              "status": "partial",
+              "evidence": "Transferable experience with gRPC",
+              "transferable_from": [
+                "gRPC"
+              ]
+            },
+            {
+              "skill": "Apache Kafka",
+              "importance": "preferred",
+              "status": "missing",
+              "evidence": "No evidence",
+              "transferable_from": []
+            },
+            {
+              "skill": "Redis",
+              "importance": "preferred",
+              "status": "met",
+              "evidence": "Listed in skills (not named in role bullets; backed by 5.4 yrs of technical experience)",
+              "transferable_from": []
+            },
+            {
+              "skill": "Kubernetes",
+              "importance": "preferred",
+              "status": "partial",
+              "evidence": "Transferable experience with Docker",
+              "transferable_from": [
+                "Docker"
+              ]
+            },
+            {
+              "skill": "Helm",
+              "importance": "preferred",
+              "status": "partial",
+              "evidence": "Transferable experience with Docker",
+              "transferable_from": [
+                "Docker"
+              ]
+            },
+            {
+              "skill": "Observability / Prometheus / Grafana",
+              "importance": "preferred",
+              "status": "met",
+              "evidence": "[Grafana] Listed in skills (not named in role bullets; backed by 5.4 yrs of technical experience)",
+              "transferable_from": []
+            },
+            {
+              "skill": "AWS",
+              "importance": "preferred",
+              "status": "missing",
+              "evidence": "No evidence",
+              "transferable_from": []
+            },
+            {
+              "skill": "Celery",
+              "importance": "preferred",
+              "status": "missing",
+              "evidence": "No evidence",
+              "transferable_from": []
+            },
+            {
+              "skill": "FastAPI",
+              "importance": "preferred",
+              "status": "partial",
+              "evidence": "Transferable experience with Flask",
+              "transferable_from": [
+                "Flask"
+              ]
+            },
+            {
+              "skill": "SRE",
+              "importance": "preferred",
+              "status": "met",
+              "evidence": "Write table-driven tests and run integration tests against throwaway Postgres containers in CI; part of the team's on-call rota.",
+              "transferable_from": []
+            }
+          ],
+          "experience_fit": "meets",
+          "experience_note": "5.4 years in technical roles vs 3+ required."
+        }
+      },
+      {
+        "step": 2,
+        "name": "Gap prioritisation",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 5,
+        "output": {
+          "strengths": [
+            {
+              "skill": "Python / Go",
+              "evidence": "[Python] Built Python (Flask) and Go services for event ticketing."
+            },
+            {
+              "skill": "REST APIs / gRPC",
+              "evidence": "[gRPC] Designed the protobuf contracts between services and the public HTTP/JSON endpoints that partners integrate with; added versioning rules so that no partner integration has broken in two years."
+            },
+            {
+              "skill": "PostgreSQL",
+              "evidence": "Modelled scan history in Postgres with time-based partitions and covering indexes; p95 for tracking lookups fell from 2 s to 150 ms."
+            },
+            {
+              "skill": "Docker",
+              "evidence": "Write table-driven tests and run integration tests against throwaway Postgres containers in CI; part of the team's on-call rota."
+            },
+            {
+              "skill": "CI/CD",
+              "evidence": "Listed in skills (not named in role bullets; backed by 5.4 yrs of technical experience)"
+            },
+            {
+              "skill": "Redis",
+              "evidence": "Listed in skills (not named in role bullets; backed by 5.4 yrs of technical experience)"
+            }
+          ],
+          "gaps": [
+            {
+              "skill": "Git",
+              "importance": "required",
+              "severity": "moderate",
+              "reason": "Listed as a must-have for this role. Partly offset by CI/CD.",
+              "transferable_from": [
+                "CI/CD"
+              ]
+            },
+            {
+              "skill": "Microservices",
+              "importance": "required",
+              "severity": "moderate",
+              "reason": "Listed as a must-have for this role. Partly offset by gRPC.",
+              "transferable_from": [
+                "gRPC"
+              ]
+            },
+            {
+              "skill": "Apache Kafka",
+              "importance": "preferred",
+              "severity": "minor",
+              "reason": "Nice-to-have that would speed up onboarding.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Kubernetes",
+              "importance": "preferred",
+              "severity": "minor",
+              "reason": "Nice-to-have that would speed up onboarding. Partly offset by Docker.",
+              "transferable_from": [
+                "Docker"
+              ]
+            },
+            {
+              "skill": "Helm",
+              "importance": "preferred",
+              "severity": "minor",
+              "reason": "Nice-to-have that would speed up onboarding. Partly offset by Docker.",
+              "transferable_from": [
+                "Docker"
+              ]
+            },
+            {
+              "skill": "AWS",
+              "importance": "preferred",
+              "severity": "minor",
+              "reason": "Nice-to-have that would speed up onboarding.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Celery",
+              "importance": "preferred",
+              "severity": "minor",
+              "reason": "Nice-to-have that would speed up onboarding.",
+              "transferable_from": []
+            },
+            {
+              "skill": "FastAPI",
+              "importance": "preferred",
+              "severity": "minor",
+              "reason": "Used in the role's day-to-day responsibilities. Partly offset by Flask.",
+              "transferable_from": [
+                "Flask"
+              ]
+            }
+          ],
+          "fit_score": 80,
+          "fit_rationale": "Covers 86% of required and 50% of preferred skills (partial/undemonstrated at half credit); 71% of must-haves are demonstrated in technical roles; experience meets the bar."
+        }
+      },
+      {
+        "step": 3,
+        "name": "Recommendations",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 0,
+        "output": {
+          "recommendations": [
+            {
+              "skill": "Git",
+              "action": "Build a small project that uses Git the way a Backend Software Engineer would - leverage existing CI/CD experience",
+              "type": "course",
+              "resource_hint": "official documentation",
+              "effort_weeks": 1.0,
+              "priority": "medium"
+            },
+            {
+              "skill": "Microservices",
+              "action": "Split a monolith feature into a service with its own API, data and contracts - leverage existing gRPC experience",
+              "type": "project",
+              "resource_hint": "'Building Microservices' (Newman)",
+              "effort_weeks": 2.5,
+              "priority": "medium"
+            },
+            {
+              "skill": "Apache Kafka",
+              "action": "Build a producer/consumer pipeline with schema registry and consumer groups",
+              "type": "course",
+              "resource_hint": "Confluent Kafka fundamentals",
+              "effort_weeks": 1.5,
+              "priority": "low"
+            },
+            {
+              "skill": "Kubernetes",
+              "action": "Deploy a small multi-service app to a local kind/minikube cluster with Helm, probes and autoscaling - leverage existing Docker experience",
+              "type": "certification",
+              "resource_hint": "CKAD (Certified Kubernetes Application Developer)",
+              "effort_weeks": 1.5,
+              "priority": "low"
+            },
+            {
+              "skill": "Helm",
+              "action": "Build a small project that uses Helm the way a Backend Software Engineer would - leverage existing Docker experience",
+              "type": "certification",
+              "resource_hint": "the vendor's associate-level certification",
+              "effort_weeks": 1.0,
+              "priority": "low"
+            },
+            {
+              "skill": "AWS",
+              "action": "Build and deploy a service using EC2/ECS, S3, IAM and CloudWatch",
+              "type": "certification",
+              "resource_hint": "AWS Solutions Architect - Associate",
+              "effort_weeks": 3.0,
+              "priority": "low"
+            },
+            {
+              "skill": "Celery",
+              "action": "Build a small project that uses Celery the way a Backend Software Engineer would",
+              "type": "project",
+              "resource_hint": "official framework documentation",
+              "effort_weeks": 1.5,
+              "priority": "low"
+            },
+            {
+              "skill": "FastAPI",
+              "action": "Build a small project that uses FastAPI the way a Backend Software Engineer would - leverage existing Flask experience",
+              "type": "project",
+              "resource_hint": "official framework documentation",
+              "effort_weeks": 1.0,
+              "priority": "low"
+            }
+          ],
+          "interview_questions": [
+            "You haven't used Git directly - how would your CI/CD experience carry over, and what would you need to learn first?",
+            "You haven't used Microservices directly - how would your gRPC experience carry over, and what would you need to learn first?",
+            "This role relies on Apache Kafka. What exposure have you had to it, and how would you ramp up in your first 60 days?",
+            "Walk me through the most complex thing you built with Python / Go: design choices, trade-offs and measurable results.",
+            "Walk me through the most complex thing you built with REST APIs / gRPC: design choices, trade-offs and measurable results.",
+            "Walk me through the most complex thing you built with PostgreSQL: design choices, trade-offs and measurable results."
+          ]
+        }
+      },
+      {
+        "step": 4,
+        "name": "Report synthesis",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 0,
+        "output": {
+          "verdict": "strong_match",
+          "headline": "Strong match for Backend Software Engineer: strong in Python / Go, REST APIs / gRPC, PostgreSQL",
+          "executive_summary": "Leila Farahani (Software Engineer, Parcel Platform, 5.4 yrs in technical roles) shows clear evidence of Python / Go, REST APIs / gRPC, PostgreSQL. No must-have skill is entirely missing. Partially covered: Git, Microservices. The high/medium-priority plan totals roughly 3.5 weeks of part-time effort. Experience: 5.4 years in technical roles vs 3+ required.",
+          "hiring_recommendation": "Advance to technical interviews; verify depth on the listed strengths."
+        }
+      }
+    ],
+    "generated_at": "2026-11-15T17:58:04+00:00"
+  }
+]

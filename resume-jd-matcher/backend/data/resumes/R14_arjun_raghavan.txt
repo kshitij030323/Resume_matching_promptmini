@@ -1,0 +1,37 @@
+Arjun Raghavan
+arjun.raghavan@example.com | +1-555-0115 | Toronto, Canada
+Senior Data Engineer – Streaming & Lakehouse
+
+Summary
+Data engineer with ten years of experience, the last five leading real-time pipelines at ad-tech scale. Deep in Kafka, Flink and Spark, comfortable owning a platform from ingestion through the warehouse, and happiest when the on-call pager stays silent.
+
+Technical Skills
+Languages: Python, Scala, SQL, Java
+Processing: Apache Spark (batch and Structured Streaming), Apache Flink, Kafka, Kafka Connect, Debezium
+Orchestration: Airflow, Dagster
+Storage & warehouse: Delta Lake, Apache Iceberg, Redshift, Snowflake, S3
+Other: Terraform, Docker, Great Expectations, Confluent Schema Registry
+
+Professional Experience
+Senior Data Engineer, Lakeshore Ad Tech
+Jun 2021 – Present
+- Lead engineer for real-time bidding analytics: Kafka and Flink pipelines processing 1.2 million events per second with exactly-once sinks.
+- Built a Delta Lake lakehouse on Databricks that replaced three separate data marts and cut storage costs by 35%.
+- Migrated 150 cron-driven jobs to Airflow with SLAs, lineage and on-call runbooks.
+- Introduced data contracts and a schema registry, ending breaking schema changes from upstream teams.
+- Mentor four data engineers and run the team's design reviews.
+
+Data Engineer, Bayview Insurance Group
+2018 - 2021
+- Built Spark ETL on EMR feeding Redshift star schemas for claims and policy reporting.
+- Implemented change data capture from Oracle with Debezium.
+
+Software Engineer (Big Data), Tidewater Tech Services
+2016 - 2018
+- Wrote Hadoop MapReduce and Hive jobs for a telecom client's billing analytics in Chennai.
+
+Education
+B.Tech, Information Technology, Anna University, 2016
+
+Certifications
+Databricks Certified Data Engineer Professional (2023)

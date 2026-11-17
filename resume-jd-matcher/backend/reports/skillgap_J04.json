@@ -1,0 +1,2096 @@
+[
+  {
+    "job_id": "J04",
+    "resume_id": "R23",
+    "candidate_name": "Mateo Garc\u00eda",
+    "job_title": "React Native Mobile Developer",
+    "fit_score": 95,
+    "verdict": "strong_match",
+    "headline": "Strong match for React Native Mobile Developer: strong in React Native, TypeScript, React",
+    "executive_summary": "Mateo Garc\u00eda (Lead Mobile Engineer \u2014 React Native, iOS & Android, 9.2 yrs in technical roles) shows clear evidence of React Native, TypeScript, React. No must-have skill is entirely missing. Partially covered: Mobile Development. The high/medium-priority plan totals roughly 2 weeks of part-time effort. Experience: 9.2 years in technical roles vs 3+ required.",
+    "hiring_recommendation": "Advance to technical interviews; verify depth on the listed strengths.",
+    "experience_fit": "exceeds",
+    "experience_note": "9.2 years in technical roles vs 3+ required.",
+    "assessments": [
+      {
+        "skill": "Mobile Development",
+        "importance": "required",
+        "status": "partial",
+        "evidence": "Transferable experience with Android, Kotlin, iOS",
+        "transferable_from": [
+          "Android",
+          "Kotlin",
+          "iOS",
+          "Swift"
+        ]
+      },
+      {
+        "skill": "React Native",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Lead eight mobile engineers on the React Native banking app (3.4 million users on iOS and Android).",
+        "transferable_from": []
+      },
+      {
+        "skill": "TypeScript",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Listed in skills (not named in role bullets; backed by 9.2 yrs of technical experience)",
+        "transferable_from": []
+      },
+      {
+        "skill": "React",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Listed in skills (not named in role bullets; backed by 9.2 yrs of technical experience)",
+        "transferable_from": []
+      },
+      {
+        "skill": "iOS",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Lead eight mobile engineers on the React Native banking app (3.4 million users on iOS and Android).",
+        "transferable_from": []
+      },
+      {
+        "skill": "Android",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Lead eight mobile engineers on the React Native banking app (3.4 million users on iOS and Android).",
+        "transferable_from": []
+      },
+      {
+        "skill": "Redux",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Listed in skills (not named in role bullets; backed by 9.2 yrs of technical experience)",
+        "transferable_from": []
+      },
+      {
+        "skill": "REST APIs / GraphQL",
+        "importance": "required",
+        "status": "met",
+        "evidence": "[REST APIs] Listed in skills (not named in role bullets; backed by 9.2 yrs of technical experience)",
+        "transferable_from": []
+      },
+      {
+        "skill": "UI/UX",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Led an accessibility programme that brought VoiceOver and TalkBack support to every core flow.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Swift / Kotlin",
+        "importance": "preferred",
+        "status": "met",
+        "evidence": "[Swift] Wrote Turbo Modules in Swift and Kotlin for card tokenisation and device binding.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Jest / Testing",
+        "importance": "preferred",
+        "status": "met",
+        "evidence": "[Jest] Listed in skills (not named in role bullets; backed by 9.2 yrs of technical experience)",
+        "transferable_from": []
+      },
+      {
+        "skill": "CI/CD",
+        "importance": "preferred",
+        "status": "met",
+        "evidence": "Listed in skills (not named in role bullets; backed by 9.2 yrs of technical experience)",
+        "transferable_from": []
+      }
+    ],
+    "strengths": [
+      {
+        "skill": "React Native",
+        "evidence": "Lead eight mobile engineers on the React Native banking app (3.4 million users on iOS and Android)."
+      },
+      {
+        "skill": "TypeScript",
+        "evidence": "Listed in skills (not named in role bullets; backed by 9.2 yrs of technical experience)"
+      },
+      {
+        "skill": "React",
+        "evidence": "Listed in skills (not named in role bullets; backed by 9.2 yrs of technical experience)"
+      },
+      {
+        "skill": "iOS",
+        "evidence": "Lead eight mobile engineers on the React Native banking app (3.4 million users on iOS and Android)."
+      },
+      {
+        "skill": "Android",
+        "evidence": "Lead eight mobile engineers on the React Native banking app (3.4 million users on iOS and Android)."
+      },
+      {
+        "skill": "Redux",
+        "evidence": "Listed in skills (not named in role bullets; backed by 9.2 yrs of technical experience)"
+      }
+    ],
+    "gaps": [
+      {
+        "skill": "Mobile Development",
+        "importance": "required",
+        "severity": "moderate",
+        "reason": "Listed as a must-have for this role. Partly offset by Android, Kotlin, iOS.",
+        "transferable_from": [
+          "Android",
+          "Kotlin",
+          "iOS",
+          "Swift"
+        ]
+      }
+    ],
+    "recommendations": [
+      {
+        "skill": "Mobile Development",
+        "action": "Build a small project that uses Mobile Development the way a React Native Mobile Developer would - leverage existing Android, Kotlin experience",
+        "type": "project",
+        "resource_hint": "official docs and a shipped sample app",
+        "effort_weeks": 2.0,
+        "priority": "medium"
+      }
+    ],
+    "interview_questions": [
+      "You haven't used Mobile Development directly - how would your Android experience carry over, and what would you need to learn first?",
+      "Walk me through the most complex thing you built with React Native: design choices, trade-offs and measurable results.",
+      "Walk me through the most complex thing you built with TypeScript: design choices, trade-offs and measurable results.",
+      "Walk me through the most complex thing you built with React: design choices, trade-offs and measurable results."
+    ],
+    "chain_trace": [
+      {
+        "step": 1,
+        "name": "Requirement alignment",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 255,
+        "output": {
+          "assessments": [
+            {
+              "skill": "Mobile Development",
+              "importance": "required",
+              "status": "partial",
+              "evidence": "Transferable experience with Android, Kotlin, iOS",
+              "transferable_from": [
+                "Android",
+                "Kotlin",
+                "iOS",
+                "Swift"
+              ]
+            },
+            {
+              "skill": "React Native",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Lead eight mobile engineers on the React Native banking app (3.4 million users on iOS and Android).",
+              "transferable_from": []
+            },
+            {
+              "skill": "TypeScript",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Listed in skills (not named in role bullets; backed by 9.2 yrs of technical experience)",
+              "transferable_from": []
+            },
+            {
+              "skill": "React",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Listed in skills (not named in role bullets; backed by 9.2 yrs of technical experience)",
+              "transferable_from": []
+            },
+            {
+              "skill": "iOS",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Lead eight mobile engineers on the React Native banking app (3.4 million users on iOS and Android).",
+              "transferable_from": []
+            },
+            {
+              "skill": "Android",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Lead eight mobile engineers on the React Native banking app (3.4 million users on iOS and Android).",
+              "transferable_from": []
+            },
+            {
+              "skill": "Redux",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Listed in skills (not named in role bullets; backed by 9.2 yrs of technical experience)",
+              "transferable_from": []
+            },
+            {
+              "skill": "REST APIs / GraphQL",
+              "importance": "required",
+              "status": "met",
+              "evidence": "[REST APIs] Listed in skills (not named in role bullets; backed by 9.2 yrs of technical experience)",
+              "transferable_from": []
+            },
+            {
+              "skill": "UI/UX",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Led an accessibility programme that brought VoiceOver and TalkBack support to every core flow.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Swift / Kotlin",
+              "importance": "preferred",
+              "status": "met",
+              "evidence": "[Swift] Wrote Turbo Modules in Swift and Kotlin for card tokenisation and device binding.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Jest / Testing",
+              "importance": "preferred",
+              "status": "met",
+              "evidence": "[Jest] Listed in skills (not named in role bullets; backed by 9.2 yrs of technical experience)",
+              "transferable_from": []
+            },
+            {
+              "skill": "CI/CD",
+              "importance": "preferred",
+              "status": "met",
+              "evidence": "Listed in skills (not named in role bullets; backed by 9.2 yrs of technical experience)",
+              "transferable_from": []
+            }
+          ],
+          "experience_fit": "exceeds",
+          "experience_note": "9.2 years in technical roles vs 3+ required."
+        }
+      },
+      {
+        "step": 2,
+        "name": "Gap prioritisation",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 6,
+        "output": {
+          "strengths": [
+            {
+              "skill": "React Native",
+              "evidence": "Lead eight mobile engineers on the React Native banking app (3.4 million users on iOS and Android)."
+            },
+            {
+              "skill": "TypeScript",
+              "evidence": "Listed in skills (not named in role bullets; backed by 9.2 yrs of technical experience)"
+            },
+            {
+              "skill": "React",
+              "evidence": "Listed in skills (not named in role bullets; backed by 9.2 yrs of technical experience)"
+            },
+            {
+              "skill": "iOS",
+              "evidence": "Lead eight mobile engineers on the React Native banking app (3.4 million users on iOS and Android)."
+            },
+            {
+              "skill": "Android",
+              "evidence": "Lead eight mobile engineers on the React Native banking app (3.4 million users on iOS and Android)."
+            },
+            {
+              "skill": "Redux",
+              "evidence": "Listed in skills (not named in role bullets; backed by 9.2 yrs of technical experience)"
+            }
+          ],
+          "gaps": [
+            {
+              "skill": "Mobile Development",
+              "importance": "required",
+              "severity": "moderate",
+              "reason": "Listed as a must-have for this role. Partly offset by Android, Kotlin, iOS.",
+              "transferable_from": [
+                "Android",
+                "Kotlin",
+                "iOS",
+                "Swift"
+              ]
+            }
+          ],
+          "fit_score": 95,
+          "fit_rationale": "Covers 94% of required and 100% of preferred skills (partial/undemonstrated at half credit); 89% of must-haves are demonstrated in technical roles; experience exceeds the bar."
+        }
+      },
+      {
+        "step": 3,
+        "name": "Recommendations",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 0,
+        "output": {
+          "recommendations": [
+            {
+              "skill": "Mobile Development",
+              "action": "Build a small project that uses Mobile Development the way a React Native Mobile Developer would - leverage existing Android, Kotlin experience",
+              "type": "project",
+              "resource_hint": "official docs and a shipped sample app",
+              "effort_weeks": 2.0,
+              "priority": "medium"
+            }
+          ],
+          "interview_questions": [
+            "You haven't used Mobile Development directly - how would your Android experience carry over, and what would you need to learn first?",
+            "Walk me through the most complex thing you built with React Native: design choices, trade-offs and measurable results.",
+            "Walk me through the most complex thing you built with TypeScript: design choices, trade-offs and measurable results.",
+            "Walk me through the most complex thing you built with React: design choices, trade-offs and measurable results."
+          ]
+        }
+      },
+      {
+        "step": 4,
+        "name": "Report synthesis",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 0,
+        "output": {
+          "verdict": "strong_match",
+          "headline": "Strong match for React Native Mobile Developer: strong in React Native, TypeScript, React",
+          "executive_summary": "Mateo Garc\u00eda (Lead Mobile Engineer \u2014 React Native, iOS & Android, 9.2 yrs in technical roles) shows clear evidence of React Native, TypeScript, React. No must-have skill is entirely missing. Partially covered: Mobile Development. The high/medium-priority plan totals roughly 2 weeks of part-time effort. Experience: 9.2 years in technical roles vs 3+ required.",
+          "hiring_recommendation": "Advance to technical interviews; verify depth on the listed strengths."
+        }
+      }
+    ],
+    "generated_at": "2026-11-15T17:58:22+00:00"
+  },
+  {
+    "job_id": "J04",
+    "resume_id": "R04",
+    "candidate_name": "Aiko Tanaka",
+    "job_title": "React Native Mobile Developer",
+    "fit_score": 91,
+    "verdict": "strong_match",
+    "headline": "Strong match for React Native Mobile Developer: strong in Mobile Development, React Native, TypeScript",
+    "executive_summary": "Aiko Tanaka (Senior Mobile Engineer \u2014 React Native & TypeScript, 8.6 yrs in technical roles) shows clear evidence of Mobile Development, React Native, TypeScript. Critical gaps: UI/UX. The high/medium-priority plan totals roughly 4 weeks of part-time effort. Experience: 8.6 years in technical roles vs 3+ required.",
+    "hiring_recommendation": "Advance to technical interviews; verify depth on the listed strengths.",
+    "experience_fit": "exceeds",
+    "experience_note": "8.6 years in technical roles vs 3+ required.",
+    "assessments": [
+      {
+        "skill": "Mobile Development",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Listed in skills (not named in role bullets; backed by 8.6 yrs of technical experience)",
+        "transferable_from": []
+      },
+      {
+        "skill": "React Native",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Tech lead for the consumer wallet app (React Native + TypeScript, 2.3 million monthly active users, 4.7 stars on both stores).",
+        "transferable_from": []
+      },
+      {
+        "skill": "TypeScript",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Tech lead for the consumer wallet app (React Native + TypeScript, 2.3 million monthly active users, 4.7 stars on both stores).",
+        "transferable_from": []
+      },
+      {
+        "skill": "React",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Built React and jQuery websites for retail clients.",
+        "transferable_from": []
+      },
+      {
+        "skill": "iOS",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Own the release train: bi-weekly releases through fastlane, TestFlight and Play Console staged rollouts; crash-free sessions improved from 99.2% to 99.8%.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Android",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Migrated the booking app from Cordova to React Native and launched on iOS and Android in five months.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Redux",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Built offline itinerary caching with Redux Persist and background sync.",
+        "transferable_from": []
+      },
+      {
+        "skill": "REST APIs / GraphQL",
+        "importance": "required",
+        "status": "met",
+        "evidence": "[REST APIs] Listed in skills (not named in role bullets; backed by 8.6 yrs of technical experience)",
+        "transferable_from": []
+      },
+      {
+        "skill": "UI/UX",
+        "importance": "required",
+        "status": "missing",
+        "evidence": "No evidence",
+        "transferable_from": []
+      },
+      {
+        "skill": "Swift / Kotlin",
+        "importance": "preferred",
+        "status": "met",
+        "evidence": "[Swift] Wrote Swift and Kotlin native modules for biometric login and secure keychain storage.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Jest / Testing",
+        "importance": "preferred",
+        "status": "met",
+        "evidence": "[Jest] Set up Detox end-to-end tests in CI, catching around 15 regressions per quarter before release.",
+        "transferable_from": []
+      },
+      {
+        "skill": "CI/CD",
+        "importance": "preferred",
+        "status": "met",
+        "evidence": "Own the release train: bi-weekly releases through fastlane, TestFlight and Play Console staged rollouts; crash-free sessions improved from 99.2% to 99.8%.",
+        "transferable_from": []
+      }
+    ],
+    "strengths": [
+      {
+        "skill": "Mobile Development",
+        "evidence": "Listed in skills (not named in role bullets; backed by 8.6 yrs of technical experience)"
+      },
+      {
+        "skill": "React Native",
+        "evidence": "Tech lead for the consumer wallet app (React Native + TypeScript, 2.3 million monthly active users, 4.7 stars on both stores)."
+      },
+      {
+        "skill": "TypeScript",
+        "evidence": "Tech lead for the consumer wallet app (React Native + TypeScript, 2.3 million monthly active users, 4.7 stars on both stores)."
+      },
+      {
+        "skill": "React",
+        "evidence": "Built React and jQuery websites for retail clients."
+      },
+      {
+        "skill": "iOS",
+        "evidence": "Own the release train: bi-weekly releases through fastlane, TestFlight and Play Console staged rollouts; crash-free sessions improved from 99.2% to 99.8%."
+      },
+      {
+        "skill": "Android",
+        "evidence": "Migrated the booking app from Cordova to React Native and launched on iOS and Android in five months."
+      }
+    ],
+    "gaps": [
+      {
+        "skill": "UI/UX",
+        "importance": "required",
+        "severity": "critical",
+        "reason": "Listed as a must-have for this role.",
+        "transferable_from": []
+      }
+    ],
+    "recommendations": [
+      {
+        "skill": "UI/UX",
+        "action": "Build a small project that uses UI/UX the way a React Native Mobile Developer would",
+        "type": "project",
+        "resource_hint": "official docs and a shipped sample app",
+        "effort_weeks": 4.0,
+        "priority": "high"
+      }
+    ],
+    "interview_questions": [
+      "This role relies on UI/UX. What exposure have you had to it, and how would you ramp up in your first 60 days?",
+      "Walk me through the most complex thing you built with Mobile Development: design choices, trade-offs and measurable results.",
+      "Walk me through the most complex thing you built with React Native: design choices, trade-offs and measurable results.",
+      "Walk me through the most complex thing you built with TypeScript: design choices, trade-offs and measurable results."
+    ],
+    "chain_trace": [
+      {
+        "step": 1,
+        "name": "Requirement alignment",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 138,
+        "output": {
+          "assessments": [
+            {
+              "skill": "Mobile Development",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Listed in skills (not named in role bullets; backed by 8.6 yrs of technical experience)",
+              "transferable_from": []
+            },
+            {
+              "skill": "React Native",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Tech lead for the consumer wallet app (React Native + TypeScript, 2.3 million monthly active users, 4.7 stars on both stores).",
+              "transferable_from": []
+            },
+            {
+              "skill": "TypeScript",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Tech lead for the consumer wallet app (React Native + TypeScript, 2.3 million monthly active users, 4.7 stars on both stores).",
+              "transferable_from": []
+            },
+            {
+              "skill": "React",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Built React and jQuery websites for retail clients.",
+              "transferable_from": []
+            },
+            {
+              "skill": "iOS",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Own the release train: bi-weekly releases through fastlane, TestFlight and Play Console staged rollouts; crash-free sessions improved from 99.2% to 99.8%.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Android",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Migrated the booking app from Cordova to React Native and launched on iOS and Android in five months.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Redux",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Built offline itinerary caching with Redux Persist and background sync.",
+              "transferable_from": []
+            },
+            {
+              "skill": "REST APIs / GraphQL",
+              "importance": "required",
+              "status": "met",
+              "evidence": "[REST APIs] Listed in skills (not named in role bullets; backed by 8.6 yrs of technical experience)",
+              "transferable_from": []
+            },
+            {
+              "skill": "UI/UX",
+              "importance": "required",
+              "status": "missing",
+              "evidence": "No evidence",
+              "transferable_from": []
+            },
+            {
+              "skill": "Swift / Kotlin",
+              "importance": "preferred",
+              "status": "met",
+              "evidence": "[Swift] Wrote Swift and Kotlin native modules for biometric login and secure keychain storage.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Jest / Testing",
+              "importance": "preferred",
+              "status": "met",
+              "evidence": "[Jest] Set up Detox end-to-end tests in CI, catching around 15 regressions per quarter before release.",
+              "transferable_from": []
+            },
+            {
+              "skill": "CI/CD",
+              "importance": "preferred",
+              "status": "met",
+              "evidence": "Own the release train: bi-weekly releases through fastlane, TestFlight and Play Console staged rollouts; crash-free sessions improved from 99.2% to 99.8%.",
+              "transferable_from": []
+            }
+          ],
+          "experience_fit": "exceeds",
+          "experience_note": "8.6 years in technical roles vs 3+ required."
+        }
+      },
+      {
+        "step": 2,
+        "name": "Gap prioritisation",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 6,
+        "output": {
+          "strengths": [
+            {
+              "skill": "Mobile Development",
+              "evidence": "Listed in skills (not named in role bullets; backed by 8.6 yrs of technical experience)"
+            },
+            {
+              "skill": "React Native",
+              "evidence": "Tech lead for the consumer wallet app (React Native + TypeScript, 2.3 million monthly active users, 4.7 stars on both stores)."
+            },
+            {
+              "skill": "TypeScript",
+              "evidence": "Tech lead for the consumer wallet app (React Native + TypeScript, 2.3 million monthly active users, 4.7 stars on both stores)."
+            },
+            {
+              "skill": "React",
+              "evidence": "Built React and jQuery websites for retail clients."
+            },
+            {
+              "skill": "iOS",
+              "evidence": "Own the release train: bi-weekly releases through fastlane, TestFlight and Play Console staged rollouts; crash-free sessions improved from 99.2% to 99.8%."
+            },
+            {
+              "skill": "Android",
+              "evidence": "Migrated the booking app from Cordova to React Native and launched on iOS and Android in five months."
+            }
+          ],
+          "gaps": [
+            {
+              "skill": "UI/UX",
+              "importance": "required",
+              "severity": "critical",
+              "reason": "Listed as a must-have for this role.",
+              "transferable_from": []
+            }
+          ],
+          "fit_score": 91,
+          "fit_rationale": "Covers 89% of required and 100% of preferred skills (partial/undemonstrated at half credit); 89% of must-haves are demonstrated in technical roles; experience exceeds the bar."
+        }
+      },
+      {
+        "step": 3,
+        "name": "Recommendations",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 0,
+        "output": {
+          "recommendations": [
+            {
+              "skill": "UI/UX",
+              "action": "Build a small project that uses UI/UX the way a React Native Mobile Developer would",
+              "type": "project",
+              "resource_hint": "official docs and a shipped sample app",
+              "effort_weeks": 4.0,
+              "priority": "high"
+            }
+          ],
+          "interview_questions": [
+            "This role relies on UI/UX. What exposure have you had to it, and how would you ramp up in your first 60 days?",
+            "Walk me through the most complex thing you built with Mobile Development: design choices, trade-offs and measurable results.",
+            "Walk me through the most complex thing you built with React Native: design choices, trade-offs and measurable results.",
+            "Walk me through the most complex thing you built with TypeScript: design choices, trade-offs and measurable results."
+          ]
+        }
+      },
+      {
+        "step": 4,
+        "name": "Report synthesis",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 0,
+        "output": {
+          "verdict": "strong_match",
+          "headline": "Strong match for React Native Mobile Developer: strong in Mobile Development, React Native, TypeScript",
+          "executive_summary": "Aiko Tanaka (Senior Mobile Engineer \u2014 React Native & TypeScript, 8.6 yrs in technical roles) shows clear evidence of Mobile Development, React Native, TypeScript. Critical gaps: UI/UX. The high/medium-priority plan totals roughly 4 weeks of part-time effort. Experience: 8.6 years in technical roles vs 3+ required.",
+          "hiring_recommendation": "Advance to technical interviews; verify depth on the listed strengths."
+        }
+      }
+    ],
+    "generated_at": "2026-11-15T17:58:22+00:00"
+  },
+  {
+    "job_id": "J04",
+    "resume_id": "R27",
+    "candidate_name": "Aisha Bello",
+    "job_title": "React Native Mobile Developer",
+    "fit_score": 74,
+    "verdict": "good_match",
+    "headline": "Good match for React Native Mobile Developer: strong in React Native, TypeScript, React",
+    "executive_summary": "Aisha Bello (Mobile Developer, 6.2 yrs in technical roles) shows clear evidence of React Native, TypeScript, React. Critical gaps: REST APIs / GraphQL, UI/UX. Partially covered: Mobile Development. The high/medium-priority plan totals roughly 9 weeks of part-time effort. Experience: 6.2 years in technical roles vs 3+ required.",
+    "hiring_recommendation": "Advance with focus areas: probe REST APIs / GraphQL, UI/UX in interview.",
+    "experience_fit": "meets",
+    "experience_note": "6.2 years in technical roles vs 3+ required.",
+    "assessments": [
+      {
+        "skill": "Mobile Development",
+        "importance": "required",
+        "status": "partial",
+        "evidence": "Transferable experience with Android, Kotlin, iOS",
+        "transferable_from": [
+          "Android",
+          "Kotlin",
+          "iOS",
+          "Swift"
+        ]
+      },
+      {
+        "skill": "React Native",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Build features in our RN + TypeScript app (iOS and Android, 1.8 million users): bill payments, savings goals and QR merchant payments.",
+        "transferable_from": []
+      },
+      {
+        "skill": "TypeScript",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Build features in our RN + TypeScript app (iOS and Android, 1.8 million users): bill payments, savings goals and QR merchant payments.",
+        "transferable_from": []
+      },
+      {
+        "skill": "React",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Moved server state to React Query and client state to Zustand, deleting about 6,000 lines of Redux boilerplate.",
+        "transferable_from": []
+      },
+      {
+        "skill": "iOS",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Build features in our RN + TypeScript app (iOS and Android, 1.8 million users): bill payments, savings goals and QR merchant payments.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Android",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Build features in our RN + TypeScript app (iOS and Android, 1.8 million users): bill payments, savings goals and QR merchant payments.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Redux",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Moved server state to React Query and client state to Zustand, deleting about 6,000 lines of Redux boilerplate.",
+        "transferable_from": []
+      },
+      {
+        "skill": "REST APIs / GraphQL",
+        "importance": "required",
+        "status": "missing",
+        "evidence": "No evidence",
+        "transferable_from": []
+      },
+      {
+        "skill": "UI/UX",
+        "importance": "required",
+        "status": "missing",
+        "evidence": "No evidence",
+        "transferable_from": []
+      },
+      {
+        "skill": "Swift / Kotlin",
+        "importance": "preferred",
+        "status": "met",
+        "evidence": "[Swift] Listed in skills (not named in role bullets; backed by 6.2 yrs of technical experience)",
+        "transferable_from": []
+      },
+      {
+        "skill": "Jest / Testing",
+        "importance": "preferred",
+        "status": "met",
+        "evidence": "[Jest] Wrote Jest tests for the sync logic, which had been the source of most production bugs.",
+        "transferable_from": []
+      },
+      {
+        "skill": "CI/CD",
+        "importance": "preferred",
+        "status": "missing",
+        "evidence": "No evidence",
+        "transferable_from": []
+      }
+    ],
+    "strengths": [
+      {
+        "skill": "React Native",
+        "evidence": "Build features in our RN + TypeScript app (iOS and Android, 1.8 million users): bill payments, savings goals and QR merchant payments."
+      },
+      {
+        "skill": "TypeScript",
+        "evidence": "Build features in our RN + TypeScript app (iOS and Android, 1.8 million users): bill payments, savings goals and QR merchant payments."
+      },
+      {
+        "skill": "React",
+        "evidence": "Moved server state to React Query and client state to Zustand, deleting about 6,000 lines of Redux boilerplate."
+      },
+      {
+        "skill": "iOS",
+        "evidence": "Build features in our RN + TypeScript app (iOS and Android, 1.8 million users): bill payments, savings goals and QR merchant payments."
+      },
+      {
+        "skill": "Android",
+        "evidence": "Build features in our RN + TypeScript app (iOS and Android, 1.8 million users): bill payments, savings goals and QR merchant payments."
+      },
+      {
+        "skill": "Redux",
+        "evidence": "Moved server state to React Query and client state to Zustand, deleting about 6,000 lines of Redux boilerplate."
+      }
+    ],
+    "gaps": [
+      {
+        "skill": "REST APIs / GraphQL",
+        "importance": "required",
+        "severity": "critical",
+        "reason": "Listed as a must-have for this role.",
+        "transferable_from": []
+      },
+      {
+        "skill": "UI/UX",
+        "importance": "required",
+        "severity": "critical",
+        "reason": "Listed as a must-have for this role.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Mobile Development",
+        "importance": "required",
+        "severity": "moderate",
+        "reason": "Listed as a must-have for this role. Partly offset by Android, Kotlin, iOS.",
+        "transferable_from": [
+          "Android",
+          "Kotlin",
+          "iOS",
+          "Swift"
+        ]
+      },
+      {
+        "skill": "CI/CD",
+        "importance": "preferred",
+        "severity": "minor",
+        "reason": "Nice-to-have that would speed up onboarding.",
+        "transferable_from": []
+      }
+    ],
+    "recommendations": [
+      {
+        "skill": "REST APIs / GraphQL",
+        "action": "(any one of REST APIs, GraphQL) Build a small project that uses REST APIs / GraphQL the way a React Native Mobile Developer would",
+        "type": "project",
+        "resource_hint": "official framework documentation",
+        "effort_weeks": 3.0,
+        "priority": "high"
+      },
+      {
+        "skill": "UI/UX",
+        "action": "Build a small project that uses UI/UX the way a React Native Mobile Developer would",
+        "type": "project",
+        "resource_hint": "official docs and a shipped sample app",
+        "effort_weeks": 4.0,
+        "priority": "high"
+      },
+      {
+        "skill": "Mobile Development",
+        "action": "Build a small project that uses Mobile Development the way a React Native Mobile Developer would - leverage existing Android, Kotlin experience",
+        "type": "project",
+        "resource_hint": "official docs and a shipped sample app",
+        "effort_weeks": 2.0,
+        "priority": "medium"
+      },
+      {
+        "skill": "CI/CD",
+        "action": "Set up a pipeline with tests, linting, build and automated deploy (e.g. GitHub Actions)",
+        "type": "project",
+        "resource_hint": "GitHub Actions documentation",
+        "effort_weeks": 1.0,
+        "priority": "low"
+      }
+    ],
+    "interview_questions": [
+      "This role relies on REST APIs / GraphQL. What exposure have you had to it, and how would you ramp up in your first 60 days?",
+      "This role relies on UI/UX. What exposure have you had to it, and how would you ramp up in your first 60 days?",
+      "You haven't used Mobile Development directly - how would your Android experience carry over, and what would you need to learn first?",
+      "Walk me through the most complex thing you built with React Native: design choices, trade-offs and measurable results.",
+      "Walk me through the most complex thing you built with TypeScript: design choices, trade-offs and measurable results.",
+      "Walk me through the most complex thing you built with React: design choices, trade-offs and measurable results."
+    ],
+    "chain_trace": [
+      {
+        "step": 1,
+        "name": "Requirement alignment",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 82,
+        "output": {
+          "assessments": [
+            {
+              "skill": "Mobile Development",
+              "importance": "required",
+              "status": "partial",
+              "evidence": "Transferable experience with Android, Kotlin, iOS",
+              "transferable_from": [
+                "Android",
+                "Kotlin",
+                "iOS",
+                "Swift"
+              ]
+            },
+            {
+              "skill": "React Native",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Build features in our RN + TypeScript app (iOS and Android, 1.8 million users): bill payments, savings goals and QR merchant payments.",
+              "transferable_from": []
+            },
+            {
+              "skill": "TypeScript",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Build features in our RN + TypeScript app (iOS and Android, 1.8 million users): bill payments, savings goals and QR merchant payments.",
+              "transferable_from": []
+            },
+            {
+              "skill": "React",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Moved server state to React Query and client state to Zustand, deleting about 6,000 lines of Redux boilerplate.",
+              "transferable_from": []
+            },
+            {
+              "skill": "iOS",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Build features in our RN + TypeScript app (iOS and Android, 1.8 million users): bill payments, savings goals and QR merchant payments.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Android",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Build features in our RN + TypeScript app (iOS and Android, 1.8 million users): bill payments, savings goals and QR merchant payments.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Redux",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Moved server state to React Query and client state to Zustand, deleting about 6,000 lines of Redux boilerplate.",
+              "transferable_from": []
+            },
+            {
+              "skill": "REST APIs / GraphQL",
+              "importance": "required",
+              "status": "missing",
+              "evidence": "No evidence",
+              "transferable_from": []
+            },
+            {
+              "skill": "UI/UX",
+              "importance": "required",
+              "status": "missing",
+              "evidence": "No evidence",
+              "transferable_from": []
+            },
+            {
+              "skill": "Swift / Kotlin",
+              "importance": "preferred",
+              "status": "met",
+              "evidence": "[Swift] Listed in skills (not named in role bullets; backed by 6.2 yrs of technical experience)",
+              "transferable_from": []
+            },
+            {
+              "skill": "Jest / Testing",
+              "importance": "preferred",
+              "status": "met",
+              "evidence": "[Jest] Wrote Jest tests for the sync logic, which had been the source of most production bugs.",
+              "transferable_from": []
+            },
+            {
+              "skill": "CI/CD",
+              "importance": "preferred",
+              "status": "missing",
+              "evidence": "No evidence",
+              "transferable_from": []
+            }
+          ],
+          "experience_fit": "meets",
+          "experience_note": "6.2 years in technical roles vs 3+ required."
+        }
+      },
+      {
+        "step": 2,
+        "name": "Gap prioritisation",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 6,
+        "output": {
+          "strengths": [
+            {
+              "skill": "React Native",
+              "evidence": "Build features in our RN + TypeScript app (iOS and Android, 1.8 million users): bill payments, savings goals and QR merchant payments."
+            },
+            {
+              "skill": "TypeScript",
+              "evidence": "Build features in our RN + TypeScript app (iOS and Android, 1.8 million users): bill payments, savings goals and QR merchant payments."
+            },
+            {
+              "skill": "React",
+              "evidence": "Moved server state to React Query and client state to Zustand, deleting about 6,000 lines of Redux boilerplate."
+            },
+            {
+              "skill": "iOS",
+              "evidence": "Build features in our RN + TypeScript app (iOS and Android, 1.8 million users): bill payments, savings goals and QR merchant payments."
+            },
+            {
+              "skill": "Android",
+              "evidence": "Build features in our RN + TypeScript app (iOS and Android, 1.8 million users): bill payments, savings goals and QR merchant payments."
+            },
+            {
+              "skill": "Redux",
+              "evidence": "Moved server state to React Query and client state to Zustand, deleting about 6,000 lines of Redux boilerplate."
+            }
+          ],
+          "gaps": [
+            {
+              "skill": "REST APIs / GraphQL",
+              "importance": "required",
+              "severity": "critical",
+              "reason": "Listed as a must-have for this role.",
+              "transferable_from": []
+            },
+            {
+              "skill": "UI/UX",
+              "importance": "required",
+              "severity": "critical",
+              "reason": "Listed as a must-have for this role.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Mobile Development",
+              "importance": "required",
+              "severity": "moderate",
+              "reason": "Listed as a must-have for this role. Partly offset by Android, Kotlin, iOS.",
+              "transferable_from": [
+                "Android",
+                "Kotlin",
+                "iOS",
+                "Swift"
+              ]
+            },
+            {
+              "skill": "CI/CD",
+              "importance": "preferred",
+              "severity": "minor",
+              "reason": "Nice-to-have that would speed up onboarding.",
+              "transferable_from": []
+            }
+          ],
+          "fit_score": 74,
+          "fit_rationale": "Covers 72% of required and 67% of preferred skills (partial/undemonstrated at half credit); 67% of must-haves are demonstrated in technical roles; experience meets the bar."
+        }
+      },
+      {
+        "step": 3,
+        "name": "Recommendations",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 0,
+        "output": {
+          "recommendations": [
+            {
+              "skill": "REST APIs / GraphQL",
+              "action": "(any one of REST APIs, GraphQL) Build a small project that uses REST APIs / GraphQL the way a React Native Mobile Developer would",
+              "type": "project",
+              "resource_hint": "official framework documentation",
+              "effort_weeks": 3.0,
+              "priority": "high"
+            },
+            {
+              "skill": "UI/UX",
+              "action": "Build a small project that uses UI/UX the way a React Native Mobile Developer would",
+              "type": "project",
+              "resource_hint": "official docs and a shipped sample app",
+              "effort_weeks": 4.0,
+              "priority": "high"
+            },
+            {
+              "skill": "Mobile Development",
+              "action": "Build a small project that uses Mobile Development the way a React Native Mobile Developer would - leverage existing Android, Kotlin experience",
+              "type": "project",
+              "resource_hint": "official docs and a shipped sample app",
+              "effort_weeks": 2.0,
+              "priority": "medium"
+            },
+            {
+              "skill": "CI/CD",
+              "action": "Set up a pipeline with tests, linting, build and automated deploy (e.g. GitHub Actions)",
+              "type": "project",
+              "resource_hint": "GitHub Actions documentation",
+              "effort_weeks": 1.0,
+              "priority": "low"
+            }
+          ],
+          "interview_questions": [
+            "This role relies on REST APIs / GraphQL. What exposure have you had to it, and how would you ramp up in your first 60 days?",
+            "This role relies on UI/UX. What exposure have you had to it, and how would you ramp up in your first 60 days?",
+            "You haven't used Mobile Development directly - how would your Android experience carry over, and what would you need to learn first?",
+            "Walk me through the most complex thing you built with React Native: design choices, trade-offs and measurable results.",
+            "Walk me through the most complex thing you built with TypeScript: design choices, trade-offs and measurable results.",
+            "Walk me through the most complex thing you built with React: design choices, trade-offs and measurable results."
+          ]
+        }
+      },
+      {
+        "step": 4,
+        "name": "Report synthesis",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 0,
+        "output": {
+          "verdict": "good_match",
+          "headline": "Good match for React Native Mobile Developer: strong in React Native, TypeScript, React",
+          "executive_summary": "Aisha Bello (Mobile Developer, 6.2 yrs in technical roles) shows clear evidence of React Native, TypeScript, React. Critical gaps: REST APIs / GraphQL, UI/UX. Partially covered: Mobile Development. The high/medium-priority plan totals roughly 9 weeks of part-time effort. Experience: 6.2 years in technical roles vs 3+ required.",
+          "hiring_recommendation": "Advance with focus areas: probe REST APIs / GraphQL, UI/UX in interview."
+        }
+      }
+    ],
+    "generated_at": "2026-11-15T17:58:22+00:00"
+  },
+  {
+    "job_id": "J04",
+    "resume_id": "R13",
+    "candidate_name": "Jae-won Park",
+    "job_title": "React Native Mobile Developer",
+    "fit_score": 72,
+    "verdict": "good_match",
+    "headline": "Good match for React Native Mobile Developer: strong in Mobile Development, React Native, iOS",
+    "executive_summary": "Jae-won Park (Senior Mobile Engineer (Native iOS & Android), 7.8 yrs in technical roles) shows clear evidence of Mobile Development, React Native, iOS. Critical gaps: Redux, UI/UX. Partially covered: TypeScript, React. The high/medium-priority plan totals roughly 11 weeks of part-time effort. Experience: 7.8 years in technical roles vs 3+ required.",
+    "hiring_recommendation": "Advance with focus areas: probe Redux, UI/UX in interview.",
+    "experience_fit": "exceeds",
+    "experience_note": "7.8 years in technical roles vs 3+ required.",
+    "assessments": [
+      {
+        "skill": "Mobile Development",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Listed in skills (not named in role bullets; backed by 7.8 yrs of technical experience)",
+        "transferable_from": []
+      },
+      {
+        "skill": "React Native",
+        "importance": "required",
+        "status": "met",
+        "evidence": "When our marketing team adopted React Native for a new rewards app, I wrote the Swift and Kotlin bridge modules for biometric authentication and push notifications.",
+        "transferable_from": []
+      },
+      {
+        "skill": "TypeScript",
+        "importance": "required",
+        "status": "partial",
+        "evidence": "Transferable experience with JavaScript",
+        "transferable_from": [
+          "JavaScript"
+        ]
+      },
+      {
+        "skill": "React",
+        "importance": "required",
+        "status": "partial",
+        "evidence": "Transferable experience with React Native",
+        "transferable_from": [
+          "React Native"
+        ]
+      },
+      {
+        "skill": "iOS",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Lead iOS developer for the mobile trading app (2.1 million users); ship every two weeks through App Store Connect with phased releases.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Android",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Managed staged rollouts on Google Play and cut ANR rate by 65%.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Redux",
+        "importance": "required",
+        "status": "missing",
+        "evidence": "No evidence",
+        "transferable_from": []
+      },
+      {
+        "skill": "REST APIs / GraphQL",
+        "importance": "required",
+        "status": "met",
+        "evidence": "[REST APIs] Listed in skills (not named in role bullets; backed by 7.8 yrs of technical experience)",
+        "transferable_from": []
+      },
+      {
+        "skill": "UI/UX",
+        "importance": "required",
+        "status": "missing",
+        "evidence": "No evidence",
+        "transferable_from": []
+      },
+      {
+        "skill": "Swift / Kotlin",
+        "importance": "preferred",
+        "status": "met",
+        "evidence": "[Swift] When our marketing team adopted React Native for a new rewards app, I wrote the Swift and Kotlin bridge modules for biometric authentication and push notifications.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Jest / Testing",
+        "importance": "preferred",
+        "status": "partial",
+        "evidence": "Transferable experience with CI/CD",
+        "transferable_from": [
+          "CI/CD"
+        ]
+      },
+      {
+        "skill": "CI/CD",
+        "importance": "preferred",
+        "status": "met",
+        "evidence": "Listed in skills (not named in role bullets; backed by 7.8 yrs of technical experience)",
+        "transferable_from": []
+      }
+    ],
+    "strengths": [
+      {
+        "skill": "Mobile Development",
+        "evidence": "Listed in skills (not named in role bullets; backed by 7.8 yrs of technical experience)"
+      },
+      {
+        "skill": "React Native",
+        "evidence": "When our marketing team adopted React Native for a new rewards app, I wrote the Swift and Kotlin bridge modules for biometric authentication and push notifications."
+      },
+      {
+        "skill": "iOS",
+        "evidence": "Lead iOS developer for the mobile trading app (2.1 million users); ship every two weeks through App Store Connect with phased releases."
+      },
+      {
+        "skill": "Android",
+        "evidence": "Managed staged rollouts on Google Play and cut ANR rate by 65%."
+      },
+      {
+        "skill": "REST APIs / GraphQL",
+        "evidence": "[REST APIs] Listed in skills (not named in role bullets; backed by 7.8 yrs of technical experience)"
+      },
+      {
+        "skill": "Swift / Kotlin",
+        "evidence": "[Swift] When our marketing team adopted React Native for a new rewards app, I wrote the Swift and Kotlin bridge modules for biometric authentication and push notifications."
+      }
+    ],
+    "gaps": [
+      {
+        "skill": "Redux",
+        "importance": "required",
+        "severity": "critical",
+        "reason": "Listed as a must-have for this role.",
+        "transferable_from": []
+      },
+      {
+        "skill": "UI/UX",
+        "importance": "required",
+        "severity": "critical",
+        "reason": "Listed as a must-have for this role.",
+        "transferable_from": []
+      },
+      {
+        "skill": "TypeScript",
+        "importance": "required",
+        "severity": "moderate",
+        "reason": "Listed as a must-have for this role. Partly offset by JavaScript.",
+        "transferable_from": [
+          "JavaScript"
+        ]
+      },
+      {
+        "skill": "React",
+        "importance": "required",
+        "severity": "moderate",
+        "reason": "Listed as a must-have for this role. Partly offset by React Native.",
+        "transferable_from": [
+          "React Native"
+        ]
+      },
+      {
+        "skill": "Jest / Testing",
+        "importance": "preferred",
+        "severity": "minor",
+        "reason": "Nice-to-have that would speed up onboarding. Partly offset by CI/CD.",
+        "transferable_from": [
+          "CI/CD"
+        ]
+      }
+    ],
+    "recommendations": [
+      {
+        "skill": "Redux",
+        "action": "Build a small project that uses Redux the way a React Native Mobile Developer would",
+        "type": "project",
+        "resource_hint": "official docs and a shipped sample app",
+        "effort_weeks": 4.0,
+        "priority": "high"
+      },
+      {
+        "skill": "UI/UX",
+        "action": "Build a small project that uses UI/UX the way a React Native Mobile Developer would",
+        "type": "project",
+        "resource_hint": "official docs and a shipped sample app",
+        "effort_weeks": 4.0,
+        "priority": "high"
+      },
+      {
+        "skill": "TypeScript",
+        "action": "Migrate a JavaScript project to strict TypeScript - leverage existing JavaScript experience",
+        "type": "course",
+        "resource_hint": "TypeScript Handbook",
+        "effort_weeks": 1.0,
+        "priority": "medium"
+      },
+      {
+        "skill": "React",
+        "action": "Build a small project that uses React the way a React Native Mobile Developer would - leverage existing React Native experience",
+        "type": "project",
+        "resource_hint": "official docs and a shipped sample app",
+        "effort_weeks": 2.0,
+        "priority": "medium"
+      },
+      {
+        "skill": "Jest / Testing",
+        "action": "(any one of Jest, Testing) Build a small project that uses Jest / Testing the way a React Native Mobile Developer would - leverage existing CI/CD experience",
+        "type": "on_the_job",
+        "resource_hint": "team practice with a mentor",
+        "effort_weeks": 1.0,
+        "priority": "low"
+      }
+    ],
+    "interview_questions": [
+      "This role relies on Redux. What exposure have you had to it, and how would you ramp up in your first 60 days?",
+      "This role relies on UI/UX. What exposure have you had to it, and how would you ramp up in your first 60 days?",
+      "You haven't used TypeScript directly - how would your JavaScript experience carry over, and what would you need to learn first?",
+      "Walk me through the most complex thing you built with Mobile Development: design choices, trade-offs and measurable results.",
+      "Walk me through the most complex thing you built with React Native: design choices, trade-offs and measurable results.",
+      "Walk me through the most complex thing you built with iOS: design choices, trade-offs and measurable results."
+    ],
+    "chain_trace": [
+      {
+        "step": 1,
+        "name": "Requirement alignment",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 112,
+        "output": {
+          "assessments": [
+            {
+              "skill": "Mobile Development",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Listed in skills (not named in role bullets; backed by 7.8 yrs of technical experience)",
+              "transferable_from": []
+            },
+            {
+              "skill": "React Native",
+              "importance": "required",
+              "status": "met",
+              "evidence": "When our marketing team adopted React Native for a new rewards app, I wrote the Swift and Kotlin bridge modules for biometric authentication and push notifications.",
+              "transferable_from": []
+            },
+            {
+              "skill": "TypeScript",
+              "importance": "required",
+              "status": "partial",
+              "evidence": "Transferable experience with JavaScript",
+              "transferable_from": [
+                "JavaScript"
+              ]
+            },
+            {
+              "skill": "React",
+              "importance": "required",
+              "status": "partial",
+              "evidence": "Transferable experience with React Native",
+              "transferable_from": [
+                "React Native"
+              ]
+            },
+            {
+              "skill": "iOS",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Lead iOS developer for the mobile trading app (2.1 million users); ship every two weeks through App Store Connect with phased releases.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Android",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Managed staged rollouts on Google Play and cut ANR rate by 65%.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Redux",
+              "importance": "required",
+              "status": "missing",
+              "evidence": "No evidence",
+              "transferable_from": []
+            },
+            {
+              "skill": "REST APIs / GraphQL",
+              "importance": "required",
+              "status": "met",
+              "evidence": "[REST APIs] Listed in skills (not named in role bullets; backed by 7.8 yrs of technical experience)",
+              "transferable_from": []
+            },
+            {
+              "skill": "UI/UX",
+              "importance": "required",
+              "status": "missing",
+              "evidence": "No evidence",
+              "transferable_from": []
+            },
+            {
+              "skill": "Swift / Kotlin",
+              "importance": "preferred",
+              "status": "met",
+              "evidence": "[Swift] When our marketing team adopted React Native for a new rewards app, I wrote the Swift and Kotlin bridge modules for biometric authentication and push notifications.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Jest / Testing",
+              "importance": "preferred",
+              "status": "partial",
+              "evidence": "Transferable experience with CI/CD",
+              "transferable_from": [
+                "CI/CD"
+              ]
+            },
+            {
+              "skill": "CI/CD",
+              "importance": "preferred",
+              "status": "met",
+              "evidence": "Listed in skills (not named in role bullets; backed by 7.8 yrs of technical experience)",
+              "transferable_from": []
+            }
+          ],
+          "experience_fit": "exceeds",
+          "experience_note": "7.8 years in technical roles vs 3+ required."
+        }
+      },
+      {
+        "step": 2,
+        "name": "Gap prioritisation",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 6,
+        "output": {
+          "strengths": [
+            {
+              "skill": "Mobile Development",
+              "evidence": "Listed in skills (not named in role bullets; backed by 7.8 yrs of technical experience)"
+            },
+            {
+              "skill": "React Native",
+              "evidence": "When our marketing team adopted React Native for a new rewards app, I wrote the Swift and Kotlin bridge modules for biometric authentication and push notifications."
+            },
+            {
+              "skill": "iOS",
+              "evidence": "Lead iOS developer for the mobile trading app (2.1 million users); ship every two weeks through App Store Connect with phased releases."
+            },
+            {
+              "skill": "Android",
+              "evidence": "Managed staged rollouts on Google Play and cut ANR rate by 65%."
+            },
+            {
+              "skill": "REST APIs / GraphQL",
+              "evidence": "[REST APIs] Listed in skills (not named in role bullets; backed by 7.8 yrs of technical experience)"
+            },
+            {
+              "skill": "Swift / Kotlin",
+              "evidence": "[Swift] When our marketing team adopted React Native for a new rewards app, I wrote the Swift and Kotlin bridge modules for biometric authentication and push notifications."
+            }
+          ],
+          "gaps": [
+            {
+              "skill": "Redux",
+              "importance": "required",
+              "severity": "critical",
+              "reason": "Listed as a must-have for this role.",
+              "transferable_from": []
+            },
+            {
+              "skill": "UI/UX",
+              "importance": "required",
+              "severity": "critical",
+              "reason": "Listed as a must-have for this role.",
+              "transferable_from": []
+            },
+            {
+              "skill": "TypeScript",
+              "importance": "required",
+              "severity": "moderate",
+              "reason": "Listed as a must-have for this role. Partly offset by JavaScript.",
+              "transferable_from": [
+                "JavaScript"
+              ]
+            },
+            {
+              "skill": "React",
+              "importance": "required",
+              "severity": "moderate",
+              "reason": "Listed as a must-have for this role. Partly offset by React Native.",
+              "transferable_from": [
+                "React Native"
+              ]
+            },
+            {
+              "skill": "Jest / Testing",
+              "importance": "preferred",
+              "severity": "minor",
+              "reason": "Nice-to-have that would speed up onboarding. Partly offset by CI/CD.",
+              "transferable_from": [
+                "CI/CD"
+              ]
+            }
+          ],
+          "fit_score": 72,
+          "fit_rationale": "Covers 67% of required and 83% of preferred skills (partial/undemonstrated at half credit); 56% of must-haves are demonstrated in technical roles; experience exceeds the bar."
+        }
+      },
+      {
+        "step": 3,
+        "name": "Recommendations",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 0,
+        "output": {
+          "recommendations": [
+            {
+              "skill": "Redux",
+              "action": "Build a small project that uses Redux the way a React Native Mobile Developer would",
+              "type": "project",
+              "resource_hint": "official docs and a shipped sample app",
+              "effort_weeks": 4.0,
+              "priority": "high"
+            },
+            {
+              "skill": "UI/UX",
+              "action": "Build a small project that uses UI/UX the way a React Native Mobile Developer would",
+              "type": "project",
+              "resource_hint": "official docs and a shipped sample app",
+              "effort_weeks": 4.0,
+              "priority": "high"
+            },
+            {
+              "skill": "TypeScript",
+              "action": "Migrate a JavaScript project to strict TypeScript - leverage existing JavaScript experience",
+              "type": "course",
+              "resource_hint": "TypeScript Handbook",
+              "effort_weeks": 1.0,
+              "priority": "medium"
+            },
+            {
+              "skill": "React",
+              "action": "Build a small project that uses React the way a React Native Mobile Developer would - leverage existing React Native experience",
+              "type": "project",
+              "resource_hint": "official docs and a shipped sample app",
+              "effort_weeks": 2.0,
+              "priority": "medium"
+            },
+            {
+              "skill": "Jest / Testing",
+              "action": "(any one of Jest, Testing) Build a small project that uses Jest / Testing the way a React Native Mobile Developer would - leverage existing CI/CD experience",
+              "type": "on_the_job",
+              "resource_hint": "team practice with a mentor",
+              "effort_weeks": 1.0,
+              "priority": "low"
+            }
+          ],
+          "interview_questions": [
+            "This role relies on Redux. What exposure have you had to it, and how would you ramp up in your first 60 days?",
+            "This role relies on UI/UX. What exposure have you had to it, and how would you ramp up in your first 60 days?",
+            "You haven't used TypeScript directly - how would your JavaScript experience carry over, and what would you need to learn first?",
+            "Walk me through the most complex thing you built with Mobile Development: design choices, trade-offs and measurable results.",
+            "Walk me through the most complex thing you built with React Native: design choices, trade-offs and measurable results.",
+            "Walk me through the most complex thing you built with iOS: design choices, trade-offs and measurable results."
+          ]
+        }
+      },
+      {
+        "step": 4,
+        "name": "Report synthesis",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 0,
+        "output": {
+          "verdict": "good_match",
+          "headline": "Good match for React Native Mobile Developer: strong in Mobile Development, React Native, iOS",
+          "executive_summary": "Jae-won Park (Senior Mobile Engineer (Native iOS & Android), 7.8 yrs in technical roles) shows clear evidence of Mobile Development, React Native, iOS. Critical gaps: Redux, UI/UX. Partially covered: TypeScript, React. The high/medium-priority plan totals roughly 11 weeks of part-time effort. Experience: 7.8 years in technical roles vs 3+ required.",
+          "hiring_recommendation": "Advance with focus areas: probe Redux, UI/UX in interview."
+        }
+      }
+    ],
+    "generated_at": "2026-11-15T17:58:22+00:00"
+  },
+  {
+    "job_id": "J04",
+    "resume_id": "R44",
+    "candidate_name": "Ahmed Hassan",
+    "job_title": "React Native Mobile Developer",
+    "fit_score": 86,
+    "verdict": "strong_match",
+    "headline": "Strong match for React Native Mobile Developer: strong in TypeScript, React, iOS",
+    "executive_summary": "Ahmed Hassan (Frontend Developer \u2013 React & TypeScript, 5.8 yrs in technical roles) shows clear evidence of TypeScript, React, iOS. No must-have skill is entirely missing. Partially covered: Mobile Development, React Native. The high/medium-priority plan totals roughly 4.5 weeks of part-time effort. Experience: 5.8 years in technical roles vs 3+ required.",
+    "hiring_recommendation": "Advance to technical interviews; verify depth on the listed strengths.",
+    "experience_fit": "meets",
+    "experience_note": "5.8 years in technical roles vs 3+ required.",
+    "assessments": [
+      {
+        "skill": "Mobile Development",
+        "importance": "required",
+        "status": "partial",
+        "evidence": "Transferable experience with Android, iOS",
+        "transferable_from": [
+          "Android",
+          "iOS"
+        ]
+      },
+      {
+        "skill": "React Native",
+        "importance": "required",
+        "status": "partial",
+        "evidence": "Transferable experience with React, Android, iOS",
+        "transferable_from": [
+          "React",
+          "Android",
+          "iOS"
+        ]
+      },
+      {
+        "skill": "TypeScript",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Rebuilt the mobile web storefront as a PWA with Next.js and TypeScript, including an offline cart and web push notifications through service workers; mobile conversion rose 14%.",
+        "transferable_from": []
+      },
+      {
+        "skill": "React",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Rebuilt the mobile web storefront as a PWA with Next.js and TypeScript, including an offline cart and web push notifications through service workers; mobile conversion rose 14%.",
+        "transferable_from": []
+      },
+      {
+        "skill": "iOS",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Reviewed API contracts with the external agency that builds and publishes our native iOS and Android apps.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Android",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Raised the Lighthouse performance score on mid-range Android from 45 to 92 with code splitting, image optimisation and lazy hydration.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Redux",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Migrated server data fetching from Redux Toolkit thunks to React Query, removing 4,000 lines of code.",
+        "transferable_from": []
+      },
+      {
+        "skill": "REST APIs / GraphQL",
+        "importance": "required",
+        "status": "met",
+        "evidence": "[REST APIs] Listed in skills (not named in role bullets; backed by 5.8 yrs of technical experience)",
+        "transferable_from": []
+      },
+      {
+        "skill": "UI/UX",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Listed in skills (not named in role bullets; backed by 5.8 yrs of technical experience)",
+        "transferable_from": []
+      },
+      {
+        "skill": "Swift / Kotlin",
+        "importance": "preferred",
+        "status": "partial",
+        "evidence": "Transferable experience with Android, iOS",
+        "transferable_from": [
+          "Android",
+          "iOS"
+        ]
+      },
+      {
+        "skill": "Jest / Testing",
+        "importance": "preferred",
+        "status": "met",
+        "evidence": "[Jest] Introduced TypeScript and React Testing Library to the studio's project template.",
+        "transferable_from": []
+      },
+      {
+        "skill": "CI/CD",
+        "importance": "preferred",
+        "status": "partial",
+        "evidence": "Transferable experience with Git",
+        "transferable_from": [
+          "Git"
+        ]
+      }
+    ],
+    "strengths": [
+      {
+        "skill": "TypeScript",
+        "evidence": "Rebuilt the mobile web storefront as a PWA with Next.js and TypeScript, including an offline cart and web push notifications through service workers; mobile conversion rose 14%."
+      },
+      {
+        "skill": "React",
+        "evidence": "Rebuilt the mobile web storefront as a PWA with Next.js and TypeScript, including an offline cart and web push notifications through service workers; mobile conversion rose 14%."
+      },
+      {
+        "skill": "iOS",
+        "evidence": "Reviewed API contracts with the external agency that builds and publishes our native iOS and Android apps."
+      },
+      {
+        "skill": "Android",
+        "evidence": "Raised the Lighthouse performance score on mid-range Android from 45 to 92 with code splitting, image optimisation and lazy hydration."
+      },
+      {
+        "skill": "Redux",
+        "evidence": "Migrated server data fetching from Redux Toolkit thunks to React Query, removing 4,000 lines of code."
+      },
+      {
+        "skill": "REST APIs / GraphQL",
+        "evidence": "[REST APIs] Listed in skills (not named in role bullets; backed by 5.8 yrs of technical experience)"
+      }
+    ],
+    "gaps": [
+      {
+        "skill": "Mobile Development",
+        "importance": "required",
+        "severity": "moderate",
+        "reason": "Listed as a must-have for this role. Partly offset by Android, iOS.",
+        "transferable_from": [
+          "Android",
+          "iOS"
+        ]
+      },
+      {
+        "skill": "React Native",
+        "importance": "required",
+        "severity": "moderate",
+        "reason": "Listed as a must-have for this role. Partly offset by React, Android, iOS.",
+        "transferable_from": [
+          "React",
+          "Android",
+          "iOS"
+        ]
+      },
+      {
+        "skill": "Swift / Kotlin",
+        "importance": "preferred",
+        "severity": "minor",
+        "reason": "Used in the role's day-to-day responsibilities. Partly offset by Android, iOS.",
+        "transferable_from": [
+          "Android",
+          "iOS"
+        ]
+      },
+      {
+        "skill": "CI/CD",
+        "importance": "preferred",
+        "severity": "minor",
+        "reason": "Nice-to-have that would speed up onboarding. Partly offset by Git.",
+        "transferable_from": [
+          "Git"
+        ]
+      }
+    ],
+    "recommendations": [
+      {
+        "skill": "Mobile Development",
+        "action": "Build a small project that uses Mobile Development the way a React Native Mobile Developer would - leverage existing Android, iOS experience",
+        "type": "project",
+        "resource_hint": "official docs and a shipped sample app",
+        "effort_weeks": 2.0,
+        "priority": "medium"
+      },
+      {
+        "skill": "React Native",
+        "action": "Ship a small React Native app with navigation, offline storage and a store build - leverage existing React, Android experience",
+        "type": "project",
+        "resource_hint": "React Native docs + Expo tutorial",
+        "effort_weeks": 2.5,
+        "priority": "medium"
+      },
+      {
+        "skill": "Swift / Kotlin",
+        "action": "(any one of Swift, Kotlin) Build a small project that uses Swift / Kotlin the way a React Native Mobile Developer would - leverage existing Android, iOS experience",
+        "type": "project",
+        "resource_hint": "official language tutorial",
+        "effort_weeks": 1.0,
+        "priority": "low"
+      },
+      {
+        "skill": "CI/CD",
+        "action": "Set up a pipeline with tests, linting, build and automated deploy (e.g. GitHub Actions) - leverage existing Git experience",
+        "type": "project",
+        "resource_hint": "GitHub Actions documentation",
+        "effort_weeks": 1.0,
+        "priority": "low"
+      }
+    ],
+    "interview_questions": [
+      "You haven't used Mobile Development directly - how would your Android experience carry over, and what would you need to learn first?",
+      "You haven't used React Native directly - how would your React experience carry over, and what would you need to learn first?",
+      "You haven't used Swift / Kotlin directly - how would your Android experience carry over, and what would you need to learn first?",
+      "Walk me through the most complex thing you built with TypeScript: design choices, trade-offs and measurable results.",
+      "Walk me through the most complex thing you built with React: design choices, trade-offs and measurable results.",
+      "Walk me through the most complex thing you built with iOS: design choices, trade-offs and measurable results."
+    ],
+    "chain_trace": [
+      {
+        "step": 1,
+        "name": "Requirement alignment",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 93,
+        "output": {
+          "assessments": [
+            {
+              "skill": "Mobile Development",
+              "importance": "required",
+              "status": "partial",
+              "evidence": "Transferable experience with Android, iOS",
+              "transferable_from": [
+                "Android",
+                "iOS"
+              ]
+            },
+            {
+              "skill": "React Native",
+              "importance": "required",
+              "status": "partial",
+              "evidence": "Transferable experience with React, Android, iOS",
+              "transferable_from": [
+                "React",
+                "Android",
+                "iOS"
+              ]
+            },
+            {
+              "skill": "TypeScript",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Rebuilt the mobile web storefront as a PWA with Next.js and TypeScript, including an offline cart and web push notifications through service workers; mobile conversion rose 14%.",
+              "transferable_from": []
+            },
+            {
+              "skill": "React",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Rebuilt the mobile web storefront as a PWA with Next.js and TypeScript, including an offline cart and web push notifications through service workers; mobile conversion rose 14%.",
+              "transferable_from": []
+            },
+            {
+              "skill": "iOS",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Reviewed API contracts with the external agency that builds and publishes our native iOS and Android apps.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Android",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Raised the Lighthouse performance score on mid-range Android from 45 to 92 with code splitting, image optimisation and lazy hydration.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Redux",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Migrated server data fetching from Redux Toolkit thunks to React Query, removing 4,000 lines of code.",
+              "transferable_from": []
+            },
+            {
+              "skill": "REST APIs / GraphQL",
+              "importance": "required",
+              "status": "met",
+              "evidence": "[REST APIs] Listed in skills (not named in role bullets; backed by 5.8 yrs of technical experience)",
+              "transferable_from": []
+            },
+            {
+              "skill": "UI/UX",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Listed in skills (not named in role bullets; backed by 5.8 yrs of technical experience)",
+              "transferable_from": []
+            },
+            {
+              "skill": "Swift / Kotlin",
+              "importance": "preferred",
+              "status": "partial",
+              "evidence": "Transferable experience with Android, iOS",
+              "transferable_from": [
+                "Android",
+                "iOS"
+              ]
+            },
+            {
+              "skill": "Jest / Testing",
+              "importance": "preferred",
+              "status": "met",
+              "evidence": "[Jest] Introduced TypeScript and React Testing Library to the studio's project template.",
+              "transferable_from": []
+            },
+            {
+              "skill": "CI/CD",
+              "importance": "preferred",
+              "status": "partial",
+              "evidence": "Transferable experience with Git",
+              "transferable_from": [
+                "Git"
+              ]
+            }
+          ],
+          "experience_fit": "meets",
+          "experience_note": "5.8 years in technical roles vs 3+ required."
+        }
+      },
+      {
+        "step": 2,
+        "name": "Gap prioritisation",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 6,
+        "output": {
+          "strengths": [
+            {
+              "skill": "TypeScript",
+              "evidence": "Rebuilt the mobile web storefront as a PWA with Next.js and TypeScript, including an offline cart and web push notifications through service workers; mobile conversion rose 14%."
+            },
+            {
+              "skill": "React",
+              "evidence": "Rebuilt the mobile web storefront as a PWA with Next.js and TypeScript, including an offline cart and web push notifications through service workers; mobile conversion rose 14%."
+            },
+            {
+              "skill": "iOS",
+              "evidence": "Reviewed API contracts with the external agency that builds and publishes our native iOS and Android apps."
+            },
+            {
+              "skill": "Android",
+              "evidence": "Raised the Lighthouse performance score on mid-range Android from 45 to 92 with code splitting, image optimisation and lazy hydration."
+            },
+            {
+              "skill": "Redux",
+              "evidence": "Migrated server data fetching from Redux Toolkit thunks to React Query, removing 4,000 lines of code."
+            },
+            {
+              "skill": "REST APIs / GraphQL",
+              "evidence": "[REST APIs] Listed in skills (not named in role bullets; backed by 5.8 yrs of technical experience)"
+            }
+          ],
+          "gaps": [
+            {
+              "skill": "Mobile Development",
+              "importance": "required",
+              "severity": "moderate",
+              "reason": "Listed as a must-have for this role. Partly offset by Android, iOS.",
+              "transferable_from": [
+                "Android",
+                "iOS"
+              ]
+            },
+            {
+              "skill": "React Native",
+              "importance": "required",
+              "severity": "moderate",
+              "reason": "Listed as a must-have for this role. Partly offset by React, Android, iOS.",
+              "transferable_from": [
+                "React",
+                "Android",
+                "iOS"
+              ]
+            },
+            {
+              "skill": "Swift / Kotlin",
+              "importance": "preferred",
+              "severity": "minor",
+              "reason": "Used in the role's day-to-day responsibilities. Partly offset by Android, iOS.",
+              "transferable_from": [
+                "Android",
+                "iOS"
+              ]
+            },
+            {
+              "skill": "CI/CD",
+              "importance": "preferred",
+              "severity": "minor",
+              "reason": "Nice-to-have that would speed up onboarding. Partly offset by Git.",
+              "transferable_from": [
+                "Git"
+              ]
+            }
+          ],
+          "fit_score": 86,
+          "fit_rationale": "Covers 89% of required and 67% of preferred skills (partial/undemonstrated at half credit); 78% of must-haves are demonstrated in technical roles; experience meets the bar."
+        }
+      },
+      {
+        "step": 3,
+        "name": "Recommendations",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 0,
+        "output": {
+          "recommendations": [
+            {
+              "skill": "Mobile Development",
+              "action": "Build a small project that uses Mobile Development the way a React Native Mobile Developer would - leverage existing Android, iOS experience",
+              "type": "project",
+              "resource_hint": "official docs and a shipped sample app",
+              "effort_weeks": 2.0,
+              "priority": "medium"
+            },
+            {
+              "skill": "React Native",
+              "action": "Ship a small React Native app with navigation, offline storage and a store build - leverage existing React, Android experience",
+              "type": "project",
+              "resource_hint": "React Native docs + Expo tutorial",
+              "effort_weeks": 2.5,
+              "priority": "medium"
+            },
+            {
+              "skill": "Swift / Kotlin",
+              "action": "(any one of Swift, Kotlin) Build a small project that uses Swift / Kotlin the way a React Native Mobile Developer would - leverage existing Android, iOS experience",
+              "type": "project",
+              "resource_hint": "official language tutorial",
+              "effort_weeks": 1.0,
+              "priority": "low"
+            },
+            {
+              "skill": "CI/CD",
+              "action": "Set up a pipeline with tests, linting, build and automated deploy (e.g. GitHub Actions) - leverage existing Git experience",
+              "type": "project",
+              "resource_hint": "GitHub Actions documentation",
+              "effort_weeks": 1.0,
+              "priority": "low"
+            }
+          ],
+          "interview_questions": [
+            "You haven't used Mobile Development directly - how would your Android experience carry over, and what would you need to learn first?",
+            "You haven't used React Native directly - how would your React experience carry over, and what would you need to learn first?",
+            "You haven't used Swift / Kotlin directly - how would your Android experience carry over, and what would you need to learn first?",
+            "Walk me through the most complex thing you built with TypeScript: design choices, trade-offs and measurable results.",
+            "Walk me through the most complex thing you built with React: design choices, trade-offs and measurable results.",
+            "Walk me through the most complex thing you built with iOS: design choices, trade-offs and measurable results."
+          ]
+        }
+      },
+      {
+        "step": 4,
+        "name": "Report synthesis",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 0,
+        "output": {
+          "verdict": "strong_match",
+          "headline": "Strong match for React Native Mobile Developer: strong in TypeScript, React, iOS",
+          "executive_summary": "Ahmed Hassan (Frontend Developer \u2013 React & TypeScript, 5.8 yrs in technical roles) shows clear evidence of TypeScript, React, iOS. No must-have skill is entirely missing. Partially covered: Mobile Development, React Native. The high/medium-priority plan totals roughly 4.5 weeks of part-time effort. Experience: 5.8 years in technical roles vs 3+ required.",
+          "hiring_recommendation": "Advance to technical interviews; verify depth on the listed strengths."
+        }
+      }
+    ],
+    "generated_at": "2026-11-15T17:58:22+00:00"
+  }
+]

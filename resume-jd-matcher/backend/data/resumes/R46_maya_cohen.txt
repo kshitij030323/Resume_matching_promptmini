@@ -1,0 +1,30 @@
+Maya Cohen
+maya.cohen@example.com | +972-555-0376 | Tel Aviv, Israel
+Cloud Infrastructure Engineer (AWS)
+
+Summary
+Cloud engineer with six and a half years on AWS, specialising in multi-account Terraform, serverless and container workloads on ECS. I am on call for the platform, run postmortems and care a lot about cost. I have evaluated Kubernetes but have not yet run it in production.
+
+Technical Skills
+AWS (ECS Fargate, Lambda, API Gateway, VPC, Transit Gateway, IAM Identity Center, Aurora, DynamoDB, CloudFront, Organizations), Terraform, Terragrunt, Atlantis, Checkov, AWS CDK, GitHub Actions, Docker, Datadog, CloudWatch, PagerDuty, Python, Bash
+
+Professional Experience
+Cloud Engineer, Carmel Insurtech
+Jan 2022 – Present
+- Own the Terraform for 14 AWS accounts (landing zone, Transit Gateway networking, IAM Identity Center) with an Atlantis pull-request workflow and Checkov policy checks.
+- Run 60 services on ECS Fargate and 200 Lambda functions with blue/green deployments from GitHub Actions.
+- Built Datadog monitors and SLO dashboards; weekly on-call rotation; led the postmortems for two regional outages and tracked every action item to closure.
+- Ran a six-week EKS proof of concept; the team decided to stay on ECS for now.
+- Saved USD 22k a month through Savings Plans, Graviton instances and log retention policies.
+
+Junior DevOps Engineer, Negev Software
+03/2020 – 12/2021
+- Maintained Jenkins pipelines and CloudFormation stacks for an EC2-based SaaS product.
+- Automated AMI builds with Packer and server configuration with Ansible.
+
+Education
+BSc Computer Science, Tel Aviv University, 2020
+
+Certifications
+AWS Certified DevOps Engineer – Professional (2023)
+HashiCorp Certified: Terraform Associate (2022)

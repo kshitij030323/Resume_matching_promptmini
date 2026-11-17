@@ -1,0 +1,30 @@
+Zoe Anderson
+zoe.anderson@example.com | +1-555-0277 | Denver, CO
+Growth Marketing Analyst
+
+About
+Marketing analyst with three years of experience measuring paid and lifecycle marketing for a direct-to-consumer outdoor gear brand. I live in GA4, the ad platforms and Looker Studio, I write basic SQL in BigQuery, and I lean on our data team for anything complex.
+
+Skills
+Google Analytics 4, Looker Studio, Google Ads, Meta Ads Manager, Klaviyo, Excel and Google Sheets (pivot tables, VLOOKUP), BigQuery SQL (basic SELECTs and joins), Optimizely A/B testing, marketing attribution, Google Tag Manager, presentation skills
+
+Work Experience
+Growth Marketing Analyst, Summit Trail Outfitters (DTC e-commerce)
+Oct 2023 – Present
+- Built Looker Studio reports on channel spend, customer acquisition cost and ROAS for the marketing team; send a weekly performance email to the CMO.
+- Ran 20+ email and landing-page A/B tests in Optimizely; email revenue per recipient rose 18%.
+- Pull GA4 export data from BigQuery with simple queries; cohort and attribution modelling is handed to the central data team.
+- Presented quarterly channel-mix recommendations to the CMO that shifted 15% of budget from paid social to search.
+- Maintain the UTM and campaign naming conventions used by all marketers and agencies.
+
+Marketing Coordinator, Front Range Creative Agency
+2022 - 2023
+- Compiled campaign reports in Google Sheets for eight retail clients.
+- Set up Google Analytics and Tag Manager tracking for new client websites.
+
+Education
+BA Communication, University of Colorado Boulder, 2022
+
+Certifications
+Google Analytics Certification (2023)
+Google Ads Search Certification (2023)

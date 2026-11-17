@@ -1,0 +1,29 @@
+Marcus Johnson
+marcus.johnson@example.com | +1-555-0187 | Atlanta, GA
+Data Analyst | SQL, Tableau, E-commerce Analytics
+
+Profile
+Data analyst with four and a half years of experience turning e-commerce and marketing data into decisions. Comfortable owning a metric from the raw tables all the way to the slide a VP presents to the CEO.
+
+Skills
+SQL (Snowflake, PostgreSQL, BigQuery), Tableau, Excel (pivot tables, XLOOKUP, Power Query), Python (pandas, Jupyter), Google Analytics 4, A/B testing, KPI design, stakeholder presentations
+
+Work Experience
+Data Analyst — Peachtree Home Goods (online home and kitchen retailer)
+Mar 2022 – Present
+- Own the weekly business review for the VP of E-commerce, covering traffic, conversion, basket size and fulfilment.
+- Built and maintain 14 Tableau dashboards (conversion funnel, retention cohorts, promotion ROI) used by 120 employees; retired 9 duplicate reports.
+- Wrote SQL with CTEs and window functions on Snowflake to build a customer cohort model that identified free-shipping thresholds as a major churn driver; the resulting policy change lifted repeat purchase rate by 6%.
+- Partner with the experimentation team on 30+ A/B test readouts, including sample-size planning and significance testing.
+- Standardised 25 KPI definitions in a shared metrics glossary adopted by Marketing, Finance and Operations.
+
+Junior Analyst — Magnolia Marketing Group
+June 2020 to Feb 2022
+- Produced monthly campaign performance reports in Excel and Google Data Studio for 12 retail clients.
+- Automated data pulls from Google Analytics and ad platforms with SQL and Python, saving about 10 hours a week.
+
+Education
+B.S. Economics, Georgia State University, 2020
+
+Certifications
+Tableau Desktop Specialist (2021)

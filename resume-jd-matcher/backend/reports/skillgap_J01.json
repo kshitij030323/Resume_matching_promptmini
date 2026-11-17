@@ -1,0 +1,2552 @@
+[
+  {
+    "job_id": "J01",
+    "resume_id": "R01",
+    "candidate_name": "Priya Nair",
+    "job_title": "Senior Machine Learning Engineer, NLP & LLM Applications",
+    "fit_score": 87,
+    "verdict": "strong_match",
+    "headline": "Strong match for Senior Machine Learning Engineer, NLP & LLM Applications: strong in Machine Learning, NLP, Python",
+    "executive_summary": "Priya Nair (Senior Machine Learning Engineer \u2013 NLP & LLMs, 8.2 yrs in technical roles) shows clear evidence of Machine Learning, NLP, Python. No must-have skill is entirely missing. Partially covered: Observability, Stakeholder Management. The high/medium-priority plan totals roughly 7 weeks of part-time effort. Experience: 8.2 years in technical roles vs 5+ required.",
+    "hiring_recommendation": "Advance to technical interviews; verify depth on the listed strengths.",
+    "experience_fit": "meets",
+    "experience_note": "8.2 years in technical roles vs 5+ required.",
+    "assessments": [
+      {
+        "skill": "Machine Learning",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Used as Senior Machine Learning Engineer at Kaveri Fintech",
+        "transferable_from": []
+      },
+      {
+        "skill": "NLP",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Listed in skills (not named in role bullets; backed by 8.2 yrs of technical experience)",
+        "transferable_from": []
+      },
+      {
+        "skill": "Python",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Listed in skills (not named in role bullets; backed by 8.2 yrs of technical experience)",
+        "transferable_from": []
+      },
+      {
+        "skill": "PyTorch",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Listed in skills (not named in role bullets; backed by 8.2 yrs of technical experience)",
+        "transferable_from": []
+      },
+      {
+        "skill": "Transformers",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Built BERT-based intent classification and NER models for banking chatbots in English and Hindi (F1 0.91).",
+        "transferable_from": []
+      },
+      {
+        "skill": "LLMs",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Fine-tuned a 7B open-weight LLM with LoRA on 120,000 anonymised chat transcripts, raising groundedness on our eval set from 0.71 to 0.89.",
+        "transferable_from": []
+      },
+      {
+        "skill": "RAG",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Led the design of a RAG assistant over 40,000 policy and product documents for 600 support agents; average handle time fell 22%.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Docker / MLOps",
+        "importance": "required",
+        "status": "met",
+        "evidence": "[Docker] Listed in skills (not named in role bullets; backed by 8.2 yrs of technical experience)",
+        "transferable_from": []
+      },
+      {
+        "skill": "REST APIs / gRPC",
+        "importance": "required",
+        "status": "met",
+        "evidence": "[gRPC] Productionised models as gRPC services with the MLflow model registry and canary rollouts.",
+        "transferable_from": []
+      },
+      {
+        "skill": "CI/CD",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Listed in skills (not named in role bullets; backed by 8.2 yrs of technical experience)",
+        "transferable_from": []
+      },
+      {
+        "skill": "MLOps / MLflow",
+        "importance": "required",
+        "status": "met",
+        "evidence": "[MLOps] Listed in skills (not named in role bullets; backed by 8.2 yrs of technical experience)",
+        "transferable_from": []
+      },
+      {
+        "skill": "Vector Databases",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Listed in skills (not named in role bullets; backed by 8.2 yrs of technical experience)",
+        "transferable_from": []
+      },
+      {
+        "skill": "Kubernetes / SageMaker / Vertex AI",
+        "importance": "preferred",
+        "status": "met",
+        "evidence": "[Kubernetes] Serve models with vLLM and FastAPI on Kubernetes; cut p95 latency from 2.4 s to 900 ms and GPU spend by 35%.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Observability",
+        "importance": "preferred",
+        "status": "missing",
+        "evidence": "No evidence",
+        "transferable_from": []
+      },
+      {
+        "skill": "Stakeholder Management",
+        "importance": "preferred",
+        "status": "missing",
+        "evidence": "No evidence",
+        "transferable_from": []
+      }
+    ],
+    "strengths": [
+      {
+        "skill": "Machine Learning",
+        "evidence": "Used as Senior Machine Learning Engineer at Kaveri Fintech"
+      },
+      {
+        "skill": "NLP",
+        "evidence": "Listed in skills (not named in role bullets; backed by 8.2 yrs of technical experience)"
+      },
+      {
+        "skill": "Python",
+        "evidence": "Listed in skills (not named in role bullets; backed by 8.2 yrs of technical experience)"
+      },
+      {
+        "skill": "PyTorch",
+        "evidence": "Listed in skills (not named in role bullets; backed by 8.2 yrs of technical experience)"
+      },
+      {
+        "skill": "Transformers",
+        "evidence": "Built BERT-based intent classification and NER models for banking chatbots in English and Hindi (F1 0.91)."
+      },
+      {
+        "skill": "LLMs",
+        "evidence": "Fine-tuned a 7B open-weight LLM with LoRA on 120,000 anonymised chat transcripts, raising groundedness on our eval set from 0.71 to 0.89."
+      }
+    ],
+    "gaps": [
+      {
+        "skill": "Observability",
+        "importance": "preferred",
+        "severity": "moderate",
+        "reason": "Used in the role's day-to-day responsibilities.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Stakeholder Management",
+        "importance": "preferred",
+        "severity": "moderate",
+        "reason": "Used in the role's day-to-day responsibilities.",
+        "transferable_from": []
+      }
+    ],
+    "recommendations": [
+      {
+        "skill": "Observability",
+        "action": "Define SLIs/SLOs for a service and add metrics, logs, traces and alerting",
+        "type": "reading",
+        "resource_hint": "Google SRE Workbook (SLO chapters)",
+        "effort_weeks": 3.0,
+        "priority": "medium"
+      },
+      {
+        "skill": "Stakeholder Management",
+        "action": "Own a reporting request end to end with a business stakeholder",
+        "type": "on_the_job",
+        "resource_hint": "Shadow a senior analyst / PM",
+        "effort_weeks": 4.0,
+        "priority": "medium"
+      }
+    ],
+    "interview_questions": [
+      "This role relies on Observability. What exposure have you had to it, and how would you ramp up in your first 60 days?",
+      "This role relies on Stakeholder Management. What exposure have you had to it, and how would you ramp up in your first 60 days?",
+      "Walk me through the most complex thing you built with Machine Learning: design choices, trade-offs and measurable results.",
+      "Walk me through the most complex thing you built with NLP: design choices, trade-offs and measurable results.",
+      "Walk me through the most complex thing you built with Python: design choices, trade-offs and measurable results."
+    ],
+    "chain_trace": [
+      {
+        "step": 1,
+        "name": "Requirement alignment",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 343,
+        "output": {
+          "assessments": [
+            {
+              "skill": "Machine Learning",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Used as Senior Machine Learning Engineer at Kaveri Fintech",
+              "transferable_from": []
+            },
+            {
+              "skill": "NLP",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Listed in skills (not named in role bullets; backed by 8.2 yrs of technical experience)",
+              "transferable_from": []
+            },
+            {
+              "skill": "Python",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Listed in skills (not named in role bullets; backed by 8.2 yrs of technical experience)",
+              "transferable_from": []
+            },
+            {
+              "skill": "PyTorch",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Listed in skills (not named in role bullets; backed by 8.2 yrs of technical experience)",
+              "transferable_from": []
+            },
+            {
+              "skill": "Transformers",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Built BERT-based intent classification and NER models for banking chatbots in English and Hindi (F1 0.91).",
+              "transferable_from": []
+            },
+            {
+              "skill": "LLMs",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Fine-tuned a 7B open-weight LLM with LoRA on 120,000 anonymised chat transcripts, raising groundedness on our eval set from 0.71 to 0.89.",
+              "transferable_from": []
+            },
+            {
+              "skill": "RAG",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Led the design of a RAG assistant over 40,000 policy and product documents for 600 support agents; average handle time fell 22%.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Docker / MLOps",
+              "importance": "required",
+              "status": "met",
+              "evidence": "[Docker] Listed in skills (not named in role bullets; backed by 8.2 yrs of technical experience)",
+              "transferable_from": []
+            },
+            {
+              "skill": "REST APIs / gRPC",
+              "importance": "required",
+              "status": "met",
+              "evidence": "[gRPC] Productionised models as gRPC services with the MLflow model registry and canary rollouts.",
+              "transferable_from": []
+            },
+            {
+              "skill": "CI/CD",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Listed in skills (not named in role bullets; backed by 8.2 yrs of technical experience)",
+              "transferable_from": []
+            },
+            {
+              "skill": "MLOps / MLflow",
+              "importance": "required",
+              "status": "met",
+              "evidence": "[MLOps] Listed in skills (not named in role bullets; backed by 8.2 yrs of technical experience)",
+              "transferable_from": []
+            },
+            {
+              "skill": "Vector Databases",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Listed in skills (not named in role bullets; backed by 8.2 yrs of technical experience)",
+              "transferable_from": []
+            },
+            {
+              "skill": "Kubernetes / SageMaker / Vertex AI",
+              "importance": "preferred",
+              "status": "met",
+              "evidence": "[Kubernetes] Serve models with vLLM and FastAPI on Kubernetes; cut p95 latency from 2.4 s to 900 ms and GPU spend by 35%.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Observability",
+              "importance": "preferred",
+              "status": "missing",
+              "evidence": "No evidence",
+              "transferable_from": []
+            },
+            {
+              "skill": "Stakeholder Management",
+              "importance": "preferred",
+              "status": "missing",
+              "evidence": "No evidence",
+              "transferable_from": []
+            }
+          ],
+          "experience_fit": "meets",
+          "experience_note": "8.2 years in technical roles vs 5+ required."
+        }
+      },
+      {
+        "step": 2,
+        "name": "Gap prioritisation",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 7,
+        "output": {
+          "strengths": [
+            {
+              "skill": "Machine Learning",
+              "evidence": "Used as Senior Machine Learning Engineer at Kaveri Fintech"
+            },
+            {
+              "skill": "NLP",
+              "evidence": "Listed in skills (not named in role bullets; backed by 8.2 yrs of technical experience)"
+            },
+            {
+              "skill": "Python",
+              "evidence": "Listed in skills (not named in role bullets; backed by 8.2 yrs of technical experience)"
+            },
+            {
+              "skill": "PyTorch",
+              "evidence": "Listed in skills (not named in role bullets; backed by 8.2 yrs of technical experience)"
+            },
+            {
+              "skill": "Transformers",
+              "evidence": "Built BERT-based intent classification and NER models for banking chatbots in English and Hindi (F1 0.91)."
+            },
+            {
+              "skill": "LLMs",
+              "evidence": "Fine-tuned a 7B open-weight LLM with LoRA on 120,000 anonymised chat transcripts, raising groundedness on our eval set from 0.71 to 0.89."
+            }
+          ],
+          "gaps": [
+            {
+              "skill": "Observability",
+              "importance": "preferred",
+              "severity": "moderate",
+              "reason": "Used in the role's day-to-day responsibilities.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Stakeholder Management",
+              "importance": "preferred",
+              "severity": "moderate",
+              "reason": "Used in the role's day-to-day responsibilities.",
+              "transferable_from": []
+            }
+          ],
+          "fit_score": 87,
+          "fit_rationale": "Covers 100% of required and 33% of preferred skills (partial/undemonstrated at half credit); 100% of must-haves are demonstrated in technical roles; experience meets the bar."
+        }
+      },
+      {
+        "step": 3,
+        "name": "Recommendations",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 0,
+        "output": {
+          "recommendations": [
+            {
+              "skill": "Observability",
+              "action": "Define SLIs/SLOs for a service and add metrics, logs, traces and alerting",
+              "type": "reading",
+              "resource_hint": "Google SRE Workbook (SLO chapters)",
+              "effort_weeks": 3.0,
+              "priority": "medium"
+            },
+            {
+              "skill": "Stakeholder Management",
+              "action": "Own a reporting request end to end with a business stakeholder",
+              "type": "on_the_job",
+              "resource_hint": "Shadow a senior analyst / PM",
+              "effort_weeks": 4.0,
+              "priority": "medium"
+            }
+          ],
+          "interview_questions": [
+            "This role relies on Observability. What exposure have you had to it, and how would you ramp up in your first 60 days?",
+            "This role relies on Stakeholder Management. What exposure have you had to it, and how would you ramp up in your first 60 days?",
+            "Walk me through the most complex thing you built with Machine Learning: design choices, trade-offs and measurable results.",
+            "Walk me through the most complex thing you built with NLP: design choices, trade-offs and measurable results.",
+            "Walk me through the most complex thing you built with Python: design choices, trade-offs and measurable results."
+          ]
+        }
+      },
+      {
+        "step": 4,
+        "name": "Report synthesis",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 0,
+        "output": {
+          "verdict": "strong_match",
+          "headline": "Strong match for Senior Machine Learning Engineer, NLP & LLM Applications: strong in Machine Learning, NLP, Python",
+          "executive_summary": "Priya Nair (Senior Machine Learning Engineer \u2013 NLP & LLMs, 8.2 yrs in technical roles) shows clear evidence of Machine Learning, NLP, Python. No must-have skill is entirely missing. Partially covered: Observability, Stakeholder Management. The high/medium-priority plan totals roughly 7 weeks of part-time effort. Experience: 8.2 years in technical roles vs 5+ required.",
+          "hiring_recommendation": "Advance to technical interviews; verify depth on the listed strengths."
+        }
+      }
+    ],
+    "generated_at": "2026-11-15T17:57:28+00:00"
+  },
+  {
+    "job_id": "J01",
+    "resume_id": "R25",
+    "candidate_name": "Amara Okafor",
+    "job_title": "Senior Machine Learning Engineer, NLP & LLM Applications",
+    "fit_score": 76,
+    "verdict": "good_match",
+    "headline": "Good match for Senior Machine Learning Engineer, NLP & LLM Applications: strong in Machine Learning, Python, PyTorch",
+    "executive_summary": "Amara Okafor (Machine Learning Engineer \u2014 NLP, 6.8 yrs in technical roles) shows clear evidence of Machine Learning, Python, PyTorch. Critical gaps: REST APIs / gRPC, CI/CD. Partially covered: NLP, MLOps / MLflow, Stakeholder Management. The high/medium-priority plan totals roughly 13.5 weeks of part-time effort. Experience: 6.8 years in technical roles vs 5+ required.",
+    "hiring_recommendation": "Advance with focus areas: probe REST APIs / gRPC, CI/CD in interview.",
+    "experience_fit": "meets",
+    "experience_note": "6.8 years in technical roles vs 5+ required.",
+    "assessments": [
+      {
+        "skill": "Machine Learning",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Used as Machine Learning Engineer at Canary Health Data",
+        "transferable_from": []
+      },
+      {
+        "skill": "NLP",
+        "importance": "required",
+        "status": "partial",
+        "evidence": "Transferable experience with RAG, LLMs, Transformers",
+        "transferable_from": [
+          "RAG",
+          "LLMs",
+          "Transformers"
+        ]
+      },
+      {
+        "skill": "Python",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Listed in skills (not named in role bullets; backed by 6.8 yrs of technical experience)",
+        "transferable_from": []
+      },
+      {
+        "skill": "PyTorch",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Listed in skills (not named in role bullets; backed by 6.8 yrs of technical experience)",
+        "transferable_from": []
+      },
+      {
+        "skill": "Transformers",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Built a clinical-note de-identification and coding pipeline with fine-tuned transformer models (NER F1 0.93) that processes 4 million notes a month on Vertex AI endpoints.",
+        "transferable_from": []
+      },
+      {
+        "skill": "LLMs",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Designed and shipped a RAG-based clinical guideline search tool: Pinecone vector index, cross-encoder re-ranking and an LLM answer layer with citation checks; adopted by 1,100 clinicians.",
+        "transferable_from": []
+      },
+      {
+        "skill": "RAG",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Designed and shipped a RAG-based clinical guideline search tool: Pinecone vector index, cross-encoder re-ranking and an LLM answer layer with citation checks; adopted by 1,100 clinicians.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Docker / MLOps",
+        "importance": "required",
+        "status": "met",
+        "evidence": "[Docker] Listed in skills (not named in role bullets; backed by 6.8 yrs of technical experience)",
+        "transferable_from": []
+      },
+      {
+        "skill": "REST APIs / gRPC",
+        "importance": "required",
+        "status": "missing",
+        "evidence": "No evidence",
+        "transferable_from": []
+      },
+      {
+        "skill": "CI/CD",
+        "importance": "required",
+        "status": "missing",
+        "evidence": "No evidence",
+        "transferable_from": []
+      },
+      {
+        "skill": "MLOps / MLflow",
+        "importance": "required",
+        "status": "partial",
+        "evidence": "Transferable experience with Docker, Kubeflow, Vertex AI",
+        "transferable_from": [
+          "Docker",
+          "Kubeflow",
+          "Vertex AI"
+        ]
+      },
+      {
+        "skill": "Vector Databases",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Designed and shipped a RAG-based clinical guideline search tool: Pinecone vector index, cross-encoder re-ranking and an LLM answer layer with citation checks; adopted by 1,100 clinicians.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Kubernetes / SageMaker / Vertex AI",
+        "importance": "preferred",
+        "status": "met",
+        "evidence": "[Vertex AI] Built a clinical-note de-identification and coding pipeline with fine-tuned transformer models (NER F1 0.93) that processes 4 million notes a month on Vertex AI endpoints.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Observability",
+        "importance": "preferred",
+        "status": "met",
+        "evidence": "Listed in skills (not named in role bullets; backed by 6.8 yrs of technical experience)",
+        "transferable_from": []
+      },
+      {
+        "skill": "Stakeholder Management",
+        "importance": "preferred",
+        "status": "missing",
+        "evidence": "No evidence",
+        "transferable_from": []
+      }
+    ],
+    "strengths": [
+      {
+        "skill": "Machine Learning",
+        "evidence": "Used as Machine Learning Engineer at Canary Health Data"
+      },
+      {
+        "skill": "Python",
+        "evidence": "Listed in skills (not named in role bullets; backed by 6.8 yrs of technical experience)"
+      },
+      {
+        "skill": "PyTorch",
+        "evidence": "Listed in skills (not named in role bullets; backed by 6.8 yrs of technical experience)"
+      },
+      {
+        "skill": "Transformers",
+        "evidence": "Built a clinical-note de-identification and coding pipeline with fine-tuned transformer models (NER F1 0.93) that processes 4 million notes a month on Vertex AI endpoints."
+      },
+      {
+        "skill": "LLMs",
+        "evidence": "Designed and shipped a RAG-based clinical guideline search tool: Pinecone vector index, cross-encoder re-ranking and an LLM answer layer with citation checks; adopted by 1,100 clinicians."
+      },
+      {
+        "skill": "RAG",
+        "evidence": "Designed and shipped a RAG-based clinical guideline search tool: Pinecone vector index, cross-encoder re-ranking and an LLM answer layer with citation checks; adopted by 1,100 clinicians."
+      }
+    ],
+    "gaps": [
+      {
+        "skill": "REST APIs / gRPC",
+        "importance": "required",
+        "severity": "critical",
+        "reason": "Listed as a must-have for this role.",
+        "transferable_from": []
+      },
+      {
+        "skill": "CI/CD",
+        "importance": "required",
+        "severity": "critical",
+        "reason": "Listed as a must-have for this role.",
+        "transferable_from": []
+      },
+      {
+        "skill": "NLP",
+        "importance": "required",
+        "severity": "moderate",
+        "reason": "Listed as a must-have for this role. Partly offset by RAG, LLMs, Transformers.",
+        "transferable_from": [
+          "RAG",
+          "LLMs",
+          "Transformers"
+        ]
+      },
+      {
+        "skill": "MLOps / MLflow",
+        "importance": "required",
+        "severity": "moderate",
+        "reason": "Listed as a must-have for this role. Partly offset by Docker, Kubeflow, Vertex AI.",
+        "transferable_from": [
+          "Docker",
+          "Kubeflow",
+          "Vertex AI"
+        ]
+      },
+      {
+        "skill": "Stakeholder Management",
+        "importance": "preferred",
+        "severity": "moderate",
+        "reason": "Used in the role's day-to-day responsibilities.",
+        "transferable_from": []
+      }
+    ],
+    "recommendations": [
+      {
+        "skill": "REST APIs / gRPC",
+        "action": "(any one of REST APIs, gRPC) Build a small project that uses REST APIs / gRPC the way a Senior Machine Learning Engineer, NLP & LLM Applications would",
+        "type": "project",
+        "resource_hint": "official framework documentation",
+        "effort_weeks": 3.0,
+        "priority": "high"
+      },
+      {
+        "skill": "CI/CD",
+        "action": "Set up a pipeline with tests, linting, build and automated deploy (e.g. GitHub Actions)",
+        "type": "project",
+        "resource_hint": "GitHub Actions documentation",
+        "effort_weeks": 2.0,
+        "priority": "high"
+      },
+      {
+        "skill": "NLP",
+        "action": "Ship a text-classification or extraction pipeline with error analysis - leverage existing RAG, LLMs experience",
+        "type": "course",
+        "resource_hint": "Hugging Face NLP course",
+        "effort_weeks": 2.5,
+        "priority": "medium"
+      },
+      {
+        "skill": "MLOps / MLflow",
+        "action": "(any one of MLOps, MLflow) Add experiment tracking, model registry and CI-based deployment to an ML project - leverage existing Docker, Kubeflow experience",
+        "type": "project",
+        "resource_hint": "MLflow docs / Made With ML",
+        "effort_weeks": 2.0,
+        "priority": "medium"
+      },
+      {
+        "skill": "Stakeholder Management",
+        "action": "Own a reporting request end to end with a business stakeholder",
+        "type": "on_the_job",
+        "resource_hint": "Shadow a senior analyst / PM",
+        "effort_weeks": 4.0,
+        "priority": "medium"
+      }
+    ],
+    "interview_questions": [
+      "This role relies on REST APIs / gRPC. What exposure have you had to it, and how would you ramp up in your first 60 days?",
+      "This role relies on CI/CD. What exposure have you had to it, and how would you ramp up in your first 60 days?",
+      "You haven't used NLP directly - how would your RAG experience carry over, and what would you need to learn first?",
+      "Walk me through the most complex thing you built with Machine Learning: design choices, trade-offs and measurable results.",
+      "Walk me through the most complex thing you built with Python: design choices, trade-offs and measurable results.",
+      "Walk me through the most complex thing you built with PyTorch: design choices, trade-offs and measurable results."
+    ],
+    "chain_trace": [
+      {
+        "step": 1,
+        "name": "Requirement alignment",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 119,
+        "output": {
+          "assessments": [
+            {
+              "skill": "Machine Learning",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Used as Machine Learning Engineer at Canary Health Data",
+              "transferable_from": []
+            },
+            {
+              "skill": "NLP",
+              "importance": "required",
+              "status": "partial",
+              "evidence": "Transferable experience with RAG, LLMs, Transformers",
+              "transferable_from": [
+                "RAG",
+                "LLMs",
+                "Transformers"
+              ]
+            },
+            {
+              "skill": "Python",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Listed in skills (not named in role bullets; backed by 6.8 yrs of technical experience)",
+              "transferable_from": []
+            },
+            {
+              "skill": "PyTorch",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Listed in skills (not named in role bullets; backed by 6.8 yrs of technical experience)",
+              "transferable_from": []
+            },
+            {
+              "skill": "Transformers",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Built a clinical-note de-identification and coding pipeline with fine-tuned transformer models (NER F1 0.93) that processes 4 million notes a month on Vertex AI endpoints.",
+              "transferable_from": []
+            },
+            {
+              "skill": "LLMs",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Designed and shipped a RAG-based clinical guideline search tool: Pinecone vector index, cross-encoder re-ranking and an LLM answer layer with citation checks; adopted by 1,100 clinicians.",
+              "transferable_from": []
+            },
+            {
+              "skill": "RAG",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Designed and shipped a RAG-based clinical guideline search tool: Pinecone vector index, cross-encoder re-ranking and an LLM answer layer with citation checks; adopted by 1,100 clinicians.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Docker / MLOps",
+              "importance": "required",
+              "status": "met",
+              "evidence": "[Docker] Listed in skills (not named in role bullets; backed by 6.8 yrs of technical experience)",
+              "transferable_from": []
+            },
+            {
+              "skill": "REST APIs / gRPC",
+              "importance": "required",
+              "status": "missing",
+              "evidence": "No evidence",
+              "transferable_from": []
+            },
+            {
+              "skill": "CI/CD",
+              "importance": "required",
+              "status": "missing",
+              "evidence": "No evidence",
+              "transferable_from": []
+            },
+            {
+              "skill": "MLOps / MLflow",
+              "importance": "required",
+              "status": "partial",
+              "evidence": "Transferable experience with Docker, Kubeflow, Vertex AI",
+              "transferable_from": [
+                "Docker",
+                "Kubeflow",
+                "Vertex AI"
+              ]
+            },
+            {
+              "skill": "Vector Databases",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Designed and shipped a RAG-based clinical guideline search tool: Pinecone vector index, cross-encoder re-ranking and an LLM answer layer with citation checks; adopted by 1,100 clinicians.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Kubernetes / SageMaker / Vertex AI",
+              "importance": "preferred",
+              "status": "met",
+              "evidence": "[Vertex AI] Built a clinical-note de-identification and coding pipeline with fine-tuned transformer models (NER F1 0.93) that processes 4 million notes a month on Vertex AI endpoints.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Observability",
+              "importance": "preferred",
+              "status": "met",
+              "evidence": "Listed in skills (not named in role bullets; backed by 6.8 yrs of technical experience)",
+              "transferable_from": []
+            },
+            {
+              "skill": "Stakeholder Management",
+              "importance": "preferred",
+              "status": "missing",
+              "evidence": "No evidence",
+              "transferable_from": []
+            }
+          ],
+          "experience_fit": "meets",
+          "experience_note": "6.8 years in technical roles vs 5+ required."
+        }
+      },
+      {
+        "step": 2,
+        "name": "Gap prioritisation",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 7,
+        "output": {
+          "strengths": [
+            {
+              "skill": "Machine Learning",
+              "evidence": "Used as Machine Learning Engineer at Canary Health Data"
+            },
+            {
+              "skill": "Python",
+              "evidence": "Listed in skills (not named in role bullets; backed by 6.8 yrs of technical experience)"
+            },
+            {
+              "skill": "PyTorch",
+              "evidence": "Listed in skills (not named in role bullets; backed by 6.8 yrs of technical experience)"
+            },
+            {
+              "skill": "Transformers",
+              "evidence": "Built a clinical-note de-identification and coding pipeline with fine-tuned transformer models (NER F1 0.93) that processes 4 million notes a month on Vertex AI endpoints."
+            },
+            {
+              "skill": "LLMs",
+              "evidence": "Designed and shipped a RAG-based clinical guideline search tool: Pinecone vector index, cross-encoder re-ranking and an LLM answer layer with citation checks; adopted by 1,100 clinicians."
+            },
+            {
+              "skill": "RAG",
+              "evidence": "Designed and shipped a RAG-based clinical guideline search tool: Pinecone vector index, cross-encoder re-ranking and an LLM answer layer with citation checks; adopted by 1,100 clinicians."
+            }
+          ],
+          "gaps": [
+            {
+              "skill": "REST APIs / gRPC",
+              "importance": "required",
+              "severity": "critical",
+              "reason": "Listed as a must-have for this role.",
+              "transferable_from": []
+            },
+            {
+              "skill": "CI/CD",
+              "importance": "required",
+              "severity": "critical",
+              "reason": "Listed as a must-have for this role.",
+              "transferable_from": []
+            },
+            {
+              "skill": "NLP",
+              "importance": "required",
+              "severity": "moderate",
+              "reason": "Listed as a must-have for this role. Partly offset by RAG, LLMs, Transformers.",
+              "transferable_from": [
+                "RAG",
+                "LLMs",
+                "Transformers"
+              ]
+            },
+            {
+              "skill": "MLOps / MLflow",
+              "importance": "required",
+              "severity": "moderate",
+              "reason": "Listed as a must-have for this role. Partly offset by Docker, Kubeflow, Vertex AI.",
+              "transferable_from": [
+                "Docker",
+                "Kubeflow",
+                "Vertex AI"
+              ]
+            },
+            {
+              "skill": "Stakeholder Management",
+              "importance": "preferred",
+              "severity": "moderate",
+              "reason": "Used in the role's day-to-day responsibilities.",
+              "transferable_from": []
+            }
+          ],
+          "fit_score": 76,
+          "fit_rationale": "Covers 75% of required and 67% of preferred skills (partial/undemonstrated at half credit); 67% of must-haves are demonstrated in technical roles; experience meets the bar."
+        }
+      },
+      {
+        "step": 3,
+        "name": "Recommendations",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 0,
+        "output": {
+          "recommendations": [
+            {
+              "skill": "REST APIs / gRPC",
+              "action": "(any one of REST APIs, gRPC) Build a small project that uses REST APIs / gRPC the way a Senior Machine Learning Engineer, NLP & LLM Applications would",
+              "type": "project",
+              "resource_hint": "official framework documentation",
+              "effort_weeks": 3.0,
+              "priority": "high"
+            },
+            {
+              "skill": "CI/CD",
+              "action": "Set up a pipeline with tests, linting, build and automated deploy (e.g. GitHub Actions)",
+              "type": "project",
+              "resource_hint": "GitHub Actions documentation",
+              "effort_weeks": 2.0,
+              "priority": "high"
+            },
+            {
+              "skill": "NLP",
+              "action": "Ship a text-classification or extraction pipeline with error analysis - leverage existing RAG, LLMs experience",
+              "type": "course",
+              "resource_hint": "Hugging Face NLP course",
+              "effort_weeks": 2.5,
+              "priority": "medium"
+            },
+            {
+              "skill": "MLOps / MLflow",
+              "action": "(any one of MLOps, MLflow) Add experiment tracking, model registry and CI-based deployment to an ML project - leverage existing Docker, Kubeflow experience",
+              "type": "project",
+              "resource_hint": "MLflow docs / Made With ML",
+              "effort_weeks": 2.0,
+              "priority": "medium"
+            },
+            {
+              "skill": "Stakeholder Management",
+              "action": "Own a reporting request end to end with a business stakeholder",
+              "type": "on_the_job",
+              "resource_hint": "Shadow a senior analyst / PM",
+              "effort_weeks": 4.0,
+              "priority": "medium"
+            }
+          ],
+          "interview_questions": [
+            "This role relies on REST APIs / gRPC. What exposure have you had to it, and how would you ramp up in your first 60 days?",
+            "This role relies on CI/CD. What exposure have you had to it, and how would you ramp up in your first 60 days?",
+            "You haven't used NLP directly - how would your RAG experience carry over, and what would you need to learn first?",
+            "Walk me through the most complex thing you built with Machine Learning: design choices, trade-offs and measurable results.",
+            "Walk me through the most complex thing you built with Python: design choices, trade-offs and measurable results.",
+            "Walk me through the most complex thing you built with PyTorch: design choices, trade-offs and measurable results."
+          ]
+        }
+      },
+      {
+        "step": 4,
+        "name": "Report synthesis",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 0,
+        "output": {
+          "verdict": "good_match",
+          "headline": "Good match for Senior Machine Learning Engineer, NLP & LLM Applications: strong in Machine Learning, Python, PyTorch",
+          "executive_summary": "Amara Okafor (Machine Learning Engineer \u2014 NLP, 6.8 yrs in technical roles) shows clear evidence of Machine Learning, Python, PyTorch. Critical gaps: REST APIs / gRPC, CI/CD. Partially covered: NLP, MLOps / MLflow, Stakeholder Management. The high/medium-priority plan totals roughly 13.5 weeks of part-time effort. Experience: 6.8 years in technical roles vs 5+ required.",
+          "hiring_recommendation": "Advance with focus areas: probe REST APIs / gRPC, CI/CD in interview."
+        }
+      }
+    ],
+    "generated_at": "2026-11-15T17:57:28+00:00"
+  },
+  {
+    "job_id": "J01",
+    "resume_id": "R12",
+    "candidate_name": "Lucas Ferreira",
+    "job_title": "Senior Machine Learning Engineer, NLP & LLM Applications",
+    "fit_score": 68,
+    "verdict": "good_match",
+    "headline": "Good match for Senior Machine Learning Engineer, NLP & LLM Applications: strong in Machine Learning, Python, PyTorch",
+    "executive_summary": "Lucas Ferreira (Machine Learning Engineer (LLMs & NLP), 2.1 yrs in technical roles) shows clear evidence of Machine Learning, Python, PyTorch. Critical gaps: REST APIs / gRPC. Partially covered: NLP, CI/CD, Observability, Stakeholder Management. The high/medium-priority plan totals roughly 13.5 weeks of part-time effort. Experience: 2.1 years in technical roles vs 5+ required (3.6 yrs total incl. non-technical roles).",
+    "hiring_recommendation": "Advance with focus areas: probe REST APIs / gRPC, NLP in interview.",
+    "experience_fit": "below",
+    "experience_note": "2.1 years in technical roles vs 5+ required (3.6 yrs total incl. non-technical roles).",
+    "assessments": [
+      {
+        "skill": "Machine Learning",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Used as Machine Learning Engineer at Tucano Seguros (insurtech",
+        "transferable_from": []
+      },
+      {
+        "skill": "NLP",
+        "importance": "required",
+        "status": "partial",
+        "evidence": "Only in a short or non-technical role (ML Research Intern, NLP Lab): Used as ML Research Intern, NLP Lab at University of S\u00e3o Paulo",
+        "transferable_from": [
+          "RAG",
+          "LLMs",
+          "Transformers"
+        ]
+      },
+      {
+        "skill": "Python",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Listed in skills (not named in role bullets; backed by 2.1 yrs of technical experience)",
+        "transferable_from": []
+      },
+      {
+        "skill": "PyTorch",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Listed in skills (not named in role bullets; backed by 2.1 yrs of technical experience)",
+        "transferable_from": []
+      },
+      {
+        "skill": "Transformers",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Fine-tuned a Portuguese BERT-style model for claim triage (macro-F1 0.87) and deployed it behind FastAPI in Docker on the company's Kubernetes cluster.",
+        "transferable_from": []
+      },
+      {
+        "skill": "LLMs",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Built a RAG assistant over 12,000 insurance policy PDFs (ChromaDB, BGE embeddings, an open-weight LLM served with vLLM); answer accuracy on a 500-question eval set rose from 64% to 83%.",
+        "transferable_from": []
+      },
+      {
+        "skill": "RAG",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Built a RAG assistant over 12,000 insurance policy PDFs (ChromaDB, BGE embeddings, an open-weight LLM served with vLLM); answer accuracy on a 500-question eval set rose from 64% to 83%.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Docker / MLOps",
+        "importance": "required",
+        "status": "met",
+        "evidence": "[Docker] Fine-tuned a Portuguese BERT-style model for claim triage (macro-F1 0.87) and deployed it behind FastAPI in Docker on the company's Kubernetes cluster.",
+        "transferable_from": []
+      },
+      {
+        "skill": "REST APIs / gRPC",
+        "importance": "required",
+        "status": "missing",
+        "evidence": "No evidence",
+        "transferable_from": []
+      },
+      {
+        "skill": "CI/CD",
+        "importance": "required",
+        "status": "partial",
+        "evidence": "Transferable experience with Git",
+        "transferable_from": [
+          "Git"
+        ]
+      },
+      {
+        "skill": "MLOps / MLflow",
+        "importance": "required",
+        "status": "met",
+        "evidence": "[MLflow] Built the team's LLM evaluation harness (LLM-as-judge plus weekly human spot checks), with every run tracked in MLflow.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Vector Databases",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Built a RAG assistant over 12,000 insurance policy PDFs (ChromaDB, BGE embeddings, an open-weight LLM served with vLLM); answer accuracy on a 500-question eval set rose from 64% to 83%.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Kubernetes / SageMaker / Vertex AI",
+        "importance": "preferred",
+        "status": "met",
+        "evidence": "[Kubernetes] Fine-tuned a Portuguese BERT-style model for claim triage (macro-F1 0.87) and deployed it behind FastAPI in Docker on the company's Kubernetes cluster.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Observability",
+        "importance": "preferred",
+        "status": "missing",
+        "evidence": "No evidence",
+        "transferable_from": []
+      },
+      {
+        "skill": "Stakeholder Management",
+        "importance": "preferred",
+        "status": "missing",
+        "evidence": "No evidence",
+        "transferable_from": []
+      }
+    ],
+    "strengths": [
+      {
+        "skill": "Machine Learning",
+        "evidence": "Used as Machine Learning Engineer at Tucano Seguros (insurtech"
+      },
+      {
+        "skill": "Python",
+        "evidence": "Listed in skills (not named in role bullets; backed by 2.1 yrs of technical experience)"
+      },
+      {
+        "skill": "PyTorch",
+        "evidence": "Listed in skills (not named in role bullets; backed by 2.1 yrs of technical experience)"
+      },
+      {
+        "skill": "Transformers",
+        "evidence": "Fine-tuned a Portuguese BERT-style model for claim triage (macro-F1 0.87) and deployed it behind FastAPI in Docker on the company's Kubernetes cluster."
+      },
+      {
+        "skill": "LLMs",
+        "evidence": "Built a RAG assistant over 12,000 insurance policy PDFs (ChromaDB, BGE embeddings, an open-weight LLM served with vLLM); answer accuracy on a 500-question eval set rose from 64% to 83%."
+      },
+      {
+        "skill": "RAG",
+        "evidence": "Built a RAG assistant over 12,000 insurance policy PDFs (ChromaDB, BGE embeddings, an open-weight LLM served with vLLM); answer accuracy on a 500-question eval set rose from 64% to 83%."
+      }
+    ],
+    "gaps": [
+      {
+        "skill": "REST APIs / gRPC",
+        "importance": "required",
+        "severity": "critical",
+        "reason": "Listed as a must-have for this role.",
+        "transferable_from": []
+      },
+      {
+        "skill": "NLP",
+        "importance": "required",
+        "severity": "moderate",
+        "reason": "Listed as a must-have for this role. Partly offset by RAG, LLMs, Transformers.",
+        "transferable_from": [
+          "RAG",
+          "LLMs",
+          "Transformers"
+        ]
+      },
+      {
+        "skill": "CI/CD",
+        "importance": "required",
+        "severity": "moderate",
+        "reason": "Listed as a must-have for this role. Partly offset by Git.",
+        "transferable_from": [
+          "Git"
+        ]
+      },
+      {
+        "skill": "Observability",
+        "importance": "preferred",
+        "severity": "moderate",
+        "reason": "Used in the role's day-to-day responsibilities.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Stakeholder Management",
+        "importance": "preferred",
+        "severity": "moderate",
+        "reason": "Used in the role's day-to-day responsibilities.",
+        "transferable_from": []
+      }
+    ],
+    "recommendations": [
+      {
+        "skill": "REST APIs / gRPC",
+        "action": "(any one of REST APIs, gRPC) Build a small project that uses REST APIs / gRPC the way a Senior Machine Learning Engineer, NLP & LLM Applications would",
+        "type": "project",
+        "resource_hint": "official framework documentation",
+        "effort_weeks": 3.0,
+        "priority": "high"
+      },
+      {
+        "skill": "NLP",
+        "action": "Ship a text-classification or extraction pipeline with error analysis - leverage existing RAG, LLMs experience",
+        "type": "course",
+        "resource_hint": "Hugging Face NLP course",
+        "effort_weeks": 2.5,
+        "priority": "medium"
+      },
+      {
+        "skill": "CI/CD",
+        "action": "Set up a pipeline with tests, linting, build and automated deploy (e.g. GitHub Actions) - leverage existing Git experience",
+        "type": "project",
+        "resource_hint": "GitHub Actions documentation",
+        "effort_weeks": 1.0,
+        "priority": "medium"
+      },
+      {
+        "skill": "Observability",
+        "action": "Define SLIs/SLOs for a service and add metrics, logs, traces and alerting",
+        "type": "reading",
+        "resource_hint": "Google SRE Workbook (SLO chapters)",
+        "effort_weeks": 3.0,
+        "priority": "medium"
+      },
+      {
+        "skill": "Stakeholder Management",
+        "action": "Own a reporting request end to end with a business stakeholder",
+        "type": "on_the_job",
+        "resource_hint": "Shadow a senior analyst / PM",
+        "effort_weeks": 4.0,
+        "priority": "medium"
+      }
+    ],
+    "interview_questions": [
+      "This role relies on REST APIs / gRPC. What exposure have you had to it, and how would you ramp up in your first 60 days?",
+      "You haven't used NLP directly - how would your RAG experience carry over, and what would you need to learn first?",
+      "You haven't used CI/CD directly - how would your Git experience carry over, and what would you need to learn first?",
+      "Walk me through the most complex thing you built with Machine Learning: design choices, trade-offs and measurable results.",
+      "Walk me through the most complex thing you built with Python: design choices, trade-offs and measurable results.",
+      "Walk me through the most complex thing you built with PyTorch: design choices, trade-offs and measurable results."
+    ],
+    "chain_trace": [
+      {
+        "step": 1,
+        "name": "Requirement alignment",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 100,
+        "output": {
+          "assessments": [
+            {
+              "skill": "Machine Learning",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Used as Machine Learning Engineer at Tucano Seguros (insurtech",
+              "transferable_from": []
+            },
+            {
+              "skill": "NLP",
+              "importance": "required",
+              "status": "partial",
+              "evidence": "Only in a short or non-technical role (ML Research Intern, NLP Lab): Used as ML Research Intern, NLP Lab at University of S\u00e3o Paulo",
+              "transferable_from": [
+                "RAG",
+                "LLMs",
+                "Transformers"
+              ]
+            },
+            {
+              "skill": "Python",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Listed in skills (not named in role bullets; backed by 2.1 yrs of technical experience)",
+              "transferable_from": []
+            },
+            {
+              "skill": "PyTorch",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Listed in skills (not named in role bullets; backed by 2.1 yrs of technical experience)",
+              "transferable_from": []
+            },
+            {
+              "skill": "Transformers",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Fine-tuned a Portuguese BERT-style model for claim triage (macro-F1 0.87) and deployed it behind FastAPI in Docker on the company's Kubernetes cluster.",
+              "transferable_from": []
+            },
+            {
+              "skill": "LLMs",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Built a RAG assistant over 12,000 insurance policy PDFs (ChromaDB, BGE embeddings, an open-weight LLM served with vLLM); answer accuracy on a 500-question eval set rose from 64% to 83%.",
+              "transferable_from": []
+            },
+            {
+              "skill": "RAG",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Built a RAG assistant over 12,000 insurance policy PDFs (ChromaDB, BGE embeddings, an open-weight LLM served with vLLM); answer accuracy on a 500-question eval set rose from 64% to 83%.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Docker / MLOps",
+              "importance": "required",
+              "status": "met",
+              "evidence": "[Docker] Fine-tuned a Portuguese BERT-style model for claim triage (macro-F1 0.87) and deployed it behind FastAPI in Docker on the company's Kubernetes cluster.",
+              "transferable_from": []
+            },
+            {
+              "skill": "REST APIs / gRPC",
+              "importance": "required",
+              "status": "missing",
+              "evidence": "No evidence",
+              "transferable_from": []
+            },
+            {
+              "skill": "CI/CD",
+              "importance": "required",
+              "status": "partial",
+              "evidence": "Transferable experience with Git",
+              "transferable_from": [
+                "Git"
+              ]
+            },
+            {
+              "skill": "MLOps / MLflow",
+              "importance": "required",
+              "status": "met",
+              "evidence": "[MLflow] Built the team's LLM evaluation harness (LLM-as-judge plus weekly human spot checks), with every run tracked in MLflow.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Vector Databases",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Built a RAG assistant over 12,000 insurance policy PDFs (ChromaDB, BGE embeddings, an open-weight LLM served with vLLM); answer accuracy on a 500-question eval set rose from 64% to 83%.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Kubernetes / SageMaker / Vertex AI",
+              "importance": "preferred",
+              "status": "met",
+              "evidence": "[Kubernetes] Fine-tuned a Portuguese BERT-style model for claim triage (macro-F1 0.87) and deployed it behind FastAPI in Docker on the company's Kubernetes cluster.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Observability",
+              "importance": "preferred",
+              "status": "missing",
+              "evidence": "No evidence",
+              "transferable_from": []
+            },
+            {
+              "skill": "Stakeholder Management",
+              "importance": "preferred",
+              "status": "missing",
+              "evidence": "No evidence",
+              "transferable_from": []
+            }
+          ],
+          "experience_fit": "below",
+          "experience_note": "2.1 years in technical roles vs 5+ required (3.6 yrs total incl. non-technical roles)."
+        }
+      },
+      {
+        "step": 2,
+        "name": "Gap prioritisation",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 7,
+        "output": {
+          "strengths": [
+            {
+              "skill": "Machine Learning",
+              "evidence": "Used as Machine Learning Engineer at Tucano Seguros (insurtech"
+            },
+            {
+              "skill": "Python",
+              "evidence": "Listed in skills (not named in role bullets; backed by 2.1 yrs of technical experience)"
+            },
+            {
+              "skill": "PyTorch",
+              "evidence": "Listed in skills (not named in role bullets; backed by 2.1 yrs of technical experience)"
+            },
+            {
+              "skill": "Transformers",
+              "evidence": "Fine-tuned a Portuguese BERT-style model for claim triage (macro-F1 0.87) and deployed it behind FastAPI in Docker on the company's Kubernetes cluster."
+            },
+            {
+              "skill": "LLMs",
+              "evidence": "Built a RAG assistant over 12,000 insurance policy PDFs (ChromaDB, BGE embeddings, an open-weight LLM served with vLLM); answer accuracy on a 500-question eval set rose from 64% to 83%."
+            },
+            {
+              "skill": "RAG",
+              "evidence": "Built a RAG assistant over 12,000 insurance policy PDFs (ChromaDB, BGE embeddings, an open-weight LLM served with vLLM); answer accuracy on a 500-question eval set rose from 64% to 83%."
+            }
+          ],
+          "gaps": [
+            {
+              "skill": "REST APIs / gRPC",
+              "importance": "required",
+              "severity": "critical",
+              "reason": "Listed as a must-have for this role.",
+              "transferable_from": []
+            },
+            {
+              "skill": "NLP",
+              "importance": "required",
+              "severity": "moderate",
+              "reason": "Listed as a must-have for this role. Partly offset by RAG, LLMs, Transformers.",
+              "transferable_from": [
+                "RAG",
+                "LLMs",
+                "Transformers"
+              ]
+            },
+            {
+              "skill": "CI/CD",
+              "importance": "required",
+              "severity": "moderate",
+              "reason": "Listed as a must-have for this role. Partly offset by Git.",
+              "transferable_from": [
+                "Git"
+              ]
+            },
+            {
+              "skill": "Observability",
+              "importance": "preferred",
+              "severity": "moderate",
+              "reason": "Used in the role's day-to-day responsibilities.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Stakeholder Management",
+              "importance": "preferred",
+              "severity": "moderate",
+              "reason": "Used in the role's day-to-day responsibilities.",
+              "transferable_from": []
+            }
+          ],
+          "fit_score": 68,
+          "fit_rationale": "Covers 83% of required and 33% of preferred skills (partial/undemonstrated at half credit); 75% of must-haves are demonstrated in technical roles; experience below the bar."
+        }
+      },
+      {
+        "step": 3,
+        "name": "Recommendations",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 0,
+        "output": {
+          "recommendations": [
+            {
+              "skill": "REST APIs / gRPC",
+              "action": "(any one of REST APIs, gRPC) Build a small project that uses REST APIs / gRPC the way a Senior Machine Learning Engineer, NLP & LLM Applications would",
+              "type": "project",
+              "resource_hint": "official framework documentation",
+              "effort_weeks": 3.0,
+              "priority": "high"
+            },
+            {
+              "skill": "NLP",
+              "action": "Ship a text-classification or extraction pipeline with error analysis - leverage existing RAG, LLMs experience",
+              "type": "course",
+              "resource_hint": "Hugging Face NLP course",
+              "effort_weeks": 2.5,
+              "priority": "medium"
+            },
+            {
+              "skill": "CI/CD",
+              "action": "Set up a pipeline with tests, linting, build and automated deploy (e.g. GitHub Actions) - leverage existing Git experience",
+              "type": "project",
+              "resource_hint": "GitHub Actions documentation",
+              "effort_weeks": 1.0,
+              "priority": "medium"
+            },
+            {
+              "skill": "Observability",
+              "action": "Define SLIs/SLOs for a service and add metrics, logs, traces and alerting",
+              "type": "reading",
+              "resource_hint": "Google SRE Workbook (SLO chapters)",
+              "effort_weeks": 3.0,
+              "priority": "medium"
+            },
+            {
+              "skill": "Stakeholder Management",
+              "action": "Own a reporting request end to end with a business stakeholder",
+              "type": "on_the_job",
+              "resource_hint": "Shadow a senior analyst / PM",
+              "effort_weeks": 4.0,
+              "priority": "medium"
+            }
+          ],
+          "interview_questions": [
+            "This role relies on REST APIs / gRPC. What exposure have you had to it, and how would you ramp up in your first 60 days?",
+            "You haven't used NLP directly - how would your RAG experience carry over, and what would you need to learn first?",
+            "You haven't used CI/CD directly - how would your Git experience carry over, and what would you need to learn first?",
+            "Walk me through the most complex thing you built with Machine Learning: design choices, trade-offs and measurable results.",
+            "Walk me through the most complex thing you built with Python: design choices, trade-offs and measurable results.",
+            "Walk me through the most complex thing you built with PyTorch: design choices, trade-offs and measurable results."
+          ]
+        }
+      },
+      {
+        "step": 4,
+        "name": "Report synthesis",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 0,
+        "output": {
+          "verdict": "good_match",
+          "headline": "Good match for Senior Machine Learning Engineer, NLP & LLM Applications: strong in Machine Learning, Python, PyTorch",
+          "executive_summary": "Lucas Ferreira (Machine Learning Engineer (LLMs & NLP), 2.1 yrs in technical roles) shows clear evidence of Machine Learning, Python, PyTorch. Critical gaps: REST APIs / gRPC. Partially covered: NLP, CI/CD, Observability, Stakeholder Management. The high/medium-priority plan totals roughly 13.5 weeks of part-time effort. Experience: 2.1 years in technical roles vs 5+ required (3.6 yrs total incl. non-technical roles).",
+          "hiring_recommendation": "Advance with focus areas: probe REST APIs / gRPC, NLP in interview."
+        }
+      }
+    ],
+    "generated_at": "2026-11-15T17:57:28+00:00"
+  },
+  {
+    "job_id": "J01",
+    "resume_id": "R32",
+    "candidate_name": "Nadia Rahman",
+    "job_title": "Senior Machine Learning Engineer, NLP & LLM Applications",
+    "fit_score": 69,
+    "verdict": "good_match",
+    "headline": "Good match for Senior Machine Learning Engineer, NLP & LLM Applications: strong in Machine Learning, Python, PyTorch",
+    "executive_summary": "Nadia Rahman (Senior Machine Learning Engineer, Recommendations & Search, 7.8 yrs in technical roles) shows clear evidence of Machine Learning, Python, PyTorch. Critical gaps: REST APIs / gRPC, CI/CD. Partially covered: NLP, RAG, Observability, Stakeholder Management. The high/medium-priority plan totals roughly 16 weeks of part-time effort. Experience: 7.8 years in technical roles vs 5+ required.",
+    "hiring_recommendation": "Advance with focus areas: probe REST APIs / gRPC, CI/CD in interview.",
+    "experience_fit": "meets",
+    "experience_note": "7.8 years in technical roles vs 5+ required.",
+    "assessments": [
+      {
+        "skill": "Machine Learning",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Used as Senior Machine Learning Engineer, Recommendations at Rantau Marketplace",
+        "transferable_from": []
+      },
+      {
+        "skill": "NLP",
+        "importance": "required",
+        "status": "partial",
+        "evidence": "Transferable experience with LLMs, Transformers",
+        "transferable_from": [
+          "LLMs",
+          "Transformers"
+        ]
+      },
+      {
+        "skill": "Python",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Listed in skills (not named in role bullets; backed by 7.8 yrs of technical experience)",
+        "transferable_from": []
+      },
+      {
+        "skill": "PyTorch",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Designed two-tower retrieval and ranking models in PyTorch for the home feed and similar-items carousels; +6.5% GMV in an A/B test across 4 million users.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Transformers",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Item embeddings combine image features with product-text embeddings from a sentence-transformer fine-tuned on Malay, English and Chinese listings.",
+        "transferable_from": []
+      },
+      {
+        "skill": "LLMs",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Prototyped LLM-generated product title rewrites through a hosted LLM API; offline evaluation only, not shipped.",
+        "transferable_from": []
+      },
+      {
+        "skill": "RAG",
+        "importance": "required",
+        "status": "partial",
+        "evidence": "Transferable experience with LLMs, Transformers, Vector Databases",
+        "transferable_from": [
+          "LLMs",
+          "Transformers",
+          "Vector Databases"
+        ]
+      },
+      {
+        "skill": "Docker / MLOps",
+        "importance": "required",
+        "status": "met",
+        "evidence": "[Docker] Listed in skills (not named in role bullets; backed by 7.8 yrs of technical experience)",
+        "transferable_from": []
+      },
+      {
+        "skill": "REST APIs / gRPC",
+        "importance": "required",
+        "status": "missing",
+        "evidence": "No evidence",
+        "transferable_from": []
+      },
+      {
+        "skill": "CI/CD",
+        "importance": "required",
+        "status": "missing",
+        "evidence": "No evidence",
+        "transferable_from": []
+      },
+      {
+        "skill": "MLOps / MLflow",
+        "importance": "required",
+        "status": "met",
+        "evidence": "[MLflow] Retraining pipelines run in Spark and Airflow with MLflow model registry and shadow deployments.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Vector Databases",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Serve ANN retrieval with GPU FAISS and features from Feast; online inference p99 40 ms.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Kubernetes / SageMaker / Vertex AI",
+        "importance": "preferred",
+        "status": "met",
+        "evidence": "[Kubernetes] Listed in skills (not named in role bullets; backed by 7.8 yrs of technical experience)",
+        "transferable_from": []
+      },
+      {
+        "skill": "Observability",
+        "importance": "preferred",
+        "status": "missing",
+        "evidence": "No evidence",
+        "transferable_from": []
+      },
+      {
+        "skill": "Stakeholder Management",
+        "importance": "preferred",
+        "status": "missing",
+        "evidence": "No evidence",
+        "transferable_from": []
+      }
+    ],
+    "strengths": [
+      {
+        "skill": "Machine Learning",
+        "evidence": "Used as Senior Machine Learning Engineer, Recommendations at Rantau Marketplace"
+      },
+      {
+        "skill": "Python",
+        "evidence": "Listed in skills (not named in role bullets; backed by 7.8 yrs of technical experience)"
+      },
+      {
+        "skill": "PyTorch",
+        "evidence": "Designed two-tower retrieval and ranking models in PyTorch for the home feed and similar-items carousels; +6.5% GMV in an A/B test across 4 million users."
+      },
+      {
+        "skill": "Transformers",
+        "evidence": "Item embeddings combine image features with product-text embeddings from a sentence-transformer fine-tuned on Malay, English and Chinese listings."
+      },
+      {
+        "skill": "LLMs",
+        "evidence": "Prototyped LLM-generated product title rewrites through a hosted LLM API; offline evaluation only, not shipped."
+      },
+      {
+        "skill": "Docker / MLOps",
+        "evidence": "[Docker] Listed in skills (not named in role bullets; backed by 7.8 yrs of technical experience)"
+      }
+    ],
+    "gaps": [
+      {
+        "skill": "REST APIs / gRPC",
+        "importance": "required",
+        "severity": "critical",
+        "reason": "Listed as a must-have for this role.",
+        "transferable_from": []
+      },
+      {
+        "skill": "CI/CD",
+        "importance": "required",
+        "severity": "critical",
+        "reason": "Listed as a must-have for this role.",
+        "transferable_from": []
+      },
+      {
+        "skill": "NLP",
+        "importance": "required",
+        "severity": "moderate",
+        "reason": "Listed as a must-have for this role. Partly offset by LLMs, Transformers.",
+        "transferable_from": [
+          "LLMs",
+          "Transformers"
+        ]
+      },
+      {
+        "skill": "RAG",
+        "importance": "required",
+        "severity": "moderate",
+        "reason": "Listed as a must-have for this role. Partly offset by LLMs, Transformers, Vector Databases.",
+        "transferable_from": [
+          "LLMs",
+          "Transformers",
+          "Vector Databases"
+        ]
+      },
+      {
+        "skill": "Observability",
+        "importance": "preferred",
+        "severity": "moderate",
+        "reason": "Used in the role's day-to-day responsibilities.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Stakeholder Management",
+        "importance": "preferred",
+        "severity": "moderate",
+        "reason": "Used in the role's day-to-day responsibilities.",
+        "transferable_from": []
+      }
+    ],
+    "recommendations": [
+      {
+        "skill": "REST APIs / gRPC",
+        "action": "(any one of REST APIs, gRPC) Build a small project that uses REST APIs / gRPC the way a Senior Machine Learning Engineer, NLP & LLM Applications would",
+        "type": "project",
+        "resource_hint": "official framework documentation",
+        "effort_weeks": 3.0,
+        "priority": "high"
+      },
+      {
+        "skill": "CI/CD",
+        "action": "Set up a pipeline with tests, linting, build and automated deploy (e.g. GitHub Actions)",
+        "type": "project",
+        "resource_hint": "GitHub Actions documentation",
+        "effort_weeks": 2.0,
+        "priority": "high"
+      },
+      {
+        "skill": "NLP",
+        "action": "Ship a text-classification or extraction pipeline with error analysis - leverage existing LLMs, Transformers experience",
+        "type": "course",
+        "resource_hint": "Hugging Face NLP course",
+        "effort_weeks": 2.5,
+        "priority": "medium"
+      },
+      {
+        "skill": "RAG",
+        "action": "Build a retrieval-augmented QA app with chunking, a vector index and an eval set - leverage existing LLMs, Transformers experience",
+        "type": "project",
+        "resource_hint": "LangChain / LlamaIndex RAG tutorials",
+        "effort_weeks": 1.5,
+        "priority": "medium"
+      },
+      {
+        "skill": "Observability",
+        "action": "Define SLIs/SLOs for a service and add metrics, logs, traces and alerting",
+        "type": "reading",
+        "resource_hint": "Google SRE Workbook (SLO chapters)",
+        "effort_weeks": 3.0,
+        "priority": "medium"
+      },
+      {
+        "skill": "Stakeholder Management",
+        "action": "Own a reporting request end to end with a business stakeholder",
+        "type": "on_the_job",
+        "resource_hint": "Shadow a senior analyst / PM",
+        "effort_weeks": 4.0,
+        "priority": "medium"
+      }
+    ],
+    "interview_questions": [
+      "This role relies on REST APIs / gRPC. What exposure have you had to it, and how would you ramp up in your first 60 days?",
+      "This role relies on CI/CD. What exposure have you had to it, and how would you ramp up in your first 60 days?",
+      "You haven't used NLP directly - how would your LLMs experience carry over, and what would you need to learn first?",
+      "Walk me through the most complex thing you built with Machine Learning: design choices, trade-offs and measurable results.",
+      "Walk me through the most complex thing you built with Python: design choices, trade-offs and measurable results.",
+      "Walk me through the most complex thing you built with PyTorch: design choices, trade-offs and measurable results."
+    ],
+    "chain_trace": [
+      {
+        "step": 1,
+        "name": "Requirement alignment",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 140,
+        "output": {
+          "assessments": [
+            {
+              "skill": "Machine Learning",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Used as Senior Machine Learning Engineer, Recommendations at Rantau Marketplace",
+              "transferable_from": []
+            },
+            {
+              "skill": "NLP",
+              "importance": "required",
+              "status": "partial",
+              "evidence": "Transferable experience with LLMs, Transformers",
+              "transferable_from": [
+                "LLMs",
+                "Transformers"
+              ]
+            },
+            {
+              "skill": "Python",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Listed in skills (not named in role bullets; backed by 7.8 yrs of technical experience)",
+              "transferable_from": []
+            },
+            {
+              "skill": "PyTorch",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Designed two-tower retrieval and ranking models in PyTorch for the home feed and similar-items carousels; +6.5% GMV in an A/B test across 4 million users.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Transformers",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Item embeddings combine image features with product-text embeddings from a sentence-transformer fine-tuned on Malay, English and Chinese listings.",
+              "transferable_from": []
+            },
+            {
+              "skill": "LLMs",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Prototyped LLM-generated product title rewrites through a hosted LLM API; offline evaluation only, not shipped.",
+              "transferable_from": []
+            },
+            {
+              "skill": "RAG",
+              "importance": "required",
+              "status": "partial",
+              "evidence": "Transferable experience with LLMs, Transformers, Vector Databases",
+              "transferable_from": [
+                "LLMs",
+                "Transformers",
+                "Vector Databases"
+              ]
+            },
+            {
+              "skill": "Docker / MLOps",
+              "importance": "required",
+              "status": "met",
+              "evidence": "[Docker] Listed in skills (not named in role bullets; backed by 7.8 yrs of technical experience)",
+              "transferable_from": []
+            },
+            {
+              "skill": "REST APIs / gRPC",
+              "importance": "required",
+              "status": "missing",
+              "evidence": "No evidence",
+              "transferable_from": []
+            },
+            {
+              "skill": "CI/CD",
+              "importance": "required",
+              "status": "missing",
+              "evidence": "No evidence",
+              "transferable_from": []
+            },
+            {
+              "skill": "MLOps / MLflow",
+              "importance": "required",
+              "status": "met",
+              "evidence": "[MLflow] Retraining pipelines run in Spark and Airflow with MLflow model registry and shadow deployments.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Vector Databases",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Serve ANN retrieval with GPU FAISS and features from Feast; online inference p99 40 ms.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Kubernetes / SageMaker / Vertex AI",
+              "importance": "preferred",
+              "status": "met",
+              "evidence": "[Kubernetes] Listed in skills (not named in role bullets; backed by 7.8 yrs of technical experience)",
+              "transferable_from": []
+            },
+            {
+              "skill": "Observability",
+              "importance": "preferred",
+              "status": "missing",
+              "evidence": "No evidence",
+              "transferable_from": []
+            },
+            {
+              "skill": "Stakeholder Management",
+              "importance": "preferred",
+              "status": "missing",
+              "evidence": "No evidence",
+              "transferable_from": []
+            }
+          ],
+          "experience_fit": "meets",
+          "experience_note": "7.8 years in technical roles vs 5+ required."
+        }
+      },
+      {
+        "step": 2,
+        "name": "Gap prioritisation",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 7,
+        "output": {
+          "strengths": [
+            {
+              "skill": "Machine Learning",
+              "evidence": "Used as Senior Machine Learning Engineer, Recommendations at Rantau Marketplace"
+            },
+            {
+              "skill": "Python",
+              "evidence": "Listed in skills (not named in role bullets; backed by 7.8 yrs of technical experience)"
+            },
+            {
+              "skill": "PyTorch",
+              "evidence": "Designed two-tower retrieval and ranking models in PyTorch for the home feed and similar-items carousels; +6.5% GMV in an A/B test across 4 million users."
+            },
+            {
+              "skill": "Transformers",
+              "evidence": "Item embeddings combine image features with product-text embeddings from a sentence-transformer fine-tuned on Malay, English and Chinese listings."
+            },
+            {
+              "skill": "LLMs",
+              "evidence": "Prototyped LLM-generated product title rewrites through a hosted LLM API; offline evaluation only, not shipped."
+            },
+            {
+              "skill": "Docker / MLOps",
+              "evidence": "[Docker] Listed in skills (not named in role bullets; backed by 7.8 yrs of technical experience)"
+            }
+          ],
+          "gaps": [
+            {
+              "skill": "REST APIs / gRPC",
+              "importance": "required",
+              "severity": "critical",
+              "reason": "Listed as a must-have for this role.",
+              "transferable_from": []
+            },
+            {
+              "skill": "CI/CD",
+              "importance": "required",
+              "severity": "critical",
+              "reason": "Listed as a must-have for this role.",
+              "transferable_from": []
+            },
+            {
+              "skill": "NLP",
+              "importance": "required",
+              "severity": "moderate",
+              "reason": "Listed as a must-have for this role. Partly offset by LLMs, Transformers.",
+              "transferable_from": [
+                "LLMs",
+                "Transformers"
+              ]
+            },
+            {
+              "skill": "RAG",
+              "importance": "required",
+              "severity": "moderate",
+              "reason": "Listed as a must-have for this role. Partly offset by LLMs, Transformers, Vector Databases.",
+              "transferable_from": [
+                "LLMs",
+                "Transformers",
+                "Vector Databases"
+              ]
+            },
+            {
+              "skill": "Observability",
+              "importance": "preferred",
+              "severity": "moderate",
+              "reason": "Used in the role's day-to-day responsibilities.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Stakeholder Management",
+              "importance": "preferred",
+              "severity": "moderate",
+              "reason": "Used in the role's day-to-day responsibilities.",
+              "transferable_from": []
+            }
+          ],
+          "fit_score": 69,
+          "fit_rationale": "Covers 75% of required and 33% of preferred skills (partial/undemonstrated at half credit); 67% of must-haves are demonstrated in technical roles; experience meets the bar."
+        }
+      },
+      {
+        "step": 3,
+        "name": "Recommendations",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 0,
+        "output": {
+          "recommendations": [
+            {
+              "skill": "REST APIs / gRPC",
+              "action": "(any one of REST APIs, gRPC) Build a small project that uses REST APIs / gRPC the way a Senior Machine Learning Engineer, NLP & LLM Applications would",
+              "type": "project",
+              "resource_hint": "official framework documentation",
+              "effort_weeks": 3.0,
+              "priority": "high"
+            },
+            {
+              "skill": "CI/CD",
+              "action": "Set up a pipeline with tests, linting, build and automated deploy (e.g. GitHub Actions)",
+              "type": "project",
+              "resource_hint": "GitHub Actions documentation",
+              "effort_weeks": 2.0,
+              "priority": "high"
+            },
+            {
+              "skill": "NLP",
+              "action": "Ship a text-classification or extraction pipeline with error analysis - leverage existing LLMs, Transformers experience",
+              "type": "course",
+              "resource_hint": "Hugging Face NLP course",
+              "effort_weeks": 2.5,
+              "priority": "medium"
+            },
+            {
+              "skill": "RAG",
+              "action": "Build a retrieval-augmented QA app with chunking, a vector index and an eval set - leverage existing LLMs, Transformers experience",
+              "type": "project",
+              "resource_hint": "LangChain / LlamaIndex RAG tutorials",
+              "effort_weeks": 1.5,
+              "priority": "medium"
+            },
+            {
+              "skill": "Observability",
+              "action": "Define SLIs/SLOs for a service and add metrics, logs, traces and alerting",
+              "type": "reading",
+              "resource_hint": "Google SRE Workbook (SLO chapters)",
+              "effort_weeks": 3.0,
+              "priority": "medium"
+            },
+            {
+              "skill": "Stakeholder Management",
+              "action": "Own a reporting request end to end with a business stakeholder",
+              "type": "on_the_job",
+              "resource_hint": "Shadow a senior analyst / PM",
+              "effort_weeks": 4.0,
+              "priority": "medium"
+            }
+          ],
+          "interview_questions": [
+            "This role relies on REST APIs / gRPC. What exposure have you had to it, and how would you ramp up in your first 60 days?",
+            "This role relies on CI/CD. What exposure have you had to it, and how would you ramp up in your first 60 days?",
+            "You haven't used NLP directly - how would your LLMs experience carry over, and what would you need to learn first?",
+            "Walk me through the most complex thing you built with Machine Learning: design choices, trade-offs and measurable results.",
+            "Walk me through the most complex thing you built with Python: design choices, trade-offs and measurable results.",
+            "Walk me through the most complex thing you built with PyTorch: design choices, trade-offs and measurable results."
+          ]
+        }
+      },
+      {
+        "step": 4,
+        "name": "Report synthesis",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 0,
+        "output": {
+          "verdict": "good_match",
+          "headline": "Good match for Senior Machine Learning Engineer, NLP & LLM Applications: strong in Machine Learning, Python, PyTorch",
+          "executive_summary": "Nadia Rahman (Senior Machine Learning Engineer, Recommendations & Search, 7.8 yrs in technical roles) shows clear evidence of Machine Learning, Python, PyTorch. Critical gaps: REST APIs / gRPC, CI/CD. Partially covered: NLP, RAG, Observability, Stakeholder Management. The high/medium-priority plan totals roughly 16 weeks of part-time effort. Experience: 7.8 years in technical roles vs 5+ required.",
+          "hiring_recommendation": "Advance with focus areas: probe REST APIs / gRPC, CI/CD in interview."
+        }
+      }
+    ],
+    "generated_at": "2026-11-15T17:57:28+00:00"
+  },
+  {
+    "job_id": "J01",
+    "resume_id": "R19",
+    "candidate_name": "David Goldberg",
+    "job_title": "Senior Machine Learning Engineer, NLP & LLM Applications",
+    "fit_score": 75,
+    "verdict": "good_match",
+    "headline": "Good match for Senior Machine Learning Engineer, NLP & LLM Applications: strong in Machine Learning, NLP, Python",
+    "executive_summary": "David Goldberg (Director of Machine Learning, 12.8 yrs in technical roles) shows clear evidence of Machine Learning, NLP, Python. Critical gaps: REST APIs / gRPC, CI/CD. Partially covered: RAG, Vector Databases, Observability. The high/medium-priority plan totals roughly 11.5 weeks of part-time effort. Experience: 12.8 years in technical roles vs 5+ required.",
+    "hiring_recommendation": "Advance with focus areas: probe REST APIs / gRPC, CI/CD in interview.",
+    "experience_fit": "exceeds",
+    "experience_note": "12.8 years in technical roles vs 5+ required.",
+    "assessments": [
+      {
+        "skill": "Machine Learning",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Used as Director of Machine Learning at Hudson Health Analytics",
+        "transferable_from": []
+      },
+      {
+        "skill": "NLP",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Used as Staff ML Engineer / NLP Tech Lead at Talkwell Systems",
+        "transferable_from": []
+      },
+      {
+        "skill": "Python",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Listed in skills (not named in role bullets; backed by 12.8 yrs of technical experience)",
+        "transferable_from": []
+      },
+      {
+        "skill": "PyTorch",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Built BERT-based intent classification and entity extraction pipelines in PyTorch for enterprise chatbots in six languages.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Transformers",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Built BERT-based intent classification and entity extraction pipelines in PyTorch for enterprise chatbots in six languages.",
+        "transferable_from": []
+      },
+      {
+        "skill": "LLMs",
+        "importance": "required",
+        "status": "met",
+        "evidence": "Set the strategy that brought LLM-based summarisation of clinical notes to market; secured a $4M budget and ran the vendor evaluation between hosted LLM APIs and self-hosted open-weight models.",
+        "transferable_from": []
+      },
+      {
+        "skill": "RAG",
+        "importance": "required",
+        "status": "partial",
+        "evidence": "Transferable experience with LLMs, NLP, Transformers",
+        "transferable_from": [
+          "LLMs",
+          "NLP",
+          "Transformers"
+        ]
+      },
+      {
+        "skill": "Docker / MLOps",
+        "importance": "required",
+        "status": "met",
+        "evidence": "[Docker] Deployed models as Docker services on Kubernetes with MLflow tracking; cut model release time from weeks to days.",
+        "transferable_from": []
+      },
+      {
+        "skill": "REST APIs / gRPC",
+        "importance": "required",
+        "status": "missing",
+        "evidence": "No evidence",
+        "transferable_from": []
+      },
+      {
+        "skill": "CI/CD",
+        "importance": "required",
+        "status": "missing",
+        "evidence": "No evidence",
+        "transferable_from": []
+      },
+      {
+        "skill": "MLOps / MLflow",
+        "importance": "required",
+        "status": "met",
+        "evidence": "[MLOps] Listed in skills (not named in role bullets; backed by 12.8 yrs of technical experience)",
+        "transferable_from": []
+      },
+      {
+        "skill": "Vector Databases",
+        "importance": "required",
+        "status": "partial",
+        "evidence": "Transferable experience with LLMs, Transformers",
+        "transferable_from": [
+          "LLMs",
+          "Transformers"
+        ]
+      },
+      {
+        "skill": "Kubernetes / SageMaker / Vertex AI",
+        "importance": "preferred",
+        "status": "met",
+        "evidence": "[Kubernetes] Deployed models as Docker services on Kubernetes with MLflow tracking; cut model release time from weeks to days.",
+        "transferable_from": []
+      },
+      {
+        "skill": "Observability",
+        "importance": "preferred",
+        "status": "missing",
+        "evidence": "No evidence",
+        "transferable_from": []
+      },
+      {
+        "skill": "Stakeholder Management",
+        "importance": "preferred",
+        "status": "met",
+        "evidence": "Listed in skills (not named in role bullets; backed by 12.8 yrs of technical experience)",
+        "transferable_from": []
+      }
+    ],
+    "strengths": [
+      {
+        "skill": "Machine Learning",
+        "evidence": "Used as Director of Machine Learning at Hudson Health Analytics"
+      },
+      {
+        "skill": "NLP",
+        "evidence": "Used as Staff ML Engineer / NLP Tech Lead at Talkwell Systems"
+      },
+      {
+        "skill": "Python",
+        "evidence": "Listed in skills (not named in role bullets; backed by 12.8 yrs of technical experience)"
+      },
+      {
+        "skill": "PyTorch",
+        "evidence": "Built BERT-based intent classification and entity extraction pipelines in PyTorch for enterprise chatbots in six languages."
+      },
+      {
+        "skill": "Transformers",
+        "evidence": "Built BERT-based intent classification and entity extraction pipelines in PyTorch for enterprise chatbots in six languages."
+      },
+      {
+        "skill": "LLMs",
+        "evidence": "Set the strategy that brought LLM-based summarisation of clinical notes to market; secured a $4M budget and ran the vendor evaluation between hosted LLM APIs and self-hosted open-weight models."
+      }
+    ],
+    "gaps": [
+      {
+        "skill": "REST APIs / gRPC",
+        "importance": "required",
+        "severity": "critical",
+        "reason": "Listed as a must-have for this role.",
+        "transferable_from": []
+      },
+      {
+        "skill": "CI/CD",
+        "importance": "required",
+        "severity": "critical",
+        "reason": "Listed as a must-have for this role.",
+        "transferable_from": []
+      },
+      {
+        "skill": "RAG",
+        "importance": "required",
+        "severity": "moderate",
+        "reason": "Listed as a must-have for this role. Partly offset by LLMs, NLP, Transformers.",
+        "transferable_from": [
+          "LLMs",
+          "NLP",
+          "Transformers"
+        ]
+      },
+      {
+        "skill": "Vector Databases",
+        "importance": "required",
+        "severity": "moderate",
+        "reason": "Listed as a must-have for this role. Partly offset by LLMs, Transformers.",
+        "transferable_from": [
+          "LLMs",
+          "Transformers"
+        ]
+      },
+      {
+        "skill": "Observability",
+        "importance": "preferred",
+        "severity": "moderate",
+        "reason": "Used in the role's day-to-day responsibilities.",
+        "transferable_from": []
+      }
+    ],
+    "recommendations": [
+      {
+        "skill": "REST APIs / gRPC",
+        "action": "(any one of REST APIs, gRPC) Build a small project that uses REST APIs / gRPC the way a Senior Machine Learning Engineer, NLP & LLM Applications would",
+        "type": "project",
+        "resource_hint": "official framework documentation",
+        "effort_weeks": 3.0,
+        "priority": "high"
+      },
+      {
+        "skill": "CI/CD",
+        "action": "Set up a pipeline with tests, linting, build and automated deploy (e.g. GitHub Actions)",
+        "type": "project",
+        "resource_hint": "GitHub Actions documentation",
+        "effort_weeks": 2.0,
+        "priority": "high"
+      },
+      {
+        "skill": "RAG",
+        "action": "Build a retrieval-augmented QA app with chunking, a vector index and an eval set - leverage existing LLMs, NLP experience",
+        "type": "project",
+        "resource_hint": "LangChain / LlamaIndex RAG tutorials",
+        "effort_weeks": 1.5,
+        "priority": "medium"
+      },
+      {
+        "skill": "Vector Databases",
+        "action": "Build a small project that uses Vector Databases the way a Senior Machine Learning Engineer, NLP & LLM Applications would - leverage existing LLMs, Transformers experience",
+        "type": "course",
+        "resource_hint": "a reputable ML course plus a portfolio project",
+        "effort_weeks": 2.0,
+        "priority": "medium"
+      },
+      {
+        "skill": "Observability",
+        "action": "Define SLIs/SLOs for a service and add metrics, logs, traces and alerting",
+        "type": "reading",
+        "resource_hint": "Google SRE Workbook (SLO chapters)",
+        "effort_weeks": 3.0,
+        "priority": "medium"
+      }
+    ],
+    "interview_questions": [
+      "This role relies on REST APIs / gRPC. What exposure have you had to it, and how would you ramp up in your first 60 days?",
+      "This role relies on CI/CD. What exposure have you had to it, and how would you ramp up in your first 60 days?",
+      "You haven't used RAG directly - how would your LLMs experience carry over, and what would you need to learn first?",
+      "Walk me through the most complex thing you built with Machine Learning: design choices, trade-offs and measurable results.",
+      "Walk me through the most complex thing you built with NLP: design choices, trade-offs and measurable results.",
+      "Walk me through the most complex thing you built with Python: design choices, trade-offs and measurable results."
+    ],
+    "chain_trace": [
+      {
+        "step": 1,
+        "name": "Requirement alignment",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 162,
+        "output": {
+          "assessments": [
+            {
+              "skill": "Machine Learning",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Used as Director of Machine Learning at Hudson Health Analytics",
+              "transferable_from": []
+            },
+            {
+              "skill": "NLP",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Used as Staff ML Engineer / NLP Tech Lead at Talkwell Systems",
+              "transferable_from": []
+            },
+            {
+              "skill": "Python",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Listed in skills (not named in role bullets; backed by 12.8 yrs of technical experience)",
+              "transferable_from": []
+            },
+            {
+              "skill": "PyTorch",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Built BERT-based intent classification and entity extraction pipelines in PyTorch for enterprise chatbots in six languages.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Transformers",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Built BERT-based intent classification and entity extraction pipelines in PyTorch for enterprise chatbots in six languages.",
+              "transferable_from": []
+            },
+            {
+              "skill": "LLMs",
+              "importance": "required",
+              "status": "met",
+              "evidence": "Set the strategy that brought LLM-based summarisation of clinical notes to market; secured a $4M budget and ran the vendor evaluation between hosted LLM APIs and self-hosted open-weight models.",
+              "transferable_from": []
+            },
+            {
+              "skill": "RAG",
+              "importance": "required",
+              "status": "partial",
+              "evidence": "Transferable experience with LLMs, NLP, Transformers",
+              "transferable_from": [
+                "LLMs",
+                "NLP",
+                "Transformers"
+              ]
+            },
+            {
+              "skill": "Docker / MLOps",
+              "importance": "required",
+              "status": "met",
+              "evidence": "[Docker] Deployed models as Docker services on Kubernetes with MLflow tracking; cut model release time from weeks to days.",
+              "transferable_from": []
+            },
+            {
+              "skill": "REST APIs / gRPC",
+              "importance": "required",
+              "status": "missing",
+              "evidence": "No evidence",
+              "transferable_from": []
+            },
+            {
+              "skill": "CI/CD",
+              "importance": "required",
+              "status": "missing",
+              "evidence": "No evidence",
+              "transferable_from": []
+            },
+            {
+              "skill": "MLOps / MLflow",
+              "importance": "required",
+              "status": "met",
+              "evidence": "[MLOps] Listed in skills (not named in role bullets; backed by 12.8 yrs of technical experience)",
+              "transferable_from": []
+            },
+            {
+              "skill": "Vector Databases",
+              "importance": "required",
+              "status": "partial",
+              "evidence": "Transferable experience with LLMs, Transformers",
+              "transferable_from": [
+                "LLMs",
+                "Transformers"
+              ]
+            },
+            {
+              "skill": "Kubernetes / SageMaker / Vertex AI",
+              "importance": "preferred",
+              "status": "met",
+              "evidence": "[Kubernetes] Deployed models as Docker services on Kubernetes with MLflow tracking; cut model release time from weeks to days.",
+              "transferable_from": []
+            },
+            {
+              "skill": "Observability",
+              "importance": "preferred",
+              "status": "missing",
+              "evidence": "No evidence",
+              "transferable_from": []
+            },
+            {
+              "skill": "Stakeholder Management",
+              "importance": "preferred",
+              "status": "met",
+              "evidence": "Listed in skills (not named in role bullets; backed by 12.8 yrs of technical experience)",
+              "transferable_from": []
+            }
+          ],
+          "experience_fit": "exceeds",
+          "experience_note": "12.8 years in technical roles vs 5+ required."
+        }
+      },
+      {
+        "step": 2,
+        "name": "Gap prioritisation",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 7,
+        "output": {
+          "strengths": [
+            {
+              "skill": "Machine Learning",
+              "evidence": "Used as Director of Machine Learning at Hudson Health Analytics"
+            },
+            {
+              "skill": "NLP",
+              "evidence": "Used as Staff ML Engineer / NLP Tech Lead at Talkwell Systems"
+            },
+            {
+              "skill": "Python",
+              "evidence": "Listed in skills (not named in role bullets; backed by 12.8 yrs of technical experience)"
+            },
+            {
+              "skill": "PyTorch",
+              "evidence": "Built BERT-based intent classification and entity extraction pipelines in PyTorch for enterprise chatbots in six languages."
+            },
+            {
+              "skill": "Transformers",
+              "evidence": "Built BERT-based intent classification and entity extraction pipelines in PyTorch for enterprise chatbots in six languages."
+            },
+            {
+              "skill": "LLMs",
+              "evidence": "Set the strategy that brought LLM-based summarisation of clinical notes to market; secured a $4M budget and ran the vendor evaluation between hosted LLM APIs and self-hosted open-weight models."
+            }
+          ],
+          "gaps": [
+            {
+              "skill": "REST APIs / gRPC",
+              "importance": "required",
+              "severity": "critical",
+              "reason": "Listed as a must-have for this role.",
+              "transferable_from": []
+            },
+            {
+              "skill": "CI/CD",
+              "importance": "required",
+              "severity": "critical",
+              "reason": "Listed as a must-have for this role.",
+              "transferable_from": []
+            },
+            {
+              "skill": "RAG",
+              "importance": "required",
+              "severity": "moderate",
+              "reason": "Listed as a must-have for this role. Partly offset by LLMs, NLP, Transformers.",
+              "transferable_from": [
+                "LLMs",
+                "NLP",
+                "Transformers"
+              ]
+            },
+            {
+              "skill": "Vector Databases",
+              "importance": "required",
+              "severity": "moderate",
+              "reason": "Listed as a must-have for this role. Partly offset by LLMs, Transformers.",
+              "transferable_from": [
+                "LLMs",
+                "Transformers"
+              ]
+            },
+            {
+              "skill": "Observability",
+              "importance": "preferred",
+              "severity": "moderate",
+              "reason": "Used in the role's day-to-day responsibilities.",
+              "transferable_from": []
+            }
+          ],
+          "fit_score": 75,
+          "fit_rationale": "Covers 75% of required and 67% of preferred skills (partial/undemonstrated at half credit); 67% of must-haves are demonstrated in technical roles; experience exceeds the bar."
+        }
+      },
+      {
+        "step": 3,
+        "name": "Recommendations",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 0,
+        "output": {
+          "recommendations": [
+            {
+              "skill": "REST APIs / gRPC",
+              "action": "(any one of REST APIs, gRPC) Build a small project that uses REST APIs / gRPC the way a Senior Machine Learning Engineer, NLP & LLM Applications would",
+              "type": "project",
+              "resource_hint": "official framework documentation",
+              "effort_weeks": 3.0,
+              "priority": "high"
+            },
+            {
+              "skill": "CI/CD",
+              "action": "Set up a pipeline with tests, linting, build and automated deploy (e.g. GitHub Actions)",
+              "type": "project",
+              "resource_hint": "GitHub Actions documentation",
+              "effort_weeks": 2.0,
+              "priority": "high"
+            },
+            {
+              "skill": "RAG",
+              "action": "Build a retrieval-augmented QA app with chunking, a vector index and an eval set - leverage existing LLMs, NLP experience",
+              "type": "project",
+              "resource_hint": "LangChain / LlamaIndex RAG tutorials",
+              "effort_weeks": 1.5,
+              "priority": "medium"
+            },
+            {
+              "skill": "Vector Databases",
+              "action": "Build a small project that uses Vector Databases the way a Senior Machine Learning Engineer, NLP & LLM Applications would - leverage existing LLMs, Transformers experience",
+              "type": "course",
+              "resource_hint": "a reputable ML course plus a portfolio project",
+              "effort_weeks": 2.0,
+              "priority": "medium"
+            },
+            {
+              "skill": "Observability",
+              "action": "Define SLIs/SLOs for a service and add metrics, logs, traces and alerting",
+              "type": "reading",
+              "resource_hint": "Google SRE Workbook (SLO chapters)",
+              "effort_weeks": 3.0,
+              "priority": "medium"
+            }
+          ],
+          "interview_questions": [
+            "This role relies on REST APIs / gRPC. What exposure have you had to it, and how would you ramp up in your first 60 days?",
+            "This role relies on CI/CD. What exposure have you had to it, and how would you ramp up in your first 60 days?",
+            "You haven't used RAG directly - how would your LLMs experience carry over, and what would you need to learn first?",
+            "Walk me through the most complex thing you built with Machine Learning: design choices, trade-offs and measurable results.",
+            "Walk me through the most complex thing you built with NLP: design choices, trade-offs and measurable results.",
+            "Walk me through the most complex thing you built with Python: design choices, trade-offs and measurable results."
+          ]
+        }
+      },
+      {
+        "step": 4,
+        "name": "Report synthesis",
+        "mode": "offline",
+        "model": null,
+        "latency_ms": 0,
+        "output": {
+          "verdict": "good_match",
+          "headline": "Good match for Senior Machine Learning Engineer, NLP & LLM Applications: strong in Machine Learning, NLP, Python",
+          "executive_summary": "David Goldberg (Director of Machine Learning, 12.8 yrs in technical roles) shows clear evidence of Machine Learning, NLP, Python. Critical gaps: REST APIs / gRPC, CI/CD. Partially covered: RAG, Vector Databases, Observability. The high/medium-priority plan totals roughly 11.5 weeks of part-time effort. Experience: 12.8 years in technical roles vs 5+ required.",
+          "hiring_recommendation": "Advance with focus areas: probe REST APIs / gRPC, CI/CD in interview."
+        }
+      }
+    ],
+    "generated_at": "2026-11-15T17:57:28+00:00"
+  }
+]

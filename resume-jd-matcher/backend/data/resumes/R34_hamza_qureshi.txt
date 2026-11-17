@@ -1,0 +1,33 @@
+Hamza Qureshi
+hamza.qureshi@example.com | +92-555-0244 | Lahore, Pakistan
+Graduate Machine Learning Engineer — LLMs & RAG
+
+Education
+BS Computer Science, Lahore University of Management Sciences (LUMS), 2026
+- Final-year project: Urdu–English news summariser built on mT5 (grade A).
+- Coursework: Deep Learning, Natural Language Processing, Information Retrieval, Distributed Systems.
+
+Skills
+Python, PyTorch, Hugging Face Transformers, PEFT/LoRA, LangChain, ChromaDB, FAISS, sentence-transformers, FastAPI, Docker, MLflow, SQL, Git, Linux
+
+Experience
+Graduate Machine Learning Engineer, Indus Lex AI (legal-tech startup)
+Sep 2026 – Present
+- Rejoined the team after my internship; currently extending the judgment-search prototype to statutes.
+
+Machine Learning Engineering Intern, Indus Lex AI
+Jun 2025 – Aug 2025
+- Built a RAG prototype over 3,000 court judgments with LangChain, ChromaDB and BGE embeddings; answer accuracy on a 150-question set rose from 58% to 76%.
+- Fine-tuned a 1B-parameter open LLM with LoRA (Hugging Face PEFT) to write case summaries; tracked all runs in MLflow.
+- Wrapped the model in a FastAPI service in Docker for an internal demo to the founders.
+
+Teaching Assistant, Machine Learning, LUMS
+Jan 2026 – May 2026
+- Ran weekly labs for 120 students and wrote autograded PyTorch assignments.
+
+Projects
+- Kaggle LLM science exam competition: top 15% with a retrieval-plus-reranker pipeline.
+- Built a small evaluation script that scores RAG answers for citation coverage; shared on GitHub.
+
+Certifications
+DeepLearning.AI Natural Language Processing Specialization (2024)

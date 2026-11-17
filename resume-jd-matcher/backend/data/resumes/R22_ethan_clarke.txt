@@ -1,0 +1,29 @@
+Ethan Clarke
+ethan.clarke@example.com | +44-555-0199 | Manchester, UK
+Full-Stack Developer & AI/ML Engineer | Cloud | DevOps | Mobile | Data
+
+Summary
+Motivated graduate of a 12-week immersive coding bootcamp, passionate about AI, cloud-native infrastructure, mobile apps and big data. Ready to hit the ground running and add value from day one in a fast-paced team.
+
+Technical Skills
+Python, JavaScript, TypeScript, Go, React, React Native, Node.js, Express, Next.js, PyTorch, TensorFlow, LLMs, LangChain, RAG, Hugging Face, Kubernetes, Docker, Terraform, AWS, GCP, Spark, Kafka, Airflow, Snowflake, PostgreSQL, MongoDB, gRPC, Microservices, CI/CD, Prometheus, Tableau, Power BI
+
+Projects
+- TaskTide: to-do list web app built with React, Node.js/Express and MongoDB in a team of three (bootcamp capstone).
+- WeatherNow: weather app made with React Native and Expo Go by following an online tutorial; runs in the Expo Go client and was not published.
+- Chatbot: personal script that sends questions to a hosted LLM API, based on a YouTube tutorial.
+
+Experience
+Software Engineering Bootcamp Student, CodeForge Academy (12-week full-time programme)
+Jun 2026 – Aug 2026
+- Completed modules on HTML/CSS, JavaScript, React, Node.js and MongoDB.
+- Completed short tutorial units on Docker and an introduction to machine learning (scikit-learn on the Titanic dataset).
+
+Assistant Store Manager, Northern Outdoor Retail
+2019 - 2026
+- Managed the rota and training for a team of 12 staff in a busy city-centre store.
+- Entered weekly sales figures into head office's Excel template and handled stock ordering.
+- Store won the regional customer service award in 2023.
+
+Education
+BA (Hons) History, University of Salford, 2019

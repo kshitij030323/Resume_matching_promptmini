@@ -1,0 +1,28 @@
+Lucas Ferreira
+lucas.ferreira@example.com | +55-555-0171 | São Paulo, Brazil
+Machine Learning Engineer (LLMs & NLP)
+
+Summary
+Machine learning engineer with two years of full-time industry experience plus 18 months of NLP research during my degree. I build LLMs-based retrieval and evaluation systems for Portuguese-language documents and take them all the way to production.
+
+Skills
+Python, PyTorch, Hugging Face Transformers, PEFT/LoRA, LangChain, LlamaIndex, ChromaDB, pgvector, FastAPI, Docker, Kubernetes (basic), MLflow, Weights & Biases, SQL, Git
+
+Experience
+Machine Learning Engineer, Tucano Seguros (insurtech)
+Oct 2024 – Present
+- Built a RAG assistant over 12,000 insurance policy PDFs (ChromaDB, BGE embeddings, an open-weight LLM served with vLLM); answer accuracy on a 500-question eval set rose from 64% to 83%.
+- Fine-tuned a Portuguese BERT-style model for claim triage (macro-F1 0.87) and deployed it behind FastAPI in Docker on the company's Kubernetes cluster.
+- Built the team's LLM evaluation harness (LLM-as-judge plus weekly human spot checks), with every run tracked in MLflow.
+- Reduced hallucinated policy citations by 70% by adding a passage-grounding check before answers are shown.
+
+ML Research Intern, NLP Lab, University of São Paulo
+Jan 2023 – Jul 2024
+- Researched LoRA fine-tuning of open LLMs for Portuguese legal summarisation; co-authored a workshop paper.
+- Built data-cleaning pipelines for a 2-million-document legal corpus.
+
+Projects
+- ptbr-rag-eval: open-source toolkit for evaluating Portuguese RAG systems (400 GitHub stars).
+
+Education
+B.Sc. Computer Science, University of São Paulo, 2024

@@ -1,0 +1,30 @@
+Jae-won Park
+jaewon.park@example.com | +82-555-0128 | Seoul, South Korea
+Senior Mobile Engineer (Native iOS & Android)
+
+Summary
+Native mobile engineer with seven years of experience in Swift and Kotlin, building finance and delivery apps with more than 5 million combined downloads. I have written React Native bridge modules for a partner team and want to move into cross-platform development.
+
+Skills
+Swift, SwiftUI, UIKit, Combine, Kotlin, Jetpack Compose, Coroutines, Core Data, Room, REST, GraphQL, Xcode Instruments, Android Profiler, fastlane, Firebase Crashlytics, App Store Connect, Google Play Console, JavaScript (basic)
+
+Professional Experience
+Senior iOS Engineer, Hanbit Securities
+Feb 2022 – Present
+- Lead iOS developer for the mobile trading app (2.1 million users); ship every two weeks through App Store Connect with phased releases.
+- Implemented Face ID login and Secure Enclave key storage that passed an external security audit with no findings.
+- When our marketing team adopted React Native for a new rewards app, I wrote the Swift and Kotlin bridge modules for biometric authentication and push notifications.
+- Reduced cold start time from 2.8 s to 1.1 s through Instruments profiling and lazy initialisation.
+
+Android Developer, Seoul Bites
+2020 - 2022
+- Migrated the food-delivery customer app from XML layouts to Jetpack Compose.
+- Managed staged rollouts on Google Play and cut ANR rate by 65%.
+- Built offline order tracking with Room and WorkManager.
+
+Junior iOS Developer, Pixeltree Studio
+2019 - 2020
+- Built UIKit apps for agency clients and published five apps to the App Store.
+
+Education
+B.S. Computer Science, Hanyang University, 2019

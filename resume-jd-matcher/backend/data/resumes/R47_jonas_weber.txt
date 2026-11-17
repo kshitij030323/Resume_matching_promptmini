@@ -1,0 +1,27 @@
+Jonas Weber
+jonas.weber@example.com | +41-555-0387 | Zurich, Switzerland
+Production Engineer, Payments Platform
+
+Summary
+Seven years keeping hosting and payment systems up. I make sure the card-processing platform stays boring: capacity, safe rollouts, alerting that means something, and calm incident handling at 3 a.m.
+
+Toolbox
+AWS (EKS, VPC, IAM, RDS, MSK), Helm, Argo CD, HCL modules with remote state, Prometheus, Grafana, Loki, OpenTelemetry, PagerDuty, Go, Python, Bash
+
+Experience
+Production Engineer, Limmat Payments AG
+Feb 2022 – Present
+- Kept the payment platform's EKS clusters healthy through four minor-version upgrades and Black Friday peaks of 9,000 transactions per second, with no customer-facing downtime.
+- Codified every AWS account, network and database as HCL modules reviewed like application code; nobody has made a console change in production since 2023.
+- Defined service-level objectives and error budgets with each product team and rewrote alerting around user-facing symptoms, halving night-time pages.
+- Wrote runbooks for the 30 most frequent alerts and led post-incident reviews; incident lead in the weekly pager rotation.
+- Built Go tooling that cordons, drains and replaces nodes safely during upgrades.
+
+Systems Engineer, Uetliberg Cloud AG
+2019 - 2022
+- Moved hosting customers from virtual machines to containers on a self-managed Rancher cluster.
+- Built the metrics stack with Prometheus and Grafana and wrote the first alert rules.
+- Shared the out-of-hours pager for 600 customer sites.
+
+Education
+BSc Computer Science, ZHAW Zurich University of Applied Sciences, 2019

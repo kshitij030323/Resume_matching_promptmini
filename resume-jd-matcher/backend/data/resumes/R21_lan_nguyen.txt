@@ -1,0 +1,29 @@
+Lan Nguyen
+lan.nguyen@example.com | +84-555-0157 | Ho Chi Minh City, Vietnam
+Data Engineer (GCP)
+
+Summary
+Data engineer with four years of experience building batch and streaming pipelines on GCP for fintech and e-wallet products. I design BigQuery models that analysts like and pipelines that the fraud team can depend on in real time.
+
+Skills
+Python, SQL, PySpark on Dataproc, Cloud Composer (managed Airflow), BigQuery, Pub/Sub, Dataflow (Apache Beam), Cloud Storage, dbt, Terraform, Looker Studio, Docker
+
+Experience
+Data Engineer, Lotus Wallet
+Jul 2023 – Present
+- Built a streaming pipeline from Pub/Sub through Dataflow into BigQuery for transaction events (8,000 events per second), giving the fraud team sub-minute visibility.
+- Wrote PySpark jobs on Dataproc for the daily reconciliation of 40 million transactions against bank settlement files.
+- Maintain 60 DAGs in Cloud Composer with retries, SLAs and alerting to the owning team.
+- Designed BigQuery data marts (star schemas, partitioning and clustering) that cut analyst query costs by 40%.
+- Provision data infrastructure with Terraform and review changes through pull requests.
+
+Junior Data Engineer, Mekong Analytics
+06/2022 – 06/2023
+- Migrated a MySQL reporting database to BigQuery with Python ETL scripts.
+- Built Looker Studio dashboards for retail clients.
+
+Education
+B.Eng. Computer Science, Ho Chi Minh City University of Technology, 2022
+
+Certifications
+Google Cloud Professional Data Engineer (2024)

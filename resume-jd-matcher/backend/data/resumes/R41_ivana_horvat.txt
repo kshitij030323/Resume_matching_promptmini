@@ -1,0 +1,30 @@
+Ivana Horvat
+ivana.horvat@example.com | +385-555-0321 | Zagreb, Croatia
+Senior Backend Engineer – Node.js / TypeScript
+
+Summary
+Backend engineer with seven years of experience, the last four designing and running TypeScript microservices for a travel-booking platform. Strong on PostgreSQL, event-driven workflows and making distributed systems fail gracefully.
+
+Skills
+TypeScript, Node.js, NestJS, Express, gRPC, REST, GraphQL, PostgreSQL, Prisma, TypeORM, Kafka, Redis, Docker, Kubernetes (deploying own services), GitHub Actions, Jest, OpenTelemetry, AWS (RDS, SQS, Lambda), Python (scripting)
+
+Work Experience
+Senior Backend Engineer, Jadran Bookings
+Apr 2022 – Present
+- Own six NestJS microservices for booking and payments, using gRPC internally and REST for partners; 1,500 requests per second at summer peak.
+- Designed the PostgreSQL schema and partitioning for bookings and replaced a polling job runner with a SKIP LOCKED queue, ending lock contention during flash sales.
+- Built a Kafka-based saga for multi-step bookings with compensating actions and idempotency keys; double charges dropped to zero.
+- Added OpenTelemetry tracing across services and deploy our services to the company Kubernetes cluster with Helm; on call one week in five.
+- Wrote Python scripts for one-off data migrations and backfills.
+
+Backend Developer, Sava Software
+2020 - 2022
+- Built Express REST APIs on PostgreSQL for e-commerce clients, including inventory sync with three ERP systems.
+- Introduced integration tests with Testcontainers and cut production incidents by a third.
+
+Junior Full-Stack Developer, Sava Software
+2019 - 2020
+- Built Angular admin screens and small Node.js endpoints.
+
+Education
+MEng Computing, University of Zagreb, Faculty of Electrical Engineering and Computing, 2019

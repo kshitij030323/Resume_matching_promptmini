@@ -1,0 +1,30 @@
+Wei Chen
+wei.chen@example.com | +65-555-0111 | Singapore
+Senior Data Scientist, Product Analytics
+
+Summary
+Product-focused data scientist with six years in e-commerce and marketplace analytics. Most of my week is SQL, experiment design, Looker dashboards and explaining results to product managers and executives; I build predictive models when they are the simplest way to answer a business question.
+
+Skills
+SQL (BigQuery, Presto), Python (pandas, statsmodels, scikit-learn), Looker, Tableau, A/B testing and causal inference, Amplitude, Google Sheets, dbt (basic), stakeholder communication
+
+Experience
+Senior Data Scientist, Product Analytics — Merlion Marketplace
+Apr 2023 – Present
+- Embedded with the checkout and payments product teams; define north-star metrics and design or analyse 40+ A/B tests a year.
+- Built the Looker dashboards for conversion, payment success and refund rates used daily by 60 product managers.
+- Analysis of failed payments led to a retry flow that recovered S$3.1M in annual gross merchandise value.
+- Built a gradient-boosting churn propensity model used to target retention vouchers (12% lower churn in the treated group).
+- Present the monthly product health review to the VP of Product.
+
+Data Analyst, later Data Scientist — Straits Commerce
+2021 - 2023
+- Wrote BigQuery SQL and built Tableau dashboards for marketing and operations teams.
+- Promoted to data scientist in 2022 after building the company's first marketing-mix analysis.
+
+Business Analyst — Orchid Logistics
+Aug 2020 – Jun 2021
+- Weekly delivery performance reports in Excel and SQL for regional managers.
+
+Education
+B.Sc. Statistics, National University of Singapore, 2020

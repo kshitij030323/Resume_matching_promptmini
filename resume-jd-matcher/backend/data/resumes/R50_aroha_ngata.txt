@@ -1,0 +1,29 @@
+Aroha Ngata
+aroha.ngata@example.com | +64-555-0410 | Auckland, New Zealand
+Junior Data Engineer
+
+About
+Graduate data engineer with 20 months of full-time experience plus a summer internship, working on the data platform of a music streaming service. I have used the modern data stack end to end, from Airflow and PySpark to Snowflake, dbt and a first Kafka streaming job, always with a senior engineer reviewing my designs.
+
+Skills
+Python, SQL, PySpark, Apache Airflow, Snowflake, dbt, Kafka, Spark Structured Streaming, AWS (S3, Glue), Docker, Git
+
+Experience
+Junior Data Engineer, Tasman Streaming (music streaming)
+Mar 2025 – Present
+- Built 15 Airflow DAGs that load play events and royalty statements into Snowflake, with SLA alerts to the team channel.
+- Wrote PySpark jobs on AWS Glue processing about 300 GB of play events a day.
+- Built my first streaming job, Kafka into Spark Structured Streaming into Snowflake, to power a real-time top-charts page, under the guidance of our lead engineer.
+- Wrote dbt models for the royalties fact table and contributed to the star schema design reviewed by the lead.
+- Added data tests that caught a duplicate-ingestion bug before month-end royalty payments.
+
+Data Engineering Intern, Aotearoa Energy
+Nov 2024 – Feb 2025
+- Wrote Python ETL scripts scheduled in Airflow to load smart-meter files into Postgres.
+- Documented 40 source tables for the analytics team.
+
+Education
+BSc Computer Science and Statistics, University of Auckland, 2024
+
+Certifications
+SnowPro Core Certification (2025)

@@ -1,0 +1,27 @@
+Isabella Rossi
+isabella.rossi@example.com | +39-555-0343 | Milan, Italy
+Cross-Platform App Developer (iOS & Android)
+
+Summary
+Five years building iOS and Android apps from one typed JavaScript codebase with Expo, first for a food-delivery startup and now for a neobank. I care about smooth lists at 60 fps, honest offline states and releases that never need an emergency hotfix.
+
+Stack
+TypeScript and TSX, Expo SDK and EAS (Build, Submit, Update), Hermes, Reanimated, FlashList, Zustand, TanStack Query, Apollo GraphQL, Jest, Maestro, Swift and Kotlin via the Expo Modules API, Sentry
+
+Experience
+Mobile App Developer, Navigli Bank (neobank)
+Sep 2023 – Present
+- Build features in the bank's Expo app (iOS and Android, 900,000 customers) in TypeScript: card freeze, savings spaces and instant transfers.
+- Own the release pipeline on EAS: builds, signing, TestFlight and Play internal tracks, phased rollouts and store review; JS-only fixes go out over the air with EAS Update.
+- Wrote Expo modules in Swift and Kotlin for Secure Enclave keys and notification handling.
+- Rebuilt the transactions screen with FlashList and memoised rows; it now holds 60 fps on four-year-old Android phones.
+- Server state lives in TanStack Query and local state in Zustand; Maestro flows run on every pull request.
+
+Junior Mobile Developer, Porta Delivery
+Jul 2021 – Aug 2023
+- Built the courier app with Expo: live order map, offline delivery confirmation and photo proof of delivery.
+- Shipped it to the App Store and Google Play and handled the first App Store rejection (background location wording).
+- Wrote Jest tests for the offline sync queue.
+
+Education
+BSc Computer Engineering, Politecnico di Milano, 2021

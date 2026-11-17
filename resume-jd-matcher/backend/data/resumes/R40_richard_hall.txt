@@ -1,0 +1,33 @@
+Richard Hall
+richard.hall@example.com | +44-555-0310 | Edinburgh, UK
+Principal Solutions Architect
+
+Summary
+Nineteen years in software, the last eight as an architect setting technical direction for a 300-engineer banking organisation. My background is Java and Go backend services; today I produce reference architectures, architecture decision records and review-board decisions rather than production code.
+
+Core Competencies
+Enterprise and solution architecture, microservices, event-driven architecture, domain-driven design, API governance (REST, gRPC), PostgreSQL, Kafka, AWS, TOGAF, technical roadmaps, stakeholder management
+
+Professional Experience
+Principal Solutions Architect, Forth Banking Group
+2018 - Present
+- Chair the architecture review board for 40 delivery teams; author of the bank's microservices reference architecture and REST/gRPC API standards.
+- Lead architect for a GBP 60M core-banking modernisation programme, decomposing mainframe functions into domain services on AWS.
+- Set PostgreSQL as the default operational database and defined data-ownership rules between services.
+- Run vendor evaluations and present technology strategy to the CIO; I do not write production code, apart from occasional throwaway proofs of concept.
+
+Lead Software Engineer, Lothian Payments
+2012 - 2018
+- Led a team of eight building Java and Go payment services.
+- Designed the Postgres ledger schema and the idempotent payment submission flow still used today.
+
+Software Engineer, Pentland Systems
+2007 - 2012
+- Built Java and C++ trading back-office systems.
+
+Education
+BEng Software Engineering, University of Edinburgh, 2007
+
+Certifications
+TOGAF 9 Certified
+AWS Certified Solutions Architect – Professional (2020)

@@ -1,0 +1,33 @@
+Omar Haddad
+omar.haddad@example.com | +962-555-0190 | Amman, Jordan
+Senior DevOps Engineer (Microsoft Azure)
+
+Summary
+DevOps engineer with nine years of experience, seven of them automating and operating platforms on Microsoft Azure for banking and enterprise clients. I run production Kubernetes, write Terraform for everything and lead incident response for a regulated core-banking platform.
+
+Skills
+Azure (AKS, VNets, Entra ID, Key Vault, Azure SQL, Application Gateway), Kubernetes, Helm, Terraform, Bicep, Azure DevOps Pipelines, GitHub Actions, Azure Monitor, Application Insights, Prometheus, Grafana, PowerShell, Bash, Python, Linux, Windows Server
+
+Experience
+Senior DevOps Engineer, Levant Bank Digital
+Mar 2022 – Present
+- Run eight AKS clusters hosting the bank's core APIs and mobile-banking backend, including upgrades and network policies.
+- Built Terraform modules for Azure landing zones (hub-and-spoke networking, private endpoints, policy assignments).
+- Set up Prometheus, Grafana and Application Insights dashboards and defined alerting for 60 services; on-call lead for the platform team.
+- Led the infrastructure workstream for the bank's PCI-DSS certification.
+
+DevOps Engineer, Amman Cloud Solutions
+2019 - 2022
+- Built Azure DevOps pipelines for 20 client projects and migrated on-premises Windows workloads to Azure.
+- Introduced infrastructure as code with ARM templates, later Bicep and Terraform.
+
+Systems Engineer, Dead Sea Telecom
+2017 - 2019
+- Administered Linux and Windows servers and VMware clusters for the billing platform.
+
+Education
+B.Sc. Computer Engineering, Jordan University of Science and Technology, 2017
+
+Certifications
+Microsoft Certified: DevOps Engineer Expert (2021)
+Certified Kubernetes Administrator (CKA), 2023

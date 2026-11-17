@@ -1,0 +1,30 @@
+Joaquín Vidal
+joaquin.vidal@example.com | +34-555-0233 | Madrid, Spain
+Applied Scientist, Language Technology
+
+Summary
+Six years turning text into products: semantic search, document question answering and information extraction for insurance and banking. I prototype in notebooks, but what I am proudest of are the systems that keep running for years after I hand them over.
+
+Toolbox
+Python, PyTorch, Hugging Face, sentence embeddings, low-rank adapters, approximate nearest-neighbour search (HNSW), spaCy, Weights & Biases, Docker, Kubernetes, Triton, gRPC
+
+Experience
+Senior Applied Scientist, Meseta Seguros
+Apr 2022 – Present
+- Built semantic search over 25,000 policy documents and claims guidelines with sentence embeddings and an LLM answer generator that quotes the clauses it relies on; claims handlers' lookup time halved.
+- Taught open-weight language models our insurance vocabulary with low-rank adapters on four GPUs; with claims experts I wrote a 900-question benchmark, and nothing ships unless it beats the current model on it.
+- Added an automatic faithfulness check that compares each generated answer with the quoted clauses and suppresses unsupported sentences.
+- Package models as containerised inference services on the company's Kubernetes cluster behind a gRPC interface, with every experiment and model version traced in Weights & Biases.
+- Coach two junior scientists on experiment design and code review.
+
+Research Engineer, Banca Sol
+2020 - 2022
+- Extracted parties, amounts and dates from loan contracts with transformer token classifiers (F1 0.92), served over REST in Docker.
+- Built an HNSW similarity index across 2 million customer emails to detect duplicate complaints.
+
+Education
+MSc Artificial Intelligence, Universidad Politécnica de Madrid, 2019
+BSc Computer Engineering, Universidad de Valencia, 2017
+
+Open Source
+- Maintainer of a small benchmark for Spanish sentence embeddings.

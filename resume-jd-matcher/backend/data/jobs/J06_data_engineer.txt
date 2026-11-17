@@ -1,0 +1,32 @@
+Data Engineer
+Company: Streamline Media Group
+Location: Toronto, Canada (Hybrid)
+Employment type: Full-time
+
+About the role
+Streamline Media Group runs video and podcast streaming platforms with 12 million monthly users. Every play, pause, ad impression and subscription event flows through our data platform, and the business depends on it for recommendations, ad pacing and finance reporting. We are hiring a Data Engineer to build reliable batch and real-time pipelines that feed our warehouse, our machine learning models and our analysts.
+
+What you'll do
+- Build and maintain batch pipelines in Apache Spark (PySpark) that process several terabytes of event data per day.
+- Develop and schedule workflows in Apache Airflow with clear SLAs, retries and alerting.
+- Design dimensional models (star schemas, slowly changing dimensions) in our Snowflake warehouse and maintain the dbt models on top.
+- Build streaming pipelines with Kafka and Spark Structured Streaming or Flink for real-time dashboards and ad pacing.
+- Implement data quality checks, lineage and documentation so analysts can trust what they query.
+- Work with analysts, data scientists and backend engineers to define event schemas and data contracts.
+
+Requirements
+- 3+ years of experience as a data engineer or in a similar data platform role.
+- Strong Python and SQL.
+- Hands-on experience with Apache Spark for large-scale data processing.
+- Production experience with Airflow or a comparable orchestrator such as Dagster or Prefect.
+- Data warehousing experience (Snowflake, BigQuery or Redshift) and dimensional modeling.
+- Experience with streaming technologies such as Kafka, Kinesis, Pub/Sub, Spark Structured Streaming or Flink.
+
+Nice to have
+- dbt and lakehouse table formats (Delta Lake, Apache Iceberg).
+- Cloud data services on AWS or GCP, and Terraform for data infrastructure.
+- Change data capture (Debezium) and schema registries.
+- Data quality frameworks such as Great Expectations or Soda.
+
+Education
+- Bachelor's degree in Computer Science, Engineering or a related field, or equivalent experience.

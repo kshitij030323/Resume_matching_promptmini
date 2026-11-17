@@ -1,0 +1,34 @@
+Kwame Mensah
+kwame.mensah@example.com | +233-555-0184 | Accra, Ghana (remote, CET hours)
+Platform Engineer
+
+Profile
+Nine years in software: three building Go services, six keeping services like them running. I build the paved road that product engineers deploy on and I am happiest when they never have to think about it.
+
+Core Competencies
+Platform engineering, k8s, AWS, infra-as-code, Go, on-call leadership
+
+Professional Experience
+Senior Platform Engineer, Volta Payments (remote, Berlin HQ)
+Mar 2023 – Present
+- Run the company's k8s platform on AWS (6 EKS clusters, about 400 workloads); moved node provisioning to Karpenter and cut compute spend by 31%.
+- Wrote and own the infra-as-code module library in HCL (VPC, IAM, RDS, MSK) used by nine product teams, with plan checks and policy tests on every pull request.
+- Built the GitOps flow with Argo CD and Helm that took deploys from twice a week to 40 a day.
+- Rolled out OTel tracing and Prometheus-based alerting; wrote the SLO playbook and act as incident commander in the on-call rotation.
+
+DevOps Engineer, Akwaaba Telecom
+2020 - 2023
+- Moved 30 services from hand-built VMs to containers on self-managed k8s, then to EKS.
+- Rebuilt CI in GitLab and introduced blameless postmortems after a 6-hour billing outage.
+- Wrote Python and Bash tooling to automate certificate renewals and user access reviews.
+
+Backend Developer (Go), Gold Coast Software
+2017 - 2020
+- Built Go REST services with Postgres for a logistics client's shipment tracking product.
+- Wrote the first Dockerfiles and deployment scripts for the team, which led to my move into infrastructure.
+
+Education
+BSc Computer Science, Kwame Nkrumah University of Science and Technology, 2017
+
+Certifications
+Certified Kubernetes Administrator (CKA), 2022

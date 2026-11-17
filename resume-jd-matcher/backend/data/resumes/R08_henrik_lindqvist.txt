@@ -1,0 +1,32 @@
+Henrik Lindqvist
+henrik.lindqvist@example.com | +46-555-0153 | Stockholm, Sweden
+Lead Machine Learning Engineer, Search & Language
+
+Profile
+I build language-understanding systems that people actually use. Ten years of shipping search, ranking and text models, the last four leading a small team that moved our product from keyword search to retrieval-augmented question answering. I still write a large share of the code.
+
+Skills
+Python. Most of the rest is in the bullets below.
+
+Experience
+Lead Machine Learning Engineer, Fjord Rättsinformation AB (legal information publisher)
+Jan 2023 – Present
+- Lead five engineers who replaced keyword search over 3 million court rulings and statutes with a retrieval-augmented answering system: dense retrieval on fine-tuned embedding models, a cross-encoder re-ranker and a generator model that cites its sources.
+- Adapted open-weight language models to Swedish legal text with adapter-based fine-tuning on a small GPU cluster.
+- Built the evaluation set with in-house lawyers (1,800 graded question–answer pairs) and gated every release on it, alongside an automatic check that flags answers not supported by the retrieved passages.
+- Wrote the retrieval service and the nightly index rebuild jobs myself; brought answer latency under 2 seconds at p95 with continuous batching and 8-bit quantisation.
+
+Senior Machine Learning Engineer, Fjord Rättsinformation AB
+2019 - 2022
+- Built the learning-to-rank pipeline for the search product (gradient-boosted trees, later a BERT-style re-ranker), lifting click-through on top results by 17%.
+- Took models from notebooks to containerised services with versioned artefacts, scheduled retraining and drift dashboards.
+
+Machine Learning Engineer, Baltic Signal Telecom
+Aug 2016 – Dec 2018
+- Built entity recognition and classification models for Swedish and Finnish customer-service email, first with CRFs and later with LSTMs; 60% of incoming mail is now routed automatically.
+
+Education
+MSc Language Technology, Uppsala University, 2016
+
+Publications
+- Co-author of a workshop paper on Swedish legal question answering (2024).

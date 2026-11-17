@@ -1,0 +1,36 @@
+Priya Nair
+priya.nair@example.com | +91-555-0142 | Bengaluru, India
+Senior Machine Learning Engineer – NLP & LLMs
+
+Summary
+Machine learning engineer with 8 years of experience building NLP systems for banking and retail, the last three focused on shipping LLMs-based features (RAG, fine-tuning, evaluation) to production. I care about measurable quality, predictable latency and models that someone else can retrain at 2 a.m.
+
+Technical Skills
+Languages: Python, SQL, Bash
+NLP / LLMs: PyTorch, Hugging Face Transformers, PEFT (LoRA), sentence-transformers, spaCy, LangChain, Ragas
+Serving & MLOps: FastAPI, vLLM, Docker, Kubernetes, MLflow, GitHub Actions, AWS SageMaker
+Data & retrieval: PostgreSQL, Spark, FAISS, Qdrant
+
+Professional Experience
+Senior Machine Learning Engineer, Kaveri Fintech
+Jan 2022 – Present
+- Led the design of a RAG assistant over 40,000 policy and product documents for 600 support agents; average handle time fell 22%.
+- Fine-tuned a 7B open-weight LLM with LoRA on 120,000 anonymised chat transcripts, raising groundedness on our eval set from 0.71 to 0.89.
+- Built an automated LLM evaluation pipeline (golden sets, LLM-as-judge, regression gates in CI) that blocks releases when quality drops.
+- Serve models with vLLM and FastAPI on Kubernetes; cut p95 latency from 2.4 s to 900 ms and GPU spend by 35%.
+- Mentor three ML engineers and run the team's weekly paper-reading group.
+
+Machine Learning Engineer, Indus Analytics
+07/2020 – 12/2021
+- Built BERT-based intent classification and NER models for banking chatbots in English and Hindi (F1 0.91).
+- Productionised models as gRPC services with the MLflow model registry and canary rollouts.
+
+Data Scientist, Ample Retail Labs
+2018 - 2020
+- Built fastText and XGBoost product-categorisation models that auto-tagged 2 million SKUs.
+
+Education
+M.Tech, Computer Science, National Institute of Technology Calicut, 2018
+
+Certifications
+AWS Certified Machine Learning – Specialty (2023)

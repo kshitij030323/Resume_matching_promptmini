@@ -1,0 +1,30 @@
+Noah Williams
+noah.williams@example.com | +61-555-0102 | Sydney, Australia
+Senior Frontend Engineer – React & TypeScript
+
+Summary
+Frontend engineer with nine years of experience building fast, accessible web applications in React and TypeScript. I lead design-system work and web performance, and recently built my first React Native app with Expo for internal field staff.
+
+Skills
+TypeScript, JavaScript, React, Next.js, Redux Toolkit, React Query, GraphQL (Apollo), Node.js, Storybook, Jest, Playwright, Cypress, Vite, Tailwind CSS, web accessibility (WCAG 2.1), Expo (one project)
+
+Work Experience
+Senior Frontend Engineer, Harbourline Insurance
+Jul 2021 – Present
+- Lead frontend for the customer self-service portal (Next.js, TypeScript) with 900,000 monthly users; Largest Contentful Paint improved from 4.1 s to 1.8 s.
+- Built and maintain the company design system (60 components in Storybook) used by six product teams.
+- Built an internal Expo / React Native app for 300 field assessors (photo capture, offline claim forms), distributed through the company's device-management system and TestFlight; it was never published to the public stores.
+- Maintain the Node.js GraphQL gateway that serves the portal.
+- Mentor four frontend developers.
+
+Frontend Developer, Bondi Digital
+2018 - 2021
+- Built React and Redux single-page apps for retail and travel clients.
+- Integrated GraphQL APIs and introduced end-to-end testing with Cypress.
+
+Web Developer, Parramatta Print & Web
+02/2017 – 06/2018
+- Built WordPress and jQuery sites for small businesses.
+
+Education
+Bachelor of Information Technology, University of Technology Sydney, 2016

@@ -1,0 +1,30 @@
+Rajesh Kumar
+rajesh.kumar@example.com | +91-555-0148 | Hyderabad, India
+Senior Business Intelligence Analyst
+
+Summary
+BI analyst with seven years of experience in retail and financial services. I gather requirements from business leaders, model the data, build Power BI and Looker dashboards, and run the review meetings where those numbers turn into decisions.
+
+Core Competencies
+SQL (T-SQL, Snowflake), Power BI (DAX, Power Query, row-level security), Looker, Excel (advanced), SSIS, Azure Data Factory, star schema modelling, KPI frameworks, requirements gathering, executive reporting, Python (basic)
+
+Professional Experience
+Senior BI Analyst, Deccan Retail Group (400 stores plus e-commerce)
+Aug 2021 – Present
+- Lead BI for supply chain and e-commerce: 35 Power BI dashboards used by 800 people, from store managers to the CEO.
+- Built Snowflake data models and a KPI dictionary of 60 metrics, ending conflicting numbers between finance and merchandising.
+- Prepare and present the monthly business review to CXOs; an analysis of out-of-stock patterns led to a replenishment change worth 2.1% in sales.
+- Migrated 12 legacy SSRS reports to Power BI and Looker, reducing report maintenance effort by half.
+- Mentor three junior analysts and review their SQL.
+
+BI Analyst, Charminar Financial Services
+2019 - 2021
+- Built SSIS packages and a SQL Server star-schema warehouse for loan and collections reporting.
+- Created Power BI dashboards for branch performance and promotional campaign analysis.
+
+Education
+B.Tech, Electronics and Communication Engineering, JNTU Hyderabad, 2019
+
+Certifications
+Microsoft Certified: Power BI Data Analyst Associate, PL-300 (2022)
+SnowPro Core Certification (2023)

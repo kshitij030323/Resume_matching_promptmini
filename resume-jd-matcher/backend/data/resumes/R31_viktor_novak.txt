@@ -1,0 +1,30 @@
+Viktor Novák
+viktor.novak@example.com | +420-555-0201 | Prague, Czech Republic
+Senior Machine Learning Engineer – Computer Vision
+
+Summary
+Machine learning engineer with more than eight years of experience building and deploying computer vision models for manufacturing and retail. I own models end to end: labelling strategy, training, edge and cloud deployment, and monitoring once they are live on the factory floor.
+
+Technical Skills
+Python, C++, PyTorch, torchvision, timm (vision transformers), OpenCV, YOLO, ONNX, TensorRT, NVIDIA Triton, Docker, Kubernetes, MLflow, DVC, FAISS, AWS (SageMaker, S3), Label Studio, GitLab CI
+
+Professional Experience
+Senior Machine Learning Engineer, Bohemia Vision Systems
+Mar 2021 – Present
+- Lead ML engineer for automated visual inspection on 40 production lines (glass and automotive parts); a fine-tuned vision transformer raised defect recall from 91% to 98%.
+- Built training pipelines with MLflow and DVC, with active-learning loops that pull uncertain images back to operators for labelling.
+- Deploy models to edge GPUs with TensorRT and to the cloud with Triton on Kubernetes; p95 inference latency 18 ms.
+- Built FAISS-based visual similarity search over 6 million defect images to speed up root-cause analysis.
+- Mentor three ML engineers and run model design reviews.
+
+Machine Learning Engineer, Vltava Retail Tech
+2019 - 2021
+- Built YOLO-based shelf-monitoring models for 300 supermarkets, detecting out-of-stock gaps from ceiling cameras.
+- Containerised inference services with FastAPI and Docker, deployed through GitLab CI.
+
+Computer Vision Developer, Moravia Robotics
+2018 - 2019
+- Wrote C++ and OpenCV pipelines for robotic pick-and-place calibration.
+
+Education
+MSc Cybernetics and Robotics, Czech Technical University in Prague, 2018

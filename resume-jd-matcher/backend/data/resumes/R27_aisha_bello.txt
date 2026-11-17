@@ -1,0 +1,28 @@
+Aisha Bello
+aisha.bello@example.com | +234-555-0137 | Lagos, Nigeria
+Mobile Developer
+
+About
+Mobile developer with five years of shipping fintech and logistics apps used by millions of people, on everything from low-end Android phones to the latest iPhones. I work in RN with TypeScript day to day and drop into Kotlin or Swift when a feature needs it.
+
+Work Experience
+Mobile Developer, Eko Pay
+Jan 2023 – Present
+- Build features in our RN + TypeScript app (iOS and Android, 1.8 million users): bill payments, savings goals and QR merchant payments.
+- Own the release process: Play Console staged rollouts, App Store review and OTA hotfixes with CodePush; zero rejected App Store submissions in two years.
+- Cut app size from 38 MB to 21 MB and cold start on low-end Android devices by 40% using Hermes, lazy-loaded screens and image optimisation.
+- Moved server state to React Query and client state to Zustand, deleting about 6,000 lines of Redux boilerplate.
+- Wrote a small Kotlin module for SMS one-time-password autofill.
+
+Junior Mobile Developer, Lagoon Logistics
+08/2021 – 12/2022
+- Built the driver app in RN (JavaScript, later migrated to TypeScript) with an offline-first job list and background sync.
+- Published the app to the Play Store and the App Store and handled the first year of releases.
+- Wrote Jest tests for the sync logic, which had been the source of most production bugs.
+
+Front-end Developer, Yaba Web Studio
+2020 - 2021
+- Built React web apps for small businesses as an intern and then junior developer.
+
+Education
+B.Sc. Computer Science, University of Lagos, 2020

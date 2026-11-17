@@ -1,0 +1,32 @@
+Olivia Bennett
+olivia.bennett@example.com | +1-555-0159 | Austin, TX
+Backend Engineer
+
+Summary
+Six years writing Python services that other teams depend on. I like boring, well-tested APIs, Postgres schemas that age well, and on-call rotations that stay quiet.
+
+Experience
+Backend Engineer II, Lonestar Health Tech (patient scheduling platform)
+Aug 2022 – Present
+- Own the appointments and notifications services (FastAPI, Celery) in a platform of about 25 independently deployed services; they talk to each other over gRPC and expose REST endpoints to clinic partners.
+- Designed the Postgres schema for multi-clinic scheduling, including row-level security and partial indexes; slot-search p95 dropped from 900 ms to 120 ms.
+- Built idempotent webhook delivery with retries and dead-letter queues on SQS; delivery success rose from 97% to 99.9%.
+- Added an endpoint that calls a hosted LLM API to condense patient intake notes for front-desk staff, with prompt templates, response caching and PII redaction.
+- Everything runs in Docker; GitHub Actions pipelines run unit tests, contract tests against our OpenAPI specs and database migration checks.
+- Take part in the team's on-call rotation and wrote half of our runbooks.
+
+Software Engineer, Hill Country Fintech
+Jan 2021 – Jul 2022
+- Built Django REST Framework APIs for loan origination used by 40 partner credit unions.
+- Migrated reporting queries from MySQL to Postgres and added Redis caching for rate lookups.
+- Raised pytest coverage from 45% to 85% and introduced pre-merge integration tests.
+
+Software Engineering Intern, Hill Country Fintech
+Summer 2020
+- Wrote internal admin tools in Flask.
+
+Education
+B.S. Computer Science, Texas State University, 2020
+
+Projects
+- pg-migrate-lint: small open-source CLI that flags unsafe Postgres migrations such as long table locks and full rewrites.

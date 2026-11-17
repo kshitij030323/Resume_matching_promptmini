@@ -1,0 +1,29 @@
+Pedro Alves
+pedro.alves@example.com | +351-555-0163 | Lisbon, Portugal
+Backend Engineer – Java / Spring Boot
+
+Summary
+Backend engineer with nearly ten years of experience: two building native Android apps in Java and the rest designing Spring Boot microservices for insurance and banking. Currently helping my team pilot Go for new services.
+
+Skills
+Java 17, Spring Boot, Spring Cloud, Kotlin, gRPC, REST, PostgreSQL, Oracle, Kafka, Redis, Docker, OpenShift, Jenkins, JUnit, Testcontainers, Go (beginner), Android SDK
+
+Experience
+Backend Engineer, Lusitânia Seguros Digital
+Jan 2022 – Present
+- Built and own seven Spring Boot microservices for policy and claims, exposing REST to partners and gRPC internally.
+- Led the move of the claims database from Oracle to PostgreSQL, rewriting 300 stored procedures as application code and tuning the new indexes.
+- Introduced Kafka-based events between services, removing nightly batch synchronisation jobs.
+- Wrote the team's first Go service (a document thumbnail generator) as a pilot for broader Go adoption.
+
+Java Developer, Atlântico Consulting
+2019 - 2021
+- Built Spring Boot REST APIs for two retail banking clients, including open-banking consent flows.
+- Added contract tests and Testcontainers-based integration tests to the CI pipeline in Jenkins.
+
+Android Developer, Lisboa Mobile Studio
+02/2017 – 06/2019
+- Built native Android apps in Java for retail clients and published six apps to Google Play.
+
+Education
+MSc Informatics Engineering, Instituto Superior Técnico, 2016

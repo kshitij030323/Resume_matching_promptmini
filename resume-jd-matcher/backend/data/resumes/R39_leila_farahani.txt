@@ -1,0 +1,26 @@
+Leila Farahani
+leila.farahani@example.com | +43-555-0299 | Vienna, Austria
+Software Engineer, Parcel Platform
+
+Summary
+Five years writing Golang services for logistics and ticketing: the code that answers when a courier's scanner or a partner's system calls us. I am careful about contracts, data models and what happens when the same request arrives twice.
+
+What I work with
+Golang, Python, protobuf RPC contracts, HTTP/JSON APIs, Postgres (pgx, sqlc), NATS, Redis, OCI containers, GitHub Actions, Grafana
+
+Experience
+Software Engineer II, Ringstrasse Logistics
+Jun 2022 – Present
+- Own four of the roughly 35 small, independently deployed services behind the parcel platform; together they handle 18 million scan events a day from couriers' handheld devices.
+- Designed the protobuf contracts between services and the public HTTP/JSON endpoints that partners integrate with; added versioning rules so that no partner integration has broken in two years.
+- Modelled scan history in Postgres with time-based partitions and covering indexes; p95 for tracking lookups fell from 2 s to 150 ms.
+- Made the ingestion path safe to retry with idempotency keys, an outbox table and at-least-once delivery over NATS.
+- Write table-driven tests and run integration tests against throwaway Postgres containers in CI; part of the team's on-call rota.
+
+Software Engineer, Ticketwien GmbH
+2021 - 2022
+- Built Python (Flask) and Go services for event ticketing.
+- Moved seat reservation to Postgres advisory locks, ending double-booked seats at sold-out concerts.
+
+Education
+BSc Software and Information Engineering, TU Wien, 2021

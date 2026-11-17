@@ -1,0 +1,28 @@
+Ahmed Hassan
+ahmed.hassan@example.com | +20-555-0354 | Cairo, Egypt
+Frontend Developer – React & TypeScript
+
+Summary
+Frontend developer with five years of experience building fast, responsive web apps in React and TypeScript. Most of our customers shop on mid-range Android phones, so I built our storefront as an installable progressive web app and spend a lot of time on mobile web performance.
+
+Skills
+React, TypeScript, Next.js, Redux Toolkit, React Query, REST, GraphQL, Tailwind CSS, Jest, React Testing Library, Workbox (service workers), Lighthouse, Web Vitals, Figma
+
+Experience
+Frontend Developer, Khan Bazaar Online (e-commerce)
+Feb 2023 – Present
+- Rebuilt the mobile web storefront as a PWA with Next.js and TypeScript, including an offline cart and web push notifications through service workers; mobile conversion rose 14%.
+- Raised the Lighthouse performance score on mid-range Android from 45 to 92 with code splitting, image optimisation and lazy hydration.
+- Migrated server data fetching from Redux Toolkit thunks to React Query, removing 4,000 lines of code.
+- Reviewed API contracts with the external agency that builds and publishes our native iOS and Android apps.
+
+Junior Frontend Developer, Delta Web Studio
+2021 - 2023
+- Built React and Redux dashboards for logistics and education clients.
+- Introduced TypeScript and React Testing Library to the studio's project template.
+
+Education
+BSc Computer Engineering, Cairo University, 2021
+
+Projects
+- Open-source Arabic right-to-left layout helpers for Tailwind CSS (300 GitHub stars).

@@ -1,0 +1,31 @@
+Gareth Evans
+gareth.evans@example.com | +44-555-0365 | Cardiff, UK
+Senior Infrastructure Engineer
+
+Profile
+Infrastructure engineer with eleven years of experience running Windows and VMware estates for housing and healthcare-supply organisations. Recently led our move from an ageing server room to Microsoft Azure. Calm in a major incident and happiest when the change calendar is boring.
+
+Core Competencies
+Windows Server, Active Directory, Group Policy, VMware vSphere, Hyper-V, Microsoft Azure (virtual machines, Entra ID, Site Recovery, Backup), Microsoft 365, Intune, SCCM, PowerShell, SQL Server administration, Veeam, SolarWinds, ITIL
+
+Professional Experience
+Senior Infrastructure Engineer, Cymru Homes Group
+Jun 2019 – Present
+- Led the lift-and-shift of 140 virtual machines from on-premises VMware to Azure IaaS and built disaster recovery with Azure Site Recovery.
+- Wrote PowerShell automation for user onboarding, patching and certificate renewals, saving about 15 hours a week.
+- Run SolarWinds monitoring and the out-of-hours escalation rota for a 2,000-user estate; major incident manager for P1 incidents under ITIL.
+- Rolled out Intune to 1,800 laptops and retired SCCM imaging.
+
+Infrastructure Engineer, Severn Health Supplies
+2015 - 2019
+- Administered Windows Server, Active Directory and VMware clusters across three sites.
+- Owned backups with Veeam and ran quarterly restore tests.
+- Upgraded 60 SQL Server instances and documented the runbooks.
+
+Education
+BSc Computing, Cardiff Metropolitan University, 2014
+
+Certifications
+Microsoft Certified: Azure Administrator Associate (AZ-104), 2022
+ITIL 4 Foundation, 2019
+VMware Certified Professional – Data Center Virtualization, 2017

@@ -1,0 +1,33 @@
+Site Reliability Engineer (DevOps)
+Company: Cloudharbor Payments
+Location: Dublin, Ireland (Hybrid)
+Employment type: Full-time, permanent
+
+About the role
+Cloudharbor processes card and bank payments for 4,000 online merchants. Everything we run lives on AWS, and almost all of it runs on Kubernetes. Our Platform & Reliability team of seven keeps that platform fast, secure and boring, so that 80 product engineers can ship many times a day. We are hiring a Site Reliability Engineer to help us scale through our next 10x of payment volume.
+
+Responsibilities
+- Operate and evolve our multi-AZ Amazon EKS clusters: upgrades, autoscaling, networking and security policies.
+- Manage AWS infrastructure as code with Terraform (modules, remote state, policy checks), including VPC, IAM, RDS and MSK.
+- Build and maintain CI/CD pipelines (GitHub Actions, Argo CD) that let engineers deploy safely and often.
+- Own observability: Prometheus, Grafana, Loki and OpenTelemetry tracing; define SLOs and alerts that page on symptoms, not causes.
+- Lead incident response, run blameless postmortems and drive the follow-up work to completion.
+- Automate toil with Python, Go or Bash, and help product teams design reliable services.
+
+Must have
+- 4+ years in DevOps, SRE or platform engineering roles.
+- Production experience running Kubernetes (ideally EKS), including Helm and cluster upgrades.
+- Strong Terraform skills and experience managing AWS at scale (IAM, VPC networking, EC2, RDS).
+- Hands-on experience with metrics, logging and tracing tools (Prometheus, Grafana, ELK or Loki, Datadog, OpenTelemetry).
+- Experience participating in on-call rotations and leading incident response.
+- Scripting or programming in Python, Go or Bash.
+
+Preferred qualifications
+- GitOps with Argo CD or Flux; service mesh experience (Istio, Linkerd).
+- Defining SLIs, SLOs and error budgets.
+- Certifications such as CKA or AWS Certified DevOps Engineer / Solutions Architect.
+- Experience in PCI-DSS or other regulated environments.
+- Cloud cost optimization (Karpenter, spot instances, rightsizing).
+
+Education
+- Degree in Computer Science, Engineering or equivalent practical experience.

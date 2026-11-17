@@ -1,0 +1,33 @@
+Aiko Tanaka
+aiko.tanaka@example.com | +81-555-0164 | Osaka, Japan
+Senior Mobile Engineer — React Native & TypeScript
+
+Summary
+Mobile engineer with nearly 8 years of experience, more than 7 of them building React Native apps. I have shipped four apps to both the App Store and Google Play and currently lead mobile development for a consumer payments wallet.
+
+Technical Skills
+React Native, TypeScript, JavaScript, Redux Toolkit, React Query, Expo / EAS, GraphQL (Apollo), REST, Swift (native modules), Kotlin (basic), Jest, Detox, fastlane, Firebase, Sentry
+
+Professional Experience
+Senior Mobile Engineer, Sakura Pay
+April 2022 – Present
+- Tech lead for the consumer wallet app (React Native + TypeScript, 2.3 million monthly active users, 4.7 stars on both stores).
+- Own the release train: bi-weekly releases through fastlane, TestFlight and Play Console staged rollouts; crash-free sessions improved from 99.2% to 99.8%.
+- Rewrote the transaction history list with FlashList and memoisation, removing scroll jank and cutting startup time by 38%.
+- Wrote Swift and Kotlin native modules for biometric login and secure keychain storage.
+
+Mobile Developer, Hikari Travel
+03/2019 – 03/2022
+- Migrated the booking app from Cordova to React Native and launched on iOS and Android in five months.
+- Built offline itinerary caching with Redux Persist and background sync.
+- Set up Detox end-to-end tests in CI, catching around 15 regressions per quarter before release.
+
+Junior Web Developer, Kansai Digital Agency
+2018 - 2019
+- Built React and jQuery websites for retail clients.
+
+Education
+B.Eng. Information Engineering, Osaka University, 2018
+
+Projects
+- Maintainer of an open-source React Native library for Japanese IME text input handling (1,200 GitHub stars).

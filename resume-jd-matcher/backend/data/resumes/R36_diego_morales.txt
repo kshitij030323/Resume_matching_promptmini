@@ -1,0 +1,27 @@
+Diego Morales
+diego.morales@example.com | +56-555-0266 | Santiago, Chile
+Commercial Insights Analyst
+
+Summary
+Four and a half years helping commercial and operations leaders at retailers understand what is happening and why. I pull my own numbers straight from the warehouse, turn them into self-serve views people actually open, and explain the "so what" in plain language, in Spanish or English.
+
+Toolkit
+Snowflake (window functions, CTEs, query tuning), Tableau, Excel and Google Sheets, Python notebooks (pandas), Amplitude, controlled experiments, metric design, storytelling with data
+
+Experience
+Commercial Insights Analyst, Canasta Online (online grocery, 900,000 customers)
+May 2023 – Present
+- Created the self-serve Tableau workbooks that category managers, delivery operations and finance check every morning (basket size, substitutions, late deliveries by zone); they replaced 30 emailed spreadsheets.
+- Write and tune the warehouse queries behind them; rewrote the slowest from 11 minutes to 40 seconds.
+- Wrote the company's metric dictionary so that "active customer" and "on time" mean the same thing in every team.
+- Run the Monday trading readout for the commercial director and country manager.
+- Sized and read out 25 controlled experiments on promotions and delivery fees with the product team, and flagged two apparent wins that were noise.
+- A deep dive into churn after late deliveries led to a voucher policy that won back 4% of at-risk customers.
+
+Reporting Analyst, Cordillera Retail
+Mar 2022 – Apr 2023
+- Produced weekly store sales reports in Excel and Power BI for 60 store managers.
+- Wrote my first warehouse queries to replace manual copy-paste from the point-of-sale system.
+
+Education
+Ingeniería Comercial (Business and Economics), Pontificia Universidad Católica de Chile, 2021

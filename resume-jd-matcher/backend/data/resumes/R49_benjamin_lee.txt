@@ -1,0 +1,26 @@
+Benjamin Lee
+benjamin.lee@example.com | +1-555-0409 | Seattle, WA
+Software Engineer, Data Infrastructure
+
+Summary
+Six years building software, nearly five of them on the plumbing behind analytics and machine learning: getting billions of events from wearables into tables people can trust, on schedule and in near real time.
+
+Stack
+Scala and Python, Spark on EMR, Kinesis Data Streams, Apache Flink, Dagster, Redshift, S3 with Apache Iceberg, dbt, Soda Core, Terraform
+
+Experience
+Software Engineer, Data Infrastructure — Pulsefit Labs (fitness wearables, 4 million devices)
+Mar 2022 – Present
+- Device telemetry: Kinesis into Flink jobs computing live workout and heart-rate aggregates at about 250,000 events per second, feeding in-app leaderboards within five seconds.
+- Nightly and hourly Spark jobs (Scala and PySpark on EMR) compact 6 TB a day of raw events into Iceberg tables on S3.
+- Moved 120 cron scripts into Dagster software-defined assets with freshness policies, retries and alerts routed to the owning teams.
+- Modelled the Redshift layer as facts and dimensions, keeping subscription history as a type-2 dimension; transformations live in dbt and Soda checks block bad loads.
+- Agreed event data contracts with the mobile and backend teams so schema changes no longer break downstream tables.
+
+Software Engineer — Rainier Tickets
+Jul 2020 – Feb 2022
+- Built Python backend services for the box-office and refunds systems.
+- Wrote the company's first Spark jobs for daily sales reporting, which led to my move into data infrastructure.
+
+Education
+BS Computer Science, University of Washington, 2020

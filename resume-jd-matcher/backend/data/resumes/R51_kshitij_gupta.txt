@@ -1,0 +1,91 @@
+KshitijGupta
+Computer Science Engineering (AI & ML)
+Github
+ Linkedin
+ guptakshitij95@gmail.com
+ 8368870730
+EXPERIENCE
+NEXCENGLOBALINC | AI INTERN
+June2026‑July2026
+Ô Developed an OCR-based system for automated exam paper scanning and text
+extraction.
+Ô Integrating LLMs to analyze extracted responses, assign marks, and consolidate
+results.
+PROJECTS
+CLUBIN:EVENTDISCOVERY&BOOKINGPLATFORM | FULL STACK, MOBILE APP
+2026
+Ô Built a scalable full-stack event discovery and booking platform with React Native,
+Next.js, guestlists, real-time bookings, QR check-ins, and an admin dashboard.
+Ô Built and maintained CI/CD pipelines with GitHub Actions, automating deployments
+to Ubuntu servers.
+Ô Deployed scalable infrastructure using Cloudflare Tunnel, R2 Storage, and
+self-hosted Ubuntu servers to reduce cloud costs.
+Ô Optimized system performance using on-device caching, PostgreSQL indexing and
+connection pooling, and Cloudflare CDN, achieving sub-100ms API response times.
+Live Project Demo | GitHub Repository
+SUMORA:AI‑POWEREDPRESENTATIONANALYSISTOOL | AI, WEB APP
+2025
+Ô Developed an AI system that automatically summarizes presentation slides using
+LLMs.
+Ô Implemented Optical Character Recognition (OCR) to extract text from
+image-based slides.
+Ô Implemented Retrieval-Augmented Generation (RAG) for contextual question
+answering.
+Ô Integrated a fast LLM using Nvidia NIM with the GPT-OSS 120B model to power
+AI-driven summaries and chat assistance.
+Ô Enabled an interactive chat feature allowing users to ask questions about individual
+slides or entire presentations.
+Live Project Demo | GitHub Repository
+DOMAIN‑SPECIFICNEETQAMODEL | AI, NLP , HUGGINGFACE
+2025
+Ô Fine-tuned a compact Qwen 3 0.6B model for domain-specific question answering
+in NEET medical entrance preparation.
+Ô Aggregated and processed a large hybrid dataset from NCERT textbooks and
+NEET MCQs for transformer model training.
+Ô Implemented LoRA (Low-Rank Adaptation) fine-tuning on Google Colab T4 GPU,
+boosting overall model accuracy about 35%
+Ô Achieved subject-wise gains: Biology (+20%), Chemistry (+20%), Physics (+60%).
+Project Demo | Research Document
+SKILLS
+Programming
+Python • Java • C++ • SQL
+Web&Backend
+Node.js • Express • React •
+Next.js • REST APIs
+AI/MachineLearning
+PyTorch • TensorFlow •
+Scikit-learn • HuggingFace
+Cloud/DevOps
+Docker • Google Cloud Run •
+Cloudflare
+Data
+PostgreSQL • Pandas • NumPy
+• Data Processing
+Tools
+Git • GitHub • Jupyter
+Notebook • Kaggle
+EDUCATION
+PESUNIVERSITY
+BACHELOR'S OF T ECHNOLOGY IN
+COMPUTER SCIENCE ENGINEERING
+(AI & ML)
+Sept2024‑Aug2028|RingRoad
+Campus,Bangalore
+CGPA - 8.83
+DELHIPUBLICSCHOOL
+HIGHSCHOOL
+2012‑2024|Indirapuram,UP
+12thClass‑88.8%
+10thClass‑92.4%
+ACTIVITES
+GOOGLEDEVELOPER
+STUDENTCLUBS | ML T EAM
+MEMBER
+Feb2026–Present|PESUniversity
+Collaborate on AI/ML projects
+and participate in technical
+workshops and hackathons.
+CERTIFICATIONS
+Mastering Generative AI |
+INDIAN INSTITUTE OF SCIENCE (IISC)
+Python (Basic) | HACKERRANK

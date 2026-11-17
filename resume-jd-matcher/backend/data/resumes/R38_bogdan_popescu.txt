@@ -1,0 +1,29 @@
+Bogdan Popescu
+bogdan.popescu@example.com | +40-555-0288 | Bucharest, Romania
+Senior Software Engineer (.NET)
+
+Summary
+Backend developer with over ten years of experience building and maintaining a large line-of-business platform for insurance brokers. I know a 1.2-million-line C# codebase inside out, from the ASP.NET controllers down to the SQL Server stored procedures, and I keep it fast and stable for thousands of daily users.
+
+Technical Skills
+C#, .NET Framework 4.8, .NET 6, ASP.NET MVC, ASP.NET Web API, Entity Framework, SQL Server (T-SQL, stored procedures, query tuning), IIS, Windows Server, Azure DevOps Server (TFS), NUnit, WCF, jQuery, PowerShell
+
+Professional Experience
+Senior Software Engineer, Carpathia Insurance Software
+Jan 2018 – Present
+- Core developer on the broker platform: a single ASP.NET MVC application backed by one SQL Server database, used by 3,000 brokers every day.
+- Tuned stored procedures and indexes, cutting the month-end commission batch from nine hours to two.
+- Ported the quoting module from .NET Framework 4.8 to .NET 6 and exposed it through Web API endpoints for a partner portal.
+- Release manager for quarterly on-premises deployments to IIS; wrote the PowerShell deployment scripts.
+- Mentor three developers and lead code reviews for the policy administration area.
+
+Software Developer, Dacia Soft
+2015 - 2017
+- Built WinForms desktop applications and WCF services for logistics clients.
+- Wrote SQL Server reports and data import tools.
+
+Education
+BSc Computer Science, Politehnica University of Bucharest, 2015
+
+Certifications
+Microsoft Certified: Azure Developer Associate (2021)

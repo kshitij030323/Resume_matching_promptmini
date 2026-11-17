@@ -1,0 +1,29 @@
+Deepa Krishnan
+deepa.krishnan@example.com | +91-555-0398 | Chennai, India
+Senior ETL Developer (Informatica / SSIS)
+
+Summary
+ETL developer with nine years of experience building and tuning batch data loads for banking and insurance data warehouses. Deep experience in Informatica PowerCenter, SSIS, Oracle and Teradata, Kimball-style dimensional models and enterprise job scheduling.
+
+Technical Skills
+Informatica PowerCenter, SSIS, Oracle PL/SQL, SQL Server T-SQL, Teradata (BTEQ, FastLoad), Control-M, Unix shell scripting, dimensional modelling (Kimball, SCD Type 1 and 2), data quality rules, ERwin Data Modeler
+
+Work Experience
+Senior ETL Developer, Marina Bank Technology Services
+Jul 2020 – Present
+- Lead developer for the regulatory reporting warehouse: 250 Informatica mappings loading 40 GB a night from 18 source systems into Oracle star schemas.
+- Designed SCD Type 2 customer and account dimensions and a reconciliation framework that catches 99% of load errors before reports are published.
+- Tuned PL/SQL and table partitioning, cutting the nightly batch window from seven hours to three.
+- Manage job dependencies, restarts and alerting in Control-M for 400 nightly jobs.
+- Guide four junior developers and review their mappings.
+
+ETL Developer, Tidel IT Services
+2017 - 2020
+- Built SSIS packages loading policy and claims data into a SQL Server warehouse for an insurance client.
+- Wrote Teradata BTEQ scripts for monthly actuarial extracts.
+
+Education
+B.E. Computer Science and Engineering, Anna University, 2016
+
+Certifications
+Informatica PowerCenter Data Integration Developer (2019)

@@ -1,0 +1,35 @@
+Inès Moreau
+ines.moreau@example.com | +1-555-0168 | Montréal, Canada
+DevOps Engineer
+
+Summary
+DevOps engineer with five and a half years of experience on AWS, currently running Kubernetes and Terraform for a 120-engineer B2B SaaS company. Bilingual French and English; known for turning noisy alerting into something people trust.
+
+Technical Skills
+Cloud: AWS (EKS, ECS, EC2, VPC, IAM, RDS, CloudFront, Lambda)
+Infrastructure as code: Terraform, Terragrunt, Ansible, Packer
+Containers: Docker, Kubernetes, Helm, Karpenter
+CI/CD: GitLab CI, GitHub Actions, Argo CD, fastlane
+Observability: Datadog, Prometheus, Grafana, CloudWatch, PagerDuty
+Scripting: Python, Bash
+
+Professional Experience
+DevOps Engineer, Mont-Royal Software
+Feb 2023 – Present
+- Migrated 45 services from ECS to EKS with Helm and Argo CD with no customer-facing downtime.
+- Maintain a Terraform and Terragrunt mono-repo covering three AWS accounts, with drift detection in CI.
+- Rebuilt Datadog monitors and SLO dashboards, cutting non-actionable alerts by 50%.
+- Primary on-call one week a month; led 12 incident retrospectives and tracked their action items to completion.
+- Wrote Python Lambda functions for automated cost reports; rightsizing and Savings Plans saved $14k a month.
+
+Junior DevOps Engineer, Pixel Érable Studio (mobile games)
+2021 - 2023
+- Moved CI from Jenkins to GitLab CI and built iOS and Android build-and-signing pipelines with fastlane.
+- Managed the EC2 game-server fleet with Ansible and Packer-built AMIs.
+
+Education
+B.Eng. Software Engineering, École de technologie supérieure (ÉTS), 2021
+
+Certifications
+AWS Certified Solutions Architect – Associate (2022)
+HashiCorp Certified: Terraform Associate (2023)

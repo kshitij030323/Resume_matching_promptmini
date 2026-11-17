@@ -1,0 +1,30 @@
+Elena Petrova
+elena.petrova@example.com | +49-555-0105 | Berlin, Germany
+Data Scientist (former Experimental Physicist)
+
+Summary
+PhD physicist who spent four and a half years analysing particle-detector data on HPC clusters and moved into industry data science in 2023. I now forecast electricity demand for a utility, own the Spark pipelines that feed my models and present the results to grid operators every week.
+
+Skills
+Python (NumPy, pandas, scikit-learn, statsmodels, PyTorch basics), SQL, PySpark, Spark Structured Streaming, Kafka (consumer side), Databricks, Delta Lake, Airflow, Tableau, time-series forecasting, Bayesian statistics, C++, ROOT, Linux/HPC (SLURM), Git
+
+Experience
+Data Scientist, Spree Energie GmbH (renewable energy utility)
+May 2023 – Present
+- Built day-ahead electricity demand forecasting (gradient boosting plus Prophet ensemble); MAPE fell from 7.8% to 4.9%, saving about €1.2M a year in balancing costs.
+- Wrote and own the PySpark feature pipelines on Databricks over five years of 15-minute smart-meter data (2.3 billion rows), scheduled as Airflow DAGs.
+- Ingest live meter readings from a Kafka topic into Delta Lake tables with Spark Structured Streaming for intraday forecast updates.
+- Built Tableau dashboards for grid operations and present forecast accuracy weekly to operations leads.
+
+Doctoral Researcher, Institute of Physics, Humboldt University of Berlin
+Oct 2018 – Mar 2023
+- Analysed 40 TB of collider detector data with C++/ROOT and Python on HPC clusters (SLURM).
+- Trained a neural-network classifier for signal and background separation that improved analysis sensitivity by 15%.
+- Taught undergraduate statistics lab sessions for three years.
+
+Education
+PhD Physics, Humboldt University of Berlin, 2023
+MSc Physics, Sofia University, 2018
+
+Projects
+- Kaggle: top 5% finish in a time-series forecasting competition (2022).

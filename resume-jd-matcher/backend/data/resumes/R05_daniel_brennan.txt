@@ -1,0 +1,35 @@
+Daniel Brennan
+daniel.brennan@example.com | +353-555-0131 | Dublin, Ireland
+Senior Site Reliability Engineer
+
+Profile
+Ten years in operations, eight of them in DevOps and SRE roles at payments and SaaS companies. I run k8s on AWS, write the Terraform behind it, and spend a lot of time making on-call less painful.
+
+Core Competencies
+AWS (EKS, EC2, VPC, IAM, RDS, MSK), k8s, Helm, Argo CD, Istio, Terraform, Terragrunt, Prometheus, Grafana, Loki, OpenTelemetry, PagerDuty, GitHub Actions, Python, Go, Bash
+
+Work Experience
+Senior Site Reliability Engineer, Liffey Payments
+Sep 2021 – Present
+- Run 14 production EKS clusters across three regions in a PCI-DSS environment; led zero-downtime upgrades from 1.24 to 1.30.
+- Rebuilt the AWS estate as reusable Terraform modules with OPA policy checks in CI; no more console changes in production.
+- Defined SLOs for 40 services and moved alerting to burn-rate alerts, cutting pages by 60%.
+- Incident commander for 30+ incidents; run blameless postmortems; MTTR fell from 75 to 28 minutes.
+- Wrote a Go Kubernetes operator that automates certificate rotation.
+
+DevOps Engineer, Greenfield SaaS
+2018 - 2021
+- Migrated the product from EC2 and Ansible to Kubernetes (kops, later EKS).
+- Replaced Jenkins with GitHub Actions pipelines; deploy time dropped from 40 to 8 minutes.
+- Introduced Prometheus and Grafana and wrote the first runbooks.
+
+Systems Administrator, Atlantic Hosting
+Jan 2016 – Jul 2018
+- Administered 300 Linux servers, automated patching with Bash and joined the 24/7 on-call rotation.
+
+Certifications
+Certified Kubernetes Administrator (CKA), 2020
+AWS Certified DevOps Engineer – Professional, 2022
+
+Education
+BSc Computer Science, Dublin City University, 2015

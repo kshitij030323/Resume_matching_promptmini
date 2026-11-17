@@ -1,0 +1,31 @@
+David Goldberg
+david.goldberg@example.com | +1-555-0140 | New York, NY
+Director of Machine Learning
+
+Summary
+Machine learning leader with 13 years of experience: eight hands-on building NLP systems, the last five leading ML organisations of up to 22 people. Today my work is strategy, hiring, roadmaps and cross-functional delivery rather than writing code.
+
+Core Competencies
+ML strategy and roadmapping, team building and hiring, NLP, LLMs, MLOps, AI governance, stakeholder management, budgeting, vendor evaluation, Agile delivery, Python, PyTorch
+
+Professional Experience
+Director of Machine Learning, Hudson Health Analytics
+Jan 2022 – Present
+- Lead three teams (ML engineering, data science and ML platform; 22 people) supporting clinical documentation products.
+- Set the strategy that brought LLM-based summarisation of clinical notes to market; secured a $4M budget and ran the vendor evaluation between hosted LLM APIs and self-hosted open-weight models.
+- Hired 14 engineers, introduced an ML career ladder and chaired the AI governance review board.
+- Report to the CTO and present the ML roadmap to the board every quarter.
+
+Staff ML Engineer / NLP Tech Lead, Talkwell Systems
+2017 - 2021
+- Built BERT-based intent classification and entity extraction pipelines in PyTorch for enterprise chatbots in six languages.
+- Deployed models as Docker services on Kubernetes with MLflow tracking; cut model release time from weeks to days.
+- Tech lead for four engineers from 2019, coding roughly half of my time.
+
+NLP Engineer, Lexica Software
+2013 - 2017
+- Built document classification and keyword extraction with word2vec, CRFs and scikit-learn for a legal e-discovery product.
+
+Education
+MS Computer Science, Stony Brook University, 2013
+BS Mathematics, Rutgers University, 2011

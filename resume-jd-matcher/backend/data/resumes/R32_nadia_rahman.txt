@@ -1,0 +1,30 @@
+Nadia Rahman
+nadia.rahman@example.com | +60-555-0212 | Kuala Lumpur, Malaysia
+Senior Machine Learning Engineer, Recommendations & Search
+
+Profile
+Machine learning engineer with eight years of experience, the last five building recommendation and search ranking systems for a marketplace with 20 million users. Strong on production ML: embeddings, approximate nearest-neighbour retrieval, feature stores and low-latency serving.
+
+Skills
+Python, PyTorch, TensorFlow, two-tower retrieval models, learning-to-rank, sentence-transformers, DistilBERT, FAISS, ScaNN, Feast, Spark, Airflow, Kafka, MLflow, Docker, Kubernetes, AWS SageMaker, Redis
+
+Experience
+Senior Machine Learning Engineer, Recommendations — Rantau Marketplace
+Jan 2022 – Present
+- Designed two-tower retrieval and ranking models in PyTorch for the home feed and similar-items carousels; +6.5% GMV in an A/B test across 4 million users.
+- Item embeddings combine image features with product-text embeddings from a sentence-transformer fine-tuned on Malay, English and Chinese listings.
+- Built a DistilBERT query-intent classifier that routes searches to category-specific rankers.
+- Serve ANN retrieval with GPU FAISS and features from Feast; online inference p99 40 ms.
+- Retraining pipelines run in Spark and Airflow with MLflow model registry and shadow deployments.
+- Prototyped LLM-generated product title rewrites through a hosted LLM API; offline evaluation only, not shipped.
+
+Machine Learning Engineer — Petaling Payments
+2019 - 2021
+- Built real-time fraud scoring (gradient boosting) fed by Kafka, cutting chargebacks by 23%.
+
+Data Scientist — Klang Valley Telco
+2018 - 2019
+- Built churn models and campaign uplift analyses for the retention team.
+
+Education
+MSc Computer Science, Universiti Malaya, 2018

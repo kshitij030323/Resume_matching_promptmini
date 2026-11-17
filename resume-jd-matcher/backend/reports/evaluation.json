@@ -1,0 +1,2467 @@
+{
+  "ndcg_at_5": {
+    "k": 5,
+    "n_candidates": 50,
+    "jobs": [
+      {
+        "id": "J01",
+        "title": "Senior Machine Learning Engineer, NLP & LLM Applications"
+      },
+      {
+        "id": "J02",
+        "title": "Data Analyst"
+      },
+      {
+        "id": "J03",
+        "title": "Backend Software Engineer"
+      },
+      {
+        "id": "J04",
+        "title": "React Native Mobile Developer"
+      },
+      {
+        "id": "J05",
+        "title": "Site Reliability Engineer (DevOps)"
+      },
+      {
+        "id": "J06",
+        "title": "Data Engineer"
+      }
+    ],
+    "results": [
+      {
+        "method": "bm25",
+        "label": "BM25 (lexical)",
+        "family": "lexical",
+        "representation": "structured",
+        "mean_ndcg": 0.955,
+        "mean_ndcg_10": 0.98,
+        "mean_precision": 1.0,
+        "per_job": {
+          "J01": 0.8952,
+          "J02": 0.925,
+          "J03": 1.0,
+          "J04": 1.0,
+          "J05": 0.9098,
+          "J06": 1.0
+        }
+      },
+      {
+        "method": "minilm",
+        "label": "MiniLM-L6 (contextual)",
+        "family": "contextual",
+        "representation": "structured",
+        "mean_ndcg": 0.9532,
+        "mean_ndcg_10": 0.9447,
+        "mean_precision": 1.0,
+        "per_job": {
+          "J01": 0.7668,
+          "J02": 1.0,
+          "J03": 1.0,
+          "J04": 1.0,
+          "J05": 0.9763,
+          "J06": 0.9763
+        }
+      },
+      {
+        "method": "glove_mean",
+        "label": "GloVe-100 (mean)",
+        "family": "static",
+        "representation": "structured",
+        "mean_ndcg": 0.9473,
+        "mean_ndcg_10": 0.9009,
+        "mean_precision": 0.9333,
+        "per_job": {
+          "J01": 0.9908,
+          "J02": 0.9031,
+          "J03": 0.9908,
+          "J04": 0.9908,
+          "J05": 0.849,
+          "J06": 0.9595
+        }
+      },
+      {
+        "method": "bge_small",
+        "label": "BGE-small (contextual)",
+        "family": "contextual",
+        "representation": "structured",
+        "mean_ndcg": 0.9282,
+        "mean_ndcg_10": 0.9451,
+        "mean_precision": 0.9667,
+        "per_job": {
+          "J01": 0.7371,
+          "J02": 0.925,
+          "J03": 0.9908,
+          "J04": 0.9908,
+          "J05": 0.9489,
+          "J06": 0.9763
+        }
+      },
+      {
+        "method": "hybrid",
+        "label": "Hybrid: BGE + skill coverage",
+        "family": "hybrid",
+        "representation": "structured",
+        "mean_ndcg": 0.9212,
+        "mean_ndcg_10": 0.9584,
+        "mean_precision": 0.9667,
+        "per_job": {
+          "J01": 0.805,
+          "J02": 1.0,
+          "J03": 0.9763,
+          "J04": 0.8692,
+          "J05": 0.8861,
+          "J06": 0.9908
+        }
+      },
+      {
+        "method": "bm25",
+        "label": "BM25 (lexical)",
+        "family": "lexical",
+        "representation": "raw",
+        "mean_ndcg": 0.921,
+        "mean_ndcg_10": 0.9674,
+        "mean_precision": 0.9667,
+        "per_job": {
+          "J01": 0.7645,
+          "J02": 0.9031,
+          "J03": 0.8678,
+          "J04": 0.9908,
+          "J05": 1.0,
+          "J06": 1.0
+        }
+      },
+      {
+        "method": "glove_sif",
+        "label": "GloVe-100 (SIF)",
+        "family": "static",
+        "representation": "structured",
+        "mean_ndcg": 0.9078,
+        "mean_ndcg_10": 0.9308,
+        "mean_precision": 0.9,
+        "per_job": {
+          "J01": 0.8409,
+          "J02": 0.8041,
+          "J03": 0.9763,
+          "J04": 0.9908,
+          "J05": 0.8345,
+          "J06": 1.0
+        }
+      },
+      {
+        "method": "hybrid",
+        "label": "Hybrid: BGE + skill coverage",
+        "family": "hybrid",
+        "representation": "raw",
+        "mean_ndcg": 0.8694,
+        "mean_ndcg_10": 0.9368,
+        "mean_precision": 0.9667,
+        "per_job": {
+          "J01": 0.805,
+          "J02": 0.9165,
+          "J03": 0.9763,
+          "J04": 0.7645,
+          "J05": 0.8678,
+          "J06": 0.8861
+        }
+      },
+      {
+        "method": "bge_small",
+        "label": "BGE-small (contextual)",
+        "family": "contextual",
+        "representation": "raw",
+        "mean_ndcg": 0.864,
+        "mean_ndcg_10": 0.9102,
+        "mean_precision": 0.9333,
+        "per_job": {
+          "J01": 0.7371,
+          "J02": 0.925,
+          "J03": 0.9763,
+          "J04": 0.7645,
+          "J05": 0.8952,
+          "J06": 0.8861
+        }
+      },
+      {
+        "method": "minilm",
+        "label": "MiniLM-L6 (contextual)",
+        "family": "contextual",
+        "representation": "raw",
+        "mean_ndcg": 0.854,
+        "mean_ndcg_10": 0.8961,
+        "mean_precision": 0.9333,
+        "per_job": {
+          "J01": 0.6597,
+          "J02": 0.925,
+          "J03": 0.8952,
+          "J04": 0.8273,
+          "J05": 0.8678,
+          "J06": 0.9489
+        }
+      },
+      {
+        "method": "rerank",
+        "label": "Two-stage rerank (experimental)",
+        "family": "hybrid",
+        "representation": "structured",
+        "mean_ndcg": 0.8273,
+        "mean_ndcg_10": 0.9054,
+        "mean_precision": 0.9333,
+        "per_job": {
+          "J01": 0.7115,
+          "J02": 0.8416,
+          "J03": 0.7813,
+          "J04": 0.7526,
+          "J05": 0.8861,
+          "J06": 0.9908
+        }
+      },
+      {
+        "method": "rerank",
+        "label": "Two-stage rerank (experimental)",
+        "family": "hybrid",
+        "representation": "raw",
+        "mean_ndcg": 0.8273,
+        "mean_ndcg_10": 0.9076,
+        "mean_precision": 0.9333,
+        "per_job": {
+          "J01": 0.7115,
+          "J02": 0.8416,
+          "J03": 0.7813,
+          "J04": 0.7526,
+          "J05": 0.8861,
+          "J06": 0.9908
+        }
+      },
+      {
+        "method": "glove_sif",
+        "label": "GloVe-100 (SIF)",
+        "family": "static",
+        "representation": "raw",
+        "mean_ndcg": 0.8154,
+        "mean_ndcg_10": 0.8564,
+        "mean_precision": 0.8333,
+        "per_job": {
+          "J01": 0.8647,
+          "J02": 0.9165,
+          "J03": 0.7136,
+          "J04": 0.8273,
+          "J05": 0.6249,
+          "J06": 0.9457
+        }
+      },
+      {
+        "method": "glove_mean",
+        "label": "GloVe-100 (mean)",
+        "family": "static",
+        "representation": "raw",
+        "mean_ndcg": 0.806,
+        "mean_ndcg_10": 0.8286,
+        "mean_precision": 0.7333,
+        "per_job": {
+          "J01": 0.8345,
+          "J02": 0.8875,
+          "J03": 0.6968,
+          "J04": 0.8135,
+          "J05": 0.644,
+          "J06": 0.9595
+        }
+      }
+    ],
+    "best": {
+      "method": "bm25",
+      "representation": "structured",
+      "mean_ndcg": 0.955
+    },
+    "static_vs_contextual": {
+      "static_best": 0.9473,
+      "static_method": "glove_mean",
+      "static_representation": "structured",
+      "contextual_best": 0.9532,
+      "contextual_method": "minilm",
+      "contextual_representation": "structured",
+      "delta": 0.0059,
+      "jobs_contextual_wins": 5,
+      "jobs_ties": 0,
+      "p_value_sign_flip": 0.7812
+    },
+    "static_vs_contextual_by_representation": {
+      "structured": {
+        "static_best": 0.9473,
+        "static_method": "glove_mean",
+        "contextual_best": 0.9532,
+        "contextual_method": "minilm",
+        "delta": 0.0059,
+        "jobs_contextual_wins": 5,
+        "p_value_sign_flip": 0.7812
+      },
+      "raw": {
+        "static_best": 0.8154,
+        "static_method": "glove_sif",
+        "contextual_best": 0.864,
+        "contextual_method": "bge_small",
+        "delta": 0.0486,
+        "jobs_contextual_wins": 3,
+        "p_value_sign_flip": 0.4688
+      }
+    },
+    "dense_methods_in_vector_db": [
+      "glove_mean",
+      "glove_sif",
+      "minilm",
+      "bge_small"
+    ],
+    "generated_at": "2026-11-15T17:51:20+00:00",
+    "top_k_rankings": {
+      "glove_mean|structured": {
+        "J01": [
+          {
+            "resume_id": "R25",
+            "grade": 3
+          },
+          {
+            "resume_id": "R01",
+            "grade": 3
+          },
+          {
+            "resume_id": "R08",
+            "grade": 3
+          },
+          {
+            "resume_id": "R32",
+            "grade": 2
+          },
+          {
+            "resume_id": "R33",
+            "grade": 3
+          }
+        ],
+        "J02": [
+          {
+            "resume_id": "R02",
+            "grade": 3
+          },
+          {
+            "resume_id": "R20",
+            "grade": 3
+          },
+          {
+            "resume_id": "R37",
+            "grade": 2
+          },
+          {
+            "resume_id": "R36",
+            "grade": 3
+          },
+          {
+            "resume_id": "R26",
+            "grade": 3
+          }
+        ],
+        "J03": [
+          {
+            "resume_id": "R10",
+            "grade": 3
+          },
+          {
+            "resume_id": "R03",
+            "grade": 3
+          },
+          {
+            "resume_id": "R16",
+            "grade": 3
+          },
+          {
+            "resume_id": "R41",
+            "grade": 2
+          },
+          {
+            "resume_id": "R39",
+            "grade": 3
+          }
+        ],
+        "J04": [
+          {
+            "resume_id": "R04",
+            "grade": 3
+          },
+          {
+            "resume_id": "R23",
+            "grade": 3
+          },
+          {
+            "resume_id": "R27",
+            "grade": 3
+          },
+          {
+            "resume_id": "R13",
+            "grade": 2
+          },
+          {
+            "resume_id": "R43",
+            "grade": 3
+          }
+        ],
+        "J05": [
+          {
+            "resume_id": "R47",
+            "grade": 3
+          },
+          {
+            "resume_id": "R18",
+            "grade": 3
+          },
+          {
+            "resume_id": "R05",
+            "grade": 3
+          },
+          {
+            "resume_id": "R46",
+            "grade": 2
+          },
+          {
+            "resume_id": "R07",
+            "grade": 0
+          }
+        ],
+        "J06": [
+          {
+            "resume_id": "R21",
+            "grade": 3
+          },
+          {
+            "resume_id": "R49",
+            "grade": 3
+          },
+          {
+            "resume_id": "R06",
+            "grade": 3
+          },
+          {
+            "resume_id": "R14",
+            "grade": 3
+          },
+          {
+            "resume_id": "R32",
+            "grade": 1
+          }
+        ]
+      },
+      "glove_mean|raw": {
+        "J01": [
+          {
+            "resume_id": "R25",
+            "grade": 3
+          },
+          {
+            "resume_id": "R01",
+            "grade": 3
+          },
+          {
+            "resume_id": "R32",
+            "grade": 2
+          },
+          {
+            "resume_id": "R33",
+            "grade": 3
+          },
+          {
+            "resume_id": "R07",
+            "grade": 0
+          }
+        ],
+        "J02": [
+          {
+            "resume_id": "R02",
+            "grade": 3
+          },
+          {
+            "resume_id": "R20",
+            "grade": 3
+          },
+          {
+            "resume_id": "R26",
+            "grade": 3
+          },
+          {
+            "resume_id": "R11",
+            "grade": 3
+          },
+          {
+            "resume_id": "R07",
+            "grade": 1
+          }
+        ],
+        "J03": [
+          {
+            "resume_id": "R03",
+            "grade": 3
+          },
+          {
+            "resume_id": "R10",
+            "grade": 3
+          },
+          {
+            "resume_id": "R41",
+            "grade": 2
+          },
+          {
+            "resume_id": "R07",
+            "grade": 0
+          },
+          {
+            "resume_id": "R14",
+            "grade": 1
+          }
+        ],
+        "J04": [
+          {
+            "resume_id": "R23",
+            "grade": 3
+          },
+          {
+            "resume_id": "R13",
+            "grade": 2
+          },
+          {
+            "resume_id": "R04",
+            "grade": 3
+          },
+          {
+            "resume_id": "R44",
+            "grade": 1
+          },
+          {
+            "resume_id": "R43",
+            "grade": 3
+          }
+        ],
+        "J05": [
+          {
+            "resume_id": "R47",
+            "grade": 3
+          },
+          {
+            "resume_id": "R10",
+            "grade": 2
+          },
+          {
+            "resume_id": "R49",
+            "grade": 0
+          },
+          {
+            "resume_id": "R18",
+            "grade": 3
+          },
+          {
+            "resume_id": "R03",
+            "grade": 1
+          }
+        ],
+        "J06": [
+          {
+            "resume_id": "R14",
+            "grade": 3
+          },
+          {
+            "resume_id": "R49",
+            "grade": 3
+          },
+          {
+            "resume_id": "R06",
+            "grade": 3
+          },
+          {
+            "resume_id": "R21",
+            "grade": 3
+          },
+          {
+            "resume_id": "R32",
+            "grade": 1
+          }
+        ]
+      },
+      "glove_sif|structured": {
+        "J01": [
+          {
+            "resume_id": "R25",
+            "grade": 3
+          },
+          {
+            "resume_id": "R33",
+            "grade": 3
+          },
+          {
+            "resume_id": "R19",
+            "grade": 2
+          },
+          {
+            "resume_id": "R31",
+            "grade": 1
+          },
+          {
+            "resume_id": "R01",
+            "grade": 3
+          }
+        ],
+        "J02": [
+          {
+            "resume_id": "R02",
+            "grade": 3
+          },
+          {
+            "resume_id": "R36",
+            "grade": 3
+          },
+          {
+            "resume_id": "R20",
+            "grade": 3
+          },
+          {
+            "resume_id": "R37",
+            "grade": 2
+          },
+          {
+            "resume_id": "R35",
+            "grade": 1
+          }
+        ],
+        "J03": [
+          {
+            "resume_id": "R10",
+            "grade": 3
+          },
+          {
+            "resume_id": "R03",
+            "grade": 3
+          },
+          {
+            "resume_id": "R41",
+            "grade": 2
+          },
+          {
+            "resume_id": "R16",
+            "grade": 3
+          },
+          {
+            "resume_id": "R39",
+            "grade": 3
+          }
+        ],
+        "J04": [
+          {
+            "resume_id": "R04",
+            "grade": 3
+          },
+          {
+            "resume_id": "R23",
+            "grade": 3
+          },
+          {
+            "resume_id": "R27",
+            "grade": 3
+          },
+          {
+            "resume_id": "R13",
+            "grade": 2
+          },
+          {
+            "resume_id": "R43",
+            "grade": 3
+          }
+        ],
+        "J05": [
+          {
+            "resume_id": "R47",
+            "grade": 3
+          },
+          {
+            "resume_id": "R05",
+            "grade": 3
+          },
+          {
+            "resume_id": "R46",
+            "grade": 2
+          },
+          {
+            "resume_id": "R18",
+            "grade": 3
+          },
+          {
+            "resume_id": "R39",
+            "grade": 0
+          }
+        ],
+        "J06": [
+          {
+            "resume_id": "R21",
+            "grade": 3
+          },
+          {
+            "resume_id": "R49",
+            "grade": 3
+          },
+          {
+            "resume_id": "R06",
+            "grade": 3
+          },
+          {
+            "resume_id": "R14",
+            "grade": 3
+          },
+          {
+            "resume_id": "R50",
+            "grade": 2
+          }
+        ]
+      },
+      "glove_sif|raw": {
+        "J01": [
+          {
+            "resume_id": "R25",
+            "grade": 3
+          },
+          {
+            "resume_id": "R33",
+            "grade": 3
+          },
+          {
+            "resume_id": "R01",
+            "grade": 3
+          },
+          {
+            "resume_id": "R31",
+            "grade": 1
+          },
+          {
+            "resume_id": "R19",
+            "grade": 2
+          }
+        ],
+        "J02": [
+          {
+            "resume_id": "R20",
+            "grade": 3
+          },
+          {
+            "resume_id": "R02",
+            "grade": 3
+          },
+          {
+            "resume_id": "R11",
+            "grade": 3
+          },
+          {
+            "resume_id": "R37",
+            "grade": 2
+          },
+          {
+            "resume_id": "R36",
+            "grade": 3
+          }
+        ],
+        "J03": [
+          {
+            "resume_id": "R41",
+            "grade": 2
+          },
+          {
+            "resume_id": "R03",
+            "grade": 3
+          },
+          {
+            "resume_id": "R10",
+            "grade": 3
+          },
+          {
+            "resume_id": "R07",
+            "grade": 0
+          },
+          {
+            "resume_id": "R39",
+            "grade": 3
+          }
+        ],
+        "J04": [
+          {
+            "resume_id": "R23",
+            "grade": 3
+          },
+          {
+            "resume_id": "R13",
+            "grade": 2
+          },
+          {
+            "resume_id": "R04",
+            "grade": 3
+          },
+          {
+            "resume_id": "R43",
+            "grade": 3
+          },
+          {
+            "resume_id": "R44",
+            "grade": 1
+          }
+        ],
+        "J05": [
+          {
+            "resume_id": "R46",
+            "grade": 2
+          },
+          {
+            "resume_id": "R47",
+            "grade": 3
+          },
+          {
+            "resume_id": "R10",
+            "grade": 2
+          },
+          {
+            "resume_id": "R18",
+            "grade": 3
+          },
+          {
+            "resume_id": "R49",
+            "grade": 0
+          }
+        ],
+        "J06": [
+          {
+            "resume_id": "R14",
+            "grade": 3
+          },
+          {
+            "resume_id": "R49",
+            "grade": 3
+          },
+          {
+            "resume_id": "R06",
+            "grade": 3
+          },
+          {
+            "resume_id": "R20",
+            "grade": 1
+          },
+          {
+            "resume_id": "R21",
+            "grade": 3
+          }
+        ]
+      },
+      "minilm|structured": {
+        "J01": [
+          {
+            "resume_id": "R19",
+            "grade": 2
+          },
+          {
+            "resume_id": "R01",
+            "grade": 3
+          },
+          {
+            "resume_id": "R12",
+            "grade": 2
+          },
+          {
+            "resume_id": "R25",
+            "grade": 3
+          },
+          {
+            "resume_id": "R08",
+            "grade": 3
+          }
+        ],
+        "J02": [
+          {
+            "resume_id": "R02",
+            "grade": 3
+          },
+          {
+            "resume_id": "R36",
+            "grade": 3
+          },
+          {
+            "resume_id": "R20",
+            "grade": 3
+          },
+          {
+            "resume_id": "R11",
+            "grade": 3
+          },
+          {
+            "resume_id": "R26",
+            "grade": 3
+          }
+        ],
+        "J03": [
+          {
+            "resume_id": "R03",
+            "grade": 3
+          },
+          {
+            "resume_id": "R39",
+            "grade": 3
+          },
+          {
+            "resume_id": "R10",
+            "grade": 3
+          },
+          {
+            "resume_id": "R16",
+            "grade": 3
+          },
+          {
+            "resume_id": "R41",
+            "grade": 2
+          }
+        ],
+        "J04": [
+          {
+            "resume_id": "R04",
+            "grade": 3
+          },
+          {
+            "resume_id": "R27",
+            "grade": 3
+          },
+          {
+            "resume_id": "R23",
+            "grade": 3
+          },
+          {
+            "resume_id": "R43",
+            "grade": 3
+          },
+          {
+            "resume_id": "R13",
+            "grade": 2
+          }
+        ],
+        "J05": [
+          {
+            "resume_id": "R05",
+            "grade": 3
+          },
+          {
+            "resume_id": "R29",
+            "grade": 3
+          },
+          {
+            "resume_id": "R46",
+            "grade": 2
+          },
+          {
+            "resume_id": "R18",
+            "grade": 3
+          },
+          {
+            "resume_id": "R47",
+            "grade": 3
+          }
+        ],
+        "J06": [
+          {
+            "resume_id": "R06",
+            "grade": 3
+          },
+          {
+            "resume_id": "R14",
+            "grade": 3
+          },
+          {
+            "resume_id": "R50",
+            "grade": 2
+          },
+          {
+            "resume_id": "R49",
+            "grade": 3
+          },
+          {
+            "resume_id": "R21",
+            "grade": 3
+          }
+        ]
+      },
+      "minilm|raw": {
+        "J01": [
+          {
+            "resume_id": "R19",
+            "grade": 2
+          },
+          {
+            "resume_id": "R01",
+            "grade": 3
+          },
+          {
+            "resume_id": "R25",
+            "grade": 3
+          },
+          {
+            "resume_id": "R12",
+            "grade": 2
+          },
+          {
+            "resume_id": "R34",
+            "grade": 1
+          }
+        ],
+        "J02": [
+          {
+            "resume_id": "R02",
+            "grade": 3
+          },
+          {
+            "resume_id": "R26",
+            "grade": 3
+          },
+          {
+            "resume_id": "R11",
+            "grade": 3
+          },
+          {
+            "resume_id": "R20",
+            "grade": 3
+          },
+          {
+            "resume_id": "R37",
+            "grade": 2
+          }
+        ],
+        "J03": [
+          {
+            "resume_id": "R10",
+            "grade": 3
+          },
+          {
+            "resume_id": "R03",
+            "grade": 3
+          },
+          {
+            "resume_id": "R41",
+            "grade": 2
+          },
+          {
+            "resume_id": "R16",
+            "grade": 3
+          },
+          {
+            "resume_id": "R18",
+            "grade": 2
+          }
+        ],
+        "J04": [
+          {
+            "resume_id": "R23",
+            "grade": 3
+          },
+          {
+            "resume_id": "R13",
+            "grade": 2
+          },
+          {
+            "resume_id": "R04",
+            "grade": 3
+          },
+          {
+            "resume_id": "R27",
+            "grade": 3
+          },
+          {
+            "resume_id": "R44",
+            "grade": 1
+          }
+        ],
+        "J05": [
+          {
+            "resume_id": "R05",
+            "grade": 3
+          },
+          {
+            "resume_id": "R46",
+            "grade": 2
+          },
+          {
+            "resume_id": "R18",
+            "grade": 3
+          },
+          {
+            "resume_id": "R29",
+            "grade": 3
+          },
+          {
+            "resume_id": "R30",
+            "grade": 2
+          }
+        ],
+        "J06": [
+          {
+            "resume_id": "R14",
+            "grade": 3
+          },
+          {
+            "resume_id": "R50",
+            "grade": 2
+          },
+          {
+            "resume_id": "R06",
+            "grade": 3
+          },
+          {
+            "resume_id": "R49",
+            "grade": 3
+          },
+          {
+            "resume_id": "R21",
+            "grade": 3
+          }
+        ]
+      },
+      "bge_small|structured": {
+        "J01": [
+          {
+            "resume_id": "R01",
+            "grade": 3
+          },
+          {
+            "resume_id": "R12",
+            "grade": 2
+          },
+          {
+            "resume_id": "R25",
+            "grade": 3
+          },
+          {
+            "resume_id": "R32",
+            "grade": 2
+          },
+          {
+            "resume_id": "R34",
+            "grade": 1
+          }
+        ],
+        "J02": [
+          {
+            "resume_id": "R02",
+            "grade": 3
+          },
+          {
+            "resume_id": "R11",
+            "grade": 3
+          },
+          {
+            "resume_id": "R36",
+            "grade": 3
+          },
+          {
+            "resume_id": "R20",
+            "grade": 3
+          },
+          {
+            "resume_id": "R09",
+            "grade": 2
+          }
+        ],
+        "J03": [
+          {
+            "resume_id": "R03",
+            "grade": 3
+          },
+          {
+            "resume_id": "R10",
+            "grade": 3
+          },
+          {
+            "resume_id": "R16",
+            "grade": 3
+          },
+          {
+            "resume_id": "R41",
+            "grade": 2
+          },
+          {
+            "resume_id": "R39",
+            "grade": 3
+          }
+        ],
+        "J04": [
+          {
+            "resume_id": "R04",
+            "grade": 3
+          },
+          {
+            "resume_id": "R23",
+            "grade": 3
+          },
+          {
+            "resume_id": "R27",
+            "grade": 3
+          },
+          {
+            "resume_id": "R13",
+            "grade": 2
+          },
+          {
+            "resume_id": "R43",
+            "grade": 3
+          }
+        ],
+        "J05": [
+          {
+            "resume_id": "R05",
+            "grade": 3
+          },
+          {
+            "resume_id": "R46",
+            "grade": 2
+          },
+          {
+            "resume_id": "R29",
+            "grade": 3
+          },
+          {
+            "resume_id": "R18",
+            "grade": 3
+          },
+          {
+            "resume_id": "R47",
+            "grade": 3
+          }
+        ],
+        "J06": [
+          {
+            "resume_id": "R06",
+            "grade": 3
+          },
+          {
+            "resume_id": "R14",
+            "grade": 3
+          },
+          {
+            "resume_id": "R50",
+            "grade": 2
+          },
+          {
+            "resume_id": "R21",
+            "grade": 3
+          },
+          {
+            "resume_id": "R49",
+            "grade": 3
+          }
+        ]
+      },
+      "bge_small|raw": {
+        "J01": [
+          {
+            "resume_id": "R01",
+            "grade": 3
+          },
+          {
+            "resume_id": "R12",
+            "grade": 2
+          },
+          {
+            "resume_id": "R25",
+            "grade": 3
+          },
+          {
+            "resume_id": "R19",
+            "grade": 2
+          },
+          {
+            "resume_id": "R34",
+            "grade": 1
+          }
+        ],
+        "J02": [
+          {
+            "resume_id": "R02",
+            "grade": 3
+          },
+          {
+            "resume_id": "R11",
+            "grade": 3
+          },
+          {
+            "resume_id": "R36",
+            "grade": 3
+          },
+          {
+            "resume_id": "R26",
+            "grade": 3
+          },
+          {
+            "resume_id": "R37",
+            "grade": 2
+          }
+        ],
+        "J03": [
+          {
+            "resume_id": "R03",
+            "grade": 3
+          },
+          {
+            "resume_id": "R10",
+            "grade": 3
+          },
+          {
+            "resume_id": "R41",
+            "grade": 2
+          },
+          {
+            "resume_id": "R16",
+            "grade": 3
+          },
+          {
+            "resume_id": "R39",
+            "grade": 3
+          }
+        ],
+        "J04": [
+          {
+            "resume_id": "R23",
+            "grade": 3
+          },
+          {
+            "resume_id": "R04",
+            "grade": 3
+          },
+          {
+            "resume_id": "R13",
+            "grade": 2
+          },
+          {
+            "resume_id": "R17",
+            "grade": 2
+          },
+          {
+            "resume_id": "R44",
+            "grade": 1
+          }
+        ],
+        "J05": [
+          {
+            "resume_id": "R05",
+            "grade": 3
+          },
+          {
+            "resume_id": "R47",
+            "grade": 3
+          },
+          {
+            "resume_id": "R46",
+            "grade": 2
+          },
+          {
+            "resume_id": "R29",
+            "grade": 3
+          },
+          {
+            "resume_id": "R10",
+            "grade": 2
+          }
+        ],
+        "J06": [
+          {
+            "resume_id": "R06",
+            "grade": 3
+          },
+          {
+            "resume_id": "R14",
+            "grade": 3
+          },
+          {
+            "resume_id": "R11",
+            "grade": 2
+          },
+          {
+            "resume_id": "R50",
+            "grade": 2
+          },
+          {
+            "resume_id": "R49",
+            "grade": 3
+          }
+        ]
+      },
+      "hybrid|structured": {
+        "J01": [
+          {
+            "resume_id": "R01",
+            "grade": 3
+          },
+          {
+            "resume_id": "R25",
+            "grade": 3
+          },
+          {
+            "resume_id": "R12",
+            "grade": 2
+          },
+          {
+            "resume_id": "R32",
+            "grade": 2
+          },
+          {
+            "resume_id": "R19",
+            "grade": 2
+          }
+        ],
+        "J02": [
+          {
+            "resume_id": "R02",
+            "grade": 3
+          },
+          {
+            "resume_id": "R11",
+            "grade": 3
+          },
+          {
+            "resume_id": "R20",
+            "grade": 3
+          },
+          {
+            "resume_id": "R36",
+            "grade": 3
+          },
+          {
+            "resume_id": "R26",
+            "grade": 3
+          }
+        ],
+        "J03": [
+          {
+            "resume_id": "R03",
+            "grade": 3
+          },
+          {
+            "resume_id": "R10",
+            "grade": 3
+          },
+          {
+            "resume_id": "R41",
+            "grade": 2
+          },
+          {
+            "resume_id": "R16",
+            "grade": 3
+          },
+          {
+            "resume_id": "R39",
+            "grade": 3
+          }
+        ],
+        "J04": [
+          {
+            "resume_id": "R23",
+            "grade": 3
+          },
+          {
+            "resume_id": "R04",
+            "grade": 3
+          },
+          {
+            "resume_id": "R27",
+            "grade": 3
+          },
+          {
+            "resume_id": "R13",
+            "grade": 2
+          },
+          {
+            "resume_id": "R44",
+            "grade": 1
+          }
+        ],
+        "J05": [
+          {
+            "resume_id": "R05",
+            "grade": 3
+          },
+          {
+            "resume_id": "R29",
+            "grade": 3
+          },
+          {
+            "resume_id": "R46",
+            "grade": 2
+          },
+          {
+            "resume_id": "R30",
+            "grade": 2
+          },
+          {
+            "resume_id": "R18",
+            "grade": 3
+          }
+        ],
+        "J06": [
+          {
+            "resume_id": "R06",
+            "grade": 3
+          },
+          {
+            "resume_id": "R14",
+            "grade": 3
+          },
+          {
+            "resume_id": "R21",
+            "grade": 3
+          },
+          {
+            "resume_id": "R50",
+            "grade": 2
+          },
+          {
+            "resume_id": "R49",
+            "grade": 3
+          }
+        ]
+      },
+      "hybrid|raw": {
+        "J01": [
+          {
+            "resume_id": "R01",
+            "grade": 3
+          },
+          {
+            "resume_id": "R25",
+            "grade": 3
+          },
+          {
+            "resume_id": "R19",
+            "grade": 2
+          },
+          {
+            "resume_id": "R12",
+            "grade": 2
+          },
+          {
+            "resume_id": "R32",
+            "grade": 2
+          }
+        ],
+        "J02": [
+          {
+            "resume_id": "R02",
+            "grade": 3
+          },
+          {
+            "resume_id": "R11",
+            "grade": 3
+          },
+          {
+            "resume_id": "R20",
+            "grade": 3
+          },
+          {
+            "resume_id": "R37",
+            "grade": 2
+          },
+          {
+            "resume_id": "R36",
+            "grade": 3
+          }
+        ],
+        "J03": [
+          {
+            "resume_id": "R03",
+            "grade": 3
+          },
+          {
+            "resume_id": "R10",
+            "grade": 3
+          },
+          {
+            "resume_id": "R41",
+            "grade": 2
+          },
+          {
+            "resume_id": "R16",
+            "grade": 3
+          },
+          {
+            "resume_id": "R39",
+            "grade": 3
+          }
+        ],
+        "J04": [
+          {
+            "resume_id": "R23",
+            "grade": 3
+          },
+          {
+            "resume_id": "R04",
+            "grade": 3
+          },
+          {
+            "resume_id": "R17",
+            "grade": 2
+          },
+          {
+            "resume_id": "R13",
+            "grade": 2
+          },
+          {
+            "resume_id": "R44",
+            "grade": 1
+          }
+        ],
+        "J05": [
+          {
+            "resume_id": "R05",
+            "grade": 3
+          },
+          {
+            "resume_id": "R46",
+            "grade": 2
+          },
+          {
+            "resume_id": "R29",
+            "grade": 3
+          },
+          {
+            "resume_id": "R47",
+            "grade": 3
+          },
+          {
+            "resume_id": "R30",
+            "grade": 2
+          }
+        ],
+        "J06": [
+          {
+            "resume_id": "R06",
+            "grade": 3
+          },
+          {
+            "resume_id": "R14",
+            "grade": 3
+          },
+          {
+            "resume_id": "R50",
+            "grade": 2
+          },
+          {
+            "resume_id": "R11",
+            "grade": 2
+          },
+          {
+            "resume_id": "R21",
+            "grade": 3
+          }
+        ]
+      },
+      "rerank|structured": {
+        "J01": [
+          {
+            "resume_id": "R01",
+            "grade": 3
+          },
+          {
+            "resume_id": "R31",
+            "grade": 1
+          },
+          {
+            "resume_id": "R25",
+            "grade": 3
+          },
+          {
+            "resume_id": "R19",
+            "grade": 2
+          },
+          {
+            "resume_id": "R32",
+            "grade": 2
+          }
+        ],
+        "J02": [
+          {
+            "resume_id": "R02",
+            "grade": 3
+          },
+          {
+            "resume_id": "R20",
+            "grade": 3
+          },
+          {
+            "resume_id": "R11",
+            "grade": 3
+          },
+          {
+            "resume_id": "R37",
+            "grade": 2
+          },
+          {
+            "resume_id": "R15",
+            "grade": 2
+          }
+        ],
+        "J03": [
+          {
+            "resume_id": "R41",
+            "grade": 2
+          },
+          {
+            "resume_id": "R03",
+            "grade": 3
+          },
+          {
+            "resume_id": "R10",
+            "grade": 3
+          },
+          {
+            "resume_id": "R24",
+            "grade": 2
+          },
+          {
+            "resume_id": "R16",
+            "grade": 3
+          }
+        ],
+        "J04": [
+          {
+            "resume_id": "R23",
+            "grade": 3
+          },
+          {
+            "resume_id": "R04",
+            "grade": 3
+          },
+          {
+            "resume_id": "R44",
+            "grade": 1
+          },
+          {
+            "resume_id": "R17",
+            "grade": 2
+          },
+          {
+            "resume_id": "R42",
+            "grade": 2
+          }
+        ],
+        "J05": [
+          {
+            "resume_id": "R29",
+            "grade": 3
+          },
+          {
+            "resume_id": "R05",
+            "grade": 3
+          },
+          {
+            "resume_id": "R46",
+            "grade": 2
+          },
+          {
+            "resume_id": "R30",
+            "grade": 2
+          },
+          {
+            "resume_id": "R18",
+            "grade": 3
+          }
+        ],
+        "J06": [
+          {
+            "resume_id": "R06",
+            "grade": 3
+          },
+          {
+            "resume_id": "R21",
+            "grade": 3
+          },
+          {
+            "resume_id": "R14",
+            "grade": 3
+          },
+          {
+            "resume_id": "R28",
+            "grade": 2
+          },
+          {
+            "resume_id": "R49",
+            "grade": 3
+          }
+        ]
+      },
+      "rerank|raw": {
+        "J01": [
+          {
+            "resume_id": "R01",
+            "grade": 3
+          },
+          {
+            "resume_id": "R31",
+            "grade": 1
+          },
+          {
+            "resume_id": "R25",
+            "grade": 3
+          },
+          {
+            "resume_id": "R19",
+            "grade": 2
+          },
+          {
+            "resume_id": "R32",
+            "grade": 2
+          }
+        ],
+        "J02": [
+          {
+            "resume_id": "R02",
+            "grade": 3
+          },
+          {
+            "resume_id": "R20",
+            "grade": 3
+          },
+          {
+            "resume_id": "R11",
+            "grade": 3
+          },
+          {
+            "resume_id": "R37",
+            "grade": 2
+          },
+          {
+            "resume_id": "R15",
+            "grade": 2
+          }
+        ],
+        "J03": [
+          {
+            "resume_id": "R41",
+            "grade": 2
+          },
+          {
+            "resume_id": "R03",
+            "grade": 3
+          },
+          {
+            "resume_id": "R10",
+            "grade": 3
+          },
+          {
+            "resume_id": "R24",
+            "grade": 2
+          },
+          {
+            "resume_id": "R16",
+            "grade": 3
+          }
+        ],
+        "J04": [
+          {
+            "resume_id": "R23",
+            "grade": 3
+          },
+          {
+            "resume_id": "R04",
+            "grade": 3
+          },
+          {
+            "resume_id": "R44",
+            "grade": 1
+          },
+          {
+            "resume_id": "R17",
+            "grade": 2
+          },
+          {
+            "resume_id": "R42",
+            "grade": 2
+          }
+        ],
+        "J05": [
+          {
+            "resume_id": "R29",
+            "grade": 3
+          },
+          {
+            "resume_id": "R05",
+            "grade": 3
+          },
+          {
+            "resume_id": "R46",
+            "grade": 2
+          },
+          {
+            "resume_id": "R30",
+            "grade": 2
+          },
+          {
+            "resume_id": "R18",
+            "grade": 3
+          }
+        ],
+        "J06": [
+          {
+            "resume_id": "R06",
+            "grade": 3
+          },
+          {
+            "resume_id": "R21",
+            "grade": 3
+          },
+          {
+            "resume_id": "R14",
+            "grade": 3
+          },
+          {
+            "resume_id": "R28",
+            "grade": 2
+          },
+          {
+            "resume_id": "R49",
+            "grade": 3
+          }
+        ]
+      },
+      "bm25|structured": {
+        "J01": [
+          {
+            "resume_id": "R01",
+            "grade": 3
+          },
+          {
+            "resume_id": "R25",
+            "grade": 3
+          },
+          {
+            "resume_id": "R19",
+            "grade": 2
+          },
+          {
+            "resume_id": "R08",
+            "grade": 3
+          },
+          {
+            "resume_id": "R12",
+            "grade": 2
+          }
+        ],
+        "J02": [
+          {
+            "resume_id": "R02",
+            "grade": 3
+          },
+          {
+            "resume_id": "R36",
+            "grade": 3
+          },
+          {
+            "resume_id": "R20",
+            "grade": 3
+          },
+          {
+            "resume_id": "R11",
+            "grade": 3
+          },
+          {
+            "resume_id": "R09",
+            "grade": 2
+          }
+        ],
+        "J03": [
+          {
+            "resume_id": "R03",
+            "grade": 3
+          },
+          {
+            "resume_id": "R16",
+            "grade": 3
+          },
+          {
+            "resume_id": "R39",
+            "grade": 3
+          },
+          {
+            "resume_id": "R10",
+            "grade": 3
+          },
+          {
+            "resume_id": "R41",
+            "grade": 2
+          }
+        ],
+        "J04": [
+          {
+            "resume_id": "R43",
+            "grade": 3
+          },
+          {
+            "resume_id": "R04",
+            "grade": 3
+          },
+          {
+            "resume_id": "R27",
+            "grade": 3
+          },
+          {
+            "resume_id": "R23",
+            "grade": 3
+          },
+          {
+            "resume_id": "R13",
+            "grade": 2
+          }
+        ],
+        "J05": [
+          {
+            "resume_id": "R18",
+            "grade": 3
+          },
+          {
+            "resume_id": "R05",
+            "grade": 3
+          },
+          {
+            "resume_id": "R47",
+            "grade": 3
+          },
+          {
+            "resume_id": "R30",
+            "grade": 2
+          },
+          {
+            "resume_id": "R46",
+            "grade": 2
+          }
+        ],
+        "J06": [
+          {
+            "resume_id": "R49",
+            "grade": 3
+          },
+          {
+            "resume_id": "R14",
+            "grade": 3
+          },
+          {
+            "resume_id": "R06",
+            "grade": 3
+          },
+          {
+            "resume_id": "R21",
+            "grade": 3
+          },
+          {
+            "resume_id": "R50",
+            "grade": 2
+          }
+        ]
+      },
+      "bm25|raw": {
+        "J01": [
+          {
+            "resume_id": "R01",
+            "grade": 3
+          },
+          {
+            "resume_id": "R25",
+            "grade": 3
+          },
+          {
+            "resume_id": "R12",
+            "grade": 2
+          },
+          {
+            "resume_id": "R19",
+            "grade": 2
+          },
+          {
+            "resume_id": "R34",
+            "grade": 1
+          }
+        ],
+        "J02": [
+          {
+            "resume_id": "R02",
+            "grade": 3
+          },
+          {
+            "resume_id": "R36",
+            "grade": 3
+          },
+          {
+            "resume_id": "R09",
+            "grade": 2
+          },
+          {
+            "resume_id": "R20",
+            "grade": 3
+          },
+          {
+            "resume_id": "R11",
+            "grade": 3
+          }
+        ],
+        "J03": [
+          {
+            "resume_id": "R03",
+            "grade": 3
+          },
+          {
+            "resume_id": "R41",
+            "grade": 2
+          },
+          {
+            "resume_id": "R16",
+            "grade": 3
+          },
+          {
+            "resume_id": "R10",
+            "grade": 3
+          },
+          {
+            "resume_id": "R18",
+            "grade": 2
+          }
+        ],
+        "J04": [
+          {
+            "resume_id": "R23",
+            "grade": 3
+          },
+          {
+            "resume_id": "R43",
+            "grade": 3
+          },
+          {
+            "resume_id": "R04",
+            "grade": 3
+          },
+          {
+            "resume_id": "R13",
+            "grade": 2
+          },
+          {
+            "resume_id": "R27",
+            "grade": 3
+          }
+        ],
+        "J05": [
+          {
+            "resume_id": "R05",
+            "grade": 3
+          },
+          {
+            "resume_id": "R47",
+            "grade": 3
+          },
+          {
+            "resume_id": "R29",
+            "grade": 3
+          },
+          {
+            "resume_id": "R18",
+            "grade": 3
+          },
+          {
+            "resume_id": "R30",
+            "grade": 2
+          }
+        ],
+        "J06": [
+          {
+            "resume_id": "R14",
+            "grade": 3
+          },
+          {
+            "resume_id": "R06",
+            "grade": 3
+          },
+          {
+            "resume_id": "R49",
+            "grade": 3
+          },
+          {
+            "resume_id": "R21",
+            "grade": 3
+          },
+          {
+            "resume_id": "R50",
+            "grade": 2
+          }
+        ]
+      }
+    }
+  },
+  "ndcg_at_10_summary": [
+    {
+      "method": "bm25",
+      "label": "BM25 (lexical)",
+      "family": "lexical",
+      "representation": "structured",
+      "mean_ndcg": 0.98,
+      "mean_ndcg_10": 0.98,
+      "mean_precision": 0.7333,
+      "per_job": {
+        "J01": 0.9683,
+        "J02": 0.9697,
+        "J03": 0.9857,
+        "J04": 0.9984,
+        "J05": 0.9712,
+        "J06": 0.9869
+      }
+    },
+    {
+      "method": "bm25",
+      "label": "BM25 (lexical)",
+      "family": "lexical",
+      "representation": "raw",
+      "mean_ndcg": 0.9674,
+      "mean_ndcg_10": 0.9674,
+      "mean_precision": 0.7333,
+      "per_job": {
+        "J01": 0.9489,
+        "J02": 0.9505,
+        "J03": 0.9473,
+        "J04": 0.979,
+        "J05": 0.9864,
+        "J06": 0.9923
+      }
+    },
+    {
+      "method": "hybrid",
+      "label": "Hybrid: BGE + skill coverage",
+      "family": "hybrid",
+      "representation": "structured",
+      "mean_ndcg": 0.9584,
+      "mean_ndcg_10": 0.9584,
+      "mean_precision": 0.7333,
+      "per_job": {
+        "J01": 0.9406,
+        "J02": 0.9736,
+        "J03": 0.9385,
+        "J04": 0.9664,
+        "J05": 0.9529,
+        "J06": 0.9784
+      }
+    },
+    {
+      "method": "bge_small",
+      "label": "BGE-small (contextual)",
+      "family": "contextual",
+      "representation": "structured",
+      "mean_ndcg": 0.9451,
+      "mean_ndcg_10": 0.9451,
+      "mean_precision": 0.7167,
+      "per_job": {
+        "J01": 0.9188,
+        "J02": 0.9312,
+        "J03": 0.951,
+        "J04": 0.9753,
+        "J05": 0.929,
+        "J06": 0.9652
+      }
+    },
+    {
+      "method": "minilm",
+      "label": "MiniLM-L6 (contextual)",
+      "family": "contextual",
+      "representation": "structured",
+      "mean_ndcg": 0.9447,
+      "mean_ndcg_10": 0.9447,
+      "mean_precision": 0.7167,
+      "per_job": {
+        "J01": 0.852,
+        "J02": 0.9332,
+        "J03": 0.996,
+        "J04": 0.9832,
+        "J05": 0.9652,
+        "J06": 0.9385
+      }
+    },
+    {
+      "method": "hybrid",
+      "label": "Hybrid: BGE + skill coverage",
+      "family": "hybrid",
+      "representation": "raw",
+      "mean_ndcg": 0.9368,
+      "mean_ndcg_10": 0.9368,
+      "mean_precision": 0.7167,
+      "per_job": {
+        "J01": 0.9385,
+        "J02": 0.9626,
+        "J03": 0.9205,
+        "J04": 0.9329,
+        "J05": 0.9281,
+        "J06": 0.9381
+      }
+    },
+    {
+      "method": "glove_sif",
+      "label": "GloVe-100 (SIF)",
+      "family": "static",
+      "representation": "structured",
+      "mean_ndcg": 0.9308,
+      "mean_ndcg_10": 0.9308,
+      "mean_precision": 0.6667,
+      "per_job": {
+        "J01": 0.925,
+        "J02": 0.8985,
+        "J03": 0.935,
+        "J04": 0.9884,
+        "J05": 0.8546,
+        "J06": 0.9832
+      }
+    },
+    {
+      "method": "bge_small",
+      "label": "BGE-small (contextual)",
+      "family": "contextual",
+      "representation": "raw",
+      "mean_ndcg": 0.9102,
+      "mean_ndcg_10": 0.9102,
+      "mean_precision": 0.6833,
+      "per_job": {
+        "J01": 0.9188,
+        "J02": 0.9333,
+        "J03": 0.9138,
+        "J04": 0.9354,
+        "J05": 0.8373,
+        "J06": 0.9225
+      }
+    },
+    {
+      "method": "rerank",
+      "label": "Two-stage rerank (experimental)",
+      "family": "hybrid",
+      "representation": "raw",
+      "mean_ndcg": 0.9076,
+      "mean_ndcg_10": 0.9076,
+      "mean_precision": 0.7167,
+      "per_job": {
+        "J01": 0.8002,
+        "J02": 0.9486,
+        "J03": 0.8474,
+        "J04": 0.9265,
+        "J05": 0.9523,
+        "J06": 0.9709
+      }
+    },
+    {
+      "method": "rerank",
+      "label": "Two-stage rerank (experimental)",
+      "family": "hybrid",
+      "representation": "structured",
+      "mean_ndcg": 0.9054,
+      "mean_ndcg_10": 0.9054,
+      "mean_precision": 0.7167,
+      "per_job": {
+        "J01": 0.8002,
+        "J02": 0.9486,
+        "J03": 0.847,
+        "J04": 0.9265,
+        "J05": 0.9392,
+        "J06": 0.9709
+      }
+    },
+    {
+      "method": "glove_mean",
+      "label": "GloVe-100 (mean)",
+      "family": "static",
+      "representation": "structured",
+      "mean_ndcg": 0.9009,
+      "mean_ndcg_10": 0.9009,
+      "mean_precision": 0.6167,
+      "per_job": {
+        "J01": 0.933,
+        "J02": 0.8883,
+        "J03": 0.9208,
+        "J04": 0.9884,
+        "J05": 0.7966,
+        "J06": 0.8786
+      }
+    },
+    {
+      "method": "minilm",
+      "label": "MiniLM-L6 (contextual)",
+      "family": "contextual",
+      "representation": "raw",
+      "mean_ndcg": 0.8961,
+      "mean_ndcg_10": 0.8961,
+      "mean_precision": 0.6833,
+      "per_job": {
+        "J01": 0.7506,
+        "J02": 0.9418,
+        "J03": 0.917,
+        "J04": 0.9437,
+        "J05": 0.913,
+        "J06": 0.9103
+      }
+    },
+    {
+      "method": "glove_sif",
+      "label": "GloVe-100 (SIF)",
+      "family": "static",
+      "representation": "raw",
+      "mean_ndcg": 0.8564,
+      "mean_ndcg_10": 0.8564,
+      "mean_precision": 0.6167,
+      "per_job": {
+        "J01": 0.9217,
+        "J02": 0.9248,
+        "J03": 0.6479,
+        "J04": 0.9437,
+        "J05": 0.7605,
+        "J06": 0.9399
+      }
+    },
+    {
+      "method": "glove_mean",
+      "label": "GloVe-100 (mean)",
+      "family": "static",
+      "representation": "raw",
+      "mean_ndcg": 0.8286,
+      "mean_ndcg_10": 0.8286,
+      "mean_precision": 0.5667,
+      "per_job": {
+        "J01": 0.8691,
+        "J02": 0.9381,
+        "J03": 0.7258,
+        "J04": 0.9187,
+        "J05": 0.5981,
+        "J06": 0.9216
+      }
+    }
+  ],
+  "glove_oov": {
+    "mean_token_oov_rate": 0.0616,
+    "taxonomy_skills_not_in_glove": [
+      "C#",
+      "LLMs",
+      "PyTorch",
+      "TensorFlow",
+      "scikit-learn",
+      "XGBoost",
+      "NLTK",
+      "LangChain",
+      "MLOps",
+      "MLflow",
+      "Kubeflow",
+      "SageMaker",
+      "Dagster",
+      "BigQuery",
+      "Databricks",
+      "Metabase",
+      "Redis",
+      "DynamoDB",
+      "Elasticsearch",
+      "Kubernetes",
+      "Grafana",
+      "Microservices",
+      "Serverless",
+      "gRPC",
+      "GraphQL",
+      "FastAPI",
+      "Vue.js",
+      "Webpack"
+    ]
+  }
+}
